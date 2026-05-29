@@ -76,3 +76,40 @@ reports/legality_report.md
 - `weapon_restriction_status`
 - `trigger_condition_status`
 - `scaling_conflict_status`
+
+## Survivability Engine MVP
+
+현재 survivability 단계는 정확한 EHP 계산이 아니라, 기존 빌드 상호작용/DPS/legality 결과를 기반으로 한 **상대 생존력 추정치**를 생성합니다.
+실제 생명력, ES, 방어도, 회피, 막기, 저항, 회복량 데이터가 없는 경우 가짜 수치를 만들지 않고 `missing_data`에 표시합니다.
+
+```bash
+python scripts/estimate_survivability.py
+```
+
+입력:
+
+```text
+data/meta/build_interaction_analysis.json
+data/meta/build_dps_estimates.json
+data/meta/build_legality_analysis.json  # 있으면 함께 사용
+```
+
+출력:
+
+```text
+data/meta/build_survivability_estimates.json
+reports/survivability_report.md
+```
+
+포함 지표:
+
+- `survivability_score`
+- `ehp_score`
+- `recovery_score`
+- `mitigation_score`
+- `avoidance_score`
+- `sustain_score`
+- `defensive_factors`
+- `weaknesses`
+- `missing_data`
+- 한국어 `explanation`
