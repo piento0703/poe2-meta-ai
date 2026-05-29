@@ -113,3 +113,36 @@ reports/survivability_report.md
 - `weaknesses`
 - `missing_data`
 - 한국어 `explanation`
+
+## Final Build Ranking and Guide Generator
+
+최종 랭킹 단계는 interaction, DPS, legality, survivability MVP 결과를 결합해 최종 빌드 후보와 한국어 가이드 초안을 생성합니다.
+레벨링, 패시브 진행, 기어 진행은 아직 실제 플래너가 없으므로 TODO 섹션으로만 표시합니다.
+
+```bash
+python scripts/generate_final_ranked_builds.py
+```
+
+입력:
+
+```text
+data/meta/build_interaction_analysis.json
+data/meta/build_dps_estimates.json
+data/meta/build_legality_analysis.json
+data/meta/build_survivability_estimates.json
+```
+
+출력:
+
+```text
+data/meta/final_ranked_builds.json
+reports/final_build_guides.md
+```
+
+랭킹 공식:
+
+```text
+DPS 40% + interaction 20% + legality 20% + survivability 20%
+```
+
+점수가 누락된 경우 해당 항목은 제외하고 남은 가중치만 안전하게 정규화합니다.
