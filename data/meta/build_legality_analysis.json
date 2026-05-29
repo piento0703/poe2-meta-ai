@@ -27305,7 +27305,7 @@
     "archetype_label_ko": "투사체 발동 번개 연쇄",
     "is_legal": false,
     "legality_score": 57,
-    "decision_basis": "plausible_with_missing_data",
+    "decision_basis": "rejected_with_missing_data",
     "violations": [],
     "warnings": [
       {
@@ -27739,7 +27739,7 @@
     "archetype_label_ko": "투사체 발동 번개 냉기",
     "is_legal": false,
     "legality_score": 57,
-    "decision_basis": "plausible_with_missing_data",
+    "decision_basis": "rejected_with_missing_data",
     "violations": [],
     "warnings": [
       {
@@ -28169,7 +28169,7 @@
     "archetype_label_ko": "투사체 발동 번개 연쇄",
     "is_legal": false,
     "legality_score": 57,
-    "decision_basis": "plausible_with_missing_data",
+    "decision_basis": "rejected_with_missing_data",
     "violations": [],
     "warnings": [
       {
@@ -28615,7 +28615,7 @@
     "archetype_label_ko": "투사체 발동 번개 연쇄",
     "is_legal": false,
     "legality_score": 57,
-    "decision_basis": "plausible_with_missing_data",
+    "decision_basis": "rejected_with_missing_data",
     "violations": [],
     "warnings": [
       {
@@ -29059,7 +29059,7 @@
     "archetype_label_ko": "투사체 발동 번개 연쇄",
     "is_legal": false,
     "legality_score": 57,
-    "decision_basis": "plausible_with_missing_data",
+    "decision_basis": "rejected_with_missing_data",
     "violations": [],
     "warnings": [
       {
@@ -29494,7 +29494,7 @@
     "archetype_label_ko": "투사체 발동 번개 냉기",
     "is_legal": false,
     "legality_score": 57,
-    "decision_basis": "plausible_with_missing_data",
+    "decision_basis": "rejected_with_missing_data",
     "violations": [],
     "warnings": [
       {
@@ -29918,7 +29918,7 @@
     "archetype_label_ko": "투사체 발동 번개 냉기",
     "is_legal": false,
     "legality_score": 57,
-    "decision_basis": "plausible_with_missing_data",
+    "decision_basis": "rejected_with_missing_data",
     "violations": [],
     "warnings": [
       {
@@ -30342,7 +30342,7 @@
     "archetype_label_ko": "투사체 발동 번개 연쇄",
     "is_legal": false,
     "legality_score": 57,
-    "decision_basis": "plausible_with_missing_data",
+    "decision_basis": "rejected_with_missing_data",
     "violations": [],
     "warnings": [
       {
@@ -30776,7 +30776,7 @@
     "archetype_label_ko": "투사체 발동 번개 연쇄",
     "is_legal": false,
     "legality_score": 57,
-    "decision_basis": "plausible_with_missing_data",
+    "decision_basis": "rejected_with_missing_data",
     "violations": [],
     "warnings": [
       {
@@ -31209,7 +31209,7 @@
     "archetype_label_ko": "투사체 번개 연쇄 효과 범위",
     "is_legal": false,
     "legality_score": 57,
-    "decision_basis": "plausible_with_missing_data",
+    "decision_basis": "rejected_with_missing_data",
     "violations": [],
     "warnings": [
       {
@@ -31597,7 +31597,7 @@
     "archetype_label_ko": "투사체 번개 연쇄 효과 범위",
     "is_legal": false,
     "legality_score": 57,
-    "decision_basis": "plausible_with_missing_data",
+    "decision_basis": "rejected_with_missing_data",
     "violations": [],
     "warnings": [
       {
@@ -31984,7 +31984,7 @@
     "archetype_label_ko": "투사체 연쇄 효과 범위 소환수",
     "is_legal": false,
     "legality_score": 57,
-    "decision_basis": "plausible_with_missing_data",
+    "decision_basis": "rejected_with_missing_data",
     "violations": [],
     "warnings": [
       {
@@ -32370,7 +32370,7 @@
     "archetype_label_ko": "투사체 번개 연쇄 효과 범위",
     "is_legal": false,
     "legality_score": 57,
-    "decision_basis": "plausible_with_missing_data",
+    "decision_basis": "rejected_with_missing_data",
     "violations": [],
     "warnings": [
       {
@@ -32767,7 +32767,7 @@
     "archetype_label_ko": "투사체 번개 연쇄 효과 범위",
     "is_legal": false,
     "legality_score": 57,
-    "decision_basis": "plausible_with_missing_data",
+    "decision_basis": "rejected_with_missing_data",
     "violations": [],
     "warnings": [
       {
@@ -33151,7 +33151,7 @@
     "archetype_label_ko": "투사체 연쇄 소환수 번개",
     "is_legal": false,
     "legality_score": 57,
-    "decision_basis": "plausible_with_missing_data",
+    "decision_basis": "rejected_with_missing_data",
     "violations": [],
     "warnings": [
       {
@@ -33536,7 +33536,7 @@
     "archetype_label_ko": "투사체 연쇄 소환수 번개",
     "is_legal": false,
     "legality_score": 57,
-    "decision_basis": "plausible_with_missing_data",
+    "decision_basis": "rejected_with_missing_data",
     "violations": [],
     "warnings": [
       {

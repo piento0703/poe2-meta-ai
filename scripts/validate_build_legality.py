@@ -428,10 +428,14 @@ def analyze_build(build, support_index, skill_index):
     legality_score = max(0, min(100, 100 - total_penalty))
     is_legal = not violations and legality_score >= 60
 
-    if missing_data and not violations:
+    if is_legal and missing_data:
         decision_basis = "plausible_with_missing_data"
+    elif not is_legal and missing_data:
+        decision_basis = "rejected_with_missing_data"
     elif violations:
         decision_basis = "violations_detected"
+    elif not is_legal:
+        decision_basis = "rejected_by_available_heuristics"
     else:
         decision_basis = "passed_available_heuristics"
 
