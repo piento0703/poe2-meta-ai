@@ -1,0 +1,4145 @@
+:root {
+    --bs-body-bg: #1a1a1b;
+    --bs-body-bg: transparent;
+    --unique-color: #af6025;
+    --divination-color: #0ebaff;
+    --prophecy-color: #b54bff;
+    --quest-color: #4ae63a;
+    --currency-color: #aa9e82;
+    --gem-color: #1ba29b;
+    --cold-color: #366492;
+    --afflictionmod-color: #16191c;
+    --heist-color: #191e19;
+    --lightning-color: #ffd700;
+    --magic-color: #8888ff;
+    --rare-color: #ffff77;
+    --green-color: #46a239;
+    --chaos-color: #d02090;
+    --fire-color: #960000;
+    --title-color: #e7b478;
+    --legacy-color: #d4913f;
+    --normal-color: #c8c8c8;
+    --corrupted-color: #d20000;
+    --scourged-color: #ff6e25;
+    --default-color: #7f7f7f;
+    --fractured-color: #a29162;
+    --crafted-color: #b4b4ff;
+    --dark-color: #0f0f0f;
+    --craftaffectwarning-color: #ebc850;
+
+    --coolgrey-700: 209, 18%, 30%;
+    --yellow-300: 50, 98%, 64%;
+}
+
+/* fix transparent bg */
+.dropdown-menu,
+.dropdown-item,
+select option,
+.select2-results__options,
+.select2-container--bootstrap-5 .select2-dropdown,
+kbd {
+    background-color: #222;
+}
+
+.tippy-box {
+    font-size: initial;
+}
+.tippy-content {
+    padding: 0;
+}
+
+body2 {
+    background-image: url(https://imgur.com/SkIwSiz.jpg);
+    /*background-repeat: repeat;
+    background-size: contain;*/
+    height: 100%;
+    width: 100%;
+    /*background-position-y: 70px;*/
+}
+
+.background-image {
+    position: fixed;
+    left: 0;
+    right: 0;
+    background-image: url(https://cdn.poedb.tw/image/mirage-bg.webp);
+    background-size: cover;
+    background-position: center center;
+    height: 100%;
+    /*width: 100%;*/
+    filter: brightness(30%);
+    z-index: -2;
+}
+
+.background-image.item-popup--poe2 {
+    background-image: url(https://cdn.poe2db.tw/image/poe2/banner_0.5.0.webp);
+    filter: brightness(0.15);
+}
+
+a {
+    text-decoration: unset;
+}
+
+.bg-dark {
+    background-color: var(--bs-body-bg) !important;
+}
+
+.bg-primary {
+    background-color: var(--cold-color) !important;
+}
+
+#debug_toggle {
+    background-color: #ccc;
+    padding: 5px 10px;
+}
+
+#debug {
+    border: 1px solid black;
+}
+
+.itemstat {
+    float: left;
+    padding-right: 10px;
+}
+
+hr.clear {
+    clear: left;
+    width: 80%;
+    border: 0;
+}
+
+.panel {
+    margin-bottom: 5px;
+    background-color: var(--dark-color);
+    color: #eee;
+}
+
+.navbar-brand-img {
+    height: 39px;
+    display: inline !important;
+}
+
+.panel-body img,
+.card-body img {
+    max-width: 100%;
+}
+
+.panel-body img.gemborder,
+.card-body img.gemborder {
+    border: 1px solid var(--gem-color);
+}
+
+.panel-body img.uniqueborder,
+.card-body img.uniqueborder {
+    border: 1px solid var(--unique-color);
+}
+
+.panel .table,
+.panel .list-group {
+    margin-bottom: 0;
+}
+
+.panel-default {
+    border-color: #444;
+}
+
+.card h4,
+.card h5 {
+    color: var(--title-color);
+    text-shadow: -1px -1px 3px rgba(0, 0, 0, .6), 1px -1px 3px rgba(0, 0, 0, .6), -1px 1px 3px rgba(0, 0, 0, .6), 1px 1px 3px rgba(0, 0, 0, .6), -1px -1px 5px rgba(0, 0, 0, .6), 1px -1px 5px rgba(0, 0, 0, .6), -1px 1px 5px rgba(0, 0, 0, .6), 1px 1px 5px rgba(0, 0, 0, .6), -1px -1px 9px rgba(0, 0, 0, .6), 1px -1px 9px rgba(0, 0, 0, .6), -1px 1px 9px rgba(0, 0, 0, .6), 1px 1px 9px rgba(0, 0, 0, .6);
+}
+
+.patches .card-body h4 {
+    margin-top: 1rem;
+}
+
+div.question {
+    margin: 0px;
+    padding: 0px;
+    color: #CAC2A8;
+    font-size: 1.15em;
+    font-weight: bold;
+    display: block;
+}
+
+.card-body img:hover {
+    background-color: #121212;
+}
+
+
+
+
+div.item {
+    width: 64;
+    height: 64;
+}
+
+.gem_red,
+.mod_corrupted,
+.colourUnmet {
+    color: var(--corrupted-color);
+}
+
+.gem_red_bg {
+    color: white;
+    background-color: var(--corrupted-color);
+}
+
+.gem_green {
+    /*color: #1aaa42;*/
+    color: var(--green-color);
+}
+
+.gem_green_bg {
+    color: white;
+    background-color: var(--green-color);
+}
+
+.item_common,
+.normalitem {
+    color: var(--normal-color);
+}
+
+.gem_blue,
+.Augmented,
+.item_magic,
+.textMagicItem,
+.TextMagic,
+.text-mod,
+.explicitMod,
+.implicitMod,
+.utilityMod,
+.magicitem,
+.text-type1,
+.harvestRequirements,
+.qualityMod,
+.colourAugmented,
+.desecratedMod {
+    color: var(--magic-color);
+}
+
+.boundedMod,
+.bondedMod,
+.identifybonded .mod-title {
+    color: #c7c0a5;
+}
+
+.scourgeMod {
+    color: var(--scourged-color);
+}
+
+.text-mod,
+.explicitMod,
+.implicitMod,
+.enchantMod,
+.scourgeMod,
+.runeMod,
+.mutatedMod,
+.cultivatedMod {
+    font-family: "FontinSmallCaps", "Fontin SmallCapsa", Verdana, Arial, Helvetica, sans-serif;
+    line-height: 1.3;
+}
+
+.fontinSmallCaps {
+    font-family: "FontinSmallCaps", "Fontin SmallCapsa", Verdana, Arial, Helvetica, sans-serif;
+}
+
+.gem_blue_bg {
+    color: white;
+    background-color: var(--magic-color);
+}
+
+.newItemPopup.normalPopup .itemName, .newItemPopup.NormalPopup .itemName {
+    color: #d6d6d6;
+}
+
+.newItemPopup.necropolisPopup .itemName {
+    color: var(--normal-color);
+}
+
+.item_rare,
+.textRareItem,
+.rareitem,
+.TextMonsterRare,
+.newItemPopup.rarePopup .itemName,
+.newItemPopup.RarePopup .itemName {
+    color: var(--rare-color);
+}
+
+.item_currency,
+.textCurrencyItem,
+.currencyitem,
+.colourCurrency,
+.StackableCurrency {
+    color: var(--currency-color);
+}
+
+.item_gem,
+.textGemItem,
+.gemitem,
+.TextGem,
+.text-gem,
+.GemImplicitMod,
+.newItemPopup.gemPopup .itemName,
+.newItemPopup.gemPopup .secDescrText,
+.newItemPopup.GemPopup .itemName,
+.newItemPopup.GemPopup .secDescrText {
+    color: var(--gem-color);
+}
+
+.breachPopup .itemName,
+.breachPopup .secDescrText,
+.breachPopup .TextGem,
+.breachitem {
+    color: rgb(163, 132, 154);
+}
+
+.newItemPopup.gemPopup.item-popup--poe2 .secDescrText,
+.newItemPopup.GemPopup.item-popup--poe2 .secDescrText {
+    color: #baad85;
+    font-style: italic;
+    text-shadow: 1px 1px 2px black, -1px -1px 2px black;
+    font-family: FontinRegular;
+    padding-left: 30px;
+    padding-right: 30px;
+}
+
+.gemPopup.item-popup--poe2 .property,
+.gemPopup.item-popup--poe2 .propertyTag,
+.GemPopup.item-popup--poe2 .property,
+.GemPopup.item-popup--poe2 .propertyTag {
+    color: #6e9a97;
+    text-align: left;
+    line-height: 1.3;
+}
+
+.gemPopup.item-popup--poe2 .hybridProperty,
+.GemPopup.item-popup--poe2 .hybridProperty {
+    line-height: 1.3;
+    color: #6e9a97;
+}
+
+.gemPopup.item-popup--poe2 .requirements,
+.GemPopup.item-popup--poe2 .requirements {
+    text-align: left;
+    line-height: 1.3;
+}
+
+/*
+.item-popup--poe2 .property + .separator {
+    height: 0px;
+}
+*/
+.normal {
+    font-weight: normal;
+    font-style: normal;
+    color: var(--normal-color);
+}
+
+.item_unique,
+.xyz_golden_user,
+.textUnique,
+.flavourText,
+.uniqueitem,
+.TextUnique,
+.FlavourText,
+.newItemPopup.uniquePopup .itemName,
+.newItemPopup.UniquePopup .itemName,
+.colourUnique {
+    color: var(--unique-color);
+}
+
+.colourUnreachable {
+    color: #5a5a5a;
+}
+
+.TextPantheon {
+    color: #FEC076;
+}
+
+.TextPantheon .ItemName {
+    font-size: 24px;
+}
+
+.TextMonsterUnique,
+.monsterUniquePopup .itemHeader {
+    color: #e3a470;
+}
+
+.TextMonsterNormal,
+.monsterNormalPopup .itemHeader,
+.monsterRarePopup .itemHeader {
+    color: #ddd;
+}
+
+.item_legacy,
+.corrupted,
+.Unmet,
+.text-type2 {
+    color: var(--corrupted-color);
+}
+
+.item_description, .ndash {
+    color: var(--default-color);
+}
+
+div#guide {
+    background-color: #202020;
+    color: #E0E0E0;
+}
+
+div#guide a {
+    color: #E0E0E0;
+}
+
+input.stats {
+    border: 0;
+    color: #f6931f;
+    font-weight: bold;
+    width: 5em;
+}
+
+.gemletter {
+    font-size: 12pt;
+    font-family: monospace;
+    color: white;
+}
+
+.gemletter_red {
+    background-color: var(--corrupted-color);
+}
+
+.gemletter_blue {
+    background-color: var(--magic-color);
+}
+
+.gemletter_green {
+    background-color: var(--green-color);
+}
+
+.gemletter_white {
+    background-color: black;
+}
+
+.map_notinatlas {
+    color: var(--normal-color);
+}
+
+a.map_tier1,
+.map_tier1 {
+    color: lightblue;
+}
+
+a.map_tier2,
+.map_tier2 {
+    color: #999900;
+}
+
+a.map_tier3,
+.map_tier3 {
+    color: lightcoral;
+}
+
+img.map_tier2 {
+    -webkit-filter: grayscale(100%) brightness(120%) sepia(90%) hue-rotate(5deg) saturate(1200%) contrast(1);
+    filter: grayscale(100%) brightness(120%) sepia(90%) hue-rotate(5deg) saturate(1200%) contrast(1);
+}
+
+img.map_tier3 {
+    -webkit-filter: grayscale(100%) brightness(40%) sepia(100%) hue-rotate(-50deg) saturate(600%) contrast(2);
+    filter: grayscale(100%) brightness(40%) sepia(100%) hue-rotate(-50deg) saturate(600%) contrast(2);
+}
+
+.input_value {
+    width: 48px;
+    border: 1px solid #ccc;
+    border-radius: 4px;
+    text-align: center;
+}
+
+.mod_hl {
+    color: var(--corrupted-color);
+    font-weight: bold;
+}
+
+.mod_grey {
+    color: var(--default-color);
+}
+
+.query,
+.tags {
+    margin: 10px 0;
+}
+
+/* bootstrap */
+.theme-dropdown .dropdown-menu {
+    position: static;
+    display: block;
+    margin-bottom: 20px;
+}
+
+.theme-showcase>p>.btn {
+    margin: 5px 0;
+}
+
+.theme-showcase .navbar .container {
+    width: auto;
+}
+
+/* override bootstrap */
+.navbar-inverse .navbar-nav>li>a {
+    color: #ddd;
+}
+
+.navbar-top {
+    margin-bottom: 0px;
+}
+
+/* item */
+.col-monster {
+    background-color: black;
+}
+
+.itembox-monster {
+    text-align: center;
+    background-color: black;
+    font-family: "FontinSmallCaps", "Fontin SmallCapsa", "Helvetica Neue", Helvetica, Arial, "微軟正黑體", sans-serif;
+}
+
+.itembox-gem .Stats,
+.itembox-monster .Stats,
+.itemPopup .Stats,
+.itemPopup .content {
+    line-height: 1.3;
+    font-size: initial;
+}
+
+.itemPopup .content {
+    padding: 0.5rem;
+}
+
+.itembox-monster .tags,
+.popupGem .tags {
+    font-size: 80%;
+}
+
+.tab-content .itembox-gem,
+.page-content .itembox-gem,
+.tab-content .itemPopup,
+.page-content .itemPopup {
+    width: 660px;
+    max-width: 100%;
+}
+
+.itembox-gem,
+.itemPopup {
+    display: inline-block;
+    text-align: center;
+    color: var(--default-color);
+    width: 440px;
+    min-width: 320px;
+    background-color: black;
+    font-family: "FontinSmallCaps", "Fontin SmallCapsa", "Helvetica Neue", Helvetica, Arial, "微軟正黑體", sans-serif;
+}
+
+.itemboxstats {
+    width: 357px;
+}
+
+.text-value,
+.text-type0,
+.prophecyText,
+.text-type3,
+.text-physical,
+.mod-value {
+    color: white;
+}
+
+.text-flavour {
+    color: var(--unique-color);
+    font-style: italic;
+    display: block;
+}
+
+.itemboxstatsgroup {
+    display: block;
+}
+
+.text-fire,
+.FireDamage,
+.text-type4,
+.colourFireDamage {
+    color: var(--fire-color);
+}
+
+.text-cold,
+.ColdDamage,
+.text-type5,
+.colourColdDamage {
+    color: var(--cold-color);
+}
+
+.text-lightning,
+.text-type6,
+.colourLightningDamage {
+    color: var(--lightning-color);
+}
+
+.text-chaos,
+.ChaosDamage,
+.text-type7,
+.colourChaosDamage {
+    color: var(--chaos-color);
+}
+
+.itemboximage {
+    background-color: black !important;
+}
+
+.itemboximage img {
+    max-width: 100%;
+}
+
+.fracturedMod {
+    color: var(--fractured-color);
+}
+
+.craftedMod,
+.enchantMod,
+.craftedMods,
+.crafted,
+.runeMod,
+.identifyenchant .explicitMod,
+.identifysocketable .mod-title,
+.poe2 .identifycorrupted .mod-title {
+    color: var(--crafted-color);
+}
+
+@font-face {
+    font-family: 'FontinSmallCaps';
+    src: local("?"), url('https://web.poecdn.com/font/fontin-smallcaps-webfont.woff') format("woff");
+    font-weight: normal;
+    font-style: normal
+}
+
+@font-face {
+    font-family: FontinRegular;
+    font-weight: 400;
+    font-style: normal;
+    src: local("☺"), url(https://web.poecdn.com/font/fontin-regular-webfont.woff) format("woff")
+}
+
+@font-face {
+    font-family: OptimusPrincepsSemiBold;
+    font-weight: 400;
+    font-style: normal;
+    src: local("☺"), url(https://web.poecdn.com/font/OptimusPrincepsSemiBold.ttf) format("truetype")
+}
+
+
+.ItemGen {
+    margin: 0;
+    font-family: "FontinSmallCaps", "Fontin SmallCapsa", "Helvetica Neue", Helvetica, Arial, "微軟正黑體", sans-serif;
+    background: var(--bs-body-bg);
+    font-weight: normal;
+    float: left;
+    max-width: 400px;
+}
+
+.ItemGen td {
+    padding: 10px;
+    background-color: var(--dark-color);
+}
+
+.ItemContainer {
+    position: relative;
+    margin-bottom: 0px;
+    font-size: 100%;
+    font-weight: normal;
+}
+
+.ItemBox {
+    text-align: center;
+    color: #EFEFEF;
+    font-size: 1.0em;
+    background: url('/image/game_ui/hover_background.webp');
+}
+
+.ItemContent {
+    padding-left: 11px;
+    padding-right: 11px;
+    padding-bottom: 7px;
+}
+
+.ItemContent .GemImplicitMod,
+.ItemContent .ExplicitMod,
+.ItemContent .ImplicitMod {
+    padding-left: 0.5rem;
+    padding-right: 0.5rem;
+}
+
+/* 107 -> 54 */
+.TitleMonsterUniqueBar,
+.monsterUniquePopup .itemHeader {
+    background:
+        url('/image/monster/popup/EntityFrameUniqueLeft.webp') top left no-repeat,
+        url('/image/monster/popup/EntityFrameUniqueRight.webp') top right no-repeat,
+        url('/image/monster/popup/EntityFrameUniqueMiddle.webp') top center no-repeat,
+        url('/image/monster/popup/EntityFrameUniqueRepeat.webp') top center repeat-x content-box,
+        url('/image/monster/popup/EntityLifeBar.webp') 100% 50% / 100% 60% repeat-x content-box;
+    margin: 0 -12px;
+    padding: 0 12px;
+}
+
+.TitleMonsterRareBar,
+.monsterRarePopup .itemHeader {
+    background:
+        url('/image/monster/popup/EntityFrameRareLeft.webp') top left no-repeat,
+        url('/image/monster/popup/EntityFrameRareRight.webp') top right no-repeat,
+        url('/image/monster/popup/EntityFrameRareMiddle.webp') top center no-repeat,
+        url('/image/monster/popup/EntityFrameRareRepeat.webp') top center repeat-x content-box,
+        url('/image/monster/popup/EntityLifeBar.webp') 100% 50% / 100% 60% repeat-x content-box;
+    margin: 0 -12px;
+    padding: 0 12px;
+}
+
+.TitleMonsterNormalBar,
+.monsterNormalPopup .itemHeader {
+    background:
+        url('/image/monster/popup/EntityFrameNormalLeft.webp') top left no-repeat,
+        url('/image/monster/popup/EntityFrameNormalRight.webp') top right no-repeat,
+        url('/image/monster/popup/EntityFrameNormalMiddle.webp') top center no-repeat,
+        url('/image/monster/popup/EntityFrameNormalRepeat.webp') 40% 100% / 92% 100% no-repeat,
+        url('/image/monster/popup/EntityLifeBar.webp') 50% 60% / 95% 60% no-repeat;
+}
+
+/* Unique, InGame/ItemsHeaderUniqueLeft height: 87->54 */
+.TitleUniqueBar,
+.uniquePopup .itemHeader.doubleLine,
+.UniquePopup .itemHeader.doubleLine {
+    background:
+        url('/image/Art/2DArt/UIImages/InGame/ItemsHeaderUniqueLeft.webp') top left no-repeat,
+        url('/image/Art/2DArt/UIImages/InGame/ItemsHeaderUniqueRight.webp') top right no-repeat,
+        url('/image/Art/2DArt/UIImages/InGame/ItemsHeaderUniqueMiddle.webp') top center repeat-x;
+    background-size: contain;
+}
+
+.singleLine.TitleUniqueBar {
+    background:
+        url('/image/Art/2DArt/UIImages/InGame/ItemsHeaderUniqueSingleLineLeft.webp') top left no-repeat,
+        url('/image/Art/2DArt/UIImages/InGame/ItemsHeaderUniqueSingleLineRight.webp') top right no-repeat,
+        url('/image/Art/2DArt/UIImages/InGame/ItemsHeaderUniqueSingleLineMiddle.webp') top center repeat-x;
+    background-size: contain;
+}
+
+.item-popup--poe2.uniquePopup .itemHeader.doubleLine,
+.item-popup--poe2.UniquePopup .itemHeader.doubleLine {
+    background:
+        url('/image/item/popup2/header-double-unique-left.webp') top left no-repeat,
+        url('/image/item/popup2/header-double-unique-right.webp') top right no-repeat,
+        url('/image/item/popup2/header-double-unique-middle.webp') top center repeat-x;
+    background-size: contain;
+}
+
+.RunicUniquePopup .itemHeader.doubleLine {
+    background:
+        url(/image/item/popup2/header-double-runic-unique-left.webp) top left / 46px auto no-repeat,
+        url(/image/item/popup2/header-double-runic-unique-right.webp) top right / 46px auto no-repeat,
+        url(/image/item/popup2/header-double-runic-unique-middle.webp) top center / 46px auto repeat-x;
+}
+
+.TitleRelicBar {
+    background:
+        url('/image/Art/2DArt/UIImages/InGame/ItemsHeaderFoilLeft.webp') top left no-repeat,
+        url('/image/Art/2DArt/UIImages/InGame/ItemsHeaderFoilRight.webp') top right no-repeat,
+        url('/image/Art/2DArt/UIImages/InGame/ItemsHeaderFoilMiddle.webp') top center repeat-x;
+    background-size: contain;
+}
+
+.TitleGemBar,
+.gemPopup .itemHeader,
+.GemPopup .itemHeader {
+    background:
+        url('/image/Art/2DArt/UIImages/InGame/ItemsHeaderGemLeft.webp') top left no-repeat,
+        url('/image/Art/2DArt/UIImages/InGame/ItemsHeaderGemRight.webp') top right no-repeat,
+        url('/image/Art/2DArt/UIImages/InGame/ItemsHeaderGemMiddle.webp') top center repeat-x;
+    background-size: contain;
+}
+
+.TitleGemBar,
+.breachPopup .itemHeader {
+    background:
+        url('/image/item/popup/header-breach-left.webp') top left no-repeat,
+        url('/image/item/popup/header-breach-right.webp') top right no-repeat,
+        url('/image/item/popup/header-breach-middle.webp') top center repeat-x content-box;
+    background-size: contain;
+    margin: 0 -12px;
+    padding: 0 12px;
+}
+
+.item-popup--poe2.gemPopup .itemHeader,
+.item-popup--poe2.GemPopup .itemHeader,
+.item-popup--poe2.gemPopup .itemHeader.doubleLine,
+.item-popup--poe2.GemPopup .itemHeader.doubleLine {
+    background: url('/image/art/textures/interface/2d/2dart/uiimages/ingame/smarthover/gemhovertitle.webp') top left no-repeat;
+    background-size: contain;
+    height: 54px;
+}
+
+.item-popup--poe2.newItemPopup.gemPopup .itemName,
+.item-popup--poe2.newItemPopup.GemPopup .itemName {
+    /*padding-left: 20px;*/
+    text-align: left;
+}
+
+.leadSkillIcon {
+    display: none;
+}
+
+.item-popup--poe2.newItemPopup.gemPopup .itemHeader .leadSkillIcon,
+.item-popup--poe2.newItemPopup.GemPopup .itemHeader .leadSkillIcon {
+    display: initial;
+    position: absolute;
+    left: 17px;
+    top: 5px;
+    width: 45px;
+}
+
+.item-popup--poe2.newItemPopup.gemPopup .doubleLine .itemName .lc,
+.item-popup--poe2.newItemPopup.GemPopup .doubleLine .itemName .lc {
+    padding-left: 25px;
+}
+
+.item-popup--poe2.newItemPopup.gemPopup .doubleLine .itemName.typeLine .lc,
+.item-popup--poe2.newItemPopup.GemPopup .doubleLine .itemName.typeLine .lc {
+    font-size: initial;
+    color: #6e9a97;
+}
+
+/* Normal */
+.TitleNormalBar,
+.normalPopup .itemHeader,
+.NormalPopup .itemHeader {
+    background:
+        url('/image/Art/2DArt/UIImages/InGame/ItemsHeaderWhiteLeft.webp') top left no-repeat,
+        url('/image/Art/2DArt/UIImages/InGame/ItemsHeaderWhiteRight.webp') top right no-repeat,
+        url('/image/Art/2DArt/UIImages/InGame/ItemsHeaderWhiteMiddle.webp') top center repeat-x;
+    background-size: contain;
+}
+
+.item-popup--poe2.normalPopup .itemHeader,
+.item-popup--poe2.NormalPopup .itemHeader {
+    background:
+        url('/image/item/popup2/header-normal-left.webp') top left no-repeat,
+        url('/image/item/popup2/header-normal-right.webp') top right no-repeat,
+        url('/image/item/popup2/header-normal-middle.webp') top center repeat-x;
+    background-size: contain;
+}
+
+/* Currency */
+.TitleCurrencyBar,
+.currencyPopup .itemHeader,
+.CurrencyPopup .itemHeader {
+    background:
+        url('/image/Art/2DArt/UIImages/InGame/ItemsHeaderCurrencyLeft.webp') top left no-repeat,
+        url('/image/Art/2DArt/UIImages/InGame/ItemsHeaderCurrencyRight.webp') top right no-repeat,
+        url('/image/Art/2DArt/UIImages/InGame/ItemsHeaderCurrencyMiddle.webp') top center repeat-x;
+    background-size: contain;
+}
+
+.item-popup--poe2.currencyPopup .itemHeader,
+.item-popup--poe2.CurrencyPopup .itemHeader {
+    background:
+        url('/image/item/popup2/header-currency-left.webp') top left no-repeat,
+        url('/image/item/popup2/header-currency-right.webp') top right no-repeat,
+        url('/image/item/popup2/header-currency-middle.webp') top center repeat-x;
+    background-size: contain;
+}
+
+/* Quest */
+.TitleQuestBar,
+.questPopup .itemHeader {
+    background:
+        url('/image/Art/2DArt/UIImages/InGame/ItemsHeaderQuestLeft.webp') top left no-repeat,
+        url('/image/Art/2DArt/UIImages/InGame/ItemsHeaderQuestRight.webp') top right no-repeat,
+        url('/image/Art/2DArt/UIImages/InGame/ItemsHeaderQuestMiddle.webp') top center repeat-x;
+    background-size: contain;
+}
+
+.item-popup--poe2.questPopup .itemHeader {
+    background:
+        url('/image/item/popup2/header-quest-left.webp') top left no-repeat,
+        url('/image/item/popup2/header-quest-right.webp') top right no-repeat,
+        url('/image/item/popup2/header-quest-middle.webp') top center repeat-x;
+    background-size: contain;
+}
+
+.necropolisPopup .itemHeader {
+    background:
+        url('/image/item/popup/header-necropolis-left.webp') top left no-repeat,
+        url('/image/item/popup/header-necropolis-right.webp') top right no-repeat,
+        url('/image/item/popup/header-necropolis-middle.webp') top center repeat-x;
+    background-size: contain;
+}
+
+/* Prophecy */
+.TitleProphecyBar,
+.prophecyPopup .itemHeader {
+    background:
+        url('/image/Art/2DArt/UIImages/InGame/ItemsHeaderProphecyLeft.webp') top left no-repeat,
+        url('/image/Art/2DArt/UIImages/InGame/ItemsHeaderProphecyRight.webp') top right no-repeat,
+        url('/image/Art/2DArt/UIImages/InGame/ItemsHeaderProphecyMiddle.webp') top center repeat-x;
+    background-size: contain;
+}
+
+/* Magic */
+.TitleMagicBar,
+.magicPopup .itemHeader,
+.MagicPopup .itemHeader {
+    background:
+        url('/image/Art/2DArt/UIImages/InGame/ItemsHeaderMagicLeft.webp') top left no-repeat,
+        url('/image/Art/2DArt/UIImages/InGame/ItemsHeaderMagicRight.webp') top right no-repeat,
+        url('/image/Art/2DArt/UIImages/InGame/ItemsHeaderMagicMiddle.webp') top center repeat-x;
+    background-size: contain;
+}
+
+/* Rare */
+.singleLine.TitleRareBar {
+    background:
+        url('/image/Art/2DArt/UIImages/InGame/ItemsHeaderRareSingleLineLeft.webp') top left no-repeat,
+        url('/image/Art/2DArt/UIImages/InGame/ItemsHeaderRareSingleLineRight.webp') top right no-repeat,
+        url('/image/Art/2DArt/UIImages/InGame/ItemsHeaderRareSingleLineMiddle.webp') top center repeat-x;
+    background-size: contain;
+}
+
+.TitleRareBar,
+.RarePopup .itemHeader,
+.rarePopup .itemHeader {
+    background:
+        url('/image/Art/2DArt/UIImages/InGame/ItemsHeaderRareLeft.webp') top left no-repeat,
+        url('/image/Art/2DArt/UIImages/InGame/ItemsHeaderRareRight.webp') top right no-repeat,
+        url('/image/Art/2DArt/UIImages/InGame/ItemsHeaderRareMiddle.webp') top center repeat-x;
+    background-size: contain;
+}
+
+/* Keystone */
+.TitleKeystoneBar,
+.keystonePopup .itemHeader {
+    background:
+        url('/image/Art/2DArt/UIImages/InGame/KeystonePassiveHeaderLeft.webp') top left no-repeat,
+        url('/image/Art/2DArt/UIImages/InGame/KeystonePassiveHeaderRight.webp') top right no-repeat,
+        url('/image/Art/2DArt/UIImages/InGame/KeystonePassiveHeaderMiddle.webp') top center repeat-x;
+    background-size: contain;
+}
+
+.item-popup--poe3.keystonePopup .itemHeader {
+    background:
+        url('/image/item/popup2/header-keystone-left.webp') top left no-repeat,
+        url('/image/item/popup2/header-keystone-right.webp') top right no-repeat,
+        url('/image/item/popup2/header-keystone-middle.webp') top center repeat-x;
+    background-size: contain;
+}
+
+.item-popup--poe2.keystonePopup,
+.item-popup--poe2.notablePopup,
+.item-popup--poe2.ascendancyPassivePopup,
+.keyword-body,
+.fontinRegular,
+.item-popup--poe2.notablePopup .implicitMod,
+.item-popup--poe2.keystonePopup .implicitMod {
+    font-family: FontinRegular;
+}
+
+/* Notable */
+.TitleNotableBar,
+.notablePopup .itemHeader {
+    background:
+        url('/image/Art/2DArt/UIImages/InGame/NotablePassiveHeaderLeft.webp') top left no-repeat,
+        url('/image/Art/2DArt/UIImages/InGame/NotablePassiveHeaderRight.webp') top right no-repeat,
+        url('/image/Art/2DArt/UIImages/InGame/NotablePassiveHeaderMiddle.webp') top center repeat-x;
+    background-size: contain;
+}
+
+.notablePopup.Druid1 .itemHeader {
+    background:
+        url('/image/Art/2DArt/UIImages/InGame/OracleNotablePassiveHeaderLeft.webp') top left no-repeat,
+        url('/image/Art/2DArt/UIImages/InGame/OracleNotablePassiveHeaderRight.webp') top right no-repeat,
+        url('/image/Art/2DArt/UIImages/InGame/OracleNotablePassiveHeaderMiddle.webp') top center repeat-x;
+    background-size: contain;
+}
+
+/* Passive */
+.TitlePassiveBar,
+.passivePopup .itemHeader {
+    background:
+        url('/image/Art/2DArt/UIImages/InGame/NormalPassiveHeaderLeft.webp') top left no-repeat,
+        url('/image/Art/2DArt/UIImages/InGame/NormalPassiveHeaderRight.webp') top right no-repeat,
+        url('/image/Art/2DArt/UIImages/InGame/NormalPassiveHeaderMiddle.webp') top center repeat-x;
+    background-size: contain;
+}
+
+.passivePopup.Druid1 .itemHeader {
+    background:
+        url('/image/Art/2DArt/UIImages/InGame/OracleNormalPassiveHeaderLeft.webp') top left no-repeat,
+        url('/image/Art/2DArt/UIImages/InGame/OracleNormalPassiveHeaderRight.webp') top right no-repeat,
+        url('/image/Art/2DArt/UIImages/InGame/OracleNormalPassiveHeaderMiddle.webp') top center repeat-x;
+    background-size: contain;
+}
+
+.TitleAscendancyPassiveBar,
+.ascendancyPassivePopup .itemHeader {
+    background:
+        url('/image/Art/2DArt/UIImages/InGame/AscendancyPassiveHeaderLeft.webp') top left no-repeat,
+        url('/image/Art/2DArt/UIImages/InGame/AscendancyPassiveHeaderRight.webp') top right no-repeat,
+        url('/image/Art/2DArt/UIImages/InGame/AscendancyPassiveHeaderMiddle.webp') top center repeat-x;
+    background-size: contain;
+}
+
+.item-popup--poe2.ascendancyPassivePopup .itemHeader {
+    background:
+        url('/image/art/2dart/uiimages/ingame/ascendancypassiveheaderleft.webp') top left no-repeat,
+        url('/image/art/2dart/uiimages/ingame/ascendancypassiveheaderright.webp') top right no-repeat,
+        url('/image/art/2dart/uiimages/ingame/ascendancypassiveheadermiddle.webp') top center repeat-x;
+    background-size: contain;
+}
+
+.TitleMasteryPassiveBar,
+.masteryPassivePopup .itemHeader {
+    background:
+        url('/image/Art/2DArt/UIImages/InGame/PassiveMastery/MasteryPassiveHeaderLeft.webp') top left no-repeat,
+        url('/image/Art/2DArt/UIImages/InGame/PassiveMastery/MasteryPassiveHeaderRight.webp') top right no-repeat,
+        url('/image/Art/2DArt/UIImages/InGame/PassiveMastery/MasteryPassiveHeaderMiddle.webp') top center repeat-x;
+    background-size: contain;
+}
+
+
+.separator {
+    height: 7.91075px;
+    margin: 1px 0px;
+}
+
+/* Art/2DArt/UIImages/InGame/ItemsSeparatorUnique, 362x12 -> x8 */
+.ItemUniqueSeparator,
+.popupUnique .separator,
+.popupMasteryPassive .separator,
+.popupMonsterUnique .separator,
+.uniquePopup .separator,
+.UniquePopup .separator,
+.RunicUniquePopup .separator {
+    background: url('/image/item/popup/seperator-unique.webp') center no-repeat;
+    height: 7.91075px;
+    margin: 1px 0px;
+}
+
+.popupRelic .separator {
+    background: url('/image/item/popup/separator-relic.webp') center no-repeat;
+    height: 7.91075px;
+    margin: 1px 0px;
+}
+
+.ItemGemSeparator,
+.popupGem .separator,
+.gemPopup .separator,
+.GemPopup .separator {
+    background: url('/image/item/popup/seperator-gem.webp') center no-repeat;
+    height: 7.91075px;
+    margin: 1px 0px;
+}
+
+.ItemBreachSeparator,
+.popupBreach .separator,
+.breachPopup .separator {
+    background: url('/image/item/popup/separator-breach.webp') center no-repeat;
+    height: 7.91075px;
+    margin: 1px 0px;
+}
+
+.ItemNormalSeparator,
+.popupNormal .separator,
+.popupMonsterNormal .separator,
+.normalPopup .separator,
+.NormalPopup .separator {
+    background: url('/image/item/popup/seperator-normal.webp') center no-repeat;
+    height: 7.91075px;
+    margin: 1px 0px;
+}
+
+.ItemCurrencySeparator,
+.ItemAscendancyPassiveSeparator,
+.popupCurrency .separator,
+.popupAscendancyPassive .separator,
+.popupPantheon .separator,
+.currencyPopup .separator,
+.CurrencyPopup .separator {
+    background: url('/image/item/popup/seperator-currency.webp') center no-repeat;
+    height: 7.91075px;
+    margin: 1px 0px;
+}
+
+.ItemDivinationCardSeparator,
+.popupDivinationCard .separator {
+    background: url('/image/item/popup/divination-card-divider.webp') center no-repeat;
+    height: 7.91075px;
+    margin: 1px 0px;
+}
+
+.ItemQuestSeparator,
+.popupQuest .separator,
+.questPopup .separator {
+    background: url('/image/item/popup/seperator-quest.webp') center no-repeat;
+    height: 7.91075px;
+    margin: 1px 0px;
+}
+
+.ItemProphecySeparator,
+.popupProphecy .separator {
+    background: url('/image/item/popup/seperator-prophecy.webp') center no-repeat;
+    height: 7.91075px;
+    margin: 1px 0px;
+}
+
+.ItemMagicSeparator,
+.popupMagic .separator,
+.magicPopup .separator,
+.MagicPopup .separator {
+    background: url('/image/item/popup/seperator-magic.webp') center no-repeat;
+    height: 7.91075px;
+    margin: 1px 0px;
+}
+
+.ItemRareSeparator,
+.popupRare .separator,
+.popupMonsterRare .separator,
+.rarePopup .separator,
+.RarePopup .separator {
+    background: url('/image/item/popup/seperator-rare.webp') center no-repeat;
+    height: 7.91075px;
+    margin: 1px 0px;
+}
+
+.necropolisPopup .separator {
+    background: url('/image/item/popup/separator-necropolis.webp') center no-repeat;
+    height: 7.91075px;
+    margin: 1px 0px;
+}
+
+.newItemPopup .itemName .lc {
+    padding: 7.23428px 30px 7.23428px 30px;
+}
+
+.newItemPopup .doubleLine .itemName .lc {
+    padding: 5.18323px 45px 2.59162px 45px;
+}
+
+.newItemPopup .doubleLine .typeLine .lc {
+    padding: 2.59162px 45px 5.18323px 45px;
+}
+
+.newItemPopup .itemHeader {
+    font-size: 19px;
+    line-height: 1em;
+    height: 34px;
+}
+
+.newItemPopup .itemHeader.doubleLine {
+    height: 54px;
+}
+
+.lc {
+    display: inline-block;
+}
+
+.ascendancyPassivePopup .itemHeader,
+.masteryPassivePopup .itemHeader,
+.passivePopup .itemHeader,
+.notablePopup .itemHeader,
+.keystonePopup .itemHeader,
+.monsterUniquePopup .itemHeader,
+.monsterRarePopup .itemHeader,
+.monsterNormalPopup .itemHeader,
+.necropolisPopup .itemHeader {
+    height: 54px;
+}
+
+.ascendancyPassivePopup .typeLine,
+.passivePopup .typeLine,
+.notablePopup .typeLine,
+.keystonePopup .typeLine,
+.masteryPassivePopup .typeLine,
+.monsterUniquePopup .typeLine,
+.monsterRarePopup .typeLine,
+.monsterNormalPopup .typeLine,
+.necropolisPopup .typeLine {
+    font-size: 26px;
+}
+
+.ascendancyPassivePopup .itemName .lc,
+.masteryPassivePopup .itemName .lc,
+.passivePopup .itemName .lc,
+.notablePopup .itemName .lc,
+.keystonePopup .itemName .lc,
+.monsterUniquePopup .itemName .lc,
+.monsterRarePopup .itemName .lc,
+.monsterNormalPopup .itemName .lc,
+.necropolisPopup .itemName .lc {
+    padding: 17px 30px 17px 30px;
+}
+
+
+
+.itemHeader .symbol::after {
+    content: " ";
+    display: block;
+    position: absolute;
+    background: none center no-repeat;
+    background-size: 27px;
+}
+
+.itemHeader .symbol.vaal::after {
+    background-image: url('/image/item/popup/vaal-symbol.webp');
+}
+
+.itemHeader .symbol.mutated::after {
+    background-image: url('/image/item/popup/breach-symbol.webp');
+}
+
+.itemHeader .symbol.desecrated::after {
+    background-image: url('/image/item/popup2/desecrated-symbol.webp');
+}
+
+.itemHeader .symbol.shaper::after {
+    background-image: url('/image/item/popup/shaper-symbol.webp');
+}
+
+.itemHeader .symbol.elder::after {
+    background-image: url('/image/item/popup/elder-symbol.webp');
+}
+
+.itemHeader .symbol.crusader::after {
+    background-image: url('/image/item/popup/crusader-symbol.webp');
+}
+
+.itemHeader .symbol.redeemer::after {
+    background-image: url('/image/item/popup/redeemer-symbol.webp');
+}
+
+.itemHeader .symbol.hunter::after {
+    background-image: url('/image/item/popup/hunter-symbol.webp');
+}
+
+.itemHeader .symbol.warlord::after {
+    background-image: url('/image/item/popup/warlord-symbol.webp');
+}
+
+.itemHeader .symbol.veiled::after {
+    background-image: url('/image/item/popup/veiled-symbol.webp');
+}
+
+.itemHeader .symbol.fractured::after {
+    background-image: url('/image/item/popup/fractured-symbol.webp');
+}
+
+.itemHeader .symbol.synthesised::after {
+    /* InGame/SynthesisedItemSymbol, 43->27 */
+    background-image: url('/image/item/popup/synthetic-symbol.webp');
+}
+
+.itemHeader .symbol.searing::after {
+    background-image: url('/image/item/popup/searing-symbol.webp')
+}
+
+.itemHeader .symbol.tangled::after {
+    background-image: url('/image/item/popup/tangled-symbol.webp')
+}
+
+.itemHeader .symbol.replica::after {
+    background-image: url('/image/item/popup/experimented-symbol.webp');
+}
+
+.symbol.l::after {
+    left: 2px;
+    height: 33px;
+    width: 27px;
+}
+
+.symbol.r::after {
+    right: 2px;
+    height: 33px;
+    width: 27px;
+}
+
+.doubleLine .symbol.l::after,
+.doubleLine .symbol.r::after {
+    height: 53px;
+}
+
+/* Gem */
+.hybridHeader {
+    background: none no-repeat center/contain;
+    background-image: url('/image/item/popup/hybrid-title.webp');
+}
+
+.breachPopup .hybridHeader {
+    background-image: url('/image/item/popup/breach-title.webp');
+}
+
+/*
+.item-popup--poe2 .hybridHeader {
+    background-image: none;
+}
+*/
+.hybridHeader .TextGem.TitleBar {
+    height: auto;
+}
+
+.item_quest,
+.TextQuest,
+.textQuestItem,
+.questitem,
+.newItemPopup.questPopup .itemName,
+.QuestItem {
+    color: var(--quest-color);
+}
+
+.item_prophecy,
+.TextProphecy,
+.prophecy {
+    color: var(--prophecy-color);
+}
+
+.TextRare {
+    color: #f2c462;
+}
+
+
+.ProphecyDescriptionText {
+    color: white;
+}
+
+.ItemName {
+    font-size: 18px;
+    position: relative;
+    top: 3px;
+}
+
+.ItemType {
+    font-size: 18px;
+    position: relative;
+}
+
+.ItemStats {
+    padding-top: 3px;
+}
+
+.ExplicitMod,
+.ImplicitMod {
+    color: var(--magic-color);
+}
+
+.FlavourText {
+    font-style: italic;
+    padding-left: 5px;
+    padding-right: 5px;
+}
+
+.Text,
+.Requirements,
+.ItemStats {
+    display: inline-block;
+    padding: 0 10px;
+    color: var(--default-color);
+}
+
+.Default,
+.PhysicalDamage,
+.colourDefault,
+.colourPhysicalDamage {
+    color: #fff
+}
+
+.LightningDamage {
+    color: var(--lightning-color)
+}
+
+.TextKeystone,
+.TextNotable,
+.TextPassive,
+.TextAscendancyPassive,
+.TextMasteryPassive,
+.ascendancyPassivePopup .itemHeader,
+.masteryPassivePopup .itemHeader,
+.passivePopup .itemHeader,
+.notablePopup .itemHeader,
+.keystonePopup .itemHeader {
+    color: #F9E6CA;
+}
+
+.itemHeader.doubleLine {
+    position: relative;
+    height: 54px;
+}
+
+.doubleLine .TitleSingleBar {
+    height: 54px;
+}
+
+.doubleLine .TitleSingleBar .ItemType {
+    line-height: 54px;
+    font-size: 22.8px;
+}
+
+.doubleLine .TextMonsterNormal .ItemType,
+.doubleLine .TextMonsterUnique .ItemType,
+.doubleLine .TextMonsterRare .ItemType {
+    font-size: 18px;
+}
+
+.popupKeystone .Stats,
+.popupNotable .Stats,
+.popupPassive .Stats,
+.popupMasteryPassive .Stats,
+.popupAscendancyPassive .Stats,
+.keystonePopup .Stats,
+.notablePopup .Stats,
+.passivePopup .Stats,
+.masteryPassivePopup .Stats,
+.ascendancyPassivePopup .Stats {
+    text-align: left;
+}
+
+.newItemPopup {
+    background: rgba(0, 0, 0, .8);
+    color: #7f7f7f;
+    font-family: "FontinSmallCaps", Verdana, Arial, Helvetica, sans-serif;
+}
+
+.newItemPopup {
+    position: relative;
+    text-align: center;
+    min-width: 320px;
+    width: 660px;
+    max-width: 100%;
+    background: black;
+}
+
+.newItemPopup .content {
+    padding: 0.4em 1em 0.5em 1em;
+    line-height: 1.3;
+}
+
+
+
+#toTop {
+    display: none;
+    position: fixed;
+    bottom: 5px;
+    right: 5px;
+    opacity: 0.4;
+    filter: alpha(opacity=40);
+    /* For IE8 and earlier */
+}
+
+#toTop:hover {
+    opacity: 0.8;
+    filter: alpha(opacity=80);
+    /* For IE8 and earlier */
+}
+
+#toTop .glyphicon {
+    font-size: 4em;
+}
+
+.tooltiptext {
+    display: none;
+    color: black;
+    background-color: white;
+}
+
+.xyz_verify {
+    cursor: pointer;
+    color: #428bca;
+}
+
+.xyz_verify:hover {
+    text-decoration: underline;
+}
+
+.mon_name {
+    font-weight: bold;
+    font-size: 18px;
+}
+
+.mon-normal {
+    width: 357px;
+    border: 1px solid #aaa;
+    background: black;
+    color: var(--default-color);
+}
+
+.strong {
+    font-weight: bold;
+}
+
+.nodrop,
+A.nodrop {
+    text-decoration: line-through;
+    color: darkred;
+}
+
+.jqmWindow {
+    display: none;
+
+    position: fixed;
+    top: 17%;
+    left: 50%;
+
+    margin-left: -300px;
+    width: 600px;
+
+    background-color: var(--dark-color);
+    color: #333;
+    border: 1px solid black;
+    padding: 12px;
+}
+
+.jqmOverlay {
+    background-color: #000;
+}
+
+/*
+* html .jqmWindow {
+     position: absolute;
+     top: expression((document.documentElement.scrollTop || document.body.scrollTop) + Math.round(17 * (document.documentElement.offsetHeight || document.body.clientHeight) / 100) + 'px');
+}
+*/
+.bs-example {
+    border-color: #ddd;
+    border-width: 1px;
+    border-radius: 4px 4px 0 0;
+    border-style: solid;
+    padding-bottom: 10px;
+}
+
+.sortable {
+    cursor: pointer;
+}
+
+/* remove next version */
+.itemboxheader-single {
+    font-size: 20px;
+    line-height: 24px;
+    display: block;
+    width: 357px;
+    height: 30px;
+}
+
+.itemboxheader-double {
+    font-size: 20px;
+    line-height: 24px;
+    color: var(--unique-color);
+    display: block;
+    width: 357px;
+    height: 50px;
+}
+
+add {
+    font-weight: bold
+}
+
+ul.double {
+    padding-left: 5px;
+}
+
+ul.double ul {
+    padding-left: 20px;
+}
+
+.double li {
+    float: left;
+    display: inline;
+    padding-left: 5px;
+    padding-right: 5px;
+}
+
+li.double_th {
+    width: 100%;
+    border-bottom: 1px dotted var(--legacy-color);
+    display: block;
+}
+
+/* glyph */
+
+.HBG00 {
+    background: url('/image/gen/glyph.webp') no-repeat no-repeat;
+    background-position: 0px -90px;
+    width: 5px;
+    height: 18px;
+    display: inline-block;
+}
+
+.HBG01 {
+    background: url('/image/gen/glyph.webp') no-repeat no-repeat;
+    background-position: -100px -54px;
+    width: 8px;
+    height: 18px;
+    display: inline-block;
+}
+
+.HBG02 {
+    background: url('/image/gen/glyph.webp') no-repeat no-repeat;
+    background-position: -100px 0px;
+    width: 10px;
+    height: 18px;
+    display: inline-block;
+}
+
+.HBG03 {
+    background: url('/image/gen/glyph.webp') no-repeat no-repeat;
+    background-position: -100px -36px;
+    width: 8px;
+    height: 18px;
+    display: inline-block;
+}
+
+.HBG04 {
+    background: url('/image/gen/glyph.webp') no-repeat no-repeat;
+    background-position: -100px -18px;
+    width: 10px;
+    height: 18px;
+    display: inline-block;
+}
+
+.HBGAa {
+    background: url('/image/gen/glyph.webp') no-repeat no-repeat;
+    background-position: -40px 0px;
+    width: 20px;
+    height: 18px;
+    display: inline-block;
+}
+
+.HBGAb {
+    background: url('/image/gen/glyph.webp') no-repeat no-repeat;
+    background-position: -40px -18px;
+    width: 20px;
+    height: 18px;
+    display: inline-block;
+}
+
+.HBGAc {
+    background: url('/image/gen/glyph.webp') no-repeat no-repeat;
+    background-position: 0px -36px;
+    width: 20px;
+    height: 18px;
+    display: inline-block;
+}
+
+.HBGAd {
+    background: url('/image/gen/glyph.webp') no-repeat no-repeat;
+    background-position: -20px -36px;
+    width: 20px;
+    height: 18px;
+    display: inline-block;
+}
+
+.HBGAe {
+    background: url('/image/gen/glyph.webp') no-repeat no-repeat;
+    background-position: -40px -36px;
+    width: 20px;
+    height: 18px;
+    display: inline-block;
+}
+
+.HBGAf {
+    background: url('/image/gen/glyph.webp') no-repeat no-repeat;
+    background-position: -60px 0px;
+    width: 20px;
+    height: 18px;
+    display: inline-block;
+}
+
+.HBGAg {
+    background: url('/image/gen/glyph.webp') no-repeat no-repeat;
+    background-position: -60px -18px;
+    width: 20px;
+    height: 18px;
+    display: inline-block;
+}
+
+.HBGAh {
+    background: url('/image/gen/glyph.webp') no-repeat no-repeat;
+    background-position: -60px -36px;
+    width: 20px;
+    height: 18px;
+    display: inline-block;
+}
+
+.HBGAi {
+    background: url('/image/gen/glyph.webp') no-repeat no-repeat;
+    background-position: 0px -54px;
+    width: 20px;
+    height: 18px;
+    display: inline-block;
+}
+
+.HBGAj {
+    background: url('/image/gen/glyph.webp') no-repeat no-repeat;
+    background-position: -20px -54px;
+    width: 20px;
+    height: 18px;
+    display: inline-block;
+}
+
+.HBGAk {
+    background: url('/image/gen/glyph.webp') no-repeat no-repeat;
+    background-position: 0px 0px;
+    width: 20px;
+    height: 18px;
+    display: inline-block;
+}
+
+.HBGAl {
+    background: url('/image/gen/glyph.webp') no-repeat no-repeat;
+    background-position: -60px -54px;
+    width: 20px;
+    height: 18px;
+    display: inline-block;
+}
+
+.HBGAm {
+    background: url('/image/gen/glyph.webp') no-repeat no-repeat;
+    background-position: -80px 0px;
+    width: 20px;
+    height: 18px;
+    display: inline-block;
+}
+
+.HBGAn {
+    background: url('/image/gen/glyph.webp') no-repeat no-repeat;
+    background-position: -80px -18px;
+    width: 20px;
+    height: 18px;
+    display: inline-block;
+}
+
+.HBGAo {
+    background: url('/image/gen/glyph.webp') no-repeat no-repeat;
+    background-position: -80px -36px;
+    width: 20px;
+    height: 18px;
+    display: inline-block;
+}
+
+.HBGAp {
+    background: url('/image/gen/glyph.webp') no-repeat no-repeat;
+    background-position: -80px -54px;
+    width: 20px;
+    height: 18px;
+    display: inline-block;
+}
+
+.HBGAq {
+    background: url('/image/gen/glyph.webp') no-repeat no-repeat;
+    background-position: 0px -72px;
+    width: 20px;
+    height: 18px;
+    display: inline-block;
+}
+
+.HBGAr {
+    background: url('/image/gen/glyph.webp') no-repeat no-repeat;
+    background-position: -20px -72px;
+    width: 20px;
+    height: 18px;
+    display: inline-block;
+}
+
+.HBGAs {
+    background: url('/image/gen/glyph.webp') no-repeat no-repeat;
+    background-position: -40px -72px;
+    width: 20px;
+    height: 18px;
+    display: inline-block;
+}
+
+.HBGAt {
+    background: url('/image/gen/glyph.webp') no-repeat no-repeat;
+    background-position: -60px -72px;
+    width: 20px;
+    height: 18px;
+    display: inline-block;
+}
+
+.HBGAu {
+    background: url('/image/gen/glyph.webp') no-repeat no-repeat;
+    background-position: -80px -72px;
+    width: 20px;
+    height: 18px;
+    display: inline-block;
+}
+
+.HBGAv {
+    background: url('/image/gen/glyph.webp') no-repeat no-repeat;
+    background-position: -40px -54px;
+    width: 20px;
+    height: 18px;
+    display: inline-block;
+}
+
+.HBGAw {
+    background: url('/image/gen/glyph.webp') no-repeat no-repeat;
+    background-position: -20px -18px;
+    width: 20px;
+    height: 18px;
+    display: inline-block;
+}
+
+.HBGAx {
+    background: url('/image/gen/glyph.webp') no-repeat no-repeat;
+    background-position: 0px -18px;
+    width: 20px;
+    height: 18px;
+    display: inline-block;
+}
+
+.HBGAy {
+    background: url('/image/gen/glyph.webp') no-repeat no-repeat;
+    background-position: -20px 0px;
+    width: 20px;
+    height: 18px;
+    display: inline-block;
+}
+
+.hbg00i {
+    background: url('/image/gen/glyph.webp') no-repeat no-repeat;
+    background-position: -100px -72px;
+    width: 6px;
+    height: 18px;
+    display: inline-block;
+}
+
+span.dotted {
+    border-bottom: 1px dotted #c03;
+}
+
+.bestiary_recipe {
+    width: 74px;
+}
+
+.bestiary_bg_3 {
+    height: 64px;
+    width: 64px;
+    display: inline-block;
+    background-color: #e8e96a;
+}
+
+.bestiary_invert {
+    -webkit-filter: invert(1);
+    filter: invert(1);
+    background-color: blue;
+}
+
+#xyz_form_div,
+.xyz_form_div {
+    border: 1px solid #ddd;
+}
+
+input.red_gem_border {
+    border-bottom: 2px solid var(--corrupted-color);
+    color: darkred;
+}
+
+input.blue_gem_border {
+    border-bottom: 2px solid var(--magic-color);
+    color: darkblue;
+}
+
+input.green_gem_border {
+    border-bottom: 2px solid var(--green-color);
+    color: darkgreen;
+}
+
+input.white_gem_border {
+    border-bottom: 2px solid black;
+    color: black;
+}
+
+input.abyss_gem_border {
+    border-bottom: 2px solid gold;
+    color: gold;
+}
+
+.xyz_form_div .form-group {
+    margin-bottom: 5px;
+}
+
+#xyz_form_div .form-group {
+    margin-bottom: 5px;
+}
+
+.accordion-toggle:hover {
+    opacity: 0.8;
+    filter: alpha(opacity=80);
+    /* For IE8 and earlier */
+    background-color: gold;
+    cursor: pointer;
+}
+
+img.tutorial {
+    max-width: 100%
+}
+
+figure {
+    display: inline-block;
+    padding: 5px;
+}
+
+@media (min-width: 992px) {
+    .modal-dialog {
+        max-width: 800px;
+    }
+
+    .modal-lg {
+        width: 800px;
+    }
+}
+
+@media (min-width: 1200px) {
+    .modal-dialog {
+        max-width: 1040px;
+    }
+
+    .modal-lg {
+        width: 1040px;
+    }
+}
+
+.DivinationCardBG,
+.popupDivinationCard {
+    text-align: center;
+    width: 360px;
+    height: 549px;
+    font-family: "FontinSmallCaps", "Fontin SmallCapsa", "Helvetica Neue", Helvetica, Arial, "微軟正黑體", sans-serif;
+    position: relative;
+}
+
+.TitleDivinationCardBar {
+    height: 65px;
+    line-height: 65px;
+}
+
+.DivinationCardBG .icon,
+.popupDivinationCard .icon {
+    position: absolute;
+    width: 320px;
+    height: 220px;
+    top: 50px;
+    left: 20px;
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+    z-index: -1;
+}
+
+.DivinationCardBG .Stats,
+.popupDivinationCard .Stats {
+    position: absolute;
+    top: 270px;
+    height: 279px;
+    padding-left: 30px;
+    padding-right: 30px;
+}
+
+.DivinationCardBG .Stats .explicitArea,
+.popupDivinationCard .Stats .explicitArea {
+    height: 100px;
+    width: 320px;
+    vertical-align: middle;
+    display: table-cell;
+    font-size: 16px;
+}
+
+.DivinationCardBG .Stats .FlavourText,
+.popupDivinationCard .Stats .FlavourText {
+    height: 151px;
+    width: 320px;
+    vertical-align: middle;
+    display: table-cell;
+    font-size: 16px;
+}
+
+.DivinationCardBG .stackSize,
+.popupDivinationCard .stackSize {
+    position: absolute;
+    left: 38px;
+    top: 260px;
+    height: 24px;
+    width: 50px;
+    line-height: 24px;
+    font-size: 16px;
+    color: white;
+}
+
+.popupDivinationCard {
+    top: 0px;
+    width: 360px;
+    height: 549px;
+    background-image: url('/image/item/popup/divination-card.webp');
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+
+.TextDivinationCard .ItemType {
+    color: var(--heist-color);
+}
+
+/*
+.table>tbody>tr>td {
+    background-color2: var(--dark-color);
+}
+.table td {
+    background-color: var(--dark-color);
+}
+.table-striped>tbody>tr:nth-of-type(odd)>td,
+.table-striped>tbody>tr:nth-of-type(odd)>th {
+    --bs-table-accent-bg: var(--bs-body-bg);
+    background-color: var(--bs-body-bg);
+}
+.table-hover tbody tr:hover td,
+.table-hover tbody tr:hover th {
+    background-color: var(--dark-color);
+}
+.table-bordered>tbody>tr>th,th.tablesorter-header {
+    background-color: var(--dark-color);
+}
+*/
+/*
+table.dataTable tbody tr,
+table.dataTable tbody tr.odd,
+table.dataTable.display tbody tr.odd,
+table.dataTable.display tbody tr.odd>.sorting_1 {
+    background-color: var(--dark-color);
+}
+table.dataTable tbody tr.even,
+table.dataTable.display tbody tr.even,
+table.dataTable.display tbody tr.even>.sorting_1 {
+    background-color: #333;
+}
+.dataTables_wrapper .dataTables_length, .dataTables_wrapper .dataTables_filter, .dataTables_wrapper .dataTables_info, .dataTables_wrapper .dataTables_processing, .dataTables_wrapper .dataTables_paginate {
+    color: #f0ad4e;
+}
+*/
+.form-control::-webkit-input-placeholder {
+    color: #999;
+    opacity: 1;
+}
+
+input,
+textarea {
+    background-color: #eee;
+    color: var(--dark-color);
+}
+
+a,
+.classic {
+    color: var(--craftaffectwarning-color);
+}
+
+.filter-title {
+    color: #fff8e1;
+}
+
+img.atlas-objective {
+    width: 100px;
+}
+
+img.w1 {
+    width: 47px;
+}
+img.w2 {
+    width: 94px;
+}
+img.w3 {
+    width: 141px;
+}
+img.w4 {
+    width: 188px;
+}
+
+div.flask {
+    width: 47px;
+    height: 95px;
+    overflow: hidden;
+    background-color: var(--bs-body-bg);
+}
+
+div.flask img {
+    max-width: initial;
+}
+
+img.flaskcrop_old {
+    position: absolute;
+    width: 143px;
+    height: 95px;
+    clip: rect(0px, 47px, 95px, 0px);
+}
+
+img.flaskcrop {
+    width: 47px;
+    height: 95px;
+    object-fit: none;
+    object-position: 0 100%;
+    background-color: var(--bs-body-bg);
+}
+
+.flask-icon-container,
+.flask-icon-frame {
+    width: 78px;
+    height: 156px;
+}
+
+.flask-icon-container {
+    position: relative;
+    background-position: -156px 0;
+}
+
+.flask-icon-frame {
+    position: absolute;
+    background-position: 0 0;
+}
+
+.modal-content {
+    background-color: var(--bs-body-bg);
+}
+
+.Marauder,
+.Warrior {
+    color: rgb(175, 90, 50);
+}
+
+.Ranger,
+.Huntress {
+    color: rgb(124, 179, 118);
+}
+
+.Witch,
+.Sorceress {
+    color: rgb(154, 195, 201);
+}
+
+.Duelist,
+.Mercenary {
+    color: rgb(150, 175, 200);
+}
+
+.Templar,
+.Druid {
+    color: rgb(207, 189, 138);
+}
+
+.Shadow,
+.Monk {
+    color: rgb(114, 129, 141);
+}
+
+.Scion {
+    /*color: rgb(90,90,90);*/
+    color: whitesmoke;
+    text-shadow: rgb(90, 90, 90) 0.1em 0.1em 0.2em;
+}
+
+.passive_div {
+    position: relative;
+}
+
+.keystone {
+    position: absolute;
+    height: 136px;
+    width: 133px;
+    white-space: nowrap;
+    text-align: center;
+}
+
+.helper {
+    display: inline-block;
+    height: 100%;
+    vertical-align: middle;
+}
+
+/* icon-container */
+.passive-icon-container,
+.map-icon-container,
+.buff-icon-container {
+    position: relative;
+    margin: 0px auto;
+}
+
+.passive-icon-frame,
+.map-icon-frame,
+.buff-icon-frame {
+    position: absolute;
+    z-index: 10;
+    pointer-events: none;
+}
+
+/* map */
+.map-icon-container {
+    width: 80px;
+    height: 80px;
+}
+
+.map-icon-container a {
+    position: absolute;
+    z-index: 11;
+}
+
+.map-icon-container a,
+.map-icon-container img {
+    left: 1px;
+    top: 1px;
+    width: 78px;
+    height: 78px;
+}
+
+.map-icon-container .map-icon-frame {
+    width: 80px;
+    height: 80px;
+    background-repeat: round;
+}
+
+.map-icon-type__base24 .map-icon-frame {
+    background-image: url(/image/Art/2DItems/Maps/Atlas2Maps/New/Base24.webp);
+}
+
+/* buff */
+.buff-icon-container {
+    width: 95px;
+    height: 95px;
+}
+
+.buff-icon-container a,
+.buff-icon-container img {
+    position: absolute;
+    left: 9px;
+    top: 9px;
+    width: 64px;
+    height: 64px;
+}
+
+.buff-icon-container .buff-icon-frame {
+    width: 97px;
+    height: 95px;
+}
+
+.buff-icon-type__Buff .buff-icon-frame {
+    background-image: url(/image/Art/2DArt/UIImages/InGame/Buff.webp);
+}
+
+.buff-icon-type__Debuff .buff-icon-frame {
+    background-image: url(/image/Art/2DArt/UIImages/InGame/Debuff.webp);
+}
+
+.buff-icon-type__Charges .buff-icon-frame {
+    background-image: url(/image/Art/2DArt/UIImages/InGame/Charges.webp);
+}
+
+.buff-icon-type__Flask .buff-icon-frame {
+    background-image: url(/image/Art/2DArt/UIImages/InGame/Flask.webp);
+}
+
+.buff-icon-type__Curse .buff-icon-frame {
+    background-image: url(/image/Art/2DArt/UIImages/InGame/Curse.webp);
+}
+
+/* keystone */
+.passive-icon-container a {
+    position: absolute;
+    z-index: 0;
+}
+
+.passive-icon-type__keystone,
+.passive-icon-type__atlas_keystone,
+.passive-icon-type__mastery {
+    width: 175px;
+    height: 175px;
+}
+
+.passive-icon-type__keystone a,
+.passive-icon-type__keystone img,
+.passive-icon-type__atlas_keystone a,
+.passive-icon-type__atlas_keystone img,
+.passive-icon-type__mastery a,
+.passive-icon-type__mastery img {
+    left: 36px;
+    top: 36px;
+    width: 100px;
+    height: 100px;
+}
+
+.passive-icon-type__keystone .passive-icon-frame {
+    width: 175px;
+    height: 175px;
+    background-image: url(/image/Art/2DArt/UIImages/InGame/PassiveSkillScreenKeystoneFrameCanAllocate.webp);
+    background-repeat: round;
+}
+
+.passive-icon-type__atlas_keystone .passive-icon-frame {
+    width: 175px;
+    height: 175px;
+    background-image: url(/image/Art/2DArt/UIImages/InGame/AtlasScreen/AtlasPassiveSkillScreenKeystoneFrameNormal.webp);
+    background-repeat: round;
+}
+
+.passive-icon-type__mastery .passive-icon-frame {
+    width: 175px;
+    height: 175px;
+    background-image: url(/image/Art/2DArt/UIImages/InGame/PassiveMastery/PassiveMasteryButtonInactiveClicked.webp);
+    background-repeat: round;
+}
+
+.passive-mastery-icon {
+    height: 175px;
+}
+
+/* notable */
+.passive-icon-type__notable,
+.passive-icon-type__ascendancy_notable,
+.passive-icon-type__atlas_notable {
+    width: 100px;
+    height: 100px;
+}
+
+.passive-icon-type__notable a,
+.passive-icon-type__notable img,
+.passive-icon-type__ascendancy_notable a,
+.passive-icon-type__ascendancy_notable img,
+.passive-icon-type__atlas_notable a,
+.passive-icon-type__atlas_notable img {
+    left: 16px;
+    top: 16px;
+    width: 68px;
+    height: 68px;
+}
+
+.passive-icon-type__notable img,
+.passive-icon-type__ascendancy_notable img,
+.passive-icon-type__atlas_notable img {
+    border-radius: 50%;
+}
+
+.passive-icon-type__notable .passive-icon-frame {
+    width: 100px;
+    height: 100px;
+    background-image: url(/image/Art/2DArt/UIImages/InGame/PassiveSkillScreenNotableFrameCanAllocate.webp);
+    background-repeat: round;
+}
+
+.passive-icon-type__notable.Druid1 .passive-icon-frame {
+    background-image: url(/image/Art/2DArt/UIImages/InGame/OraclePassiveSkillScreenNotableFrameCanAllocate.webp);
+}
+
+.passive-icon-type__ascendancy_notable .passive-icon-frame {
+    width: 100px;
+    height: 100px;
+    background-image: url(/image/Art/2DArt/UIImages/InGame/PassiveSkillScreenAscendancyFrameLargeCanAllocate.webp);
+    background-repeat: round;
+}
+
+.passive-icon-type__atlas_notable .passive-icon-frame {
+    width: 100px;
+    height: 100px;
+    background-image: url(/image/Art/2DArt/UIImages/InGame/AtlasScreen/AtlasPassiveSkillScreenNotableFrameNormal.webp);
+    background-repeat: round;
+}
+
+/* basic */
+.passive-icon-type__basic,
+.passive-icon-type__ascendancy_basic,
+.passive-icon-type__atlas_basic {
+    width: 60px;
+    height: 60px;
+}
+
+.passive-icon-type__basic a,
+.passive-icon-type__basic img,
+.passive-icon-type__ascendancy_basic a,
+.passive-icon-type__ascendancy_basic img,
+.passive-icon-type__atlas_basic a,
+.passive-icon-type__atlas_basic img {
+    left: 10px;
+    top: 10px;
+    width: 40px;
+    height: 40px;
+}
+
+.passive-icon-type__basic img,
+.passive-icon-type__ascendancy_basic img,
+.passive-icon-type__atlas_basic img {
+    border-radius: 50%;
+}
+
+.passive-icon-type__basic .passive-icon-frame {
+    width: 60px;
+    height: 60px;
+    background-image: url(/image/Art/2DArt/UIImages/InGame/PassiveSkillScreenPassiveFrameCanAllocate.webp);
+    background-repeat: round;
+}
+
+.passive-icon-type__basic.Druid1 .passive-icon-frame {
+    background-image: url(/image/Art/2DArt/UIImages/InGame/OraclePassiveSkillScreenPassiveFrameCanAllocate.webp);
+}
+
+.passive-icon-type__ascendancy_basic .passive-icon-frame {
+    width: 60px;
+    height: 60px;
+    background-image: url(/image/Art/2DArt/UIImages/InGame/PassiveSkillScreenAscendancyFrameSmallCanAllocate.webp);
+    background-repeat: round;
+}
+
+.passive-icon-type__atlas_basic .passive-icon-frame {
+    width: 60px;
+    height: 60px;
+    background-image: url(/image/Art/2DArt/UIImages/InGame/AtlasScreen/PassiveSkillScreenPassiveFrameNormal.webp);
+    background-repeat: round;
+}
+
+ul.PassiveMastery {
+    padding-inline-start: 0;
+    margin-bottom: 0;
+}
+
+li.PassiveMastery {
+    background: url(/image/item/popup/mastery-passive-list.webp) no-repeat left center;
+    list-style: none;
+    vertical-align: middle;
+    padding: 3px 3px 3px 30px;
+}
+
+/*
+wiki
+*/
+div.collapse_div p {
+    font-size: 14px;
+}
+
+div.collapse_div {
+    border: 1px solid var(--default-color);
+    padding: 0.5rem;
+}
+
+@media only screen and (max-width: 768px) {
+
+    .container,
+    .vte {
+        padding-left: 5px;
+        padding-right: 5px;
+    }
+
+    [class*="col-"] {
+        padding-left: 5px;
+        padding-right: 5px;
+    }
+}
+
+div.sidebar {
+    position: absolute;
+    top: 70px;
+    left: 0px;
+    width: 160px;
+}
+
+@media screen and (max-width: 1480px) {
+    div.sidebar {
+        display: none;
+    }
+}
+
+.modal-body table caption {
+    color: #ff9800;
+}
+
+
+.minimap_icon {
+    background-image: url(https://i.imgur.com/of0WT7B.png);
+    display: inline-block;
+}
+
+.minimap_64 {
+    width: 64px;
+    height: 64px;
+}
+
+.minimap_32 {
+    width: 32px;
+    height: 32px;
+    background-size: 448px auto;
+}
+
+.minimap_16 {
+    width: 16px;
+    height: 16px;
+    background-size: 224px auto;
+}
+
+.minimap_icon_39 {
+    background-image: url(https://i.imgur.com/PNxYYC4.png);
+    display: inline-block;
+}
+
+.minimap_39 {
+    width: 39px;
+    height: 39px;
+}
+
+hr.block {
+    margin: 7px;
+}
+
+.text-Wild,
+.text-type12 {
+    color: magenta;
+}
+
+.text-Vivid,
+.text-type13 {
+    color: yellow;
+}
+
+.text-Primal,
+.text-type14 {
+    color: cyan;
+}
+
+[aria-expanded="true"] .fa-chevron-circle-down {
+    display: none;
+}
+
+[aria-expanded="false"] .fa-chevron-circle-up {
+    display: none;
+}
+
+.identify-title {
+    cursor: pointer;
+}
+
+.double li a {
+    display: block;
+}
+
+.double li a:hover {
+    background-color: #121212;
+    color: #fce49e;
+}
+
+#xyz_form_div div.row {
+    margin-right: 0px;
+    margin-left: 0px;
+}
+
+.dropdown:hover>.dropdown-menu {
+    display: block;
+}
+
+.nav-tabs li.nav-item:hover {
+    background: #121212;
+}
+
+.TitleBar {
+    height: 27px;
+}
+
+.TitleSingleBar {
+    height: 34px;
+}
+
+.TitleSingleBar .ItemType {
+    line-height: 34px;
+}
+
+.btn-sm {
+    margin-bottom: 1px;
+}
+
+.dropdown-menu {
+    /*border-top: 0px;*/
+    margin-top: 0px;
+    /* cause auto display block error */
+}
+
+hr.xyz {
+    margin-top: 1px;
+    margin-bottom: 1px;
+    border: 1;
+}
+
+.card-body pre {
+    background: black;
+    border: 1px solid #CCCCCC;
+    color: white;
+    display: block;
+    font-family: Consolas, "Andale Mono WT", "Andale Mono", "Lucida Console", "Lucida Sans Typewriter", "DejaVu Sans Mono", "Bitstream Vera Sans Mono", "Liberation Mono", "Nimbus Mono L", Monaco, "Courier New", Courier, monospace;
+    line-height: 120%;
+    margin: 5px 0 1rem 20px;
+    max-height: 300px;
+    overflow: auto;
+    padding: 10px 10px 10px 21px;
+    width: 90%;
+    tab-size: 4;
+}
+
+.vte {
+    padding-left: 5px;
+    padding-right: 5px;
+    padding-top: 3px;
+    width: 100%;
+    clear: both;
+}
+
+.vte th {
+    text-align: right;
+}
+
+.vte .table {
+    margin-bottom: 3px;
+}
+
+@media only screen and (min-width: 768px) {
+    .vte th {
+        white-space: nowrap;
+    }
+}
+
+.longstory {
+    word-break: break-all;
+    white-space: per-line;
+}
+
+.noborder {
+    background-color: var(--bs-body-bg) !important;
+    color: white;
+}
+
+.nav-link {
+    padding: .5rem;
+}
+
+.ui-tabs .ui-tabs-panel {
+    padding: 0;
+}
+
+.ui-widget-content {
+    background-color: #121212;
+    color: #eee;
+}
+
+.ui-widget-content a {
+    color: var(--legacy-color);
+}
+
+.bg333 {
+    background-color: #333;
+}
+
+.card,
+.list-group-item,
+.btn-secondary,
+.vte th {
+    background-color: var(--bs-body-bg);
+}
+
+.card-header,
+.card-body {
+    padding: .5rem 1rem;
+}
+
+.card-header+.card-body {
+    padding-top: 0;
+}
+
+.card-header {
+    background: transparent;
+    border-bottom: 0;
+}
+
+input.card-query {
+    padding: 4px;
+    border-radius: 4px;
+    margin: 4px;
+}
+
+.gem_icon {
+    padding: 5px;
+    font-family: monospace;
+}
+
+.markdown-body table {
+    width: 100%;
+    margin-bottom: 1rem;
+}
+
+.markdown-body table th {
+    padding: .75rem;
+    border-bottom: 2px solid #444;
+}
+
+.markdown-body table th,
+.markdown-body table td {
+    padding: .75rem;
+    vertical-align: top;
+    border-top: 1px solid #444;
+}
+
+.markdown-body h1 {
+    color: #fce49e;
+    font-size: 36px;
+}
+
+#markdown {
+    background-color: var(--bs-body-bg);
+    color: #eee;
+}
+
+.markdown-body h2 {
+    color: #fce49e;
+    font-size: 24px;
+    border-bottom-width: 1px;
+    border-bottom-style: solid;
+}
+
+.markdown-body h3 {
+    color: #fce49e;
+    font-size: 18px;
+}
+
+
+.nav-tabs .nav-link {
+    color: white;
+}
+
+#player {
+    position: fixed;
+    bottom: 8px;
+    right: 8px;
+}
+
+hr.mod-same-family {
+    width: 70%;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 0.05rem;
+    margin-bottom: 0.05rem;
+    opacity: 0.5;
+}
+
+.col,
+.col-1,
+.col-10,
+.col-11,
+.col-12,
+.col-2,
+.col-3,
+.col-4,
+.col-5,
+.col-6,
+.col-7,
+.col-8,
+.col-9,
+.col-auto,
+.col-lg,
+.col-lg-1,
+.col-lg-10,
+.col-lg-11,
+.col-lg-12,
+.col-lg-2,
+.col-lg-3,
+.col-lg-4,
+.col-lg-5,
+.col-lg-6,
+.col-lg-7,
+.col-lg-8,
+.col-lg-9,
+.col-lg-auto,
+.col-md,
+.col-md-1,
+.col-md-10,
+.col-md-11,
+.col-md-12,
+.col-md-2,
+.col-md-3,
+.col-md-4,
+.col-md-5,
+.col-md-6,
+.col-md-7,
+.col-md-8,
+.col-md-9,
+.col-md-auto,
+.col-sm,
+.col-sm-1,
+.col-sm-10,
+.col-sm-11,
+.col-sm-12,
+.col-sm-2,
+.col-sm-3,
+.col-sm-4,
+.col-sm-5,
+.col-sm-6,
+.col-sm-7,
+.col-sm-8,
+.col-sm-9,
+.col-sm-auto,
+.col-xl,
+.col-xl-1,
+.col-xl-10,
+.col-xl-11,
+.col-xl-12,
+.col-xl-2,
+.col-xl-3,
+.col-xl-4,
+.col-xl-5,
+.col-xl-6,
+.col-xl-7,
+.col-xl-8,
+.col-xl-9,
+.col-xl-auto {
+    padding-right: 5px;
+    padding-left: 5px;
+}
+
+.row {
+    margin-right: -5px;
+    margin-left: -5px;
+}
+
+.league_bar a {
+    height: 39px;
+    display: inline-block;
+}
+
+.league_bar a:hover {
+    background-color: black;
+}
+
+.mod-title {
+    display: block;
+    cursor: pointer;
+    background-color: #282828;
+    line-height: 1.4;
+    border-bottom: 1px solid #4d5154;
+    padding: 2px;
+}
+
+.mod-total {
+    display: block;
+    margin-bottom: 3px;
+    color: white;
+    background-color: #555;
+    font-weight: bold;
+    border-top: 1px white dashed;
+}
+
+/*
+.even {
+    background-color: #181818;
+}
+*/
+.mod-title.pasted {
+    background-color: #000;
+    color: var(--rare-color);
+}
+
+.mod-title:hover {
+    background: black !important;
+}
+
+.mod-title img {
+    height: 23px;
+}
+
+.checkboxes input[type=checkbox] {
+    display: none;
+}
+
+.checkboxes input[type=checkbox]:checked+.whatever {
+    background-color: #673ab7;
+}
+
+.checkboxes .whatever {
+    border: 1px solid var(--currency-color);
+    background-color: var(--bs-body-bg);
+    cursor: pointer;
+    margin-bottom: 0.25rem;
+}
+
+.checkboxes .whatever.none {
+    border: 1px solid #55617d;
+}
+
+.checkboxes .whatever:hover {
+    background-color: #333;
+}
+
+.checkboxes .harvest-tag.only {
+    background-color: #673ab7;
+}
+
+.checkboxes .harvest-tag.none {
+    background-color: #673ab7;
+    text-decoration: line-through;
+}
+
+/*
+input:not(:placeholder-shown) {
+    color: var(--green-color);
+    font-weight: bold;
+    border-top: solid;
+    border-top-color: var(--green-color);
+}
+*/
+.invert100 {
+    filter: invert(100%);
+}
+
+.LakeTileBlankTier1 {
+    background-image: url(/image/Art/2DArt/UIImages/InGame/Lake/LakeTileBlankTier1.webp);
+}
+
+.LakeTileBlankTier2 {
+    background-image: url(/image/Art/2DArt/UIImages/InGame/Lake/LakeTileBlankTier2.webp);
+}
+
+.LakeTileBlankTier3 {
+    background-image: url(/image/Art/2DArt/UIImages/InGame/Lake/LakeTileBlankTier3.webp);
+}
+
+.LakeTileBlankTier4 {
+    background-image: url(/image/Art/2DArt/UIImages/InGame/Lake/LakeTileBlankTier4.webp);
+}
+
+.ascendancySVG {
+    max-height: 675px;
+    max-width: 675px;
+}
+
+input[type=checkbox] {
+    /* Double-sized Checkboxes */
+    -ms-transform: scale(2);
+    /* IE */
+    -moz-transform: scale(2);
+    /* FF */
+    -webkit-transform: scale(2);
+    /* Safari and Chrome */
+    -o-transform: scale(2);
+    /* Opera */
+    padding: 10px;
+}
+
+.secondary {
+    color: #5382a1;
+}
+
+/* Metadata/UI/UISettings.xml */
+.default {
+    color: #7f7f7f;
+}
+
+.valuedefault {
+    color: #ffffff;
+}
+
+.pink {
+    color: #ffc0cb;
+}
+
+.dodgerblue {
+    color: #1e90ff;
+}
+
+.green {
+    color: var(--green-color);
+}
+
+.fire {
+    color: var(--fire-color);
+}
+
+.cold {
+    color: var(--cold-color);
+}
+
+.lightning {
+    color: var(--lightning-color);
+}
+
+.chaos {
+    color: var(--chaos-color);
+}
+
+.augmented {
+    color: var(--magic-color);
+}
+
+.crafted {
+    color: #b8daf2;
+}
+
+.fractured {
+    color: var(--fractured-color);
+}
+
+.enchanted {
+    color: #b8daf2;
+}
+
+.unmet {
+    color: var(--corrupted-color);
+}
+
+.uniqueitem, .UniqueItem {
+    color: var(--unique-color);
+}
+
+.unique {
+    color: var(--unique-color);
+}
+
+.rareitem, .RareItem {
+    color: var(--rare-color);
+}
+
+.rare {
+    color: var(--rare-color);
+}
+
+.magicitem,.MagicItem {
+    color: var(--magic-color);
+}
+
+.magic {
+    color: var(--magic-color);
+}
+
+.whiteitem {
+    color: var(--normal-color);
+}
+
+.normal {
+    color: var(--normal-color);
+}
+
+.gemitem,.GemItem {
+    color: var(--gem-color);
+}
+
+.gem {
+    color: var(--gem-color);
+}
+
+.currencyitem,.CurrencyItem {
+    color: var(--currency-color);
+}
+
+.currency {
+    color: var(--currency-color);
+}
+
+.questitem {
+    color: var(--quest-color);
+}
+
+.quest {
+    color: var(--quest-color);
+}
+
+.nemesismod {
+    color: var(--lightning-color);
+}
+
+.nemesismodoutline {
+    color: #dcff28;
+}
+
+.talismanmod {
+    color: #8df14f;
+    text-shadow: -1px -1px 0 #dc0000, 1px -1px 0 #dc0000, -1px 1px 0 #dc0000, 1px 1px 0 #dc0000;
+    letter-spacing: 1px;
+}
+
+.talismanmodoutline {
+    color: #dc0000;
+}
+
+.title {
+    color: var(--title-color);
+}
+
+.corrupted {
+    color: var(--corrupted-color);
+}
+
+.favour {
+    color: #aa9e82;
+}
+
+.supporterpacknewitem {
+    color: #b46000;
+}
+
+.supporterpackitem {
+    color: #a38d6d;
+}
+
+.supporterpackincludes {
+    color: #f2a22f;
+}
+
+.bloodlinemod {
+    color: #d200dc;
+    text-shadow: -1px -1px 0 #c84a00, 1px -1px 0 #c84a00, -1px 1px 0 #c84a00, 1px 1px 0 #c84a00;
+    letter-spacing: 1px;
+}
+
+.bloodlinemodoutline {
+    color: #c84a00;
+}
+
+.tormentmod {
+    color: #32e664;
+    text-shadow: -1px -1px 0 #c80064, 1px -1px 0 #c80064, -1px 1px 0 #c80064, 1px 1px 0 #c80064;
+    letter-spacing: 1px;
+}
+
+.tormentmodoutline {
+    color: #c80064;
+}
+
+.canttradeormodify {
+    color: var(--corrupted-color);
+}
+
+.lockedtoaccount {
+    color: var(--corrupted-color);
+}
+
+.divination,
+.DivinationCard {
+    color: var(--divination-color);
+}
+
+.prophecy {
+    color: var(--prophecy-color);
+}
+
+.essencemod {
+    color: #a4d2ff;
+}
+
+.essencemodoutline {
+    color: #d20032;
+}
+
+.premiumchat {
+    color: #fdf27e;
+}
+
+.premiumchatoutline {
+    color: #d12e2e;
+}
+
+.uniquefoil {
+    color: #82ad6a;
+}
+
+.legacy {
+    color: #d4913f;
+}
+
+.bestiarymod {
+    color: #ffffff;
+}
+
+.bestiarymodoutline {
+    color: #dcff28;
+}
+
+.blightmod {
+    color: #ffffff;
+}
+
+.blightmodoutline {
+    color: var(--lightning-color);
+}
+
+.afflictionmod {
+    color: var(--afflictionmod-color);
+}
+
+.afflictionmodoutline {
+    color: #c8c1d2;
+}
+
+.stackitemlevel {
+    color: #ffffff;
+}
+
+.harvestprimary {
+    color: #646f49;
+}
+
+.harvestsecondary {
+    color: #5382a1;
+}
+
+.craftingcaster,
+[for="harvest-caster"],
+[data-tag="caster"] {
+    color: #b3f8fe;
+}
+
+.craftingphysical,
+[for="harvest-physical"],
+[data-tag="physical"] {
+    color: #c79d93;
+}
+
+.craftingfire {
+    color: #ff9a77;
+}
+
+.craftingcold {
+    color: #93d8ff;
+}
+
+.craftinglightning {
+    color: #f8cb76;
+}
+
+.craftingchaos {
+    color: #d8a7d3;
+}
+
+.craftingspeed {
+    color: #cfeea5;
+}
+
+.craftingcrit,
+.craftingcritical {
+    color: #b2a7d6;
+}
+
+.craftingred {
+    color: #c8676e;
+}
+
+.craftingblue {
+    color: #a2cffb;
+}
+
+.craftinggreen {
+    color: #86bda3;
+}
+
+.craftinglife {
+    color: #c96e6e;
+}
+
+.craftingdefences {
+    color: #a88f67;
+}
+
+.craftingattack {
+    color: #da814d;
+}
+
+.heist {
+    color: #191e19;
+}
+
+.heiststolenitem {
+    color: var(--corrupted-color);
+}
+
+.atlasmaven {
+    color: #b60ca9;
+}
+
+.ultimatumnumber {
+    color: #fe5c51;
+}
+
+.incursionunreachable {
+    color: #5a5a5a;
+}
+
+.lockedinplaceitem {
+    color: #7f7f7f;
+}
+
+.craftaffectremove {
+    color: #fe9900;
+}
+
+.craftaffectwarning {
+    color: #ebc850;
+}
+
+.craftaffectreroll {
+    color: #fe9900;
+}
+
+.skillpopuptitle {
+    color: #f9e6ca;
+}
+
+.disabledstats {
+    color: #9696a7;
+}
+
+.skillextrainfo {
+    color: #ffc077;
+}
+
+.fakeitemcount {
+    color: #c8c8c8;
+}
+
+.atlasunlocktext {
+    color: #af6c19;
+}
+
+.archnemesismodnormal {
+    color: #dde8ae;
+}
+
+.archnemesismodchaosgreen {
+    color: #a8ffb0;
+}
+
+.archnemesismodchaospurple {
+    color: #e39eff;
+}
+
+.archnemesismodcold {
+    color: #cff3ff;
+}
+
+.archnemesismodfire {
+    color: #ffc49e;
+}
+
+.archnemesismodlightning {
+    color: #ad6868;
+}
+
+.archnemesismodphysicalred {
+    color: #ad6868
+}
+
+.archnemesismodphysicalgrey {
+    color: #dbdbdb;
+}
+
+.archnemesismodgolden {
+    color: #ffe496;
+}
+
+.archnemesismodholy {
+    color: #f5e36e;
+}
+
+.archnemesismodgod {
+    color: #ff9900;
+}
+
+.archnemesismodnormaloutline {
+    color: #c87378;
+}
+
+.archnemesismodchaosgreenoutline {
+    color: #c812b8;
+}
+
+.archnemesismodchaospurpleoutline {
+    color: #c88916;
+}
+
+.archnemesismodcoldoutline {
+    color: #c83c97;
+}
+
+.archnemesismodfireoutline {
+    color: #c8cf51;
+}
+
+.archnemesismodlightningoutline {
+    color: #c89995;
+}
+
+.archnemesismodphysicalredoutline {
+    color: #c86300;
+}
+
+.archnemesismodphysicalgreyoutline {
+    color: #c88278;
+}
+
+.archnemesismodgoldenoutline {
+    color: #c8946e;
+}
+
+.archnemesismodholyoutline {
+    color: #c8d9bc;
+}
+
+.archnemesismodgodoutline {
+    color: #c8ff28;
+}
+
+.archnemesismodspecialoutline {
+    color: #c8fa46
+}
+
+.archnemesismodabyss {
+    color: rgb(166, 195, 74)
+}
+
+.archnemesismodabyssspecial {
+    color: rgb(209, 237, 128)
+}
+
+.mavenfightpopuptitle {
+    color: #008fce;
+}
+
+.mavenfightpopupglow {
+    color: #1e1e5e;
+}
+
+.sentinelsnapshotwarning {
+    color: #c8676e;
+}
+
+.atlasskillstitle {
+    color: #6e8495;
+}
+
+.archnemesisitem {
+    color: #aa9e82;
+}
+
+.scourged,
+.identifyscourgeup .explicitMod,
+.identifyscourgedown .explicitMod {
+    color: var(--scourged-color);
+}
+
+.lakeofkalandrareachable {
+    color: #8888ff
+}
+
+.lakeofkalandraunreachable {
+    color: #5a5a5a
+}
+
+.harvestmonstertier1 {
+    color: #7f7f7f
+}
+
+.harvestmonstertier2 {
+    color: #c8c8c8
+}
+
+.harvestmonstertier3 {
+    color: #b8daf2
+}
+
+.harvestmonstertier4 {
+    color: #af6025
+}
+
+.sanctumboon {
+    color: #b5a890
+}
+
+.sanctumcurse {
+    color: #a06dca
+}
+
+.sanctumpact {
+    color: #ab8bad
+}
+
+.ancestralprimary {
+    color: #d4d0cc
+}
+
+.ancestralsecondary {
+    color: #9e978f
+}
+
+.ancestralblue {
+    color: #86b2c3
+}
+
+.azmerigreen {
+    color: #b3c081
+}
+
+.descendancygrey {
+    color: #bcccbb
+}
+
+.white,
+.White {
+    color: white
+}
+
+.float-end,
+.float-right {
+    float: right !important;
+}
+
+.float-start,
+.float-left {
+    float: left !important;
+}
+
+.dropdown-item {
+    background-color: #222;
+}
+
+.btn-primary {
+    --bs-btn-bg: #375a82;
+    --bs-btn-border-color: #375a82;
+}
+
+.tooltip-inner {
+    color: white;
+    background-color: #222;
+    box-shadow: 0px 0px 4px black;
+    opacity: 1 !important;
+    font-size: initial;
+    max-width: 100vw !important;
+}
+
+blockquote.blockquote {
+    padding-left: 1rem;
+    border-left: 5px solid grey;
+}
+
+kbd {
+    background-color: white;
+    color: black;
+}
+
+/*
+select.form-control option, select option {
+    color: white;
+    background-color: #222;
+}
+.select2-results__option {
+    color: var(--default-color);
+}
+.select2-container--bootstrap .select2-selection--single .select2-selection__rendered {
+    color: var(--green-color);
+    font-weight: bold;
+}
+.select2-container--bootstrap .select2-results__option--highlighted[aria-selected] {
+    background-color: var(--green-color);
+    color: white;
+}
+.select2-container--default .select2-selection--single .select2-selection__placeholder {
+    color: #444;
+}
+*/
+select option {
+    background-color: #222;
+}
+
+/* Select 2 bootstrap-5 theme override */
+html[data-bs-theme="dark"] .select2-container--bootstrap-5 .select2-selection {
+    background-color: transparent !important;
+    border: 1px solid #495057;
+}
+
+html[data-bs-theme="dark"] .select2-container--bootstrap-5 .select2-selection--single {
+    background-image: url("data:image/svg+xml,%3csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 16 16'%3e%3cpath fill='none' stroke='%23dee2e6' stroke-linecap='round' stroke-linejoin='round' stroke-width='2' d='m2 5 6 6 6-6'/%3e%3c/svg%3e");
+}
+
+html[data-bs-theme="dark"] .select2-container--bootstrap-5 .select2-selection--single .select2-selection__rendered {
+    color: #dee2e6 !important;
+}
+
+html[data-bs-theme="dark"] .select2-container--bootstrap-5 .select2-selection--multiple .select2-selection__rendered .select2-selection__choice {
+    color: #dee2e6 !important;
+}
+
+html[data-bs-theme="dark"] .select2-container--bootstrap-5 .select2-selection--multiple .select2-selection__rendered .select2-selection__choice {
+    border: 1px solid var(--bs-gray-600);
+}
+
+html[data-bs-theme="dark"] .select2-container--bootstrap-5 .select2-selection--single .select2-selection__rendered .select2-selection__placeholder {
+    color: #dee2e6 !important;
+}
+
+html[data-bs-theme="dark"] .select2-container--bootstrap-5 .select2-dropdown .select2-search .select2-search__field {
+    background-color: transparent !important;
+    color: #dee2e6 !important;
+}
+
+html[data-bs-theme="dark"] .select2-container--bootstrap-5 .select2-dropdown {
+    color: #dee2e6 !important;
+    border: 1px solid #495057 !important;
+    background-color: #222;
+}
+
+html[data-bs-theme="dark"] .select2-container--bootstrap-5 .select2-dropdown .select2-results__options .select2-results__option[role=group] .select2-results__group {
+    color: var(--bs-secondary-color) !important;
+}
+
+a.js-modal-btn {
+    position: relative;
+}
+
+a.js-modal-btn:before {
+    content: "\f167";
+    font-family: "Font Awesome 7 Brands";
+    position: absolute;
+    left: 140px;
+    top: -20px;
+    font-size: xxx-large;
+    opacity: 0.5;
+    color: red;
+}
+
+span.KeywordPopups,
+a.KeywordPopups {
+    text-decoration: underline dotted;
+    -webkit-text-decoration: underline dotted;
+    text-underline-offset: 0.2em;
+    color: inherit;
+}
+
+.panel-item-icon {
+    max-width: 94px;
+    max-height: 188px;
+}
+
+.gemPopup.item-popup--poe2 .property:first-child,
+.GemPopup.item-popup--poe2 .property:first-child {
+    color: #7f7f7f;
+}
+
+.gemPopup .explicitMod:nth-child(even),
+.uniquePopup .explicitMod:nth-child(even),
+.UniquePopup .explicitMod:nth-child(even),
+.GemPopup .explicitMod:nth-child(even) {
+    /*background: linear-gradient(to right, rgba(18, 18, 18, 0) 0%, rgba(18, 18, 18, 255) 49%, rgba(18, 18, 18, 0) 100%);*/
+    background-image: linear-gradient(90deg, hsla(0, 0%, 100%, 0), hsla(0, 0%, 100%, .125), hsla(0, 0%, 100%, 0));
+}
+
+.mutatedMods .mutatedMod:nth-child(even) {
+    background-image: linear-gradient(90deg, hsla(0, 0%, 100%, 0), hsla(0, 0%, 100%, .125), hsla(0, 0%, 100%, 0));
+}
+
+.gemPopup.item-popup--poe2 .property+.requirements:before,
+.GemPopup.item-popup--poe2 .property+.requirements:before {
+    content: '';
+    border-top: 1px solid #75a398;
+    position: absolute;
+    width: 30%;
+    height: 1px;
+    left: 16px;
+    opacity: 40%;
+}
+
+.mtx-icon {
+    max-width: 156px;
+    max-height: 156px;
+}
+
+.size24 {
+    width: 24px;
+    height: 24px;
+}
+
+.size32 {
+    width: 32px;
+    height: 32px;
+}
+
+.size48 {
+    width: 48px;
+    height: 48px;
+}
+
+.size64 {
+    width: 64px;
+    height: 64px;
+}
+
+.newItemPopup.uniquePopup.item-popup--poe2 .itemHeader .itemName,
+.newItemPopup.UniquePopup.item-popup--poe2 .itemHeader .itemName,
+.newItemPopup.RunicUniquePopup.item-popup--poe2 .itemHeader .itemName,
+.uniqueitem,
+.item_unique,
+.TextUnique {
+    color: #ef6916;
+}
+
+.grantsSkill {
+    width: 1.4em;
+    height: 1.4em;
+    border: 1px solid #64544d;
+}
+
+@media only screen and (max-width: 440px) {
+
+    .itembox-gem,
+    .itemPopup {
+        width: 100%;
+    }
+
+    .panel-item-icon {
+        max-width: 100px;
+    }
+}
+
+.gemPopup .hybridHeader,
+.GemPopup .hybridHeader {
+    display: flex;
+    flex-direction: row;
+    background-image: linear-gradient(90deg, rgba(30, 41, 41, 0), #1e2929, rgba(30, 41, 41, 0));
+    background-size: 100% 2px;
+    background-repeat: no-repeat;
+    background-position: bottom;
+    justify-content: center;
+    align-items: stretch;
+    height: 20px;
+    grid-gap: 4px;
+    gap: 4px;
+    margin: 4px 0;
+}
+
+.gemPopup .hybridHeader .TitleBar,
+.GemPopup .hybridHeader .TitleBar {
+    border-top: 1px solid #1e2929;
+    border-left: 1px solid #1e2929;
+    border-right: 1px solid #1e2929;
+    border-top-left-radius: 6px;
+    border-top-right-radius: 6px;
+    line-height: 20px;
+    padding: 0 4px;
+    color: #6e9a97;
+    background: linear-gradient(180deg, #0f1515, #000);
+    margin-bottom: 0px;
+}
+
+.hybridHeader .ItemType {
+    font-size: initial;
+}
+
+.itemName a .KeywordPopups {
+    color: #6e9a97;
+}
+
+.property a .KeywordPopups {
+    color: #7f7f7f;
+}
+
+.requirements .colourDefault a {
+    color: #fff;
+}
+
+.NPCs {
+    color: #b44bff;
+}
+
+blockquote {
+    padding: .5rem 1rem;
+    background: 0 0;
+    border-left: 5px solid var(--bs-secondary);
+}
+
+.item-popup--poe2 .GemTags {
+    font-family: FontinRegular;
+}
+
+.spiritprimal {
+    color: cyan;
+}
+
+.spiritvivid {
+    color: #ffd54b;
+}
+
+.spiritwild {
+    color: magenta;
+}
+
+.spiritsacred {
+    color: rgb(255 154 119);
+}
+
+.border-circle {
+    border-radius: 50%;
+}
+
+.enemyNormal {
+    border: 1px solid silver;
+}
+
+.enemyWeak {
+    border: 1px solid red;
+}
+
+.enemyStrong {
+    border: 1px solid gold;
+}
+
+.uniqueName {
+    font-weight: bold;
+}
+
+.uniqueTypeLine {
+    font-size: .875em;
+}
+
+.WorldAreas,
+.Incursion2RoomPerLevel {
+    color: #d8a7d3;
+}
+
+.card.special {
+    background: url(https://web.poecdn.com/gen/image/WzIxLDE0LHsiayI6IjJESXRlbXMvRWZmZWN0cy9Db25zdW1lcmFibGVzL0N1cnJlbmN5In1d/6228a4a02f/Currency.png);
+    background-repeat: no-repeat;
+    background-position-x: right;
+    text-shadow: 1px 1px 2px black, -1px -1px 2px black;
+}
+
+.achievementDescription,
+.achievementItems {
+    color: #e7b477;
+}
+
+img.MercenarySkillPrimary2 {
+    border: #9C27B0 1px solid;
+    margin-bottom: 1px;
+}
+
+img.MercenarySkillSecondary2 {
+    border: #4CAF50 1px solid;
+    margin-bottom: 1px;
+}
+
+img.MercenarySkillUtility2 {
+    border: #E91E63 1px solid;
+    margin-bottom: 1px;
+}
+
+[aria-expanded="false"].fa-square-caret-up:before {
+    content: "\f150";
+}
+
+[aria-expanded="true"].fa-sauqre-caret-up:before {
+    content: "\f151";
+}
+
+.craftingamanamu_mod,
+.Amanamu,
+[data-tag="amanamu_mod"] {
+    text-shadow: 2px 2px 2px darkred, -2px -2px 2px darkred;
+}
+
+.craftingkurgal_mod,
+.Kurgal,
+[data-tag="kurgal_mod"] {
+    text-shadow: 2px 2px 2px darkgreen, -2px -2px 2px darkgreen;
+}
+
+.craftingulaman_mod,
+.Ulaman,
+[data-tag="ulaman_mod"] {
+    text-shadow: 2px 2px 2px darkblue, -2px -2px 2px darkblue;
+}
+
+.desecratedMods,
+.identifydesecrated .mod-title {
+    border-image-source: url(https://cdn.poe2db.tw/image/item/popup2/mod-decorator-abyss.webp);
+    border-image-slice: 10 140 10 140 fill;
+    border-image-width: auto 140px;
+}
+
+.brand-suffix {
+    background-color: #fd9b0d;
+    color: black;
+    border-radius: 5px;
+    padding: 0 3px;
+}
+
+.craftingdamage,
+[data-tag="damage"] {
+    color: #e22626;
+}
+
+.rich-white {
+    color: white;
+}
+
+span.disabled {
+    color: grey;
+}
+
+.foulbornMod,
+.mutatedMod {
+    color: #cd2285;
+}
+
+.itemList li:not(:last-child)::after {
+    content: "\2022";
+    color: var(--default-color);
+    padding: 0 3px;
+}
+
+.itemList ul {
+    margin: 0;
+    padding: 0;
+    list-style-image: unset;
+}
+
+.itemList li {
+    display: inline;
+}
+
+.card-body>.itemList:not(:first-child) {
+    border-top: 1px solid #333;
+}
+
+a:hover {
+    color: revert;
+    text-shadow: #ffcc00 2px 0px 5px;
+}
+
+.cultivatedMod,
+.poe2.mutatedMod {
+    color: #ad3340;
+}
+
+.modal-header,
+.modal-body,
+.modal-footer {
+    background-color: #222;
+}
+
+.identifyBlock>.mod-title:nth-child(odd) {
+    background-color: #2c3034;
+}
+
+.identifyBlock>.mod-title:nth-child(even) {
+    background-color: #212529;
+}
+
+.mod-title .badge {
+    padding: 3px;
+}
+
+.currency-item,
+.omen-item {
+    position: relative;
+    display: inline-block;
+    width: 50px;
+    height: 50px;
+    padding: 3px;
+    margin: 2px;
+    background-color: #00000080;
+    border: 1px solid #1e2124;
+    cursor: pointer;
+    vertical-align: middle;
+}
+
+.currency-item:hover,
+.omen-item:hover {
+    border-color: #5b636e;
+}
+
+.currency-item .tier {
+    position: absolute;
+    bottom: 0;
+    right: 0;
+}
+
+.currency-item img,
+.omen-item img {
+    height: 42px;
+    max-height: 42px;
+    max-width: 42px;
+    vertical-align: middle;
+}
+
+.currency-item.active,
+.omen-item.active {
+    background-color: var(--cold-color);
+    border-color: var(--rare-color);
+}
+
+.currency-item.disabled,
+.omen-item.disabled {
+    filter: grayscale(50%);
+    -webkit-filter: grayscale(50%);
+    background-color: #333;
+    cursor: not-allowed;
+}
+
+.crafter_btn {
+    width: 27px;
+    height: 27px;
+    border: black 2px solid;
+    display: inline-block;
+    text-align: center;
+}
+
+.crafter_del {
+    background-color: darkred;
+    cursor: pointer;
+}
+
+.crafter_del:after {
+    content: 'X';
+}
+
+.crafter_add {
+    background-color: darkgreen;
+    cursor: pointer;
+}
+
+.crafter_add:after {
+    content: '+';
+}
+
+.crafter_exchange {
+    background-color: darkorange;
+    cursor: pointer;
+}
+
+.crafter_exchange:after {
+    content: '↔';
+}
+
+#crafted {
+    background-color: black;
+    text-align: center;
+    padding: 10px;
+}
+
+#crafted:empty {
+    display: none;
+}
+
+[data-val=prefixNums] {
+    color: #ec7676;
+}
+
+[data-val=suffixNums] {
+    color: #7aaff1;
+}
+
+.modifier-tags {
+    color: #a3a3a3;
+    text-transform: capitalize;
+}
+
+.newItemPopup.keywordPopups .card-header {
+    padding-bottom: 0;
+}
+
+.newItemPopup.keywordPopups .card-header a {
+    color: #ede1c0;
+}
+
+.newItemPopup.keywordPopups .card-body {
+    color: #b7ab83;
+}
+
+.modHide {
+    text-decoration: line-through;
+    filter: invert(100%);
+}
+
+.echartMonsterLevel {
+    height: 500px;
+    width: 1000px;
+    margin: 0 auto;
+    max-width: 100%;
+    min-width: 300px;
+}
+
+.echartLeagueCurrent {
+    height: 600px;
+    width: 1110px;
+    margin: 0 auto;
+    max-width: 100%;
+}
+
+.echartCurrencyExchange {
+    height: 600px;
+    margin: 0 auto;
+    max-width: 100%;
+    margin-bottom: 1rem;
+}
+
+.echartGemLevel {
+    height: 400px;
+    width: 400px;
+    max-width: 100%;
+}
+
+/* hack for echarts not draw */
+.tab-content>.tab-pane,
+.pill-content>.pill-pane {
+    display: block;
+    /* undo display:none          */
+    height: 0;
+    /* height:0 is also invisible */
+    overflow-y: hidden;
+    /* no-overflow                */
+}
+
+.tab-content>.active,
+.pill-content>.active {
+    height: auto;
+    /* let the content decide it  */
+}
+
+.truncate-text {
+    white-space: nowrap;
+    overflow: hidden;
+    text-overflow: ellipsis;
+    max-width: 250px;
+}
+
+.truncate-text:hover {
+    max-width: initial;
+}
+
+.currency-exchange-subtitle {
+    text-align: center;
+    background-image: linear-gradient(90deg, hsla(0, 0%, 100%, 0), hsla(0, 0%, 100%, .125), hsla(0, 0%, 100%, 0));
+}
+.gem-exceptional {
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+    background-image: url(https://cdn.poedb.tw/image/art/2ditems/gems/overlays/exceptionalsupportgemoverlay.webp);
+}
+.ItemClasses.disabled {
+    color: var(--default-color);
+}
+img.league_minimap {
+    width: 48px;
+    height: 48px;
+}
+.league_bar a img {
+    width: 40px;
+    height: 40px;
+}
+.poe2 .league_bar a img {
+    width: 48px;
+    height: 48px;
+}

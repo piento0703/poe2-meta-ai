@@ -1,0 +1,70 @@
+[
+  {
+    "slot": "weapon",
+    "name": "투사체 리턴 샷건 무기",
+    "options": [
+      "Projectiles return to you",
+      "Skills fire 2 additional Projectiles",
+      "Projectiles can hit the same target multiple times",
+      "Gain 30% of Physical Damage as Extra Fire Damage"
+    ],
+    "mechanics": [
+      "extra_projectile",
+      "gain_as_extra",
+      "returning_projectile",
+      "shotgun"
+    ],
+    "damage_types": [
+      "fire",
+      "physical"
+    ],
+    "broken_combos": [
+      {
+        "name": "Projectile Return Shotgun",
+        "ko": "돌아오는 투사체 다중 적중",
+        "score": 35,
+        "reason": "돌아오는 투사체가 같은 대상을 여러 번 때릴 수 있으면 단일딜이 폭증할 수 있음"
+      },
+      {
+        "name": "Extra Projectile Shotgun",
+        "ko": "추가 투사체 다중 적중",
+        "score": 30,
+        "reason": "투사체 수 증가가 단순 광역이 아니라 단일 대상 적중 수 증가로 연결될 수 있음"
+      }
+    ],
+    "raw_semantic_score": 73.4,
+    "slot_weight": 1.35,
+    "final_score": 99.09,
+    "power_level": "S급 / 빌드 파괴 가능성"
+  },
+  {
+    "slot": "amulet",
+    "name": "치명타 발동 목걸이",
+    "options": [
+      "Trigger socketed spells when you deal a Critical Strike",
+      "30% increased Critical Strike Chance",
+      "Gain 20% of Lightning Damage as Extra Chaos Damage"
+    ],
+    "mechanics": [
+      "crit_scaling",
+      "gain_as_extra",
+      "trigger"
+    ],
+    "damage_types": [
+      "chaos",
+      "lightning"
+    ],
+    "broken_combos": [
+      {
+        "name": "Trigger Crit Engine",
+        "ko": "치명타 발동 엔진",
+        "score": 22,
+        "reason": "치명타 확률이 발동 빈도와 피해량을 동시에 밀어올릴 수 있음"
+      }
+    ],
+    "raw_semantic_score": 28.8,
+    "slot_weight": 1.2,
+    "final_score": 34.56,
+    "power_level": "B급 / 유효한 시너지 후보"
+  }
+]

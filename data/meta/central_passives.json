@@ -1,0 +1,3035 @@
+[
+  {
+    "passive": "Avatar of Evolution",
+    "score": 273.0,
+    "hits": 25,
+    "tags": [
+      "cold",
+      "duration",
+      "fire",
+      "lightning",
+      "physical"
+    ],
+    "examples": [
+      "Charged Staff (9) Spell , Attack , Buff , AoE , Lightning , Duration , Conditional",
+      "Elemental Invocation (8) Buff , Persistent , Trigger , Lightning , Cold , Fire , Invocation , Meta",
+      "Elemental Surge (1) Attack , AoE , Trigger , Lightning , Cold , Fire",
+      "Apocalypse (1) Buff , Spell , AoE , Trigger , Lightning , Cold , Fire , Duration , Conditional , Storm",
+      "Elemental Storm (1) Spell , AoE , Trigger , Lightning , Cold , Fire , Duration , Orb",
+      "Gas Grenade (5) Attack , AoE , Projectile , Grenade , Fire , Chaos , Duration",
+      "Voltaic Grenade (7) Attack , AoE , Projectile , Grenade , Lightning , Duration",
+      "Stormblast Bolts (9) Attack , AoE , Ammunition , Projectile , Lightning , Duration",
+      "Lunar Blessing (13) Warcry , Attack , Shapeshift , Buff , Werewolf , AoE , Melee , Trigger , Cold , Duration",
+      "Elemental Expression (1) Spell , AoE , Projectile , Trigger , Lightning , Cold , Fire , Chaining"
+    ]
+  },
+  {
+    "passive": "Elemental Equilibrium",
+    "score": 259.0,
+    "hits": 23,
+    "tags": [
+      "cold",
+      "fire",
+      "lightning"
+    ],
+    "examples": [
+      "Elemental Invocation (8) Buff , Persistent , Trigger , Lightning , Cold , Fire , Invocation , Meta",
+      "Elemental Surge (1) Attack , AoE , Trigger , Lightning , Cold , Fire",
+      "Apocalypse (1) Buff , Spell , AoE , Trigger , Lightning , Cold , Fire , Duration , Conditional , Storm",
+      "Elemental Storm (1) Spell , AoE , Trigger , Lightning , Cold , Fire , Duration , Orb",
+      "Voltaic Grenade (7) Attack , AoE , Projectile , Grenade , Lightning , Duration",
+      "Stormblast Bolts (9) Attack , AoE , Ammunition , Projectile , Lightning , Duration",
+      "Lunar Blessing (13) Warcry , Attack , Shapeshift , Buff , Werewolf , AoE , Melee , Trigger , Cold , Duration",
+      "Elemental Expression (1) Spell , AoE , Projectile , Trigger , Lightning , Cold , Fire , Chaining",
+      "Glacial Bolt (7) Attack , AoE , Ammunition , Projectile , Cold , Duration",
+      "Shred (1) Attack , Shapeshift , Werewolf , AoE , Melee , Strike , Projectile , Trigger , Cold , Payoff"
+    ]
+  },
+  {
+    "passive": "Exploit",
+    "score": 225.0,
+    "hits": 19,
+    "tags": [
+      "cold",
+      "duration",
+      "fire",
+      "gain_as_extra",
+      "lightning"
+    ],
+    "examples": [
+      "Elemental Invocation (8) Buff , Persistent , Trigger , Lightning , Cold , Fire , Invocation , Meta",
+      "Elemental Surge (1) Attack , AoE , Trigger , Lightning , Cold , Fire",
+      "Apocalypse (1) Buff , Spell , AoE , Trigger , Lightning , Cold , Fire , Duration , Conditional , Storm",
+      "Elemental Storm (1) Spell , AoE , Trigger , Lightning , Cold , Fire , Duration , Orb",
+      "Gas Grenade (5) Attack , AoE , Projectile , Grenade , Fire , Chaos , Duration",
+      "Voltaic Grenade (7) Attack , AoE , Projectile , Grenade , Lightning , Duration",
+      "Stormblast Bolts (9) Attack , AoE , Ammunition , Projectile , Lightning , Duration",
+      "Lunar Blessing (13) Warcry , Attack , Shapeshift , Buff , Werewolf , AoE , Melee , Trigger , Cold , Duration",
+      "Elemental Expression (1) Spell , AoE , Projectile , Trigger , Lightning , Cold , Fire , Chaining",
+      "Glacial Bolt (7) Attack , AoE , Ammunition , Projectile , Cold , Duration"
+    ]
+  },
+  {
+    "passive": "Disciplined Training",
+    "score": 207.0,
+    "hits": 22,
+    "tags": [
+      "aoe",
+      "attack",
+      "duration"
+    ],
+    "examples": [
+      "Charged Staff (9) Spell , Attack , Buff , AoE , Lightning , Duration , Conditional",
+      "Gas Grenade (5) Attack , AoE , Projectile , Grenade , Fire , Chaos , Duration",
+      "Voltaic Grenade (7) Attack , AoE , Projectile , Grenade , Lightning , Duration",
+      "Stormblast Bolts (9) Attack , AoE , Ammunition , Projectile , Lightning , Duration",
+      "Lunar Blessing (13) Warcry , Attack , Shapeshift , Buff , Werewolf , AoE , Melee , Trigger , Cold , Duration",
+      "Glacial Bolt (7) Attack , AoE , Ammunition , Projectile , Cold , Duration",
+      "Walking Calamity (13) Attack , Shapeshift , Buff , Bear , AoE , Trigger , Fire , Duration , Conditional",
+      "Oil Grenade (9) Attack , AoE , Projectile , Grenade , Fire , Duration",
+      "Siege Ballista (9) Attack , Totem , AoE , Projectile , Fire , Duration , Barrageable",
+      "Flame Breath (13) Attack , Shapeshift , Wyvern , AoE , Sustained , Fire , Duration , Channelling , Detonator"
+    ]
+  },
+  {
+    "passive": "Catapult",
+    "score": 207.0,
+    "hits": 18,
+    "tags": [
+      "aoe",
+      "attack",
+      "projectile"
+    ],
+    "examples": [
+      "Gas Grenade (5) Attack , AoE , Projectile , Grenade , Fire , Chaos , Duration",
+      "Voltaic Grenade (7) Attack , AoE , Projectile , Grenade , Lightning , Duration",
+      "Stormblast Bolts (9) Attack , AoE , Ammunition , Projectile , Lightning , Duration",
+      "Glacial Bolt (7) Attack , AoE , Ammunition , Projectile , Cold , Duration",
+      "Oil Grenade (9) Attack , AoE , Projectile , Grenade , Fire , Duration",
+      "Siege Ballista (9) Attack , Totem , AoE , Projectile , Fire , Duration , Barrageable",
+      "Shred (1) Attack , Shapeshift , Werewolf , AoE , Melee , Strike , Projectile , Trigger , Cold , Payoff",
+      "Staggering Palm (3) Attack , Buff , AoE , Melee , Strike , Projectile , Physical , Duration , Wind",
+      "Rolling Magma (3) Attack , Shapeshift , Wyvern , AoE , Projectile , Fire , Detonator",
+      "Fulminating Concoction (1) Attack , AoE , Projectile , Lightning"
+    ]
+  },
+  {
+    "passive": "Cannons, Ready!",
+    "score": 192.0,
+    "hits": 20,
+    "tags": [
+      "attack",
+      "fire",
+      "projectile",
+      "skill_speed"
+    ],
+    "examples": [
+      "Gas Grenade (5) Attack , AoE , Projectile , Grenade , Fire , Chaos , Duration",
+      "Voltaic Grenade (7) Attack , AoE , Projectile , Grenade , Lightning , Duration",
+      "Stormblast Bolts (9) Attack , AoE , Ammunition , Projectile , Lightning , Duration",
+      "Elemental Expression (1) Spell , AoE , Projectile , Trigger , Lightning , Cold , Fire , Chaining",
+      "Glacial Bolt (7) Attack , AoE , Ammunition , Projectile , Cold , Duration",
+      "Oil Grenade (9) Attack , AoE , Projectile , Grenade , Fire , Duration",
+      "Siege Ballista (9) Attack , Totem , AoE , Projectile , Fire , Duration , Barrageable",
+      "Shred (1) Attack , Shapeshift , Werewolf , AoE , Melee , Strike , Projectile , Trigger , Cold , Payoff",
+      "Staggering Palm (3) Attack , Buff , AoE , Melee , Strike , Projectile , Physical , Duration , Wind",
+      "Rolling Magma (3) Attack , Shapeshift , Wyvern , AoE , Projectile , Fire , Detonator"
+    ]
+  },
+  {
+    "passive": "Ritual Cadence",
+    "score": 189.0,
+    "hits": 15,
+    "tags": [
+      "consume_charge",
+      "gain_as_extra",
+      "meta_energy",
+      "spell",
+      "trigger"
+    ],
+    "examples": [
+      "Pounce (3) Attack , Minion , Shapeshift , Werewolf , AoE , Melee , Slam , Trigger , Mark , Duration , Travel , Meta",
+      "Charged Staff (9) Spell , Attack , Buff , AoE , Lightning , Duration , Conditional",
+      "Elemental Invocation (8) Buff , Persistent , Trigger , Lightning , Cold , Fire , Invocation , Meta",
+      "Fire Spell on Hit (1) Buff , Persistent , Trigger , Fire , Meta",
+      "Apocalypse (1) Buff , Spell , AoE , Trigger , Lightning , Cold , Fire , Duration , Conditional , Storm",
+      "Elemental Storm (1) Spell , AoE , Trigger , Lightning , Cold , Fire , Duration , Orb",
+      "Hand of Chayula (9) Attack , AoE , Melee , Strike , Chaos , Meta",
+      "Lunar Blessing (13) Warcry , Attack , Shapeshift , Buff , Werewolf , AoE , Melee , Trigger , Cold , Duration",
+      "Elemental Expression (1) Spell , AoE , Projectile , Trigger , Lightning , Cold , Fire , Chaining",
+      "Mirage Deadeye (1) Buff , Persistent , Trigger , Duration , Meta"
+    ]
+  },
+  {
+    "passive": "Run and Gun",
+    "score": 182.0,
+    "hits": 19,
+    "tags": [
+      "attack",
+      "fire",
+      "projectile"
+    ],
+    "examples": [
+      "Gas Grenade (5) Attack , AoE , Projectile , Grenade , Fire , Chaos , Duration",
+      "Voltaic Grenade (7) Attack , AoE , Projectile , Grenade , Lightning , Duration",
+      "Stormblast Bolts (9) Attack , AoE , Ammunition , Projectile , Lightning , Duration",
+      "Glacial Bolt (7) Attack , AoE , Ammunition , Projectile , Cold , Duration",
+      "Oil Grenade (9) Attack , AoE , Projectile , Grenade , Fire , Duration",
+      "Siege Ballista (9) Attack , Totem , AoE , Projectile , Fire , Duration , Barrageable",
+      "Shred (1) Attack , Shapeshift , Werewolf , AoE , Melee , Strike , Projectile , Trigger , Cold , Payoff",
+      "Staggering Palm (3) Attack , Buff , AoE , Melee , Strike , Projectile , Physical , Duration , Wind",
+      "Rolling Magma (3) Attack , Shapeshift , Wyvern , AoE , Projectile , Fire , Detonator",
+      "Gemini Surge (1) Attack , AoE , Trigger , Cold , Fire"
+    ]
+  },
+  {
+    "passive": "Surging Avatar",
+    "score": 172.5,
+    "hits": 12,
+    "tags": [
+      "cold",
+      "consume_charge",
+      "fire",
+      "gain_as_extra",
+      "lightning",
+      "trigger"
+    ],
+    "examples": [
+      "Charged Staff (9) Spell , Attack , Buff , AoE , Lightning , Duration , Conditional",
+      "Elemental Invocation (8) Buff , Persistent , Trigger , Lightning , Cold , Fire , Invocation , Meta",
+      "Elemental Surge (1) Attack , AoE , Trigger , Lightning , Cold , Fire",
+      "Apocalypse (1) Buff , Spell , AoE , Trigger , Lightning , Cold , Fire , Duration , Conditional , Storm",
+      "Elemental Storm (1) Spell , AoE , Trigger , Lightning , Cold , Fire , Duration , Orb",
+      "Lunar Blessing (13) Warcry , Attack , Shapeshift , Buff , Werewolf , AoE , Melee , Trigger , Cold , Duration",
+      "Elemental Expression (1) Spell , AoE , Projectile , Trigger , Lightning , Cold , Fire , Chaining",
+      "Walking Calamity (13) Attack , Shapeshift , Buff , Bear , AoE , Trigger , Fire , Duration , Conditional",
+      "Shred (1) Attack , Shapeshift , Werewolf , AoE , Melee , Strike , Projectile , Trigger , Cold , Payoff",
+      "Shard Scavenger (8) Buff , Persistent , Physical , Lightning , Cold , Fire , Duration"
+    ]
+  },
+  {
+    "passive": "Behemoth",
+    "score": 163.5,
+    "hits": 17,
+    "tags": [
+      "aoe",
+      "attack",
+      "lightning"
+    ],
+    "examples": [
+      "Charged Staff (9) Spell , Attack , Buff , AoE , Lightning , Duration , Conditional",
+      "Elemental Surge (1) Attack , AoE , Trigger , Lightning , Cold , Fire",
+      "Voltaic Grenade (7) Attack , AoE , Projectile , Grenade , Lightning , Duration",
+      "Stormblast Bolts (9) Attack , AoE , Ammunition , Projectile , Lightning , Duration",
+      "Staggering Palm (3) Attack , Buff , AoE , Melee , Strike , Projectile , Physical , Duration , Wind",
+      "Gathering Storm (13) Attack , AoE , Melee , Lightning , Duration , Channelling , Travel",
+      "Frozen Locus (1) Attack , AoE , Melee , Cold , Duration",
+      "Gemini Surge (1) Attack , AoE , Trigger , Cold , Fire",
+      "Fulminating Concoction (1) Attack , AoE , Projectile , Lightning",
+      "Falling Thunder (1) Attack , AoE , Melee , Slam , Projectile , Lightning"
+    ]
+  },
+  {
+    "passive": "Projectile Bulwark",
+    "score": 162.0,
+    "hits": 18,
+    "tags": [
+      "attack",
+      "gain_as_extra",
+      "projectile"
+    ],
+    "examples": [
+      "Gas Grenade (5) Attack , AoE , Projectile , Grenade , Fire , Chaos , Duration",
+      "Voltaic Grenade (7) Attack , AoE , Projectile , Grenade , Lightning , Duration",
+      "Stormblast Bolts (9) Attack , AoE , Ammunition , Projectile , Lightning , Duration",
+      "Glacial Bolt (7) Attack , AoE , Ammunition , Projectile , Cold , Duration",
+      "Oil Grenade (9) Attack , AoE , Projectile , Grenade , Fire , Duration",
+      "Siege Ballista (9) Attack , Totem , AoE , Projectile , Fire , Duration , Barrageable",
+      "Shred (1) Attack , Shapeshift , Werewolf , AoE , Melee , Strike , Projectile , Trigger , Cold , Payoff",
+      "Staggering Palm (3) Attack , Buff , AoE , Melee , Strike , Projectile , Physical , Duration , Wind",
+      "Rolling Magma (3) Attack , Shapeshift , Wyvern , AoE , Projectile , Fire , Detonator",
+      "Fulminating Concoction (1) Attack , AoE , Projectile , Lightning"
+    ]
+  },
+  {
+    "passive": "Honed Instincts",
+    "score": 162.0,
+    "hits": 18,
+    "tags": [
+      "attack",
+      "projectile"
+    ],
+    "examples": [
+      "Gas Grenade (5) Attack , AoE , Projectile , Grenade , Fire , Chaos , Duration",
+      "Voltaic Grenade (7) Attack , AoE , Projectile , Grenade , Lightning , Duration",
+      "Stormblast Bolts (9) Attack , AoE , Ammunition , Projectile , Lightning , Duration",
+      "Glacial Bolt (7) Attack , AoE , Ammunition , Projectile , Cold , Duration",
+      "Oil Grenade (9) Attack , AoE , Projectile , Grenade , Fire , Duration",
+      "Siege Ballista (9) Attack , Totem , AoE , Projectile , Fire , Duration , Barrageable",
+      "Shred (1) Attack , Shapeshift , Werewolf , AoE , Melee , Strike , Projectile , Trigger , Cold , Payoff",
+      "Staggering Palm (3) Attack , Buff , AoE , Melee , Strike , Projectile , Physical , Duration , Wind",
+      "Rolling Magma (3) Attack , Shapeshift , Wyvern , AoE , Projectile , Fire , Detonator",
+      "Fulminating Concoction (1) Attack , AoE , Projectile , Lightning"
+    ]
+  },
+  {
+    "passive": "Heavy Ammunition",
+    "score": 162.0,
+    "hits": 18,
+    "tags": [
+      "attack",
+      "projectile"
+    ],
+    "examples": [
+      "Gas Grenade (5) Attack , AoE , Projectile , Grenade , Fire , Chaos , Duration",
+      "Voltaic Grenade (7) Attack , AoE , Projectile , Grenade , Lightning , Duration",
+      "Stormblast Bolts (9) Attack , AoE , Ammunition , Projectile , Lightning , Duration",
+      "Glacial Bolt (7) Attack , AoE , Ammunition , Projectile , Cold , Duration",
+      "Oil Grenade (9) Attack , AoE , Projectile , Grenade , Fire , Duration",
+      "Siege Ballista (9) Attack , Totem , AoE , Projectile , Fire , Duration , Barrageable",
+      "Shred (1) Attack , Shapeshift , Werewolf , AoE , Melee , Strike , Projectile , Trigger , Cold , Payoff",
+      "Staggering Palm (3) Attack , Buff , AoE , Melee , Strike , Projectile , Physical , Duration , Wind",
+      "Rolling Magma (3) Attack , Shapeshift , Wyvern , AoE , Projectile , Fire , Detonator",
+      "Fulminating Concoction (1) Attack , AoE , Projectile , Lightning"
+    ]
+  },
+  {
+    "passive": "Adaptable Assault",
+    "score": 162.0,
+    "hits": 18,
+    "tags": [
+      "attack",
+      "projectile"
+    ],
+    "examples": [
+      "Gas Grenade (5) Attack , AoE , Projectile , Grenade , Fire , Chaos , Duration",
+      "Voltaic Grenade (7) Attack , AoE , Projectile , Grenade , Lightning , Duration",
+      "Stormblast Bolts (9) Attack , AoE , Ammunition , Projectile , Lightning , Duration",
+      "Glacial Bolt (7) Attack , AoE , Ammunition , Projectile , Cold , Duration",
+      "Oil Grenade (9) Attack , AoE , Projectile , Grenade , Fire , Duration",
+      "Siege Ballista (9) Attack , Totem , AoE , Projectile , Fire , Duration , Barrageable",
+      "Shred (1) Attack , Shapeshift , Werewolf , AoE , Melee , Strike , Projectile , Trigger , Cold , Payoff",
+      "Staggering Palm (3) Attack , Buff , AoE , Melee , Strike , Projectile , Physical , Duration , Wind",
+      "Rolling Magma (3) Attack , Shapeshift , Wyvern , AoE , Projectile , Fire , Detonator",
+      "Fulminating Concoction (1) Attack , AoE , Projectile , Lightning"
+    ]
+  },
+  {
+    "passive": "Counterstancing",
+    "score": 162.0,
+    "hits": 18,
+    "tags": [
+      "attack",
+      "projectile"
+    ],
+    "examples": [
+      "Gas Grenade (5) Attack , AoE , Projectile , Grenade , Fire , Chaos , Duration",
+      "Voltaic Grenade (7) Attack , AoE , Projectile , Grenade , Lightning , Duration",
+      "Stormblast Bolts (9) Attack , AoE , Ammunition , Projectile , Lightning , Duration",
+      "Glacial Bolt (7) Attack , AoE , Ammunition , Projectile , Cold , Duration",
+      "Oil Grenade (9) Attack , AoE , Projectile , Grenade , Fire , Duration",
+      "Siege Ballista (9) Attack , Totem , AoE , Projectile , Fire , Duration , Barrageable",
+      "Shred (1) Attack , Shapeshift , Werewolf , AoE , Melee , Strike , Projectile , Trigger , Cold , Payoff",
+      "Staggering Palm (3) Attack , Buff , AoE , Melee , Strike , Projectile , Physical , Duration , Wind",
+      "Rolling Magma (3) Attack , Shapeshift , Wyvern , AoE , Projectile , Fire , Detonator",
+      "Fulminating Concoction (1) Attack , AoE , Projectile , Lightning"
+    ]
+  },
+  {
+    "passive": "Precision Salvo",
+    "score": 162.0,
+    "hits": 18,
+    "tags": [
+      "attack",
+      "projectile"
+    ],
+    "examples": [
+      "Gas Grenade (5) Attack , AoE , Projectile , Grenade , Fire , Chaos , Duration",
+      "Voltaic Grenade (7) Attack , AoE , Projectile , Grenade , Lightning , Duration",
+      "Stormblast Bolts (9) Attack , AoE , Ammunition , Projectile , Lightning , Duration",
+      "Glacial Bolt (7) Attack , AoE , Ammunition , Projectile , Cold , Duration",
+      "Oil Grenade (9) Attack , AoE , Projectile , Grenade , Fire , Duration",
+      "Siege Ballista (9) Attack , Totem , AoE , Projectile , Fire , Duration , Barrageable",
+      "Shred (1) Attack , Shapeshift , Werewolf , AoE , Melee , Strike , Projectile , Trigger , Cold , Payoff",
+      "Staggering Palm (3) Attack , Buff , AoE , Melee , Strike , Projectile , Physical , Duration , Wind",
+      "Rolling Magma (3) Attack , Shapeshift , Wyvern , AoE , Projectile , Fire , Detonator",
+      "Fulminating Concoction (1) Attack , AoE , Projectile , Lightning"
+    ]
+  },
+  {
+    "passive": "Elemental Ailment Duration",
+    "score": 156.0,
+    "hits": 12,
+    "tags": [
+      "cold",
+      "duration",
+      "fire",
+      "lightning"
+    ],
+    "examples": [
+      "Elemental Surge (1) Attack , AoE , Trigger , Lightning , Cold , Fire",
+      "Elemental Surge (1) Attack , AoE , Trigger , Lightning , Cold , Fire",
+      "Apocalypse (1) Buff , Spell , AoE , Trigger , Lightning , Cold , Fire , Duration , Conditional , Storm",
+      "Apocalypse (1) Buff , Spell , AoE , Trigger , Lightning , Cold , Fire , Duration , Conditional , Storm",
+      "Elemental Storm (1) Spell , AoE , Trigger , Lightning , Cold , Fire , Duration , Orb",
+      "Elemental Storm (1) Spell , AoE , Trigger , Lightning , Cold , Fire , Duration , Orb",
+      "Elemental Expression (1) Spell , AoE , Projectile , Trigger , Lightning , Cold , Fire , Chaining",
+      "Elemental Expression (1) Spell , AoE , Projectile , Trigger , Lightning , Cold , Fire , Chaining",
+      "Shard Scavenger (8) Buff , Persistent , Physical , Lightning , Cold , Fire , Duration",
+      "Shard Scavenger (8) Buff , Persistent , Physical , Lightning , Cold , Fire , Duration"
+    ]
+  },
+  {
+    "passive": "Engineered Blaze",
+    "score": 151.5,
+    "hits": 17,
+    "tags": [
+      "aoe",
+      "attack",
+      "fire"
+    ],
+    "examples": [
+      "Elemental Surge (1) Attack , AoE , Trigger , Lightning , Cold , Fire",
+      "Gas Grenade (5) Attack , AoE , Projectile , Grenade , Fire , Chaos , Duration",
+      "Walking Calamity (13) Attack , Shapeshift , Buff , Bear , AoE , Trigger , Fire , Duration , Conditional",
+      "Oil Grenade (9) Attack , AoE , Projectile , Grenade , Fire , Duration",
+      "Siege Ballista (9) Attack , Totem , AoE , Projectile , Fire , Duration , Barrageable",
+      "Flame Breath (13) Attack , Shapeshift , Wyvern , AoE , Sustained , Fire , Duration , Channelling , Detonator",
+      "Rolling Magma (3) Attack , Shapeshift , Wyvern , AoE , Projectile , Fire , Detonator",
+      "Gemini Surge (1) Attack , AoE , Trigger , Cold , Fire",
+      "Fulminating Concoction (1) Attack , AoE , Projectile , Lightning",
+      "Falling Thunder (1) Attack , AoE , Melee , Slam , Projectile , Lightning"
+    ]
+  },
+  {
+    "passive": "Unbound Forces",
+    "score": 138.0,
+    "hits": 12,
+    "tags": [
+      "cold",
+      "duration",
+      "lightning"
+    ],
+    "examples": [
+      "Elemental Surge (1) Attack , AoE , Trigger , Lightning , Cold , Fire",
+      "Apocalypse (1) Buff , Spell , AoE , Trigger , Lightning , Cold , Fire , Duration , Conditional , Storm",
+      "Elemental Storm (1) Spell , AoE , Trigger , Lightning , Cold , Fire , Duration , Orb",
+      "Voltaic Grenade (7) Attack , AoE , Projectile , Grenade , Lightning , Duration",
+      "Stormblast Bolts (9) Attack , AoE , Ammunition , Projectile , Lightning , Duration",
+      "Lunar Blessing (13) Warcry , Attack , Shapeshift , Buff , Werewolf , AoE , Melee , Trigger , Cold , Duration",
+      "Elemental Expression (1) Spell , AoE , Projectile , Trigger , Lightning , Cold , Fire , Chaining",
+      "Glacial Bolt (7) Attack , AoE , Ammunition , Projectile , Cold , Duration",
+      "Shard Scavenger (8) Buff , Persistent , Physical , Lightning , Cold , Fire , Duration",
+      "Gathering Storm (13) Attack , AoE , Melee , Lightning , Duration , Channelling , Travel"
+    ]
+  },
+  {
+    "passive": "Coal Stoker",
+    "score": 136.0,
+    "hits": 12,
+    "tags": [
+      "cold",
+      "fire",
+      "lightning"
+    ],
+    "examples": [
+      "Elemental Invocation (8) Buff , Persistent , Trigger , Lightning , Cold , Fire , Invocation , Meta",
+      "Elemental Surge (1) Attack , AoE , Trigger , Lightning , Cold , Fire",
+      "Apocalypse (1) Buff , Spell , AoE , Trigger , Lightning , Cold , Fire , Duration , Conditional , Storm",
+      "Elemental Storm (1) Spell , AoE , Trigger , Lightning , Cold , Fire , Duration , Orb",
+      "Elemental Expression (1) Spell , AoE , Projectile , Trigger , Lightning , Cold , Fire , Chaining",
+      "Shard Scavenger (8) Buff , Persistent , Physical , Lightning , Cold , Fire , Duration",
+      "Gemini Surge (1) Attack , AoE , Trigger , Cold , Fire",
+      "Unbound Avatar (1) Buff , Lightning , Cold , Fire , Duration , Conditional",
+      "Shattering Concoction (1) Attack , AoE , Projectile , Cold",
+      "Permafrost Bolts (1) Attack , AoE , Ammunition , Projectile , Cold , Merging"
+    ]
+  },
+  {
+    "passive": "Forged in Flame",
+    "score": 136.0,
+    "hits": 12,
+    "tags": [
+      "cold",
+      "fire",
+      "lightning"
+    ],
+    "examples": [
+      "Elemental Invocation (8) Buff , Persistent , Trigger , Lightning , Cold , Fire , Invocation , Meta",
+      "Elemental Surge (1) Attack , AoE , Trigger , Lightning , Cold , Fire",
+      "Apocalypse (1) Buff , Spell , AoE , Trigger , Lightning , Cold , Fire , Duration , Conditional , Storm",
+      "Elemental Storm (1) Spell , AoE , Trigger , Lightning , Cold , Fire , Duration , Orb",
+      "Elemental Expression (1) Spell , AoE , Projectile , Trigger , Lightning , Cold , Fire , Chaining",
+      "Shard Scavenger (8) Buff , Persistent , Physical , Lightning , Cold , Fire , Duration",
+      "Gemini Surge (1) Attack , AoE , Trigger , Cold , Fire",
+      "Unbound Avatar (1) Buff , Lightning , Cold , Fire , Duration , Conditional",
+      "Shattering Concoction (1) Attack , AoE , Projectile , Cold",
+      "Permafrost Bolts (1) Attack , AoE , Ammunition , Projectile , Cold , Merging"
+    ]
+  },
+  {
+    "passive": "Symbol of Defiance",
+    "score": 110.5,
+    "hits": 13,
+    "tags": [
+      "aoe",
+      "duration"
+    ],
+    "examples": [
+      "Gas Grenade (5) Attack , AoE , Projectile , Grenade , Fire , Chaos , Duration",
+      "Voltaic Grenade (7) Attack , AoE , Projectile , Grenade , Lightning , Duration",
+      "Stormblast Bolts (9) Attack , AoE , Ammunition , Projectile , Lightning , Duration",
+      "Lunar Blessing (13) Warcry , Attack , Shapeshift , Buff , Werewolf , AoE , Melee , Trigger , Cold , Duration",
+      "Glacial Bolt (7) Attack , AoE , Ammunition , Projectile , Cold , Duration",
+      "Walking Calamity (13) Attack , Shapeshift , Buff , Bear , AoE , Trigger , Fire , Duration , Conditional",
+      "Oil Grenade (9) Attack , AoE , Projectile , Grenade , Fire , Duration",
+      "Siege Ballista (9) Attack , Totem , AoE , Projectile , Fire , Duration , Barrageable",
+      "Flame Breath (13) Attack , Shapeshift , Wyvern , AoE , Sustained , Fire , Duration , Channelling , Detonator",
+      "Staggering Palm (3) Attack , Buff , AoE , Melee , Strike , Projectile , Physical , Duration , Wind"
+    ]
+  },
+  {
+    "passive": "Cower Before the First Ones",
+    "score": 110.0,
+    "hits": 8,
+    "tags": [
+      "chaos",
+      "cold",
+      "fire",
+      "lightning",
+      "physical"
+    ],
+    "examples": [
+      "Elemental Invocation (8) Buff , Persistent , Trigger , Lightning , Cold , Fire , Invocation , Meta",
+      "Elemental Surge (1) Attack , AoE , Trigger , Lightning , Cold , Fire",
+      "Apocalypse (1) Buff , Spell , AoE , Trigger , Lightning , Cold , Fire , Duration , Conditional , Storm",
+      "Elemental Storm (1) Spell , AoE , Trigger , Lightning , Cold , Fire , Duration , Orb",
+      "Elemental Expression (1) Spell , AoE , Projectile , Trigger , Lightning , Cold , Fire , Chaining",
+      "Shard Scavenger (8) Buff , Persistent , Physical , Lightning , Cold , Fire , Duration",
+      "Gemini Surge (1) Attack , AoE , Trigger , Cold , Fire",
+      "Unbound Avatar (1) Buff , Lightning , Cold , Fire , Duration , Conditional"
+    ]
+  },
+  {
+    "passive": "Altered Flesh",
+    "score": 110.0,
+    "hits": 8,
+    "tags": [
+      "chaos",
+      "cold",
+      "fire",
+      "lightning",
+      "physical"
+    ],
+    "examples": [
+      "Elemental Invocation (8) Buff , Persistent , Trigger , Lightning , Cold , Fire , Invocation , Meta",
+      "Elemental Surge (1) Attack , AoE , Trigger , Lightning , Cold , Fire",
+      "Apocalypse (1) Buff , Spell , AoE , Trigger , Lightning , Cold , Fire , Duration , Conditional , Storm",
+      "Elemental Storm (1) Spell , AoE , Trigger , Lightning , Cold , Fire , Duration , Orb",
+      "Elemental Expression (1) Spell , AoE , Projectile , Trigger , Lightning , Cold , Fire , Chaining",
+      "Shard Scavenger (8) Buff , Persistent , Physical , Lightning , Cold , Fire , Duration",
+      "Gemini Surge (1) Attack , AoE , Trigger , Cold , Fire",
+      "Unbound Avatar (1) Buff , Lightning , Cold , Fire , Duration , Conditional"
+    ]
+  },
+  {
+    "passive": "Flesh Withstands",
+    "score": 108.0,
+    "hits": 8,
+    "tags": [
+      "cold",
+      "fire",
+      "lightning"
+    ],
+    "examples": [
+      "Elemental Invocation (8) Buff , Persistent , Trigger , Lightning , Cold , Fire , Invocation , Meta",
+      "Elemental Surge (1) Attack , AoE , Trigger , Lightning , Cold , Fire",
+      "Apocalypse (1) Buff , Spell , AoE , Trigger , Lightning , Cold , Fire , Duration , Conditional , Storm",
+      "Elemental Storm (1) Spell , AoE , Trigger , Lightning , Cold , Fire , Duration , Orb",
+      "Elemental Expression (1) Spell , AoE , Projectile , Trigger , Lightning , Cold , Fire , Chaining",
+      "Shard Scavenger (8) Buff , Persistent , Physical , Lightning , Cold , Fire , Duration",
+      "Gemini Surge (1) Attack , AoE , Trigger , Cold , Fire",
+      "Unbound Avatar (1) Buff , Lightning , Cold , Fire , Duration , Conditional"
+    ]
+  },
+  {
+    "passive": "Thaumaturgical Infusion",
+    "score": 108.0,
+    "hits": 8,
+    "tags": [
+      "cold",
+      "fire",
+      "lightning"
+    ],
+    "examples": [
+      "Elemental Invocation (8) Buff , Persistent , Trigger , Lightning , Cold , Fire , Invocation , Meta",
+      "Elemental Surge (1) Attack , AoE , Trigger , Lightning , Cold , Fire",
+      "Apocalypse (1) Buff , Spell , AoE , Trigger , Lightning , Cold , Fire , Duration , Conditional , Storm",
+      "Elemental Storm (1) Spell , AoE , Trigger , Lightning , Cold , Fire , Duration , Orb",
+      "Elemental Expression (1) Spell , AoE , Projectile , Trigger , Lightning , Cold , Fire , Chaining",
+      "Shard Scavenger (8) Buff , Persistent , Physical , Lightning , Cold , Fire , Duration",
+      "Gemini Surge (1) Attack , AoE , Trigger , Cold , Fire",
+      "Unbound Avatar (1) Buff , Lightning , Cold , Fire , Duration , Conditional"
+    ]
+  },
+  {
+    "passive": "Crystallised Immunities",
+    "score": 108.0,
+    "hits": 8,
+    "tags": [
+      "cold",
+      "fire",
+      "lightning"
+    ],
+    "examples": [
+      "Elemental Invocation (8) Buff , Persistent , Trigger , Lightning , Cold , Fire , Invocation , Meta",
+      "Elemental Surge (1) Attack , AoE , Trigger , Lightning , Cold , Fire",
+      "Apocalypse (1) Buff , Spell , AoE , Trigger , Lightning , Cold , Fire , Duration , Conditional , Storm",
+      "Elemental Storm (1) Spell , AoE , Trigger , Lightning , Cold , Fire , Duration , Orb",
+      "Elemental Expression (1) Spell , AoE , Projectile , Trigger , Lightning , Cold , Fire , Chaining",
+      "Shard Scavenger (8) Buff , Persistent , Physical , Lightning , Cold , Fire , Duration",
+      "Gemini Surge (1) Attack , AoE , Trigger , Cold , Fire",
+      "Unbound Avatar (1) Buff , Lightning , Cold , Fire , Duration , Conditional"
+    ]
+  },
+  {
+    "passive": "Coming Calamity",
+    "score": 108.0,
+    "hits": 8,
+    "tags": [
+      "cold",
+      "fire",
+      "lightning"
+    ],
+    "examples": [
+      "Elemental Invocation (8) Buff , Persistent , Trigger , Lightning , Cold , Fire , Invocation , Meta",
+      "Elemental Surge (1) Attack , AoE , Trigger , Lightning , Cold , Fire",
+      "Apocalypse (1) Buff , Spell , AoE , Trigger , Lightning , Cold , Fire , Duration , Conditional , Storm",
+      "Elemental Storm (1) Spell , AoE , Trigger , Lightning , Cold , Fire , Duration , Orb",
+      "Elemental Expression (1) Spell , AoE , Projectile , Trigger , Lightning , Cold , Fire , Chaining",
+      "Shard Scavenger (8) Buff , Persistent , Physical , Lightning , Cold , Fire , Duration",
+      "Gemini Surge (1) Attack , AoE , Trigger , Cold , Fire",
+      "Unbound Avatar (1) Buff , Lightning , Cold , Fire , Duration , Conditional"
+    ]
+  },
+  {
+    "passive": "Scales of the Wyvern",
+    "score": 105.5,
+    "hits": 8,
+    "tags": [
+      "consume_charge",
+      "lightning",
+      "meta_energy",
+      "shapeshift"
+    ],
+    "examples": [
+      "Pounce (3) Attack , Minion , Shapeshift , Werewolf , AoE , Melee , Slam , Trigger , Mark , Duration , Travel , Meta",
+      "Charged Staff (9) Spell , Attack , Buff , AoE , Lightning , Duration , Conditional",
+      "Elemental Invocation (8) Buff , Persistent , Trigger , Lightning , Cold , Fire , Invocation , Meta",
+      "Fire Spell on Hit (1) Buff , Persistent , Trigger , Fire , Meta",
+      "Hand of Chayula (9) Attack , AoE , Melee , Strike , Chaos , Meta",
+      "Mirage Deadeye (1) Buff , Persistent , Trigger , Duration , Meta",
+      "Spell Totem (7) Spell , Totem , Duration , Conditional , Meta",
+      "Ferocious Roar (7) Warcry , Shapeshift , Bear , AoE , Nova , Meta"
+    ]
+  },
+  {
+    "passive": "Hollow Palm Technique",
+    "score": 105.5,
+    "hits": 8,
+    "tags": [
+      "attack",
+      "crit",
+      "meta_energy",
+      "physical"
+    ],
+    "examples": [
+      "Pounce (3) Attack , Minion , Shapeshift , Werewolf , AoE , Melee , Slam , Trigger , Mark , Duration , Travel , Meta",
+      "Elemental Invocation (8) Buff , Persistent , Trigger , Lightning , Cold , Fire , Invocation , Meta",
+      "Fire Spell on Hit (1) Buff , Persistent , Trigger , Fire , Meta",
+      "Hand of Chayula (9) Attack , AoE , Melee , Strike , Chaos , Meta",
+      "Mirage Deadeye (1) Buff , Persistent , Trigger , Duration , Meta",
+      "Staggering Palm (3) Attack , Buff , AoE , Melee , Strike , Projectile , Physical , Duration , Wind",
+      "Spell Totem (7) Spell , Totem , Duration , Conditional , Meta",
+      "Ferocious Roar (7) Warcry , Shapeshift , Bear , AoE , Nova , Meta"
+    ]
+  },
+  {
+    "passive": "Zealot's Oath",
+    "score": 103.5,
+    "hits": 8,
+    "tags": [
+      "consume_charge",
+      "meta_energy"
+    ],
+    "examples": [
+      "Pounce (3) Attack , Minion , Shapeshift , Werewolf , AoE , Melee , Slam , Trigger , Mark , Duration , Travel , Meta",
+      "Charged Staff (9) Spell , Attack , Buff , AoE , Lightning , Duration , Conditional",
+      "Elemental Invocation (8) Buff , Persistent , Trigger , Lightning , Cold , Fire , Invocation , Meta",
+      "Fire Spell on Hit (1) Buff , Persistent , Trigger , Fire , Meta",
+      "Hand of Chayula (9) Attack , AoE , Melee , Strike , Chaos , Meta",
+      "Mirage Deadeye (1) Buff , Persistent , Trigger , Duration , Meta",
+      "Spell Totem (7) Spell , Totem , Duration , Conditional , Meta",
+      "Ferocious Roar (7) Warcry , Shapeshift , Bear , AoE , Nova , Meta"
+    ]
+  },
+  {
+    "passive": "Scarred Faith",
+    "score": 103.5,
+    "hits": 8,
+    "tags": [
+      "consume_charge",
+      "meta_energy",
+      "physical"
+    ],
+    "examples": [
+      "Pounce (3) Attack , Minion , Shapeshift , Werewolf , AoE , Melee , Slam , Trigger , Mark , Duration , Travel , Meta",
+      "Charged Staff (9) Spell , Attack , Buff , AoE , Lightning , Duration , Conditional",
+      "Elemental Invocation (8) Buff , Persistent , Trigger , Lightning , Cold , Fire , Invocation , Meta",
+      "Fire Spell on Hit (1) Buff , Persistent , Trigger , Fire , Meta",
+      "Hand of Chayula (9) Attack , AoE , Melee , Strike , Chaos , Meta",
+      "Mirage Deadeye (1) Buff , Persistent , Trigger , Duration , Meta",
+      "Spell Totem (7) Spell , Totem , Duration , Conditional , Meta",
+      "Ferocious Roar (7) Warcry , Shapeshift , Bear , AoE , Nova , Meta"
+    ]
+  },
+  {
+    "passive": "Eternal Youth",
+    "score": 103.5,
+    "hits": 8,
+    "tags": [
+      "consume_charge",
+      "meta_energy"
+    ],
+    "examples": [
+      "Pounce (3) Attack , Minion , Shapeshift , Werewolf , AoE , Melee , Slam , Trigger , Mark , Duration , Travel , Meta",
+      "Charged Staff (9) Spell , Attack , Buff , AoE , Lightning , Duration , Conditional",
+      "Elemental Invocation (8) Buff , Persistent , Trigger , Lightning , Cold , Fire , Invocation , Meta",
+      "Fire Spell on Hit (1) Buff , Persistent , Trigger , Fire , Meta",
+      "Hand of Chayula (9) Attack , AoE , Melee , Strike , Chaos , Meta",
+      "Mirage Deadeye (1) Buff , Persistent , Trigger , Duration , Meta",
+      "Spell Totem (7) Spell , Totem , Duration , Conditional , Meta",
+      "Ferocious Roar (7) Warcry , Shapeshift , Bear , AoE , Nova , Meta"
+    ]
+  },
+  {
+    "passive": "Channelled Heritage",
+    "score": 97.5,
+    "hits": 13,
+    "tags": [
+      "aoe",
+      "attack"
+    ],
+    "examples": [
+      "Staggering Palm (3) Attack , Buff , AoE , Melee , Strike , Projectile , Physical , Duration , Wind",
+      "Gathering Storm (13) Attack , AoE , Melee , Lightning , Duration , Channelling , Travel",
+      "Frozen Locus (1) Attack , AoE , Melee , Cold , Duration",
+      "Gemini Surge (1) Attack , AoE , Trigger , Cold , Fire",
+      "Fulminating Concoction (1) Attack , AoE , Projectile , Lightning",
+      "Falling Thunder (1) Attack , AoE , Melee , Slam , Projectile , Lightning",
+      "Shockburst Rounds (11) Attack , AoE , Ammunition , Projectile , Lightning , Payoff",
+      "Plasma Blast (13) Attack , AoE , Ammunition , Projectile , Lightning , Channelling",
+      "Shattering Concoction (1) Attack , AoE , Projectile , Cold",
+      "Permafrost Bolts (1) Attack , AoE , Ammunition , Projectile , Cold , Merging"
+    ]
+  },
+  {
+    "passive": "Primal Growth",
+    "score": 97.5,
+    "hits": 13,
+    "tags": [
+      "aoe",
+      "attack"
+    ],
+    "examples": [
+      "Staggering Palm (3) Attack , Buff , AoE , Melee , Strike , Projectile , Physical , Duration , Wind",
+      "Gathering Storm (13) Attack , AoE , Melee , Lightning , Duration , Channelling , Travel",
+      "Frozen Locus (1) Attack , AoE , Melee , Cold , Duration",
+      "Gemini Surge (1) Attack , AoE , Trigger , Cold , Fire",
+      "Fulminating Concoction (1) Attack , AoE , Projectile , Lightning",
+      "Falling Thunder (1) Attack , AoE , Melee , Slam , Projectile , Lightning",
+      "Shockburst Rounds (11) Attack , AoE , Ammunition , Projectile , Lightning , Payoff",
+      "Plasma Blast (13) Attack , AoE , Ammunition , Projectile , Lightning , Channelling",
+      "Shattering Concoction (1) Attack , AoE , Projectile , Cold",
+      "Permafrost Bolts (1) Attack , AoE , Ammunition , Projectile , Cold , Merging"
+    ]
+  },
+  {
+    "passive": "Impact Area",
+    "score": 97.5,
+    "hits": 13,
+    "tags": [
+      "aoe",
+      "attack"
+    ],
+    "examples": [
+      "Staggering Palm (3) Attack , Buff , AoE , Melee , Strike , Projectile , Physical , Duration , Wind",
+      "Gathering Storm (13) Attack , AoE , Melee , Lightning , Duration , Channelling , Travel",
+      "Frozen Locus (1) Attack , AoE , Melee , Cold , Duration",
+      "Gemini Surge (1) Attack , AoE , Trigger , Cold , Fire",
+      "Fulminating Concoction (1) Attack , AoE , Projectile , Lightning",
+      "Falling Thunder (1) Attack , AoE , Melee , Slam , Projectile , Lightning",
+      "Shockburst Rounds (11) Attack , AoE , Ammunition , Projectile , Lightning , Payoff",
+      "Plasma Blast (13) Attack , AoE , Ammunition , Projectile , Lightning , Channelling",
+      "Shattering Concoction (1) Attack , AoE , Projectile , Cold",
+      "Permafrost Bolts (1) Attack , AoE , Ammunition , Projectile , Cold , Merging"
+    ]
+  },
+  {
+    "passive": "Eldritch Battery",
+    "score": 92.5,
+    "hits": 7,
+    "tags": [
+      "meta_energy"
+    ],
+    "examples": [
+      "Pounce (3) Attack , Minion , Shapeshift , Werewolf , AoE , Melee , Slam , Trigger , Mark , Duration , Travel , Meta",
+      "Elemental Invocation (8) Buff , Persistent , Trigger , Lightning , Cold , Fire , Invocation , Meta",
+      "Fire Spell on Hit (1) Buff , Persistent , Trigger , Fire , Meta",
+      "Hand of Chayula (9) Attack , AoE , Melee , Strike , Chaos , Meta",
+      "Mirage Deadeye (1) Buff , Persistent , Trigger , Duration , Meta",
+      "Spell Totem (7) Spell , Totem , Duration , Conditional , Meta",
+      "Ferocious Roar (7) Warcry , Shapeshift , Bear , AoE , Nova , Meta"
+    ]
+  },
+  {
+    "passive": "Bolstering Yell",
+    "score": 90.0,
+    "hits": 12,
+    "tags": [
+      "aoe",
+      "attack"
+    ],
+    "examples": [
+      "Staggering Palm (3) Attack , Buff , AoE , Melee , Strike , Projectile , Physical , Duration , Wind",
+      "Gathering Storm (13) Attack , AoE , Melee , Lightning , Duration , Channelling , Travel",
+      "Frozen Locus (1) Attack , AoE , Melee , Cold , Duration",
+      "Fulminating Concoction (1) Attack , AoE , Projectile , Lightning",
+      "Falling Thunder (1) Attack , AoE , Melee , Slam , Projectile , Lightning",
+      "Shockburst Rounds (11) Attack , AoE , Ammunition , Projectile , Lightning , Payoff",
+      "Plasma Blast (13) Attack , AoE , Ammunition , Projectile , Lightning , Channelling",
+      "Shattering Concoction (1) Attack , AoE , Projectile , Cold",
+      "Permafrost Bolts (1) Attack , AoE , Ammunition , Projectile , Cold , Merging",
+      "Ice Shards (5) Attack , AoE , Ammunition , Projectile , Sustained , Cold , Hazard"
+    ]
+  },
+  {
+    "passive": "Reverberating Impact",
+    "score": 90.0,
+    "hits": 12,
+    "tags": [
+      "aoe",
+      "attack"
+    ],
+    "examples": [
+      "Staggering Palm (3) Attack , Buff , AoE , Melee , Strike , Projectile , Physical , Duration , Wind",
+      "Gathering Storm (13) Attack , AoE , Melee , Lightning , Duration , Channelling , Travel",
+      "Frozen Locus (1) Attack , AoE , Melee , Cold , Duration",
+      "Fulminating Concoction (1) Attack , AoE , Projectile , Lightning",
+      "Falling Thunder (1) Attack , AoE , Melee , Slam , Projectile , Lightning",
+      "Shockburst Rounds (11) Attack , AoE , Ammunition , Projectile , Lightning , Payoff",
+      "Plasma Blast (13) Attack , AoE , Ammunition , Projectile , Lightning , Channelling",
+      "Shattering Concoction (1) Attack , AoE , Projectile , Cold",
+      "Permafrost Bolts (1) Attack , AoE , Ammunition , Projectile , Cold , Merging",
+      "Ice Shards (5) Attack , AoE , Ammunition , Projectile , Sustained , Cold , Hazard"
+    ]
+  },
+  {
+    "passive": "Artillery Strike",
+    "score": 90.0,
+    "hits": 12,
+    "tags": [
+      "aoe",
+      "attack"
+    ],
+    "examples": [
+      "Staggering Palm (3) Attack , Buff , AoE , Melee , Strike , Projectile , Physical , Duration , Wind",
+      "Gathering Storm (13) Attack , AoE , Melee , Lightning , Duration , Channelling , Travel",
+      "Frozen Locus (1) Attack , AoE , Melee , Cold , Duration",
+      "Fulminating Concoction (1) Attack , AoE , Projectile , Lightning",
+      "Falling Thunder (1) Attack , AoE , Melee , Slam , Projectile , Lightning",
+      "Shockburst Rounds (11) Attack , AoE , Ammunition , Projectile , Lightning , Payoff",
+      "Plasma Blast (13) Attack , AoE , Ammunition , Projectile , Lightning , Channelling",
+      "Shattering Concoction (1) Attack , AoE , Projectile , Cold",
+      "Permafrost Bolts (1) Attack , AoE , Ammunition , Projectile , Cold , Merging",
+      "Ice Shards (5) Attack , AoE , Ammunition , Projectile , Sustained , Cold , Hazard"
+    ]
+  },
+  {
+    "passive": "First Principle of the Hollow",
+    "score": 86.5,
+    "hits": 7,
+    "tags": [
+      "cold",
+      "lightning",
+      "meta_energy"
+    ],
+    "examples": [
+      "Elemental Invocation (8) Buff , Persistent , Trigger , Lightning , Cold , Fire , Invocation , Meta",
+      "Elemental Surge (1) Attack , AoE , Trigger , Lightning , Cold , Fire",
+      "Apocalypse (1) Buff , Spell , AoE , Trigger , Lightning , Cold , Fire , Duration , Conditional , Storm",
+      "Elemental Storm (1) Spell , AoE , Trigger , Lightning , Cold , Fire , Duration , Orb",
+      "Elemental Expression (1) Spell , AoE , Projectile , Trigger , Lightning , Cold , Fire , Chaining",
+      "Shard Scavenger (8) Buff , Persistent , Physical , Lightning , Cold , Fire , Duration",
+      "Unbound Avatar (1) Buff , Lightning , Cold , Fire , Duration , Conditional"
+    ]
+  },
+  {
+    "passive": "Cirel of Tarth's Light",
+    "score": 85.0,
+    "hits": 7,
+    "tags": [
+      "aoe",
+      "consume_charge",
+      "meta_energy"
+    ],
+    "examples": [
+      "Pounce (3) Attack , Minion , Shapeshift , Werewolf , AoE , Melee , Slam , Trigger , Mark , Duration , Travel , Meta",
+      "Charged Staff (9) Spell , Attack , Buff , AoE , Lightning , Duration , Conditional",
+      "Fire Spell on Hit (1) Buff , Persistent , Trigger , Fire , Meta",
+      "Hand of Chayula (9) Attack , AoE , Melee , Strike , Chaos , Meta",
+      "Mirage Deadeye (1) Buff , Persistent , Trigger , Duration , Meta",
+      "Spell Totem (7) Spell , Totem , Duration , Conditional , Meta",
+      "Ferocious Roar (7) Warcry , Shapeshift , Bear , AoE , Nova , Meta"
+    ]
+  },
+  {
+    "passive": "Morgana, the Storm Seer",
+    "score": 83.0,
+    "hits": 7,
+    "tags": [
+      "consume_charge",
+      "lightning",
+      "meta_energy"
+    ],
+    "examples": [
+      "Charged Staff (9) Spell , Attack , Buff , AoE , Lightning , Duration , Conditional",
+      "Elemental Invocation (8) Buff , Persistent , Trigger , Lightning , Cold , Fire , Invocation , Meta",
+      "Fire Spell on Hit (1) Buff , Persistent , Trigger , Fire , Meta",
+      "Hand of Chayula (9) Attack , AoE , Melee , Strike , Chaos , Meta",
+      "Mirage Deadeye (1) Buff , Persistent , Trigger , Duration , Meta",
+      "Spell Totem (7) Spell , Totem , Duration , Conditional , Meta",
+      "Ferocious Roar (7) Warcry , Shapeshift , Bear , AoE , Nova , Meta"
+    ]
+  },
+  {
+    "passive": "Devastation",
+    "score": 82.5,
+    "hits": 11,
+    "tags": [
+      "aoe",
+      "attack"
+    ],
+    "examples": [
+      "Staggering Palm (3) Attack , Buff , AoE , Melee , Strike , Projectile , Physical , Duration , Wind",
+      "Gathering Storm (13) Attack , AoE , Melee , Lightning , Duration , Channelling , Travel",
+      "Fulminating Concoction (1) Attack , AoE , Projectile , Lightning",
+      "Falling Thunder (1) Attack , AoE , Melee , Slam , Projectile , Lightning",
+      "Shockburst Rounds (11) Attack , AoE , Ammunition , Projectile , Lightning , Payoff",
+      "Plasma Blast (13) Attack , AoE , Ammunition , Projectile , Lightning , Channelling",
+      "Shattering Concoction (1) Attack , AoE , Projectile , Cold",
+      "Permafrost Bolts (1) Attack , AoE , Ammunition , Projectile , Cold , Merging",
+      "Ice Shards (5) Attack , AoE , Ammunition , Projectile , Sustained , Cold , Hazard",
+      "Hailstorm Rounds (11) Attack , AoE , Ammunition , Projectile , Sustained , Cold"
+    ]
+  },
+  {
+    "passive": "Hail",
+    "score": 81.0,
+    "hits": 9,
+    "tags": [
+      "attack",
+      "cold",
+      "gain_as_extra"
+    ],
+    "examples": [
+      "Lunar Blessing (13) Warcry , Attack , Shapeshift , Buff , Werewolf , AoE , Melee , Trigger , Cold , Duration",
+      "Glacial Bolt (7) Attack , AoE , Ammunition , Projectile , Cold , Duration",
+      "Shred (1) Attack , Shapeshift , Werewolf , AoE , Melee , Strike , Projectile , Trigger , Cold , Payoff",
+      "Frozen Locus (1) Attack , AoE , Melee , Cold , Duration",
+      "Gemini Surge (1) Attack , AoE , Trigger , Cold , Fire",
+      "Shattering Concoction (1) Attack , AoE , Projectile , Cold",
+      "Permafrost Bolts (1) Attack , AoE , Ammunition , Projectile , Cold , Merging",
+      "Ice Shards (5) Attack , AoE , Ammunition , Projectile , Sustained , Cold , Hazard",
+      "Hailstorm Rounds (11) Attack , AoE , Ammunition , Projectile , Sustained , Cold"
+    ]
+  },
+  {
+    "passive": "Aftershocks",
+    "score": 76.0,
+    "hits": 8,
+    "tags": [
+      "aoe",
+      "lightning"
+    ],
+    "examples": [
+      "Elemental Surge (1) Attack , AoE , Trigger , Lightning , Cold , Fire",
+      "Voltaic Grenade (7) Attack , AoE , Projectile , Grenade , Lightning , Duration",
+      "Stormblast Bolts (9) Attack , AoE , Ammunition , Projectile , Lightning , Duration",
+      "Gathering Storm (13) Attack , AoE , Melee , Lightning , Duration , Channelling , Travel",
+      "Fulminating Concoction (1) Attack , AoE , Projectile , Lightning",
+      "Falling Thunder (1) Attack , AoE , Melee , Slam , Projectile , Lightning",
+      "Shockburst Rounds (11) Attack , AoE , Ammunition , Projectile , Lightning , Payoff",
+      "Plasma Blast (13) Attack , AoE , Ammunition , Projectile , Lightning , Channelling"
+    ]
+  },
+  {
+    "passive": "Shockwaves",
+    "score": 76.0,
+    "hits": 8,
+    "tags": [
+      "aoe",
+      "lightning"
+    ],
+    "examples": [
+      "Elemental Surge (1) Attack , AoE , Trigger , Lightning , Cold , Fire",
+      "Voltaic Grenade (7) Attack , AoE , Projectile , Grenade , Lightning , Duration",
+      "Stormblast Bolts (9) Attack , AoE , Ammunition , Projectile , Lightning , Duration",
+      "Gathering Storm (13) Attack , AoE , Melee , Lightning , Duration , Channelling , Travel",
+      "Fulminating Concoction (1) Attack , AoE , Projectile , Lightning",
+      "Falling Thunder (1) Attack , AoE , Melee , Slam , Projectile , Lightning",
+      "Shockburst Rounds (11) Attack , AoE , Ammunition , Projectile , Lightning , Payoff",
+      "Plasma Blast (13) Attack , AoE , Ammunition , Projectile , Lightning , Channelling"
+    ]
+  },
+  {
+    "passive": "Authority",
+    "score": 75.0,
+    "hits": 10,
+    "tags": [
+      "aoe",
+      "attack"
+    ],
+    "examples": [
+      "Staggering Palm (3) Attack , Buff , AoE , Melee , Strike , Projectile , Physical , Duration , Wind",
+      "Fulminating Concoction (1) Attack , AoE , Projectile , Lightning",
+      "Falling Thunder (1) Attack , AoE , Melee , Slam , Projectile , Lightning",
+      "Shockburst Rounds (11) Attack , AoE , Ammunition , Projectile , Lightning , Payoff",
+      "Plasma Blast (13) Attack , AoE , Ammunition , Projectile , Lightning , Channelling",
+      "Shattering Concoction (1) Attack , AoE , Projectile , Cold",
+      "Permafrost Bolts (1) Attack , AoE , Ammunition , Projectile , Cold , Merging",
+      "Ice Shards (5) Attack , AoE , Ammunition , Projectile , Sustained , Cold , Hazard",
+      "Hailstorm Rounds (11) Attack , AoE , Ammunition , Projectile , Sustained , Cold",
+      "Artillery Ballista (7) Attack , Totem , AoE , Projectile , Sustained , Duration"
+    ]
+  },
+  {
+    "passive": "Colossal Weapon",
+    "score": 75.0,
+    "hits": 10,
+    "tags": [
+      "aoe",
+      "attack"
+    ],
+    "examples": [
+      "Staggering Palm (3) Attack , Buff , AoE , Melee , Strike , Projectile , Physical , Duration , Wind",
+      "Fulminating Concoction (1) Attack , AoE , Projectile , Lightning",
+      "Falling Thunder (1) Attack , AoE , Melee , Slam , Projectile , Lightning",
+      "Shockburst Rounds (11) Attack , AoE , Ammunition , Projectile , Lightning , Payoff",
+      "Plasma Blast (13) Attack , AoE , Ammunition , Projectile , Lightning , Channelling",
+      "Shattering Concoction (1) Attack , AoE , Projectile , Cold",
+      "Permafrost Bolts (1) Attack , AoE , Ammunition , Projectile , Cold , Merging",
+      "Ice Shards (5) Attack , AoE , Ammunition , Projectile , Sustained , Cold , Hazard",
+      "Hailstorm Rounds (11) Attack , AoE , Ammunition , Projectile , Sustained , Cold",
+      "Artillery Ballista (7) Attack , Totem , AoE , Projectile , Sustained , Duration"
+    ]
+  },
+  {
+    "passive": "Innate Rune",
+    "score": 72.0,
+    "hits": 8,
+    "tags": [
+      "attack",
+      "lightning"
+    ],
+    "examples": [
+      "Elemental Surge (1) Attack , AoE , Trigger , Lightning , Cold , Fire",
+      "Voltaic Grenade (7) Attack , AoE , Projectile , Grenade , Lightning , Duration",
+      "Stormblast Bolts (9) Attack , AoE , Ammunition , Projectile , Lightning , Duration",
+      "Gathering Storm (13) Attack , AoE , Melee , Lightning , Duration , Channelling , Travel",
+      "Fulminating Concoction (1) Attack , AoE , Projectile , Lightning",
+      "Falling Thunder (1) Attack , AoE , Melee , Slam , Projectile , Lightning",
+      "Shockburst Rounds (11) Attack , AoE , Ammunition , Projectile , Lightning , Payoff",
+      "Plasma Blast (13) Attack , AoE , Ammunition , Projectile , Lightning , Channelling"
+    ]
+  },
+  {
+    "passive": "Lasting Trauma",
+    "score": 72.0,
+    "hits": 9,
+    "tags": [
+      "attack",
+      "duration"
+    ],
+    "examples": [
+      "Voltaic Grenade (7) Attack , AoE , Projectile , Grenade , Lightning , Duration",
+      "Stormblast Bolts (9) Attack , AoE , Ammunition , Projectile , Lightning , Duration",
+      "Glacial Bolt (7) Attack , AoE , Ammunition , Projectile , Cold , Duration",
+      "Oil Grenade (9) Attack , AoE , Projectile , Grenade , Fire , Duration",
+      "Siege Ballista (9) Attack , Totem , AoE , Projectile , Fire , Duration , Barrageable",
+      "Staggering Palm (3) Attack , Buff , AoE , Melee , Strike , Projectile , Physical , Duration , Wind",
+      "Gathering Storm (13) Attack , AoE , Melee , Lightning , Duration , Channelling , Travel",
+      "Frozen Locus (1) Attack , AoE , Melee , Cold , Duration",
+      "Artillery Ballista (7) Attack , Totem , AoE , Projectile , Sustained , Duration"
+    ]
+  },
+  {
+    "passive": "Cold Coat",
+    "score": 70.0,
+    "hits": 7,
+    "tags": [
+      "cold",
+      "duration"
+    ],
+    "examples": [
+      "Apocalypse (1) Buff , Spell , AoE , Trigger , Lightning , Cold , Fire , Duration , Conditional , Storm",
+      "Elemental Storm (1) Spell , AoE , Trigger , Lightning , Cold , Fire , Duration , Orb",
+      "Lunar Blessing (13) Warcry , Attack , Shapeshift , Buff , Werewolf , AoE , Melee , Trigger , Cold , Duration",
+      "Glacial Bolt (7) Attack , AoE , Ammunition , Projectile , Cold , Duration",
+      "Shard Scavenger (8) Buff , Persistent , Physical , Lightning , Cold , Fire , Duration",
+      "Frozen Locus (1) Attack , AoE , Melee , Cold , Duration",
+      "Unbound Avatar (1) Buff , Lightning , Cold , Fire , Duration , Conditional"
+    ]
+  },
+  {
+    "passive": "Cold Nature",
+    "score": 70.0,
+    "hits": 7,
+    "tags": [
+      "cold",
+      "duration"
+    ],
+    "examples": [
+      "Apocalypse (1) Buff , Spell , AoE , Trigger , Lightning , Cold , Fire , Duration , Conditional , Storm",
+      "Elemental Storm (1) Spell , AoE , Trigger , Lightning , Cold , Fire , Duration , Orb",
+      "Lunar Blessing (13) Warcry , Attack , Shapeshift , Buff , Werewolf , AoE , Melee , Trigger , Cold , Duration",
+      "Glacial Bolt (7) Attack , AoE , Ammunition , Projectile , Cold , Duration",
+      "Shard Scavenger (8) Buff , Persistent , Physical , Lightning , Cold , Fire , Duration",
+      "Frozen Locus (1) Attack , AoE , Melee , Cold , Duration",
+      "Unbound Avatar (1) Buff , Lightning , Cold , Fire , Duration , Conditional"
+    ]
+  },
+  {
+    "passive": "Electrifying Nature",
+    "score": 70.0,
+    "hits": 7,
+    "tags": [
+      "duration",
+      "lightning"
+    ],
+    "examples": [
+      "Apocalypse (1) Buff , Spell , AoE , Trigger , Lightning , Cold , Fire , Duration , Conditional , Storm",
+      "Elemental Storm (1) Spell , AoE , Trigger , Lightning , Cold , Fire , Duration , Orb",
+      "Voltaic Grenade (7) Attack , AoE , Projectile , Grenade , Lightning , Duration",
+      "Stormblast Bolts (9) Attack , AoE , Ammunition , Projectile , Lightning , Duration",
+      "Shard Scavenger (8) Buff , Persistent , Physical , Lightning , Cold , Fire , Duration",
+      "Gathering Storm (13) Attack , AoE , Melee , Lightning , Duration , Channelling , Travel",
+      "Unbound Avatar (1) Buff , Lightning , Cold , Fire , Duration , Conditional"
+    ]
+  },
+  {
+    "passive": "Blessing of the Moon",
+    "score": 70.0,
+    "hits": 7,
+    "tags": [
+      "cold",
+      "duration"
+    ],
+    "examples": [
+      "Apocalypse (1) Buff , Spell , AoE , Trigger , Lightning , Cold , Fire , Duration , Conditional , Storm",
+      "Elemental Storm (1) Spell , AoE , Trigger , Lightning , Cold , Fire , Duration , Orb",
+      "Lunar Blessing (13) Warcry , Attack , Shapeshift , Buff , Werewolf , AoE , Melee , Trigger , Cold , Duration",
+      "Glacial Bolt (7) Attack , AoE , Ammunition , Projectile , Cold , Duration",
+      "Shard Scavenger (8) Buff , Persistent , Physical , Lightning , Cold , Fire , Duration",
+      "Frozen Locus (1) Attack , AoE , Melee , Cold , Duration",
+      "Unbound Avatar (1) Buff , Lightning , Cold , Fire , Duration , Conditional"
+    ]
+  },
+  {
+    "passive": "Perpetual Freeze",
+    "score": 70.0,
+    "hits": 7,
+    "tags": [
+      "cold",
+      "duration"
+    ],
+    "examples": [
+      "Apocalypse (1) Buff , Spell , AoE , Trigger , Lightning , Cold , Fire , Duration , Conditional , Storm",
+      "Elemental Storm (1) Spell , AoE , Trigger , Lightning , Cold , Fire , Duration , Orb",
+      "Lunar Blessing (13) Warcry , Attack , Shapeshift , Buff , Werewolf , AoE , Melee , Trigger , Cold , Duration",
+      "Glacial Bolt (7) Attack , AoE , Ammunition , Projectile , Cold , Duration",
+      "Shard Scavenger (8) Buff , Persistent , Physical , Lightning , Cold , Fire , Duration",
+      "Frozen Locus (1) Attack , AoE , Melee , Cold , Duration",
+      "Unbound Avatar (1) Buff , Lightning , Cold , Fire , Duration , Conditional"
+    ]
+  },
+  {
+    "passive": "Chakra of Elements",
+    "score": 68.0,
+    "hits": 6,
+    "tags": [
+      "cold",
+      "gain_as_extra",
+      "lightning",
+      "physical"
+    ],
+    "examples": [
+      "Elemental Surge (1) Attack , AoE , Trigger , Lightning , Cold , Fire",
+      "Apocalypse (1) Buff , Spell , AoE , Trigger , Lightning , Cold , Fire , Duration , Conditional , Storm",
+      "Elemental Storm (1) Spell , AoE , Trigger , Lightning , Cold , Fire , Duration , Orb",
+      "Elemental Expression (1) Spell , AoE , Projectile , Trigger , Lightning , Cold , Fire , Chaining",
+      "Shard Scavenger (8) Buff , Persistent , Physical , Lightning , Cold , Fire , Duration",
+      "Unbound Avatar (1) Buff , Lightning , Cold , Fire , Duration , Conditional"
+    ]
+  },
+  {
+    "passive": "Fleshcrafting",
+    "score": 67.5,
+    "hits": 6,
+    "tags": [
+      "gain_as_extra",
+      "meta_energy",
+      "minion"
+    ],
+    "examples": [
+      "Pounce (3) Attack , Minion , Shapeshift , Werewolf , AoE , Melee , Slam , Trigger , Mark , Duration , Travel , Meta",
+      "Fire Spell on Hit (1) Buff , Persistent , Trigger , Fire , Meta",
+      "Hand of Chayula (9) Attack , AoE , Melee , Strike , Chaos , Meta",
+      "Mirage Deadeye (1) Buff , Persistent , Trigger , Duration , Meta",
+      "Spell Totem (7) Spell , Totem , Duration , Conditional , Meta",
+      "Ferocious Roar (7) Warcry , Shapeshift , Bear , AoE , Nova , Meta"
+    ]
+  },
+  {
+    "passive": "Primal Sundering",
+    "score": 67.5,
+    "hits": 9,
+    "tags": [
+      "aoe",
+      "attack"
+    ],
+    "examples": [
+      "Fulminating Concoction (1) Attack , AoE , Projectile , Lightning",
+      "Falling Thunder (1) Attack , AoE , Melee , Slam , Projectile , Lightning",
+      "Shockburst Rounds (11) Attack , AoE , Ammunition , Projectile , Lightning , Payoff",
+      "Plasma Blast (13) Attack , AoE , Ammunition , Projectile , Lightning , Channelling",
+      "Shattering Concoction (1) Attack , AoE , Projectile , Cold",
+      "Permafrost Bolts (1) Attack , AoE , Ammunition , Projectile , Cold , Merging",
+      "Ice Shards (5) Attack , AoE , Ammunition , Projectile , Sustained , Cold , Hazard",
+      "Hailstorm Rounds (11) Attack , AoE , Ammunition , Projectile , Sustained , Cold",
+      "Artillery Ballista (7) Attack , Totem , AoE , Projectile , Sustained , Duration"
+    ]
+  },
+  {
+    "passive": "Dizzying Sweep",
+    "score": 67.5,
+    "hits": 9,
+    "tags": [
+      "aoe",
+      "attack"
+    ],
+    "examples": [
+      "Fulminating Concoction (1) Attack , AoE , Projectile , Lightning",
+      "Falling Thunder (1) Attack , AoE , Melee , Slam , Projectile , Lightning",
+      "Shockburst Rounds (11) Attack , AoE , Ammunition , Projectile , Lightning , Payoff",
+      "Plasma Blast (13) Attack , AoE , Ammunition , Projectile , Lightning , Channelling",
+      "Shattering Concoction (1) Attack , AoE , Projectile , Cold",
+      "Permafrost Bolts (1) Attack , AoE , Ammunition , Projectile , Cold , Merging",
+      "Ice Shards (5) Attack , AoE , Ammunition , Projectile , Sustained , Cold , Hazard",
+      "Hailstorm Rounds (11) Attack , AoE , Ammunition , Projectile , Sustained , Cold",
+      "Artillery Ballista (7) Attack , Totem , AoE , Projectile , Sustained , Duration"
+    ]
+  },
+  {
+    "passive": "Flowing Metal",
+    "score": 66.0,
+    "hits": 6,
+    "tags": [
+      "meta_energy"
+    ],
+    "examples": [
+      "Pounce (3) Attack , Minion , Shapeshift , Werewolf , AoE , Melee , Slam , Trigger , Mark , Duration , Travel , Meta",
+      "Fire Spell on Hit (1) Buff , Persistent , Trigger , Fire , Meta",
+      "Hand of Chayula (9) Attack , AoE , Melee , Strike , Chaos , Meta",
+      "Mirage Deadeye (1) Buff , Persistent , Trigger , Duration , Meta",
+      "Spell Totem (7) Spell , Totem , Duration , Conditional , Meta",
+      "Ferocious Roar (7) Warcry , Shapeshift , Bear , AoE , Nova , Meta"
+    ]
+  },
+  {
+    "passive": "Shelter from the Rain",
+    "score": 66.0,
+    "hits": 6,
+    "tags": [
+      "consume_charge",
+      "meta_energy"
+    ],
+    "examples": [
+      "Pounce (3) Attack , Minion , Shapeshift , Werewolf , AoE , Melee , Slam , Trigger , Mark , Duration , Travel , Meta",
+      "Fire Spell on Hit (1) Buff , Persistent , Trigger , Fire , Meta",
+      "Hand of Chayula (9) Attack , AoE , Melee , Strike , Chaos , Meta",
+      "Mirage Deadeye (1) Buff , Persistent , Trigger , Duration , Meta",
+      "Spell Totem (7) Spell , Totem , Duration , Conditional , Meta",
+      "Ferocious Roar (7) Warcry , Shapeshift , Bear , AoE , Nova , Meta"
+    ]
+  },
+  {
+    "passive": "Ancient Aegis",
+    "score": 66.0,
+    "hits": 6,
+    "tags": [
+      "meta_energy"
+    ],
+    "examples": [
+      "Pounce (3) Attack , Minion , Shapeshift , Werewolf , AoE , Melee , Slam , Trigger , Mark , Duration , Travel , Meta",
+      "Fire Spell on Hit (1) Buff , Persistent , Trigger , Fire , Meta",
+      "Hand of Chayula (9) Attack , AoE , Melee , Strike , Chaos , Meta",
+      "Mirage Deadeye (1) Buff , Persistent , Trigger , Duration , Meta",
+      "Spell Totem (7) Spell , Totem , Duration , Conditional , Meta",
+      "Ferocious Roar (7) Warcry , Shapeshift , Bear , AoE , Nova , Meta"
+    ]
+  },
+  {
+    "passive": "Fortified Aegis",
+    "score": 66.0,
+    "hits": 6,
+    "tags": [
+      "meta_energy"
+    ],
+    "examples": [
+      "Pounce (3) Attack , Minion , Shapeshift , Werewolf , AoE , Melee , Slam , Trigger , Mark , Duration , Travel , Meta",
+      "Fire Spell on Hit (1) Buff , Persistent , Trigger , Fire , Meta",
+      "Hand of Chayula (9) Attack , AoE , Melee , Strike , Chaos , Meta",
+      "Mirage Deadeye (1) Buff , Persistent , Trigger , Duration , Meta",
+      "Spell Totem (7) Spell , Totem , Duration , Conditional , Meta",
+      "Ferocious Roar (7) Warcry , Shapeshift , Bear , AoE , Nova , Meta"
+    ]
+  },
+  {
+    "passive": "Core of the Guardian",
+    "score": 66.0,
+    "hits": 6,
+    "tags": [
+      "meta_energy"
+    ],
+    "examples": [
+      "Pounce (3) Attack , Minion , Shapeshift , Werewolf , AoE , Melee , Slam , Trigger , Mark , Duration , Travel , Meta",
+      "Fire Spell on Hit (1) Buff , Persistent , Trigger , Fire , Meta",
+      "Hand of Chayula (9) Attack , AoE , Melee , Strike , Chaos , Meta",
+      "Mirage Deadeye (1) Buff , Persistent , Trigger , Duration , Meta",
+      "Spell Totem (7) Spell , Totem , Duration , Conditional , Meta",
+      "Ferocious Roar (7) Warcry , Shapeshift , Bear , AoE , Nova , Meta"
+    ]
+  },
+  {
+    "passive": "Towering Shield",
+    "score": 66.0,
+    "hits": 6,
+    "tags": [
+      "meta_energy"
+    ],
+    "examples": [
+      "Pounce (3) Attack , Minion , Shapeshift , Werewolf , AoE , Melee , Slam , Trigger , Mark , Duration , Travel , Meta",
+      "Fire Spell on Hit (1) Buff , Persistent , Trigger , Fire , Meta",
+      "Hand of Chayula (9) Attack , AoE , Melee , Strike , Chaos , Meta",
+      "Mirage Deadeye (1) Buff , Persistent , Trigger , Duration , Meta",
+      "Spell Totem (7) Spell , Totem , Duration , Conditional , Meta",
+      "Ferocious Roar (7) Warcry , Shapeshift , Bear , AoE , Nova , Meta"
+    ]
+  },
+  {
+    "passive": "Affliction Enforcer",
+    "score": 66.0,
+    "hits": 6,
+    "tags": [
+      "cold",
+      "lightning"
+    ],
+    "examples": [
+      "Elemental Surge (1) Attack , AoE , Trigger , Lightning , Cold , Fire",
+      "Apocalypse (1) Buff , Spell , AoE , Trigger , Lightning , Cold , Fire , Duration , Conditional , Storm",
+      "Elemental Storm (1) Spell , AoE , Trigger , Lightning , Cold , Fire , Duration , Orb",
+      "Elemental Expression (1) Spell , AoE , Projectile , Trigger , Lightning , Cold , Fire , Chaining",
+      "Shard Scavenger (8) Buff , Persistent , Physical , Lightning , Cold , Fire , Duration",
+      "Unbound Avatar (1) Buff , Lightning , Cold , Fire , Duration , Conditional"
+    ]
+  },
+  {
+    "passive": "Drenched",
+    "score": 66.0,
+    "hits": 6,
+    "tags": [
+      "cold",
+      "gain_as_extra",
+      "lightning"
+    ],
+    "examples": [
+      "Elemental Surge (1) Attack , AoE , Trigger , Lightning , Cold , Fire",
+      "Apocalypse (1) Buff , Spell , AoE , Trigger , Lightning , Cold , Fire , Duration , Conditional , Storm",
+      "Elemental Storm (1) Spell , AoE , Trigger , Lightning , Cold , Fire , Duration , Orb",
+      "Elemental Expression (1) Spell , AoE , Projectile , Trigger , Lightning , Cold , Fire , Chaining",
+      "Shard Scavenger (8) Buff , Persistent , Physical , Lightning , Cold , Fire , Duration",
+      "Unbound Avatar (1) Buff , Lightning , Cold , Fire , Duration , Conditional"
+    ]
+  },
+  {
+    "passive": "Emboldened Avatar",
+    "score": 66.0,
+    "hits": 6,
+    "tags": [
+      "cold",
+      "lightning"
+    ],
+    "examples": [
+      "Elemental Surge (1) Attack , AoE , Trigger , Lightning , Cold , Fire",
+      "Apocalypse (1) Buff , Spell , AoE , Trigger , Lightning , Cold , Fire , Duration , Conditional , Storm",
+      "Elemental Storm (1) Spell , AoE , Trigger , Lightning , Cold , Fire , Duration , Orb",
+      "Elemental Expression (1) Spell , AoE , Projectile , Trigger , Lightning , Cold , Fire , Chaining",
+      "Shard Scavenger (8) Buff , Persistent , Physical , Lightning , Cold , Fire , Duration",
+      "Unbound Avatar (1) Buff , Lightning , Cold , Fire , Duration , Conditional"
+    ]
+  },
+  {
+    "passive": "Storm Swell",
+    "score": 66.0,
+    "hits": 6,
+    "tags": [
+      "cold",
+      "lightning"
+    ],
+    "examples": [
+      "Elemental Surge (1) Attack , AoE , Trigger , Lightning , Cold , Fire",
+      "Apocalypse (1) Buff , Spell , AoE , Trigger , Lightning , Cold , Fire , Duration , Conditional , Storm",
+      "Elemental Storm (1) Spell , AoE , Trigger , Lightning , Cold , Fire , Duration , Orb",
+      "Elemental Expression (1) Spell , AoE , Projectile , Trigger , Lightning , Cold , Fire , Chaining",
+      "Shard Scavenger (8) Buff , Persistent , Physical , Lightning , Cold , Fire , Duration",
+      "Unbound Avatar (1) Buff , Lightning , Cold , Fire , Duration , Conditional"
+    ]
+  },
+  {
+    "passive": "Storm Surge",
+    "score": 66.0,
+    "hits": 6,
+    "tags": [
+      "cold",
+      "lightning"
+    ],
+    "examples": [
+      "Elemental Surge (1) Attack , AoE , Trigger , Lightning , Cold , Fire",
+      "Apocalypse (1) Buff , Spell , AoE , Trigger , Lightning , Cold , Fire , Duration , Conditional , Storm",
+      "Elemental Storm (1) Spell , AoE , Trigger , Lightning , Cold , Fire , Duration , Orb",
+      "Elemental Expression (1) Spell , AoE , Projectile , Trigger , Lightning , Cold , Fire , Chaining",
+      "Shard Scavenger (8) Buff , Persistent , Physical , Lightning , Cold , Fire , Duration",
+      "Unbound Avatar (1) Buff , Lightning , Cold , Fire , Duration , Conditional"
+    ]
+  },
+  {
+    "passive": "Wild Storm",
+    "score": 66.0,
+    "hits": 6,
+    "tags": [
+      "cold",
+      "gain_as_extra",
+      "lightning"
+    ],
+    "examples": [
+      "Elemental Surge (1) Attack , AoE , Trigger , Lightning , Cold , Fire",
+      "Apocalypse (1) Buff , Spell , AoE , Trigger , Lightning , Cold , Fire , Duration , Conditional , Storm",
+      "Elemental Storm (1) Spell , AoE , Trigger , Lightning , Cold , Fire , Duration , Orb",
+      "Elemental Expression (1) Spell , AoE , Projectile , Trigger , Lightning , Cold , Fire , Chaining",
+      "Shard Scavenger (8) Buff , Persistent , Physical , Lightning , Cold , Fire , Duration",
+      "Unbound Avatar (1) Buff , Lightning , Cold , Fire , Duration , Conditional"
+    ]
+  },
+  {
+    "passive": "Wildsurge Incantation",
+    "score": 66.0,
+    "hits": 8,
+    "tags": [
+      "duration",
+      "spell"
+    ],
+    "examples": [
+      "Voltaic Grenade (7) Attack , AoE , Projectile , Grenade , Lightning , Duration",
+      "Stormblast Bolts (9) Attack , AoE , Ammunition , Projectile , Lightning , Duration",
+      "Glacial Bolt (7) Attack , AoE , Ammunition , Projectile , Cold , Duration",
+      "Staggering Palm (3) Attack , Buff , AoE , Melee , Strike , Projectile , Physical , Duration , Wind",
+      "Gathering Storm (13) Attack , AoE , Melee , Lightning , Duration , Channelling , Travel",
+      "Spell Totem (7) Spell , Totem , Duration , Conditional , Meta",
+      "Frozen Locus (1) Attack , AoE , Melee , Cold , Duration",
+      "Artillery Ballista (7) Attack , Totem , AoE , Projectile , Sustained , Duration"
+    ]
+  },
+  {
+    "passive": "Dynamism",
+    "score": 64.0,
+    "hits": 4,
+    "tags": [
+      "gain_as_extra",
+      "meta_energy",
+      "trigger"
+    ],
+    "examples": [
+      "Pounce (3) Attack , Minion , Shapeshift , Werewolf , AoE , Melee , Slam , Trigger , Mark , Duration , Travel , Meta",
+      "Elemental Invocation (8) Buff , Persistent , Trigger , Lightning , Cold , Fire , Invocation , Meta",
+      "Fire Spell on Hit (1) Buff , Persistent , Trigger , Fire , Meta",
+      "Mirage Deadeye (1) Buff , Persistent , Trigger , Duration , Meta"
+    ]
+  },
+  {
+    "passive": "Energise",
+    "score": 64.0,
+    "hits": 4,
+    "tags": [
+      "meta_energy",
+      "trigger"
+    ],
+    "examples": [
+      "Pounce (3) Attack , Minion , Shapeshift , Werewolf , AoE , Melee , Slam , Trigger , Mark , Duration , Travel , Meta",
+      "Elemental Invocation (8) Buff , Persistent , Trigger , Lightning , Cold , Fire , Invocation , Meta",
+      "Fire Spell on Hit (1) Buff , Persistent , Trigger , Fire , Meta",
+      "Mirage Deadeye (1) Buff , Persistent , Trigger , Duration , Meta"
+    ]
+  },
+  {
+    "passive": "Evocational Practitioner",
+    "score": 64.0,
+    "hits": 4,
+    "tags": [
+      "crit",
+      "gain_as_extra",
+      "meta_energy",
+      "trigger"
+    ],
+    "examples": [
+      "Pounce (3) Attack , Minion , Shapeshift , Werewolf , AoE , Melee , Slam , Trigger , Mark , Duration , Travel , Meta",
+      "Elemental Invocation (8) Buff , Persistent , Trigger , Lightning , Cold , Fire , Invocation , Meta",
+      "Fire Spell on Hit (1) Buff , Persistent , Trigger , Fire , Meta",
+      "Mirage Deadeye (1) Buff , Persistent , Trigger , Duration , Meta"
+    ]
+  },
+  {
+    "passive": "Brinerot Ferocity",
+    "score": 63.0,
+    "hits": 7,
+    "tags": [
+      "attack",
+      "lightning"
+    ],
+    "examples": [
+      "Voltaic Grenade (7) Attack , AoE , Projectile , Grenade , Lightning , Duration",
+      "Stormblast Bolts (9) Attack , AoE , Ammunition , Projectile , Lightning , Duration",
+      "Gathering Storm (13) Attack , AoE , Melee , Lightning , Duration , Channelling , Travel",
+      "Fulminating Concoction (1) Attack , AoE , Projectile , Lightning",
+      "Falling Thunder (1) Attack , AoE , Melee , Slam , Projectile , Lightning",
+      "Shockburst Rounds (11) Attack , AoE , Ammunition , Projectile , Lightning , Payoff",
+      "Plasma Blast (13) Attack , AoE , Ammunition , Projectile , Lightning , Channelling"
+    ]
+  },
+  {
+    "passive": "Lightning Quick",
+    "score": 63.0,
+    "hits": 7,
+    "tags": [
+      "attack",
+      "lightning",
+      "skill_speed"
+    ],
+    "examples": [
+      "Voltaic Grenade (7) Attack , AoE , Projectile , Grenade , Lightning , Duration",
+      "Stormblast Bolts (9) Attack , AoE , Ammunition , Projectile , Lightning , Duration",
+      "Gathering Storm (13) Attack , AoE , Melee , Lightning , Duration , Channelling , Travel",
+      "Fulminating Concoction (1) Attack , AoE , Projectile , Lightning",
+      "Falling Thunder (1) Attack , AoE , Melee , Slam , Projectile , Lightning",
+      "Shockburst Rounds (11) Attack , AoE , Ammunition , Projectile , Lightning , Payoff",
+      "Plasma Blast (13) Attack , AoE , Ammunition , Projectile , Lightning , Channelling"
+    ]
+  },
+  {
+    "passive": "General Electric",
+    "score": 63.0,
+    "hits": 7,
+    "tags": [
+      "attack",
+      "lightning",
+      "skill_speed"
+    ],
+    "examples": [
+      "Voltaic Grenade (7) Attack , AoE , Projectile , Grenade , Lightning , Duration",
+      "Stormblast Bolts (9) Attack , AoE , Ammunition , Projectile , Lightning , Duration",
+      "Gathering Storm (13) Attack , AoE , Melee , Lightning , Duration , Channelling , Travel",
+      "Fulminating Concoction (1) Attack , AoE , Projectile , Lightning",
+      "Falling Thunder (1) Attack , AoE , Melee , Slam , Projectile , Lightning",
+      "Shockburst Rounds (11) Attack , AoE , Ammunition , Projectile , Lightning , Payoff",
+      "Plasma Blast (13) Attack , AoE , Ammunition , Projectile , Lightning , Channelling"
+    ]
+  },
+  {
+    "passive": "Explosive Impact",
+    "score": 59.5,
+    "hits": 7,
+    "tags": [
+      "aoe",
+      "fire"
+    ],
+    "examples": [
+      "Gas Grenade (5) Attack , AoE , Projectile , Grenade , Fire , Chaos , Duration",
+      "Walking Calamity (13) Attack , Shapeshift , Buff , Bear , AoE , Trigger , Fire , Duration , Conditional",
+      "Oil Grenade (9) Attack , AoE , Projectile , Grenade , Fire , Duration",
+      "Siege Ballista (9) Attack , Totem , AoE , Projectile , Fire , Duration , Barrageable",
+      "Flame Breath (13) Attack , Shapeshift , Wyvern , AoE , Sustained , Fire , Duration , Channelling , Detonator",
+      "Rolling Magma (3) Attack , Shapeshift , Wyvern , AoE , Projectile , Fire , Detonator",
+      "Gemini Surge (1) Attack , AoE , Trigger , Cold , Fire"
+    ]
+  },
+  {
+    "passive": "Avatar of Fire",
+    "score": 56.0,
+    "hits": 7,
+    "tags": [
+      "fire"
+    ],
+    "examples": [
+      "Gas Grenade (5) Attack , AoE , Projectile , Grenade , Fire , Chaos , Duration",
+      "Walking Calamity (13) Attack , Shapeshift , Buff , Bear , AoE , Trigger , Fire , Duration , Conditional",
+      "Oil Grenade (9) Attack , AoE , Projectile , Grenade , Fire , Duration",
+      "Siege Ballista (9) Attack , Totem , AoE , Projectile , Fire , Duration , Barrageable",
+      "Flame Breath (13) Attack , Shapeshift , Wyvern , AoE , Sustained , Fire , Duration , Channelling , Detonator",
+      "Rolling Magma (3) Attack , Shapeshift , Wyvern , AoE , Projectile , Fire , Detonator",
+      "Gemini Surge (1) Attack , AoE , Trigger , Cold , Fire"
+    ]
+  },
+  {
+    "passive": "Scent of Blood",
+    "score": 56.0,
+    "hits": 7,
+    "tags": [
+      "attack",
+      "duration"
+    ],
+    "examples": [
+      "Voltaic Grenade (7) Attack , AoE , Projectile , Grenade , Lightning , Duration",
+      "Stormblast Bolts (9) Attack , AoE , Ammunition , Projectile , Lightning , Duration",
+      "Glacial Bolt (7) Attack , AoE , Ammunition , Projectile , Cold , Duration",
+      "Staggering Palm (3) Attack , Buff , AoE , Melee , Strike , Projectile , Physical , Duration , Wind",
+      "Gathering Storm (13) Attack , AoE , Melee , Lightning , Duration , Channelling , Travel",
+      "Frozen Locus (1) Attack , AoE , Melee , Cold , Duration",
+      "Artillery Ballista (7) Attack , Totem , AoE , Projectile , Sustained , Duration"
+    ]
+  },
+  {
+    "passive": "Crushing Judgement",
+    "score": 56.0,
+    "hits": 7,
+    "tags": [
+      "attack",
+      "duration"
+    ],
+    "examples": [
+      "Voltaic Grenade (7) Attack , AoE , Projectile , Grenade , Lightning , Duration",
+      "Stormblast Bolts (9) Attack , AoE , Ammunition , Projectile , Lightning , Duration",
+      "Glacial Bolt (7) Attack , AoE , Ammunition , Projectile , Cold , Duration",
+      "Staggering Palm (3) Attack , Buff , AoE , Melee , Strike , Projectile , Physical , Duration , Wind",
+      "Gathering Storm (13) Attack , AoE , Melee , Lightning , Duration , Channelling , Travel",
+      "Frozen Locus (1) Attack , AoE , Melee , Cold , Duration",
+      "Artillery Ballista (7) Attack , Totem , AoE , Projectile , Sustained , Duration"
+    ]
+  },
+  {
+    "passive": "Energising Archon",
+    "score": 55.5,
+    "hits": 4,
+    "tags": [
+      "consume_charge",
+      "duration",
+      "meta_energy"
+    ],
+    "examples": [
+      "Pounce (3) Attack , Minion , Shapeshift , Werewolf , AoE , Melee , Slam , Trigger , Mark , Duration , Travel , Meta",
+      "Charged Staff (9) Spell , Attack , Buff , AoE , Lightning , Duration , Conditional",
+      "Mirage Deadeye (1) Buff , Persistent , Trigger , Duration , Meta",
+      "Spell Totem (7) Spell , Totem , Duration , Conditional , Meta"
+    ]
+  },
+  {
+    "passive": "Fated End",
+    "score": 55.5,
+    "hits": 4,
+    "tags": [
+      "consume_charge",
+      "duration",
+      "meta_energy"
+    ],
+    "examples": [
+      "Pounce (3) Attack , Minion , Shapeshift , Werewolf , AoE , Melee , Slam , Trigger , Mark , Duration , Travel , Meta",
+      "Charged Staff (9) Spell , Attack , Buff , AoE , Lightning , Duration , Conditional",
+      "Mirage Deadeye (1) Buff , Persistent , Trigger , Duration , Meta",
+      "Spell Totem (7) Spell , Totem , Duration , Conditional , Meta"
+    ]
+  },
+  {
+    "passive": "Elemental Surge",
+    "score": 55.0,
+    "hits": 5,
+    "tags": [
+      "consume_charge",
+      "gain_as_extra",
+      "lightning",
+      "trigger"
+    ],
+    "examples": [
+      "Charged Staff (9) Spell , Attack , Buff , AoE , Lightning , Duration , Conditional",
+      "Elemental Surge (1) Attack , AoE , Trigger , Lightning , Cold , Fire",
+      "Apocalypse (1) Buff , Spell , AoE , Trigger , Lightning , Cold , Fire , Duration , Conditional , Storm",
+      "Elemental Storm (1) Spell , AoE , Trigger , Lightning , Cold , Fire , Duration , Orb",
+      "Elemental Expression (1) Spell , AoE , Projectile , Trigger , Lightning , Cold , Fire , Chaining"
+    ]
+  },
+  {
+    "passive": "Conall the Hunted",
+    "score": 54.0,
+    "hits": 4,
+    "tags": [
+      "consume_charge",
+      "meta_energy",
+      "shapeshift"
+    ],
+    "examples": [
+      "Pounce (3) Attack , Minion , Shapeshift , Werewolf , AoE , Melee , Slam , Trigger , Mark , Duration , Travel , Meta",
+      "Hand of Chayula (9) Attack , AoE , Melee , Strike , Chaos , Meta",
+      "Mirage Deadeye (1) Buff , Persistent , Trigger , Duration , Meta",
+      "Ferocious Roar (7) Warcry , Shapeshift , Bear , AoE , Nova , Meta"
+    ]
+  },
+  {
+    "passive": "Dominus' Providence",
+    "score": 53.5,
+    "hits": 5,
+    "tags": [
+      "consume_charge",
+      "meta_energy"
+    ],
+    "examples": [
+      "Fire Spell on Hit (1) Buff , Persistent , Trigger , Fire , Meta",
+      "Hand of Chayula (9) Attack , AoE , Melee , Strike , Chaos , Meta",
+      "Mirage Deadeye (1) Buff , Persistent , Trigger , Duration , Meta",
+      "Spell Totem (7) Spell , Totem , Duration , Conditional , Meta",
+      "Ferocious Roar (7) Warcry , Shapeshift , Bear , AoE , Nova , Meta"
+    ]
+  },
+  {
+    "passive": "Bhatair's Storm",
+    "score": 53.5,
+    "hits": 5,
+    "tags": [
+      "consume_charge",
+      "meta_energy"
+    ],
+    "examples": [
+      "Fire Spell on Hit (1) Buff , Persistent , Trigger , Fire , Meta",
+      "Hand of Chayula (9) Attack , AoE , Melee , Strike , Chaos , Meta",
+      "Mirage Deadeye (1) Buff , Persistent , Trigger , Duration , Meta",
+      "Spell Totem (7) Spell , Totem , Duration , Conditional , Meta",
+      "Ferocious Roar (7) Warcry , Shapeshift , Bear , AoE , Nova , Meta"
+    ]
+  },
+  {
+    "passive": "Barrier of Venarius",
+    "score": 53.5,
+    "hits": 5,
+    "tags": [
+      "meta_energy"
+    ],
+    "examples": [
+      "Fire Spell on Hit (1) Buff , Persistent , Trigger , Fire , Meta",
+      "Hand of Chayula (9) Attack , AoE , Melee , Strike , Chaos , Meta",
+      "Mirage Deadeye (1) Buff , Persistent , Trigger , Duration , Meta",
+      "Spell Totem (7) Spell , Totem , Duration , Conditional , Meta",
+      "Ferocious Roar (7) Warcry , Shapeshift , Bear , AoE , Nova , Meta"
+    ]
+  },
+  {
+    "passive": "Voll's Protection",
+    "score": 53.5,
+    "hits": 5,
+    "tags": [
+      "consume_charge",
+      "gain_as_extra",
+      "meta_energy"
+    ],
+    "examples": [
+      "Fire Spell on Hit (1) Buff , Persistent , Trigger , Fire , Meta",
+      "Hand of Chayula (9) Attack , AoE , Melee , Strike , Chaos , Meta",
+      "Mirage Deadeye (1) Buff , Persistent , Trigger , Duration , Meta",
+      "Spell Totem (7) Spell , Totem , Duration , Conditional , Meta",
+      "Ferocious Roar (7) Warcry , Shapeshift , Bear , AoE , Nova , Meta"
+    ]
+  },
+  {
+    "passive": "Warding Fetish",
+    "score": 53.5,
+    "hits": 5,
+    "tags": [
+      "meta_energy"
+    ],
+    "examples": [
+      "Fire Spell on Hit (1) Buff , Persistent , Trigger , Fire , Meta",
+      "Hand of Chayula (9) Attack , AoE , Melee , Strike , Chaos , Meta",
+      "Mirage Deadeye (1) Buff , Persistent , Trigger , Duration , Meta",
+      "Spell Totem (7) Spell , Totem , Duration , Conditional , Meta",
+      "Ferocious Roar (7) Warcry , Shapeshift , Bear , AoE , Nova , Meta"
+    ]
+  },
+  {
+    "passive": "Shapeshifted Energy Shield Recharge",
+    "score": 52.0,
+    "hits": 4,
+    "tags": [
+      "consume_charge",
+      "meta_energy",
+      "shapeshift"
+    ],
+    "examples": [
+      "Pounce (3) Attack , Minion , Shapeshift , Werewolf , AoE , Melee , Slam , Trigger , Mark , Duration , Travel , Meta",
+      "Pounce (3) Attack , Minion , Shapeshift , Werewolf , AoE , Melee , Slam , Trigger , Mark , Duration , Travel , Meta",
+      "Ferocious Roar (7) Warcry , Shapeshift , Bear , AoE , Nova , Meta",
+      "Ferocious Roar (7) Warcry , Shapeshift , Bear , AoE , Nova , Meta"
+    ]
+  },
+  {
+    "passive": "Shapeshifted Energy Shield Delay",
+    "score": 52.0,
+    "hits": 4,
+    "tags": [
+      "consume_charge",
+      "meta_energy",
+      "shapeshift"
+    ],
+    "examples": [
+      "Pounce (3) Attack , Minion , Shapeshift , Werewolf , AoE , Melee , Slam , Trigger , Mark , Duration , Travel , Meta",
+      "Pounce (3) Attack , Minion , Shapeshift , Werewolf , AoE , Melee , Slam , Trigger , Mark , Duration , Travel , Meta",
+      "Ferocious Roar (7) Warcry , Shapeshift , Bear , AoE , Nova , Meta",
+      "Ferocious Roar (7) Warcry , Shapeshift , Bear , AoE , Nova , Meta"
+    ]
+  },
+  {
+    "passive": "Psychic Fragmentation",
+    "score": 52.0,
+    "hits": 5,
+    "tags": [
+      "fire",
+      "projectile",
+      "spell"
+    ],
+    "examples": [
+      "Gas Grenade (5) Attack , AoE , Projectile , Grenade , Fire , Chaos , Duration",
+      "Elemental Expression (1) Spell , AoE , Projectile , Trigger , Lightning , Cold , Fire , Chaining",
+      "Oil Grenade (9) Attack , AoE , Projectile , Grenade , Fire , Duration",
+      "Siege Ballista (9) Attack , Totem , AoE , Projectile , Fire , Duration , Barrageable",
+      "Rolling Magma (3) Attack , Shapeshift , Wyvern , AoE , Projectile , Fire , Detonator"
+    ]
+  },
+  {
+    "passive": "Cluster Bombs",
+    "score": 50.0,
+    "hits": 5,
+    "tags": [
+      "fire",
+      "projectile"
+    ],
+    "examples": [
+      "Gas Grenade (5) Attack , AoE , Projectile , Grenade , Fire , Chaos , Duration",
+      "Elemental Expression (1) Spell , AoE , Projectile , Trigger , Lightning , Cold , Fire , Chaining",
+      "Oil Grenade (9) Attack , AoE , Projectile , Grenade , Fire , Duration",
+      "Siege Ballista (9) Attack , Totem , AoE , Projectile , Fire , Duration , Barrageable",
+      "Rolling Magma (3) Attack , Shapeshift , Wyvern , AoE , Projectile , Fire , Detonator"
+    ]
+  },
+  {
+    "passive": "Shifted Strikes",
+    "score": 50.0,
+    "hits": 5,
+    "tags": [
+      "attack",
+      "shapeshift"
+    ],
+    "examples": [
+      "Lunar Blessing (13) Warcry , Attack , Shapeshift , Buff , Werewolf , AoE , Melee , Trigger , Cold , Duration",
+      "Walking Calamity (13) Attack , Shapeshift , Buff , Bear , AoE , Trigger , Fire , Duration , Conditional",
+      "Flame Breath (13) Attack , Shapeshift , Wyvern , AoE , Sustained , Fire , Duration , Channelling , Detonator",
+      "Shred (1) Attack , Shapeshift , Werewolf , AoE , Melee , Strike , Projectile , Trigger , Cold , Payoff",
+      "Rolling Magma (3) Attack , Shapeshift , Wyvern , AoE , Projectile , Fire , Detonator"
+    ]
+  },
+  {
+    "passive": "Chilled to the Bone",
+    "score": 50.0,
+    "hits": 5,
+    "tags": [
+      "cold",
+      "duration"
+    ],
+    "examples": [
+      "Lunar Blessing (13) Warcry , Attack , Shapeshift , Buff , Werewolf , AoE , Melee , Trigger , Cold , Duration",
+      "Glacial Bolt (7) Attack , AoE , Ammunition , Projectile , Cold , Duration",
+      "Shard Scavenger (8) Buff , Persistent , Physical , Lightning , Cold , Fire , Duration",
+      "Frozen Locus (1) Attack , AoE , Melee , Cold , Duration",
+      "Unbound Avatar (1) Buff , Lightning , Cold , Fire , Duration , Conditional"
+    ]
+  },
+  {
+    "passive": "Inescapable Cold",
+    "score": 50.0,
+    "hits": 5,
+    "tags": [
+      "cold",
+      "duration"
+    ],
+    "examples": [
+      "Lunar Blessing (13) Warcry , Attack , Shapeshift , Buff , Werewolf , AoE , Melee , Trigger , Cold , Duration",
+      "Glacial Bolt (7) Attack , AoE , Ammunition , Projectile , Cold , Duration",
+      "Shard Scavenger (8) Buff , Persistent , Physical , Lightning , Cold , Fire , Duration",
+      "Frozen Locus (1) Attack , AoE , Melee , Cold , Duration",
+      "Unbound Avatar (1) Buff , Lightning , Cold , Fire , Duration , Conditional"
+    ]
+  },
+  {
+    "passive": "Bond of the Wolf",
+    "score": 50.0,
+    "hits": 5,
+    "tags": [
+      "attack",
+      "gain_as_extra",
+      "shapeshift"
+    ],
+    "examples": [
+      "Lunar Blessing (13) Warcry , Attack , Shapeshift , Buff , Werewolf , AoE , Melee , Trigger , Cold , Duration",
+      "Walking Calamity (13) Attack , Shapeshift , Buff , Bear , AoE , Trigger , Fire , Duration , Conditional",
+      "Flame Breath (13) Attack , Shapeshift , Wyvern , AoE , Sustained , Fire , Duration , Channelling , Detonator",
+      "Shred (1) Attack , Shapeshift , Werewolf , AoE , Melee , Strike , Projectile , Trigger , Cold , Payoff",
+      "Rolling Magma (3) Attack , Shapeshift , Wyvern , AoE , Projectile , Fire , Detonator"
+    ]
+  },
+  {
+    "passive": "Frozen Claw",
+    "score": 48.0,
+    "hits": 5,
+    "tags": [
+      "cold",
+      "gain_as_extra",
+      "shapeshift"
+    ],
+    "examples": [
+      "Lunar Blessing (13) Warcry , Attack , Shapeshift , Buff , Werewolf , AoE , Melee , Trigger , Cold , Duration",
+      "Walking Calamity (13) Attack , Shapeshift , Buff , Bear , AoE , Trigger , Fire , Duration , Conditional",
+      "Flame Breath (13) Attack , Shapeshift , Wyvern , AoE , Sustained , Fire , Duration , Channelling , Detonator",
+      "Shred (1) Attack , Shapeshift , Werewolf , AoE , Melee , Strike , Projectile , Trigger , Cold , Payoff",
+      "Rolling Magma (3) Attack , Shapeshift , Wyvern , AoE , Projectile , Fire , Detonator"
+    ]
+  },
+  {
+    "passive": "Blood of the Wolf",
+    "score": 48.0,
+    "hits": 5,
+    "tags": [
+      "cold",
+      "shapeshift"
+    ],
+    "examples": [
+      "Lunar Blessing (13) Warcry , Attack , Shapeshift , Buff , Werewolf , AoE , Melee , Trigger , Cold , Duration",
+      "Walking Calamity (13) Attack , Shapeshift , Buff , Bear , AoE , Trigger , Fire , Duration , Conditional",
+      "Flame Breath (13) Attack , Shapeshift , Wyvern , AoE , Sustained , Fire , Duration , Channelling , Detonator",
+      "Shred (1) Attack , Shapeshift , Werewolf , AoE , Melee , Strike , Projectile , Trigger , Cold , Payoff",
+      "Rolling Magma (3) Attack , Shapeshift , Wyvern , AoE , Projectile , Fire , Detonator"
+    ]
+  },
+  {
+    "passive": "Burning Nature",
+    "score": 45.0,
+    "hits": 5,
+    "tags": [
+      "duration",
+      "fire"
+    ],
+    "examples": [
+      "Gas Grenade (5) Attack , AoE , Projectile , Grenade , Fire , Chaos , Duration",
+      "Walking Calamity (13) Attack , Shapeshift , Buff , Bear , AoE , Trigger , Fire , Duration , Conditional",
+      "Oil Grenade (9) Attack , AoE , Projectile , Grenade , Fire , Duration",
+      "Siege Ballista (9) Attack , Totem , AoE , Projectile , Fire , Duration , Barrageable",
+      "Flame Breath (13) Attack , Shapeshift , Wyvern , AoE , Sustained , Fire , Duration , Channelling , Detonator"
+    ]
+  },
+  {
+    "passive": "Total Incineration",
+    "score": 45.0,
+    "hits": 5,
+    "tags": [
+      "duration",
+      "fire",
+      "gain_as_extra"
+    ],
+    "examples": [
+      "Gas Grenade (5) Attack , AoE , Projectile , Grenade , Fire , Chaos , Duration",
+      "Walking Calamity (13) Attack , Shapeshift , Buff , Bear , AoE , Trigger , Fire , Duration , Conditional",
+      "Oil Grenade (9) Attack , AoE , Projectile , Grenade , Fire , Duration",
+      "Siege Ballista (9) Attack , Totem , AoE , Projectile , Fire , Duration , Barrageable",
+      "Flame Breath (13) Attack , Shapeshift , Wyvern , AoE , Sustained , Fire , Duration , Channelling , Detonator"
+    ]
+  },
+  {
+    "passive": "Smoke Inhalation",
+    "score": 45.0,
+    "hits": 5,
+    "tags": [
+      "duration",
+      "fire"
+    ],
+    "examples": [
+      "Gas Grenade (5) Attack , AoE , Projectile , Grenade , Fire , Chaos , Duration",
+      "Walking Calamity (13) Attack , Shapeshift , Buff , Bear , AoE , Trigger , Fire , Duration , Conditional",
+      "Oil Grenade (9) Attack , AoE , Projectile , Grenade , Fire , Duration",
+      "Siege Ballista (9) Attack , Totem , AoE , Projectile , Fire , Duration , Barrageable",
+      "Flame Breath (13) Attack , Shapeshift , Wyvern , AoE , Sustained , Fire , Duration , Channelling , Detonator"
+    ]
+  },
+  {
+    "passive": "Slow Burn",
+    "score": 45.0,
+    "hits": 5,
+    "tags": [
+      "duration",
+      "fire"
+    ],
+    "examples": [
+      "Gas Grenade (5) Attack , AoE , Projectile , Grenade , Fire , Chaos , Duration",
+      "Walking Calamity (13) Attack , Shapeshift , Buff , Bear , AoE , Trigger , Fire , Duration , Conditional",
+      "Oil Grenade (9) Attack , AoE , Projectile , Grenade , Fire , Duration",
+      "Siege Ballista (9) Attack , Totem , AoE , Projectile , Fire , Duration , Barrageable",
+      "Flame Breath (13) Attack , Shapeshift , Wyvern , AoE , Sustained , Fire , Duration , Channelling , Detonator"
+    ]
+  },
+  {
+    "passive": "Fan the Flames",
+    "score": 45.0,
+    "hits": 5,
+    "tags": [
+      "duration",
+      "fire"
+    ],
+    "examples": [
+      "Gas Grenade (5) Attack , AoE , Projectile , Grenade , Fire , Chaos , Duration",
+      "Walking Calamity (13) Attack , Shapeshift , Buff , Bear , AoE , Trigger , Fire , Duration , Conditional",
+      "Oil Grenade (9) Attack , AoE , Projectile , Grenade , Fire , Duration",
+      "Siege Ballista (9) Attack , Totem , AoE , Projectile , Fire , Duration , Barrageable",
+      "Flame Breath (13) Attack , Shapeshift , Wyvern , AoE , Sustained , Fire , Duration , Channelling , Detonator"
+    ]
+  },
+  {
+    "passive": "Exposed to the Inferno",
+    "score": 45.0,
+    "hits": 5,
+    "tags": [
+      "duration",
+      "fire",
+      "gain_as_extra"
+    ],
+    "examples": [
+      "Gas Grenade (5) Attack , AoE , Projectile , Grenade , Fire , Chaos , Duration",
+      "Walking Calamity (13) Attack , Shapeshift , Buff , Bear , AoE , Trigger , Fire , Duration , Conditional",
+      "Oil Grenade (9) Attack , AoE , Projectile , Grenade , Fire , Duration",
+      "Siege Ballista (9) Attack , Totem , AoE , Projectile , Fire , Duration , Barrageable",
+      "Flame Breath (13) Attack , Shapeshift , Wyvern , AoE , Sustained , Fire , Duration , Channelling , Detonator"
+    ]
+  },
+  {
+    "passive": "Power Charge Duration and Energy Shield",
+    "score": 44.0,
+    "hits": 4,
+    "tags": [
+      "consume_charge",
+      "duration",
+      "meta_energy",
+      "power_charge"
+    ],
+    "examples": [
+      "Mirage Deadeye (1) Buff , Persistent , Trigger , Duration , Meta",
+      "Mirage Deadeye (1) Buff , Persistent , Trigger , Duration , Meta",
+      "Spell Totem (7) Spell , Totem , Duration , Conditional , Meta",
+      "Spell Totem (7) Spell , Totem , Duration , Conditional , Meta"
+    ]
+  },
+  {
+    "passive": "Shimmering Mirage",
+    "score": 43.5,
+    "hits": 3,
+    "tags": [
+      "duration",
+      "gain_as_extra",
+      "meta_energy"
+    ],
+    "examples": [
+      "Pounce (3) Attack , Minion , Shapeshift , Werewolf , AoE , Melee , Slam , Trigger , Mark , Duration , Travel , Meta",
+      "Mirage Deadeye (1) Buff , Persistent , Trigger , Duration , Meta",
+      "Spell Totem (7) Spell , Totem , Duration , Conditional , Meta"
+    ]
+  },
+  {
+    "passive": "First Teachings of the Keeper",
+    "score": 42.5,
+    "hits": 3,
+    "tags": [
+      "chaos",
+      "consume_charge",
+      "fire",
+      "gain_as_extra",
+      "meta_energy"
+    ],
+    "examples": [
+      "Elemental Invocation (8) Buff , Persistent , Trigger , Lightning , Cold , Fire , Invocation , Meta",
+      "Fire Spell on Hit (1) Buff , Persistent , Trigger , Fire , Meta",
+      "Hand of Chayula (9) Attack , AoE , Melee , Strike , Chaos , Meta"
+    ]
+  },
+  {
+    "passive": "Endlessly Soaring",
+    "score": 41.0,
+    "hits": 4,
+    "tags": [
+      "duration",
+      "shapeshift"
+    ],
+    "examples": [
+      "Lunar Blessing (13) Warcry , Attack , Shapeshift , Buff , Werewolf , AoE , Melee , Trigger , Cold , Duration",
+      "Walking Calamity (13) Attack , Shapeshift , Buff , Bear , AoE , Trigger , Fire , Duration , Conditional",
+      "Flame Breath (13) Attack , Shapeshift , Wyvern , AoE , Sustained , Fire , Duration , Channelling , Detonator",
+      "Shred (1) Attack , Shapeshift , Werewolf , AoE , Melee , Strike , Projectile , Trigger , Cold , Payoff"
+    ]
+  },
+  {
+    "passive": "Molten Claw",
+    "score": 41.0,
+    "hits": 4,
+    "tags": [
+      "fire",
+      "gain_as_extra",
+      "shapeshift"
+    ],
+    "examples": [
+      "Walking Calamity (13) Attack , Shapeshift , Buff , Bear , AoE , Trigger , Fire , Duration , Conditional",
+      "Flame Breath (13) Attack , Shapeshift , Wyvern , AoE , Sustained , Fire , Duration , Channelling , Detonator",
+      "Shred (1) Attack , Shapeshift , Werewolf , AoE , Melee , Strike , Projectile , Trigger , Cold , Payoff",
+      "Rolling Magma (3) Attack , Shapeshift , Wyvern , AoE , Projectile , Fire , Detonator"
+    ]
+  },
+  {
+    "passive": "Hide of the Bear",
+    "score": 41.0,
+    "hits": 4,
+    "tags": [
+      "fire",
+      "shapeshift"
+    ],
+    "examples": [
+      "Walking Calamity (13) Attack , Shapeshift , Buff , Bear , AoE , Trigger , Fire , Duration , Conditional",
+      "Flame Breath (13) Attack , Shapeshift , Wyvern , AoE , Sustained , Fire , Duration , Channelling , Detonator",
+      "Shred (1) Attack , Shapeshift , Werewolf , AoE , Melee , Strike , Projectile , Trigger , Cold , Payoff",
+      "Rolling Magma (3) Attack , Shapeshift , Wyvern , AoE , Projectile , Fire , Detonator"
+    ]
+  },
+  {
+    "passive": "Unleash Fire",
+    "score": 40.0,
+    "hits": 4,
+    "tags": [
+      "fire",
+      "gain_as_extra",
+      "projectile"
+    ],
+    "examples": [
+      "Gas Grenade (5) Attack , AoE , Projectile , Grenade , Fire , Chaos , Duration",
+      "Oil Grenade (9) Attack , AoE , Projectile , Grenade , Fire , Duration",
+      "Siege Ballista (9) Attack , Totem , AoE , Projectile , Fire , Duration , Barrageable",
+      "Rolling Magma (3) Attack , Shapeshift , Wyvern , AoE , Projectile , Fire , Detonator"
+    ]
+  },
+  {
+    "passive": "Multi Shot",
+    "score": 40.0,
+    "hits": 4,
+    "tags": [
+      "fire",
+      "projectile"
+    ],
+    "examples": [
+      "Gas Grenade (5) Attack , AoE , Projectile , Grenade , Fire , Chaos , Duration",
+      "Oil Grenade (9) Attack , AoE , Projectile , Grenade , Fire , Duration",
+      "Siege Ballista (9) Attack , Totem , AoE , Projectile , Fire , Duration , Barrageable",
+      "Rolling Magma (3) Attack , Shapeshift , Wyvern , AoE , Projectile , Fire , Detonator"
+    ]
+  },
+  {
+    "passive": "Endless Munitions",
+    "score": 40.0,
+    "hits": 4,
+    "tags": [
+      "fire",
+      "projectile"
+    ],
+    "examples": [
+      "Gas Grenade (5) Attack , AoE , Projectile , Grenade , Fire , Chaos , Duration",
+      "Oil Grenade (9) Attack , AoE , Projectile , Grenade , Fire , Duration",
+      "Siege Ballista (9) Attack , Totem , AoE , Projectile , Fire , Duration , Barrageable",
+      "Rolling Magma (3) Attack , Shapeshift , Wyvern , AoE , Projectile , Fire , Detonator"
+    ]
+  },
+  {
+    "passive": "Spirit of the Wolf",
+    "score": 40.0,
+    "hits": 5,
+    "tags": [
+      "crit",
+      "reservation",
+      "shapeshift",
+      "skill_speed"
+    ],
+    "examples": [
+      "Lunar Blessing (13) Warcry , Attack , Shapeshift , Buff , Werewolf , AoE , Melee , Trigger , Cold , Duration",
+      "Walking Calamity (13) Attack , Shapeshift , Buff , Bear , AoE , Trigger , Fire , Duration , Conditional",
+      "Flame Breath (13) Attack , Shapeshift , Wyvern , AoE , Sustained , Fire , Duration , Channelling , Detonator",
+      "Shred (1) Attack , Shapeshift , Werewolf , AoE , Melee , Strike , Projectile , Trigger , Cold , Payoff",
+      "Rolling Magma (3) Attack , Shapeshift , Wyvern , AoE , Projectile , Fire , Detonator"
+    ]
+  },
+  {
+    "passive": "Lunar Boon",
+    "score": 40.0,
+    "hits": 5,
+    "tags": [
+      "shapeshift"
+    ],
+    "examples": [
+      "Lunar Blessing (13) Warcry , Attack , Shapeshift , Buff , Werewolf , AoE , Melee , Trigger , Cold , Duration",
+      "Walking Calamity (13) Attack , Shapeshift , Buff , Bear , AoE , Trigger , Fire , Duration , Conditional",
+      "Flame Breath (13) Attack , Shapeshift , Wyvern , AoE , Sustained , Fire , Duration , Channelling , Detonator",
+      "Shred (1) Attack , Shapeshift , Werewolf , AoE , Melee , Strike , Projectile , Trigger , Cold , Payoff",
+      "Rolling Magma (3) Attack , Shapeshift , Wyvern , AoE , Projectile , Fire , Detonator"
+    ]
+  },
+  {
+    "passive": "Spirit of the Bear",
+    "score": 40.0,
+    "hits": 5,
+    "tags": [
+      "gain_as_extra",
+      "reservation",
+      "shapeshift"
+    ],
+    "examples": [
+      "Lunar Blessing (13) Warcry , Attack , Shapeshift , Buff , Werewolf , AoE , Melee , Trigger , Cold , Duration",
+      "Walking Calamity (13) Attack , Shapeshift , Buff , Bear , AoE , Trigger , Fire , Duration , Conditional",
+      "Flame Breath (13) Attack , Shapeshift , Wyvern , AoE , Sustained , Fire , Duration , Channelling , Detonator",
+      "Shred (1) Attack , Shapeshift , Werewolf , AoE , Melee , Strike , Projectile , Trigger , Cold , Payoff",
+      "Rolling Magma (3) Attack , Shapeshift , Wyvern , AoE , Projectile , Fire , Detonator"
+    ]
+  },
+  {
+    "passive": "Echoes of Ferocity",
+    "score": 40.0,
+    "hits": 5,
+    "tags": [
+      "lightning",
+      "shapeshift"
+    ],
+    "examples": [
+      "Lunar Blessing (13) Warcry , Attack , Shapeshift , Buff , Werewolf , AoE , Melee , Trigger , Cold , Duration",
+      "Walking Calamity (13) Attack , Shapeshift , Buff , Bear , AoE , Trigger , Fire , Duration , Conditional",
+      "Flame Breath (13) Attack , Shapeshift , Wyvern , AoE , Sustained , Fire , Duration , Channelling , Detonator",
+      "Shred (1) Attack , Shapeshift , Werewolf , AoE , Melee , Strike , Projectile , Trigger , Cold , Payoff",
+      "Rolling Magma (3) Attack , Shapeshift , Wyvern , AoE , Projectile , Fire , Detonator"
+    ]
+  },
+  {
+    "passive": "Invocated Echoes",
+    "score": 37.0,
+    "hits": 3,
+    "tags": [
+      "consume_charge",
+      "meta_energy",
+      "spell"
+    ],
+    "examples": [
+      "Charged Staff (9) Spell , Attack , Buff , AoE , Lightning , Duration , Conditional",
+      "Fire Spell on Hit (1) Buff , Persistent , Trigger , Fire , Meta",
+      "Spell Totem (7) Spell , Totem , Duration , Conditional , Meta"
+    ]
+  },
+  {
+    "passive": "Eldritch Empowerment",
+    "score": 37.0,
+    "hits": 3,
+    "tags": [
+      "consume_charge",
+      "meta_energy",
+      "spell"
+    ],
+    "examples": [
+      "Charged Staff (9) Spell , Attack , Buff , AoE , Lightning , Duration , Conditional",
+      "Fire Spell on Hit (1) Buff , Persistent , Trigger , Fire , Meta",
+      "Spell Totem (7) Spell , Totem , Duration , Conditional , Meta"
+    ]
+  },
+  {
+    "passive": "Vivid Stampede",
+    "score": 34.0,
+    "hits": 4,
+    "tags": [
+      "attack",
+      "gain_as_extra",
+      "trigger"
+    ],
+    "examples": [
+      "Lunar Blessing (13) Warcry , Attack , Shapeshift , Buff , Werewolf , AoE , Melee , Trigger , Cold , Duration",
+      "Walking Calamity (13) Attack , Shapeshift , Buff , Bear , AoE , Trigger , Fire , Duration , Conditional",
+      "Shred (1) Attack , Shapeshift , Werewolf , AoE , Melee , Strike , Projectile , Trigger , Cold , Payoff",
+      "Gemini Surge (1) Attack , AoE , Trigger , Cold , Fire"
+    ]
+  },
+  {
+    "passive": "Surging Beast",
+    "score": 33.0,
+    "hits": 3,
+    "tags": [
+      "duration",
+      "gain_as_extra",
+      "shapeshift"
+    ],
+    "examples": [
+      "Lunar Blessing (13) Warcry , Attack , Shapeshift , Buff , Werewolf , AoE , Melee , Trigger , Cold , Duration",
+      "Walking Calamity (13) Attack , Shapeshift , Buff , Bear , AoE , Trigger , Fire , Duration , Conditional",
+      "Flame Breath (13) Attack , Shapeshift , Wyvern , AoE , Sustained , Fire , Duration , Channelling , Detonator"
+    ]
+  },
+  {
+    "passive": "Insulating Hide",
+    "score": 32.0,
+    "hits": 2,
+    "tags": [
+      "consume_charge",
+      "meta_energy",
+      "shapeshift"
+    ],
+    "examples": [
+      "Pounce (3) Attack , Minion , Shapeshift , Werewolf , AoE , Melee , Slam , Trigger , Mark , Duration , Travel , Meta",
+      "Ferocious Roar (7) Warcry , Shapeshift , Bear , AoE , Nova , Meta"
+    ]
+  },
+  {
+    "passive": "Explosive Empowerment",
+    "score": 32.0,
+    "hits": 4,
+    "tags": [
+      "attack",
+      "fire"
+    ],
+    "examples": [
+      "Gas Grenade (5) Attack , AoE , Projectile , Grenade , Fire , Chaos , Duration",
+      "Oil Grenade (9) Attack , AoE , Projectile , Grenade , Fire , Duration",
+      "Siege Ballista (9) Attack , Totem , AoE , Projectile , Fire , Duration , Barrageable",
+      "Gemini Surge (1) Attack , AoE , Trigger , Cold , Fire"
+    ]
+  },
+  {
+    "passive": "Cremating Cries",
+    "score": 32.0,
+    "hits": 4,
+    "tags": [
+      "attack",
+      "fire",
+      "gain_as_extra",
+      "physical"
+    ],
+    "examples": [
+      "Gas Grenade (5) Attack , AoE , Projectile , Grenade , Fire , Chaos , Duration",
+      "Oil Grenade (9) Attack , AoE , Projectile , Grenade , Fire , Duration",
+      "Siege Ballista (9) Attack , Totem , AoE , Projectile , Fire , Duration , Barrageable",
+      "Gemini Surge (1) Attack , AoE , Trigger , Cold , Fire"
+    ]
+  },
+  {
+    "passive": "Primal Rage",
+    "score": 32.0,
+    "hits": 4,
+    "tags": [
+      "shapeshift"
+    ],
+    "examples": [
+      "Walking Calamity (13) Attack , Shapeshift , Buff , Bear , AoE , Trigger , Fire , Duration , Conditional",
+      "Flame Breath (13) Attack , Shapeshift , Wyvern , AoE , Sustained , Fire , Duration , Channelling , Detonator",
+      "Shred (1) Attack , Shapeshift , Werewolf , AoE , Melee , Strike , Projectile , Trigger , Cold , Payoff",
+      "Rolling Magma (3) Attack , Shapeshift , Wyvern , AoE , Projectile , Fire , Detonator"
+    ]
+  },
+  {
+    "passive": "Invigorating Hate",
+    "score": 32.0,
+    "hits": 4,
+    "tags": [
+      "consume_charge",
+      "shapeshift"
+    ],
+    "examples": [
+      "Walking Calamity (13) Attack , Shapeshift , Buff , Bear , AoE , Trigger , Fire , Duration , Conditional",
+      "Flame Breath (13) Attack , Shapeshift , Wyvern , AoE , Sustained , Fire , Duration , Channelling , Detonator",
+      "Shred (1) Attack , Shapeshift , Werewolf , AoE , Melee , Strike , Projectile , Trigger , Cold , Payoff",
+      "Rolling Magma (3) Attack , Shapeshift , Wyvern , AoE , Projectile , Fire , Detonator"
+    ]
+  },
+  {
+    "passive": "Prolonged Assault",
+    "score": 32.0,
+    "hits": 4,
+    "tags": [
+      "attack",
+      "duration"
+    ],
+    "examples": [
+      "Staggering Palm (3) Attack , Buff , AoE , Melee , Strike , Projectile , Physical , Duration , Wind",
+      "Gathering Storm (13) Attack , AoE , Melee , Lightning , Duration , Channelling , Travel",
+      "Frozen Locus (1) Attack , AoE , Melee , Cold , Duration",
+      "Artillery Ballista (7) Attack , Totem , AoE , Projectile , Sustained , Duration"
+    ]
+  },
+  {
+    "passive": "Crimson Assault",
+    "score": 32.0,
+    "hits": 4,
+    "tags": [
+      "duration"
+    ],
+    "examples": [
+      "Staggering Palm (3) Attack , Buff , AoE , Melee , Strike , Projectile , Physical , Duration , Wind",
+      "Gathering Storm (13) Attack , AoE , Melee , Lightning , Duration , Channelling , Travel",
+      "Frozen Locus (1) Attack , AoE , Melee , Cold , Duration",
+      "Artillery Ballista (7) Attack , Totem , AoE , Projectile , Sustained , Duration"
+    ]
+  },
+  {
+    "passive": "Pyromantic Pact",
+    "score": 31.0,
+    "hits": 2,
+    "tags": [
+      "fire",
+      "gain_as_extra",
+      "meta_energy"
+    ],
+    "examples": [
+      "Elemental Invocation (8) Buff , Persistent , Trigger , Lightning , Cold , Fire , Invocation , Meta",
+      "Fire Spell on Hit (1) Buff , Persistent , Trigger , Fire , Meta"
+    ]
+  },
+  {
+    "passive": "Grinning Immolation",
+    "score": 31.0,
+    "hits": 2,
+    "tags": [
+      "crit",
+      "fire",
+      "meta_energy"
+    ],
+    "examples": [
+      "Elemental Invocation (8) Buff , Persistent , Trigger , Lightning , Cold , Fire , Invocation , Meta",
+      "Fire Spell on Hit (1) Buff , Persistent , Trigger , Fire , Meta"
+    ]
+  },
+  {
+    "passive": "Climate Change",
+    "score": 30.0,
+    "hits": 3,
+    "tags": [
+      "cold",
+      "fire",
+      "gain_as_extra"
+    ],
+    "examples": [
+      "Elemental Surge (1) Attack , AoE , Trigger , Lightning , Cold , Fire",
+      "Elemental Expression (1) Spell , AoE , Projectile , Trigger , Lightning , Cold , Fire , Chaining",
+      "Gemini Surge (1) Attack , AoE , Trigger , Cold , Fire"
+    ]
+  },
+  {
+    "passive": "Power Conduction",
+    "score": 30.0,
+    "hits": 3,
+    "tags": [
+      "duration",
+      "lightning"
+    ],
+    "examples": [
+      "Voltaic Grenade (7) Attack , AoE , Projectile , Grenade , Lightning , Duration",
+      "Stormblast Bolts (9) Attack , AoE , Ammunition , Projectile , Lightning , Duration",
+      "Gathering Storm (13) Attack , AoE , Melee , Lightning , Duration , Channelling , Travel"
+    ]
+  },
+  {
+    "passive": "Feel the Earth",
+    "score": 30.0,
+    "hits": 3,
+    "tags": [
+      "duration",
+      "lightning"
+    ],
+    "examples": [
+      "Voltaic Grenade (7) Attack , AoE , Projectile , Grenade , Lightning , Duration",
+      "Stormblast Bolts (9) Attack , AoE , Ammunition , Projectile , Lightning , Duration",
+      "Gathering Storm (13) Attack , AoE , Melee , Lightning , Duration , Channelling , Travel"
+    ]
+  },
+  {
+    "passive": "Rattled",
+    "score": 30.0,
+    "hits": 3,
+    "tags": [
+      "duration",
+      "lightning"
+    ],
+    "examples": [
+      "Voltaic Grenade (7) Attack , AoE , Projectile , Grenade , Lightning , Duration",
+      "Stormblast Bolts (9) Attack , AoE , Ammunition , Projectile , Lightning , Duration",
+      "Gathering Storm (13) Attack , AoE , Melee , Lightning , Duration , Channelling , Travel"
+    ]
+  },
+  {
+    "passive": "Shattering",
+    "score": 30.0,
+    "hits": 3,
+    "tags": [
+      "cold",
+      "duration"
+    ],
+    "examples": [
+      "Lunar Blessing (13) Warcry , Attack , Shapeshift , Buff , Werewolf , AoE , Melee , Trigger , Cold , Duration",
+      "Glacial Bolt (7) Attack , AoE , Ammunition , Projectile , Cold , Duration",
+      "Frozen Locus (1) Attack , AoE , Melee , Cold , Duration"
+    ]
+  },
+  {
+    "passive": "Harsh Winter",
+    "score": 30.0,
+    "hits": 3,
+    "tags": [
+      "cold",
+      "duration",
+      "skill_speed"
+    ],
+    "examples": [
+      "Lunar Blessing (13) Warcry , Attack , Shapeshift , Buff , Werewolf , AoE , Melee , Trigger , Cold , Duration",
+      "Glacial Bolt (7) Attack , AoE , Ammunition , Projectile , Cold , Duration",
+      "Frozen Locus (1) Attack , AoE , Melee , Cold , Duration"
+    ]
+  },
+  {
+    "passive": "Warm the Heart",
+    "score": 30.0,
+    "hits": 3,
+    "tags": [
+      "cold",
+      "duration"
+    ],
+    "examples": [
+      "Lunar Blessing (13) Warcry , Attack , Shapeshift , Buff , Werewolf , AoE , Melee , Trigger , Cold , Duration",
+      "Glacial Bolt (7) Attack , AoE , Ammunition , Projectile , Cold , Duration",
+      "Frozen Locus (1) Attack , AoE , Melee , Cold , Duration"
+    ]
+  },
+  {
+    "passive": "Biting Frost",
+    "score": 30.0,
+    "hits": 3,
+    "tags": [
+      "cold",
+      "duration"
+    ],
+    "examples": [
+      "Lunar Blessing (13) Warcry , Attack , Shapeshift , Buff , Werewolf , AoE , Melee , Trigger , Cold , Duration",
+      "Glacial Bolt (7) Attack , AoE , Ammunition , Projectile , Cold , Duration",
+      "Frozen Locus (1) Attack , AoE , Melee , Cold , Duration"
+    ]
+  },
+  {
+    "passive": "Frantic Reach",
+    "score": 30.0,
+    "hits": 4,
+    "tags": [
+      "aoe",
+      "attack"
+    ],
+    "examples": [
+      "Shattering Concoction (1) Attack , AoE , Projectile , Cold",
+      "Permafrost Bolts (1) Attack , AoE , Ammunition , Projectile , Cold , Merging",
+      "Ice Shards (5) Attack , AoE , Ammunition , Projectile , Sustained , Cold , Hazard",
+      "Hailstorm Rounds (11) Attack , AoE , Ammunition , Projectile , Sustained , Cold"
+    ]
+  },
+  {
+    "passive": "Resolute Reach",
+    "score": 30.0,
+    "hits": 4,
+    "tags": [
+      "aoe",
+      "attack",
+      "crit"
+    ],
+    "examples": [
+      "Shattering Concoction (1) Attack , AoE , Projectile , Cold",
+      "Permafrost Bolts (1) Attack , AoE , Ammunition , Projectile , Cold , Merging",
+      "Ice Shards (5) Attack , AoE , Ammunition , Projectile , Sustained , Cold , Hazard",
+      "Hailstorm Rounds (11) Attack , AoE , Ammunition , Projectile , Sustained , Cold"
+    ]
+  },
+  {
+    "passive": "Blackflame Covenant",
+    "score": 28.0,
+    "hits": 3,
+    "tags": [
+      "chaos",
+      "fire",
+      "spell"
+    ],
+    "examples": [
+      "Gas Grenade (5) Attack , AoE , Projectile , Grenade , Fire , Chaos , Duration",
+      "Elemental Expression (1) Spell , AoE , Projectile , Trigger , Lightning , Cold , Fire , Chaining",
+      "Gemini Surge (1) Attack , AoE , Trigger , Cold , Fire"
+    ]
+  },
+  {
+    "passive": "Energy Shield Delay while Shapeshifted",
+    "score": 26.0,
+    "hits": 2,
+    "tags": [
+      "consume_charge",
+      "meta_energy",
+      "shapeshift"
+    ],
+    "examples": [
+      "Pounce (3) Attack , Minion , Shapeshift , Werewolf , AoE , Melee , Slam , Trigger , Mark , Duration , Travel , Meta",
+      "Ferocious Roar (7) Warcry , Shapeshift , Bear , AoE , Nova , Meta"
+    ]
+  },
+  {
+    "passive": "Spiked Shield",
+    "score": 26.0,
+    "hits": 2,
+    "tags": [
+      "attack",
+      "meta_energy"
+    ],
+    "examples": [
+      "Pounce (3) Attack , Minion , Shapeshift , Werewolf , AoE , Melee , Slam , Trigger , Mark , Duration , Travel , Meta",
+      "Hand of Chayula (9) Attack , AoE , Melee , Strike , Chaos , Meta"
+    ]
+  },
+  {
+    "passive": "Dreamcatcher",
+    "score": 26.0,
+    "hits": 2,
+    "tags": [
+      "meta_energy",
+      "spell"
+    ],
+    "examples": [
+      "Fire Spell on Hit (1) Buff , Persistent , Trigger , Fire , Meta",
+      "Spell Totem (7) Spell , Totem , Duration , Conditional , Meta"
+    ]
+  },
+  {
+    "passive": "Sacred Unity",
+    "score": 24.0,
+    "hits": 2,
+    "tags": [
+      "gain_as_extra",
+      "projectile",
+      "reservation",
+      "shapeshift"
+    ],
+    "examples": [
+      "Shred (1) Attack , Shapeshift , Werewolf , AoE , Melee , Strike , Projectile , Trigger , Cold , Payoff",
+      "Rolling Magma (3) Attack , Shapeshift , Wyvern , AoE , Projectile , Fire , Detonator"
+    ]
+  },
+  {
+    "passive": "Iron Slippers",
+    "score": 19.0,
+    "hits": 2,
+    "tags": [
+      "meta_energy"
+    ],
+    "examples": [
+      "Hand of Chayula (9) Attack , AoE , Melee , Strike , Chaos , Meta",
+      "Ferocious Roar (7) Warcry , Shapeshift , Bear , AoE , Nova , Meta"
+    ]
+  },
+  {
+    "passive": "Ruinic Helm",
+    "score": 19.0,
+    "hits": 2,
+    "tags": [
+      "meta_energy"
+    ],
+    "examples": [
+      "Hand of Chayula (9) Attack , AoE , Melee , Strike , Chaos , Meta",
+      "Ferocious Roar (7) Warcry , Shapeshift , Bear , AoE , Nova , Meta"
+    ]
+  },
+  {
+    "passive": "Coursing Energy",
+    "score": 16.5,
+    "hits": 1,
+    "tags": [
+      "gain_as_extra",
+      "lightning",
+      "meta_energy"
+    ],
+    "examples": [
+      "Elemental Invocation (8) Buff , Persistent , Trigger , Lightning , Cold , Fire , Invocation , Meta"
+    ]
+  },
+  {
+    "passive": "Icebreaker",
+    "score": 16.5,
+    "hits": 1,
+    "tags": [
+      "cold",
+      "gain_as_extra",
+      "meta_energy"
+    ],
+    "examples": [
+      "Elemental Invocation (8) Buff , Persistent , Trigger , Lightning , Cold , Fire , Invocation , Meta"
+    ]
+  },
+  {
+    "passive": "One with the River",
+    "score": 16.5,
+    "hits": 1,
+    "tags": [
+      "cold",
+      "meta_energy"
+    ],
+    "examples": [
+      "Elemental Invocation (8) Buff , Persistent , Trigger , Lightning , Cold , Fire , Invocation , Meta"
+    ]
+  },
+  {
+    "passive": "Rallying Form",
+    "score": 16.0,
+    "hits": 2,
+    "tags": [
+      "shapeshift"
+    ],
+    "examples": [
+      "Flame Breath (13) Attack , Shapeshift , Wyvern , AoE , Sustained , Fire , Duration , Channelling , Detonator",
+      "Shred (1) Attack , Shapeshift , Werewolf , AoE , Melee , Strike , Projectile , Trigger , Cold , Payoff"
+    ]
+  },
+  {
+    "passive": "Electrified Claw",
+    "score": 16.0,
+    "hits": 2,
+    "tags": [
+      "gain_as_extra",
+      "lightning",
+      "shapeshift"
+    ],
+    "examples": [
+      "Flame Breath (13) Attack , Shapeshift , Wyvern , AoE , Sustained , Fire , Duration , Channelling , Detonator",
+      "Shred (1) Attack , Shapeshift , Werewolf , AoE , Melee , Strike , Projectile , Trigger , Cold , Payoff"
+    ]
+  },
+  {
+    "passive": "The Soul Meridian",
+    "score": 14.0,
+    "hits": 1,
+    "tags": [
+      "consume_charge",
+      "gain_as_extra",
+      "meta_energy",
+      "minion",
+      "reservation"
+    ],
+    "examples": [
+      "Pounce (3) Attack , Minion , Shapeshift , Werewolf , AoE , Melee , Slam , Trigger , Mark , Duration , Travel , Meta"
+    ]
+  },
+  {
+    "passive": "Endless Circuit",
+    "score": 13.0,
+    "hits": 1,
+    "tags": [
+      "consume_charge",
+      "lightning"
+    ],
+    "examples": [
+      "Charged Staff (9) Spell , Attack , Buff , AoE , Lightning , Duration , Conditional"
+    ]
+  },
+  {
+    "passive": "Cautious Concoctions",
+    "score": 12.0,
+    "hits": 1,
+    "tags": [
+      "consume_charge",
+      "duration",
+      "gain_as_extra"
+    ],
+    "examples": [
+      "Charged Staff (9) Spell , Attack , Buff , AoE , Lightning , Duration , Conditional"
+    ]
+  },
+  {
+    "passive": "The Ancient Serpent",
+    "score": 12.0,
+    "hits": 1,
+    "tags": [
+      "consume_charge",
+      "duration",
+      "gain_as_extra"
+    ],
+    "examples": [
+      "Charged Staff (9) Spell , Attack , Buff , AoE , Lightning , Duration , Conditional"
+    ]
+  },
+  {
+    "passive": "Savouring",
+    "score": 12.0,
+    "hits": 1,
+    "tags": [
+      "consume_charge",
+      "duration"
+    ],
+    "examples": [
+      "Charged Staff (9) Spell , Attack , Buff , AoE , Lightning , Duration , Conditional"
+    ]
+  },
+  {
+    "passive": "Primal Protection",
+    "score": 12.0,
+    "hits": 1,
+    "tags": [
+      "consume_charge",
+      "duration",
+      "gain_as_extra"
+    ],
+    "examples": [
+      "Charged Staff (9) Spell , Attack , Buff , AoE , Lightning , Duration , Conditional"
+    ]
+  },
+  {
+    "passive": "The Fabled Stag",
+    "score": 12.0,
+    "hits": 1,
+    "tags": [
+      "consume_charge",
+      "duration",
+      "power_charge"
+    ],
+    "examples": [
+      "Charged Staff (9) Spell , Attack , Buff , AoE , Lightning , Duration , Conditional"
+    ]
+  },
+  {
+    "passive": "Dependable Ward",
+    "score": 11.5,
+    "hits": 1,
+    "tags": [
+      "chaos",
+      "consume_charge",
+      "meta_energy"
+    ],
+    "examples": [
+      "Hand of Chayula (9) Attack , AoE , Melee , Strike , Chaos , Meta"
+    ]
+  },
+  {
+    "passive": "Spiral into Insanity",
+    "score": 11.5,
+    "hits": 1,
+    "tags": [
+      "chaos",
+      "meta_energy"
+    ],
+    "examples": [
+      "Hand of Chayula (9) Attack , AoE , Melee , Strike , Chaos , Meta"
+    ]
+  },
+  {
+    "passive": "Event Horizon",
+    "score": 11.5,
+    "hits": 1,
+    "tags": [
+      "chaos",
+      "meta_energy"
+    ],
+    "examples": [
+      "Hand of Chayula (9) Attack , AoE , Melee , Strike , Chaos , Meta"
+    ]
+  },
+  {
+    "passive": "Thrill of the Fight",
+    "score": 11.0,
+    "hits": 1,
+    "tags": [
+      "attack",
+      "consume_charge"
+    ],
+    "examples": [
+      "Charged Staff (9) Spell , Attack , Buff , AoE , Lightning , Duration , Conditional"
+    ]
+  },
+  {
+    "passive": "Ancestral Bond",
+    "score": 11.0,
+    "hits": 1,
+    "tags": [
+      "consume_charge",
+      "reservation"
+    ],
+    "examples": [
+      "Charged Staff (9) Spell , Attack , Buff , AoE , Lightning , Duration , Conditional"
+    ]
+  },
+  {
+    "passive": "Stormcharged",
+    "score": 11.0,
+    "hits": 1,
+    "tags": [
+      "attack",
+      "consume_charge",
+      "skill_speed"
+    ],
+    "examples": [
+      "Charged Staff (9) Spell , Attack , Buff , AoE , Lightning , Duration , Conditional"
+    ]
+  },
+  {
+    "passive": "Empowering Infusions",
+    "score": 11.0,
+    "hits": 1,
+    "tags": [
+      "consume_charge",
+      "spell"
+    ],
+    "examples": [
+      "Charged Staff (9) Spell , Attack , Buff , AoE , Lightning , Duration , Conditional"
+    ]
+  },
+  {
+    "passive": "Conduit",
+    "score": 11.0,
+    "hits": 1,
+    "tags": [
+      "consume_charge",
+      "gain_as_extra"
+    ],
+    "examples": [
+      "Charged Staff (9) Spell , Attack , Buff , AoE , Lightning , Duration , Conditional"
+    ]
+  },
+  {
+    "passive": "Resonance",
+    "score": 11.0,
+    "hits": 1,
+    "tags": [
+      "consume_charge",
+      "endurance_charge",
+      "frenzy_charge",
+      "gain_as_extra",
+      "power_charge"
+    ],
+    "examples": [
+      "Charged Staff (9) Spell , Attack , Buff , AoE , Lightning , Duration , Conditional"
+    ]
+  },
+  {
+    "passive": "Price of Power",
+    "score": 11.0,
+    "hits": 1,
+    "tags": [
+      "consume_charge",
+      "power_charge",
+      "spell"
+    ],
+    "examples": [
+      "Charged Staff (9) Spell , Attack , Buff , AoE , Lightning , Duration , Conditional"
+    ]
+  },
+  {
+    "passive": "Chakra of Impact",
+    "score": 11.0,
+    "hits": 1,
+    "tags": [
+      "attack",
+      "consume_charge"
+    ],
+    "examples": [
+      "Charged Staff (9) Spell , Attack , Buff , AoE , Lightning , Duration , Conditional"
+    ]
+  },
+  {
+    "passive": "Fast Metabolism",
+    "score": 9.5,
+    "hits": 1,
+    "tags": [
+      "meta_energy"
+    ],
+    "examples": [
+      "Hand of Chayula (9) Attack , AoE , Melee , Strike , Chaos , Meta"
+    ]
+  },
+  {
+    "passive": "Swift Flight",
+    "score": 9.0,
+    "hits": 1,
+    "tags": [
+      "physical",
+      "projectile"
+    ],
+    "examples": [
+      "Staggering Palm (3) Attack , Buff , AoE , Melee , Strike , Projectile , Physical , Duration , Wind"
+    ]
+  },
+  {
+    "passive": "Shapeshifted Skill Effect Duration",
+    "score": 8.0,
+    "hits": 1,
+    "tags": [
+      "duration",
+      "shapeshift"
+    ],
+    "examples": [
+      "Flame Breath (13) Attack , Shapeshift , Wyvern , AoE , Sustained , Fire , Duration , Channelling , Detonator"
+    ]
+  },
+  {
+    "passive": "Blazing Arms",
+    "score": 8.0,
+    "hits": 1,
+    "tags": [
+      "attack",
+      "fire"
+    ],
+    "examples": [
+      "Gemini Surge (1) Attack , AoE , Trigger , Cold , Fire"
+    ]
+  },
+  {
+    "passive": "Reusable Ammunition",
+    "score": 8.0,
+    "hits": 1,
+    "tags": [
+      "attack",
+      "fire"
+    ],
+    "examples": [
+      "Gemini Surge (1) Attack , AoE , Trigger , Cold , Fire"
+    ]
+  }
+]

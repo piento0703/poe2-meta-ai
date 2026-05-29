@@ -1,0 +1,12686 @@
+[
+  {
+    "name": "아마나무의 십일조",
+    "tier": 1,
+    "tags": [
+      "보조",
+      "혈통",
+      "소환수",
+      "유지형"
+    ],
+    "tags_ko": [
+      "보조",
+      "혈통",
+      "소환수",
+      "유지형"
+    ],
+    "tags_en": [
+      "support",
+      "lineage",
+      "minion",
+      "persistent"
+    ],
+    "meta_tags": [
+      "lineage",
+      "minion",
+      "minion_scaling",
+      "persistent",
+      "support"
+    ],
+    "raw_tags": "보조 , 혈통 , 소환수 , 유지형"
+  },
+  {
+    "name": "아탈루이의 사혈",
+    "tier": 1,
+    "tags": [
+      "보조",
+      "혈통",
+      "물리"
+    ],
+    "tags_ko": [
+      "보조",
+      "혈통",
+      "물리"
+    ],
+    "tags_en": [
+      "support",
+      "lineage",
+      "physical"
+    ],
+    "meta_tags": [
+      "lineage",
+      "physical",
+      "support"
+    ],
+    "raw_tags": "보조 , 혈통 , 물리"
+  },
+  {
+    "name": "자동 재장전",
+    "tier": 1,
+    "tags": [
+      "보조",
+      "탄약",
+      "투사체"
+    ],
+    "tags_ko": [
+      "보조",
+      "탄약",
+      "투사체"
+    ],
+    "tags_en": [
+      "support",
+      "ammo",
+      "projectile"
+    ],
+    "meta_tags": [
+      "ammo",
+      "projectile",
+      "projectile_scaling",
+      "support"
+    ],
+    "raw_tags": "보조 , 탄약 , 투사체"
+  },
+  {
+    "name": "유혈 충동",
+    "tier": 1,
+    "tags": [
+      "보조",
+      "공격",
+      "근접",
+      "물리"
+    ],
+    "tags_ko": [
+      "보조",
+      "공격",
+      "근접",
+      "물리"
+    ],
+    "tags_en": [
+      "support",
+      "attack",
+      "melee",
+      "physical"
+    ],
+    "meta_tags": [
+      "attack",
+      "melee",
+      "physical",
+      "support"
+    ],
+    "raw_tags": "보조 , 공격 , 근접 , 물리"
+  },
+  {
+    "name": "브루투스의 두뇌",
+    "tier": 1,
+    "tags": [
+      "보조",
+      "혈통",
+      "소환수"
+    ],
+    "tags_ko": [
+      "보조",
+      "혈통",
+      "소환수"
+    ],
+    "tags_en": [
+      "support",
+      "lineage",
+      "minion"
+    ],
+    "meta_tags": [
+      "lineage",
+      "minion",
+      "minion_scaling",
+      "support"
+    ],
+    "raw_tags": "보조 , 혈통 , 소환수"
+  },
+  {
+    "name": "키렐의 함양",
+    "tier": 1,
+    "tags": [
+      "보조",
+      "혈통",
+      "토템"
+    ],
+    "tags_ko": [
+      "보조",
+      "혈통",
+      "토템"
+    ],
+    "tags_en": [
+      "support",
+      "lineage",
+      "totem"
+    ],
+    "meta_tags": [
+      "lineage",
+      "support",
+      "totem"
+    ],
+    "raw_tags": "보조 , 혈통 , 토템"
+  },
+  {
+    "name": "파콰테의 맹약",
+    "tier": 1,
+    "tags": [
+      "보조",
+      "혈통",
+      "함성",
+      "물리",
+      "지속시간"
+    ],
+    "tags_ko": [
+      "보조",
+      "혈통",
+      "함성",
+      "물리",
+      "지속시간"
+    ],
+    "tags_en": [
+      "support",
+      "lineage",
+      "warcry",
+      "physical",
+      "duration"
+    ],
+    "meta_tags": [
+      "duration",
+      "duration_scaling",
+      "lineage",
+      "physical",
+      "support",
+      "warcry"
+    ],
+    "raw_tags": "보조 , 혈통 , 함성 , 물리 , 지속시간"
+  },
+  {
+    "name": "다레소의 열정",
+    "tier": 1,
+    "tags": [
+      "보조",
+      "깃발",
+      "혈통"
+    ],
+    "tags_ko": [
+      "보조",
+      "깃발",
+      "혈통"
+    ],
+    "tags_en": [
+      "support",
+      "banner",
+      "lineage"
+    ],
+    "meta_tags": [
+      "banner",
+      "lineage",
+      "support"
+    ],
+    "raw_tags": "보조 , 깃발 , 혈통"
+  },
+  {
+    "name": "대담",
+    "tier": 1,
+    "tags": [
+      "보조",
+      "조건부"
+    ],
+    "tags_ko": [
+      "보조",
+      "조건부"
+    ],
+    "tags_en": [
+      "support",
+      "conditional"
+    ],
+    "meta_tags": [
+      "conditional",
+      "support"
+    ],
+    "raw_tags": "보조 , 조건부"
+  },
+  {
+    "name": "아인하르의 야수의식",
+    "tier": 1,
+    "tags": [
+      "보조",
+      "혈통",
+      "공격",
+      "근접",
+      "타격"
+    ],
+    "tags_ko": [
+      "보조",
+      "혈통",
+      "공격",
+      "근접",
+      "타격"
+    ],
+    "tags_en": [
+      "support",
+      "lineage",
+      "attack",
+      "melee",
+      "strike"
+    ],
+    "meta_tags": [
+      "attack",
+      "lineage",
+      "melee",
+      "strike",
+      "support"
+    ],
+    "raw_tags": "보조 , 혈통 , 공격 , 근접 , 타격"
+  },
+  {
+    "name": "화염관통",
+    "tier": 1,
+    "tags": [
+      "보조",
+      "투사체",
+      "화염"
+    ],
+    "tags_ko": [
+      "보조",
+      "투사체",
+      "화염"
+    ],
+    "tags_en": [
+      "support",
+      "projectile",
+      "fire"
+    ],
+    "meta_tags": [
+      "elemental",
+      "fire",
+      "projectile",
+      "projectile_scaling",
+      "support"
+    ],
+    "raw_tags": "보조 , 투사체 , 화염"
+  },
+  {
+    "name": "타호아의 보살핌",
+    "tier": 1,
+    "tags": [
+      "보조",
+      "혈통",
+      "토템",
+      "효과 범위",
+      "발동",
+      "물리"
+    ],
+    "tags_ko": [
+      "보조",
+      "혈통",
+      "토템",
+      "효과 범위",
+      "발동",
+      "물리"
+    ],
+    "tags_en": [
+      "support",
+      "lineage",
+      "totem",
+      "aoe",
+      "trigger",
+      "physical"
+    ],
+    "meta_tags": [
+      "aoe",
+      "lineage",
+      "physical",
+      "support",
+      "totem",
+      "trigger",
+      "trigger_synergy"
+    ],
+    "raw_tags": "보조 , 혈통 , 토템 , 효과 범위 , 발동 , 물리"
+  },
+  {
+    "name": "헬브림의 가죽",
+    "tier": 1,
+    "tags": [
+      "보조",
+      "혈통",
+      "형태 변환",
+      "버프"
+    ],
+    "tags_ko": [
+      "보조",
+      "혈통",
+      "형태 변환",
+      "버프"
+    ],
+    "tags_en": [
+      "support",
+      "lineage",
+      "shapeshift",
+      "buff"
+    ],
+    "meta_tags": [
+      "buff",
+      "lineage",
+      "shapeshift",
+      "shapeshift_scaling",
+      "support"
+    ],
+    "raw_tags": "보조 , 혈통 , 형태 변환 , 버프"
+  },
+  {
+    "name": "카옴의 광기",
+    "tier": 1,
+    "tags": [
+      "보조",
+      "혈통",
+      "공격",
+      "근접"
+    ],
+    "tags_ko": [
+      "보조",
+      "혈통",
+      "공격",
+      "근접"
+    ],
+    "tags_en": [
+      "support",
+      "lineage",
+      "attack",
+      "melee"
+    ],
+    "meta_tags": [
+      "attack",
+      "lineage",
+      "melee",
+      "support"
+    ],
+    "raw_tags": "보조 , 혈통 , 공격 , 근접"
+  },
+  {
+    "name": "녹슨 가시",
+    "tier": 1,
+    "tags": [
+      "보조"
+    ],
+    "tags_ko": [
+      "보조"
+    ],
+    "tags_en": [
+      "support"
+    ],
+    "meta_tags": [
+      "support"
+    ],
+    "raw_tags": "보조"
+  },
+  {
+    "name": "대련",
+    "tier": 1,
+    "tags": [
+      "보조",
+      "공격",
+      "근접"
+    ],
+    "tags_ko": [
+      "보조",
+      "공격",
+      "근접"
+    ],
+    "tags_en": [
+      "support",
+      "attack",
+      "melee"
+    ],
+    "meta_tags": [
+      "attack",
+      "melee",
+      "support"
+    ],
+    "raw_tags": "보조 , 공격 , 근접"
+  },
+  {
+    "name": "우트레드의 점술",
+    "tier": 1,
+    "tags": [
+      "보조",
+      "혈통"
+    ],
+    "tags_ko": [
+      "보조",
+      "혈통"
+    ],
+    "tags_en": [
+      "support",
+      "lineage"
+    ],
+    "meta_tags": [
+      "lineage",
+      "support"
+    ],
+    "raw_tags": "보조 , 혈통"
+  },
+  {
+    "name": "우트레드의 탈출",
+    "tier": 1,
+    "tags": [
+      "보조",
+      "혈통"
+    ],
+    "tags_ko": [
+      "보조",
+      "혈통"
+    ],
+    "tags_en": [
+      "support",
+      "lineage"
+    ],
+    "meta_tags": [
+      "lineage",
+      "support"
+    ],
+    "raw_tags": "보조 , 혈통"
+  },
+  {
+    "name": "우트레드의 징조",
+    "tier": 1,
+    "tags": [
+      "보조",
+      "혈통"
+    ],
+    "tags_ko": [
+      "보조",
+      "혈통"
+    ],
+    "tags_en": [
+      "support",
+      "lineage"
+    ],
+    "meta_tags": [
+      "lineage",
+      "support"
+    ],
+    "raw_tags": "보조 , 혈통"
+  },
+  {
+    "name": "우루크의 제련",
+    "tier": 1,
+    "tags": [
+      "보조",
+      "혈통",
+      "물리"
+    ],
+    "tags_ko": [
+      "보조",
+      "혈통",
+      "물리"
+    ],
+    "tags_en": [
+      "support",
+      "lineage",
+      "physical"
+    ],
+    "meta_tags": [
+      "lineage",
+      "physical",
+      "support"
+    ],
+    "raw_tags": "보조 , 혈통 , 물리"
+  },
+  {
+    "name": "울네톨의 포옹",
+    "tier": 1,
+    "tags": [
+      "보조",
+      "혈통",
+      "물리",
+      "카오스"
+    ],
+    "tags_ko": [
+      "보조",
+      "혈통",
+      "물리",
+      "카오스"
+    ],
+    "tags_en": [
+      "support",
+      "lineage",
+      "physical",
+      "chaos"
+    ],
+    "meta_tags": [
+      "chaos",
+      "lineage",
+      "physical",
+      "support"
+    ],
+    "raw_tags": "보조 , 혈통 , 물리 , 카오스"
+  },
+  {
+    "name": "조프의 장작",
+    "tier": 1,
+    "tags": [
+      "보조",
+      "혈통",
+      "화염",
+      "카오스"
+    ],
+    "tags_ko": [
+      "보조",
+      "혈통",
+      "화염",
+      "카오스"
+    ],
+    "tags_en": [
+      "support",
+      "lineage",
+      "fire",
+      "chaos"
+    ],
+    "meta_tags": [
+      "chaos",
+      "elemental",
+      "fire",
+      "lineage",
+      "support"
+    ],
+    "raw_tags": "보조 , 혈통 , 화염 , 카오스"
+  },
+  {
+    "name": "제르피의 악명",
+    "tier": 1,
+    "tags": [
+      "보조",
+      "혈통",
+      "함성",
+      "효과 범위"
+    ],
+    "tags_ko": [
+      "보조",
+      "혈통",
+      "함성",
+      "효과 범위"
+    ],
+    "tags_en": [
+      "support",
+      "lineage",
+      "warcry",
+      "aoe"
+    ],
+    "meta_tags": [
+      "aoe",
+      "lineage",
+      "support",
+      "warcry"
+    ],
+    "raw_tags": "보조 , 혈통 , 함성 , 효과 범위"
+  },
+  {
+    "name": "화염 조율",
+    "tier": 1,
+    "tags": [
+      "보조",
+      "공격",
+      "화염"
+    ],
+    "tags_ko": [
+      "보조",
+      "공격",
+      "화염"
+    ],
+    "tags_en": [
+      "support",
+      "attack",
+      "fire"
+    ],
+    "meta_tags": [
+      "attack",
+      "elemental",
+      "fire",
+      "support"
+    ],
+    "raw_tags": "보조 , 공격 , 화염"
+  },
+  {
+    "name": "방어구 철거자 I",
+    "tier": 1,
+    "tags": [
+      "보조"
+    ],
+    "tags_ko": [
+      "보조"
+    ],
+    "tags_en": [
+      "support"
+    ],
+    "meta_tags": [
+      "support"
+    ],
+    "raw_tags": "보조"
+  },
+  {
+    "name": "방어구 폭발",
+    "tier": 1,
+    "tags": [
+      "보조",
+      "공격",
+      "함성",
+      "효과 범위",
+      "발동",
+      "화염",
+      "청산"
+    ],
+    "tags_ko": [
+      "보조",
+      "공격",
+      "함성",
+      "효과 범위",
+      "발동",
+      "화염",
+      "청산"
+    ],
+    "tags_en": [
+      "support",
+      "attack",
+      "warcry",
+      "aoe",
+      "trigger",
+      "fire",
+      "payoff"
+    ],
+    "meta_tags": [
+      "aoe",
+      "attack",
+      "elemental",
+      "fire",
+      "payoff",
+      "support",
+      "trigger",
+      "trigger_synergy",
+      "warcry"
+    ],
+    "raw_tags": "보조 , 공격 , 함성 , 효과 범위 , 발동 , 화염 , 청산"
+  },
+  {
+    "name": "구타하는 고함",
+    "tier": 1,
+    "tags": [
+      "보조",
+      "함성",
+      "효과 범위",
+      "발동",
+      "물리",
+      "청산"
+    ],
+    "tags_ko": [
+      "보조",
+      "함성",
+      "효과 범위",
+      "발동",
+      "물리",
+      "청산"
+    ],
+    "tags_en": [
+      "support",
+      "warcry",
+      "aoe",
+      "trigger",
+      "physical",
+      "payoff"
+    ],
+    "meta_tags": [
+      "aoe",
+      "payoff",
+      "physical",
+      "support",
+      "trigger",
+      "trigger_synergy",
+      "warcry"
+    ],
+    "raw_tags": "보조 , 함성 , 효과 범위 , 발동 , 물리 , 청산"
+  },
+  {
+    "name": "출혈 I",
+    "tier": 1,
+    "tags": [
+      "보조",
+      "물리"
+    ],
+    "tags_ko": [
+      "보조",
+      "물리"
+    ],
+    "tags_en": [
+      "support",
+      "physical"
+    ],
+    "meta_tags": [
+      "physical",
+      "support"
+    ],
+    "raw_tags": "보조 , 물리"
+  },
+  {
+    "name": "포악함 I",
+    "tier": 1,
+    "tags": [
+      "보조",
+      "물리"
+    ],
+    "tags_ko": [
+      "보조",
+      "물리"
+    ],
+    "tags_en": [
+      "support",
+      "physical"
+    ],
+    "meta_tags": [
+      "physical",
+      "support"
+    ],
+    "raw_tags": "보조 , 물리"
+  },
+  {
+    "name": "지속시간 압축 I",
+    "tier": 1,
+    "tags": [
+      "보조",
+      "지속시간"
+    ],
+    "tags_ko": [
+      "보조",
+      "지속시간"
+    ],
+    "tags_en": [
+      "support",
+      "duration"
+    ],
+    "meta_tags": [
+      "duration",
+      "duration_scaling",
+      "support"
+    ],
+    "raw_tags": "보조 , 지속시간"
+  },
+  {
+    "name": "더블배럴 I",
+    "tier": 1,
+    "tags": [
+      "보조",
+      "탄약",
+      "투사체"
+    ],
+    "tags_ko": [
+      "보조",
+      "탄약",
+      "투사체"
+    ],
+    "tags_en": [
+      "support",
+      "ammo",
+      "projectile"
+    ],
+    "meta_tags": [
+      "ammo",
+      "projectile",
+      "projectile_scaling",
+      "support"
+    ],
+    "raw_tags": "보조 , 탄약 , 투사체"
+  },
+  {
+    "name": "효율 I",
+    "tier": 1,
+    "tags": [
+      "보조"
+    ],
+    "tags_ko": [
+      "보조"
+    ],
+    "tags_en": [
+      "support"
+    ],
+    "meta_tags": [
+      "support"
+    ],
+    "raw_tags": "보조"
+  },
+  {
+    "name": "원소 병기 I",
+    "tier": 1,
+    "tags": [
+      "보조",
+      "공격"
+    ],
+    "tags_ko": [
+      "보조",
+      "공격"
+    ],
+    "tags_en": [
+      "support",
+      "attack"
+    ],
+    "meta_tags": [
+      "attack",
+      "support"
+    ],
+    "raw_tags": "보조 , 공격"
+  },
+  {
+    "name": "처형 I",
+    "tier": 1,
+    "tags": [
+      "보조"
+    ],
+    "tags_ko": [
+      "보조"
+    ],
+    "tags_en": [
+      "support"
+    ],
+    "meta_tags": [
+      "support"
+    ],
+    "raw_tags": "보조"
+  },
+  {
+    "name": "전쟁의 주먹 I",
+    "tier": 1,
+    "tags": [
+      "보조",
+      "공격",
+      "근접",
+      "강타"
+    ],
+    "tags_ko": [
+      "보조",
+      "공격",
+      "근접",
+      "강타"
+    ],
+    "tags_en": [
+      "support",
+      "attack",
+      "melee",
+      "slam"
+    ],
+    "meta_tags": [
+      "attack",
+      "melee",
+      "slam",
+      "support"
+    ],
+    "raw_tags": "보조 , 공격 , 근접 , 강타"
+  },
+  {
+    "name": "지속되는 충격 I",
+    "tier": 1,
+    "tags": [
+      "보조"
+    ],
+    "tags_ko": [
+      "보조"
+    ],
+    "tags_en": [
+      "support"
+    ],
+    "meta_tags": [
+      "support"
+    ],
+    "raw_tags": "보조"
+  },
+  {
+    "name": "영원한 화염 I",
+    "tier": 1,
+    "tags": [
+      "보조",
+      "화염"
+    ],
+    "tags_ko": [
+      "보조",
+      "화염"
+    ],
+    "tags_en": [
+      "support",
+      "fire"
+    ],
+    "meta_tags": [
+      "elemental",
+      "fire",
+      "support"
+    ],
+    "raw_tags": "보조 , 화염"
+  },
+  {
+    "name": "점화 I",
+    "tier": 1,
+    "tags": [
+      "보조",
+      "화염"
+    ],
+    "tags_ko": [
+      "보조",
+      "화염"
+    ],
+    "tags_en": [
+      "support",
+      "fire"
+    ],
+    "meta_tags": [
+      "elemental",
+      "fire",
+      "support"
+    ],
+    "raw_tags": "보조 , 화염"
+  },
+  {
+    "name": "충돌 충격파",
+    "tier": 1,
+    "tags": [
+      "보조",
+      "공격",
+      "효과 범위",
+      "근접",
+      "타격"
+    ],
+    "tags_ko": [
+      "보조",
+      "공격",
+      "효과 범위",
+      "근접",
+      "타격"
+    ],
+    "tags_en": [
+      "support",
+      "attack",
+      "aoe",
+      "melee",
+      "strike"
+    ],
+    "meta_tags": [
+      "aoe",
+      "attack",
+      "melee",
+      "strike",
+      "support"
+    ],
+    "raw_tags": "보조 , 공격 , 효과 범위 , 근접 , 타격"
+  },
+  {
+    "name": "육탄 방어 I",
+    "tier": 1,
+    "tags": [
+      "보조",
+      "소환수"
+    ],
+    "tags_ko": [
+      "보조",
+      "소환수"
+    ],
+    "tags_en": [
+      "support",
+      "minion"
+    ],
+    "meta_tags": [
+      "minion",
+      "minion_scaling",
+      "support"
+    ],
+    "raw_tags": "보조 , 소환수"
+  },
+  {
+    "name": "첫 수",
+    "tier": 1,
+    "tags": [
+      "보조"
+    ],
+    "tags_ko": [
+      "보조"
+    ],
+    "tags_en": [
+      "support"
+    ],
+    "meta_tags": [
+      "support"
+    ],
+    "raw_tags": "보조"
+  },
+  {
+    "name": "지속시간 연장 I",
+    "tier": 1,
+    "tags": [
+      "보조",
+      "지속시간"
+    ],
+    "tags_ko": [
+      "보조",
+      "지속시간"
+    ],
+    "tags_en": [
+      "support",
+      "duration"
+    ],
+    "meta_tags": [
+      "duration",
+      "duration_scaling",
+      "support"
+    ],
+    "raw_tags": "보조 , 지속시간"
+  },
+  {
+    "name": "격노 I",
+    "tier": 1,
+    "tags": [
+      "보조",
+      "공격",
+      "근접"
+    ],
+    "tags_ko": [
+      "보조",
+      "공격",
+      "근접"
+    ],
+    "tags_en": [
+      "support",
+      "attack",
+      "melee"
+    ],
+    "meta_tags": [
+      "attack",
+      "melee",
+      "support"
+    ],
+    "raw_tags": "보조 , 공격 , 근접"
+  },
+  {
+    "name": "요지부동 I",
+    "tier": 1,
+    "tags": [
+      "보조",
+      "집중 유지"
+    ],
+    "tags_ko": [
+      "보조",
+      "집중 유지"
+    ],
+    "tags_en": [
+      "support",
+      "channelling"
+    ],
+    "meta_tags": [
+      "channelling",
+      "support"
+    ],
+    "raw_tags": "보조 , 집중 유지"
+  },
+  {
+    "name": "짓밟는 지대",
+    "tier": 1,
+    "tags": [
+      "보조",
+      "공격",
+      "효과 범위",
+      "발동"
+    ],
+    "tags_ko": [
+      "보조",
+      "공격",
+      "효과 범위",
+      "발동"
+    ],
+    "tags_en": [
+      "support",
+      "attack",
+      "aoe",
+      "trigger"
+    ],
+    "meta_tags": [
+      "aoe",
+      "attack",
+      "support",
+      "trigger",
+      "trigger_synergy"
+    ],
+    "raw_tags": "보조 , 공격 , 효과 범위 , 발동"
+  },
+  {
+    "name": "끈기",
+    "tier": 1,
+    "tags": [
+      "보조",
+      "함성"
+    ],
+    "tags_ko": [
+      "보조",
+      "함성"
+    ],
+    "tags_en": [
+      "support",
+      "warcry"
+    ],
+    "meta_tags": [
+      "support",
+      "warcry"
+    ],
+    "raw_tags": "보조 , 함성"
+  },
+  {
+    "name": "격변 I",
+    "tier": 1,
+    "tags": [
+      "보조"
+    ],
+    "tags_ko": [
+      "보조"
+    ],
+    "tags_en": [
+      "support"
+    ],
+    "meta_tags": [
+      "support"
+    ],
+    "raw_tags": "보조"
+  },
+  {
+    "name": "선봉대 I",
+    "tier": 1,
+    "tags": [
+      "보조"
+    ],
+    "tags_ko": [
+      "보조"
+    ],
+    "tags_en": [
+      "support"
+    ],
+    "meta_tags": [
+      "support"
+    ],
+    "raw_tags": "보조"
+  },
+  {
+    "name": "활력 I",
+    "tier": 1,
+    "tags": [
+      "보조",
+      "버프",
+      "유지형"
+    ],
+    "tags_ko": [
+      "보조",
+      "버프",
+      "유지형"
+    ],
+    "tags_en": [
+      "support",
+      "buff",
+      "persistent"
+    ],
+    "meta_tags": [
+      "buff",
+      "persistent",
+      "support"
+    ],
+    "raw_tags": "보조 , 버프 , 유지형"
+  },
+  {
+    "name": "여진 I",
+    "tier": 2,
+    "tags": [
+      "보조",
+      "공격",
+      "근접",
+      "강타"
+    ],
+    "tags_ko": [
+      "보조",
+      "공격",
+      "근접",
+      "강타"
+    ],
+    "tags_en": [
+      "support",
+      "attack",
+      "melee",
+      "slam"
+    ],
+    "meta_tags": [
+      "attack",
+      "melee",
+      "slam",
+      "support"
+    ],
+    "raw_tags": "보조 , 공격 , 근접 , 강타"
+  },
+  {
+    "name": "방어구 파괴 I",
+    "tier": 2,
+    "tags": [
+      "보조",
+      "물리"
+    ],
+    "tags_ko": [
+      "보조",
+      "물리"
+    ],
+    "tags_en": [
+      "support",
+      "physical"
+    ],
+    "meta_tags": [
+      "physical",
+      "support"
+    ],
+    "raw_tags": "보조 , 물리"
+  },
+  {
+    "name": "참수 I",
+    "tier": 2,
+    "tags": [
+      "보조",
+      "공격",
+      "근접",
+      "타격"
+    ],
+    "tags_ko": [
+      "보조",
+      "공격",
+      "근접",
+      "타격"
+    ],
+    "tags_en": [
+      "support",
+      "attack",
+      "melee",
+      "strike"
+    ],
+    "meta_tags": [
+      "attack",
+      "melee",
+      "strike",
+      "support"
+    ],
+    "raw_tags": "보조 , 공격 , 근접 , 타격"
+  },
+  {
+    "name": "피의 샘",
+    "tier": 2,
+    "tags": [
+      "보조",
+      "토템"
+    ],
+    "tags_ko": [
+      "보조",
+      "토템"
+    ],
+    "tags_en": [
+      "support",
+      "totem"
+    ],
+    "meta_tags": [
+      "support",
+      "totem"
+    ],
+    "raw_tags": "보조 , 토템"
+  },
+  {
+    "name": "생명력 전환",
+    "tier": 2,
+    "tags": [
+      "보조"
+    ],
+    "tags_ko": [
+      "보조"
+    ],
+    "tags_en": [
+      "support"
+    ],
+    "meta_tags": [
+      "support"
+    ],
+    "raw_tags": "보조"
+  },
+  {
+    "name": "목전 I",
+    "tier": 2,
+    "tags": [
+      "보조",
+      "공격",
+      "근접"
+    ],
+    "tags_ko": [
+      "보조",
+      "공격",
+      "근접"
+    ],
+    "tags_en": [
+      "support",
+      "attack",
+      "melee"
+    ],
+    "meta_tags": [
+      "attack",
+      "melee",
+      "support"
+    ],
+    "raw_tags": "보조 , 공격 , 근접"
+  },
+  {
+    "name": "포악함 II",
+    "tier": 2,
+    "tags": [
+      "보조",
+      "물리"
+    ],
+    "tags_ko": [
+      "보조",
+      "물리"
+    ],
+    "tags_en": [
+      "support",
+      "physical"
+    ],
+    "meta_tags": [
+      "physical",
+      "support"
+    ],
+    "raw_tags": "보조 , 물리"
+  },
+  {
+    "name": "배합 I",
+    "tier": 2,
+    "tags": [
+      "보조"
+    ],
+    "tags_ko": [
+      "보조"
+    ],
+    "tags_en": [
+      "support"
+    ],
+    "meta_tags": [
+      "support"
+    ],
+    "raw_tags": "보조"
+  },
+  {
+    "name": "분화구",
+    "tier": 2,
+    "tags": [
+      "보조",
+      "공격",
+      "효과 범위",
+      "근접",
+      "발동",
+      "화염",
+      "지속시간"
+    ],
+    "tags_ko": [
+      "보조",
+      "공격",
+      "효과 범위",
+      "근접",
+      "발동",
+      "화염",
+      "지속시간"
+    ],
+    "tags_en": [
+      "support",
+      "attack",
+      "aoe",
+      "melee",
+      "trigger",
+      "fire",
+      "duration"
+    ],
+    "meta_tags": [
+      "aoe",
+      "attack",
+      "duration",
+      "duration_scaling",
+      "elemental",
+      "fire",
+      "melee",
+      "support",
+      "trigger",
+      "trigger_synergy"
+    ],
+    "raw_tags": "보조 , 공격 , 효과 범위 , 근접 , 발동 , 화염 , 지속시간"
+  },
+  {
+    "name": "거역 I",
+    "tier": 2,
+    "tags": [
+      "보조",
+      "공격"
+    ],
+    "tags_ko": [
+      "보조",
+      "공격"
+    ],
+    "tags_en": [
+      "support",
+      "attack"
+    ],
+    "meta_tags": [
+      "attack",
+      "support"
+    ],
+    "raw_tags": "보조 , 공격"
+  },
+  {
+    "name": "극한타격 I",
+    "tier": 2,
+    "tags": [
+      "보조",
+      "버프",
+      "유지형"
+    ],
+    "tags_ko": [
+      "보조",
+      "버프",
+      "유지형"
+    ],
+    "tags_en": [
+      "support",
+      "buff",
+      "persistent"
+    ],
+    "meta_tags": [
+      "buff",
+      "persistent",
+      "support"
+    ],
+    "raw_tags": "보조 , 버프 , 유지형"
+  },
+  {
+    "name": "더블배럴 II",
+    "tier": 2,
+    "tags": [
+      "보조",
+      "탄약",
+      "투사체"
+    ],
+    "tags_ko": [
+      "보조",
+      "탄약",
+      "투사체"
+    ],
+    "tags_en": [
+      "support",
+      "ammo",
+      "projectile"
+    ],
+    "meta_tags": [
+      "ammo",
+      "projectile",
+      "projectile_scaling",
+      "support"
+    ],
+    "raw_tags": "보조 , 탄약 , 투사체"
+  },
+  {
+    "name": "원소 병기 II",
+    "tier": 2,
+    "tags": [
+      "보조",
+      "공격"
+    ],
+    "tags_ko": [
+      "보조",
+      "공격"
+    ],
+    "tags_en": [
+      "support",
+      "attack"
+    ],
+    "meta_tags": [
+      "attack",
+      "support"
+    ],
+    "raw_tags": "보조 , 공격"
+  },
+  {
+    "name": "약점 이용",
+    "tier": 2,
+    "tags": [
+      "보조",
+      "청산"
+    ],
+    "tags_ko": [
+      "보조",
+      "청산"
+    ],
+    "tags_en": [
+      "support",
+      "payoff"
+    ],
+    "meta_tags": [
+      "payoff",
+      "support"
+    ],
+    "raw_tags": "보조 , 청산"
+  },
+  {
+    "name": "불난 집 부채질",
+    "tier": 2,
+    "tags": [
+      "보조",
+      "공격",
+      "효과 범위",
+      "발동",
+      "화염"
+    ],
+    "tags_ko": [
+      "보조",
+      "공격",
+      "효과 범위",
+      "발동",
+      "화염"
+    ],
+    "tags_en": [
+      "support",
+      "attack",
+      "aoe",
+      "trigger",
+      "fire"
+    ],
+    "meta_tags": [
+      "aoe",
+      "attack",
+      "elemental",
+      "fire",
+      "support",
+      "trigger",
+      "trigger_synergy"
+    ],
+    "raw_tags": "보조 , 공격 , 효과 범위 , 발동 , 화염"
+  },
+  {
+    "name": "화염 관통 I",
+    "tier": 2,
+    "tags": [
+      "보조",
+      "화염"
+    ],
+    "tags_ko": [
+      "보조",
+      "화염"
+    ],
+    "tags_en": [
+      "support",
+      "fire"
+    ],
+    "meta_tags": [
+      "elemental",
+      "fire",
+      "support"
+    ],
+    "raw_tags": "보조 , 화염"
+  },
+  {
+    "name": "새 탄창 I",
+    "tier": 2,
+    "tags": [
+      "보조"
+    ],
+    "tags_ko": [
+      "보조"
+    ],
+    "tags_en": [
+      "support"
+    ],
+    "meta_tags": [
+      "support"
+    ],
+    "raw_tags": "보조"
+  },
+  {
+    "name": "강인한 토템 I",
+    "tier": 2,
+    "tags": [
+      "보조",
+      "토템"
+    ],
+    "tags_ko": [
+      "보조",
+      "토템"
+    ],
+    "tags_en": [
+      "support",
+      "totem"
+    ],
+    "meta_tags": [
+      "support",
+      "totem"
+    ],
+    "raw_tags": "보조 , 토템"
+  },
+  {
+    "name": "약초학 I",
+    "tier": 2,
+    "tags": [
+      "보조",
+      "버프",
+      "유지형"
+    ],
+    "tags_ko": [
+      "보조",
+      "버프",
+      "유지형"
+    ],
+    "tags_en": [
+      "support",
+      "buff",
+      "persistent"
+    ],
+    "meta_tags": [
+      "buff",
+      "persistent",
+      "support"
+    ],
+    "raw_tags": "보조 , 버프 , 유지형"
+  },
+  {
+    "name": "지옥불 군단 I",
+    "tier": 2,
+    "tags": [
+      "보조",
+      "소환수",
+      "효과 범위",
+      "화염"
+    ],
+    "tags_ko": [
+      "보조",
+      "소환수",
+      "효과 범위",
+      "화염"
+    ],
+    "tags_en": [
+      "support",
+      "minion",
+      "aoe",
+      "fire"
+    ],
+    "meta_tags": [
+      "aoe",
+      "elemental",
+      "fire",
+      "minion",
+      "minion_scaling",
+      "support"
+    ],
+    "raw_tags": "보조 , 소환수 , 효과 범위 , 화염"
+  },
+  {
+    "name": "요철 지대 I",
+    "tier": 2,
+    "tags": [
+      "보조",
+      "공격",
+      "효과 범위",
+      "근접",
+      "강타",
+      "지속시간"
+    ],
+    "tags_ko": [
+      "보조",
+      "공격",
+      "효과 범위",
+      "근접",
+      "강타",
+      "지속시간"
+    ],
+    "tags_en": [
+      "support",
+      "attack",
+      "aoe",
+      "melee",
+      "slam",
+      "duration"
+    ],
+    "meta_tags": [
+      "aoe",
+      "attack",
+      "duration",
+      "duration_scaling",
+      "melee",
+      "slam",
+      "support"
+    ],
+    "raw_tags": "보조 , 공격 , 효과 범위 , 근접 , 강타 , 지속시간"
+  },
+  {
+    "name": "생명력 흡수 I",
+    "tier": 2,
+    "tags": [
+      "보조",
+      "공격",
+      "물리"
+    ],
+    "tags_ko": [
+      "보조",
+      "공격",
+      "물리"
+    ],
+    "tags_en": [
+      "support",
+      "attack",
+      "physical"
+    ],
+    "meta_tags": [
+      "attack",
+      "physical",
+      "support"
+    ],
+    "raw_tags": "보조 , 공격 , 물리"
+  },
+  {
+    "name": "죽음의 징표",
+    "tier": 2,
+    "tags": [
+      "보조",
+      "징표",
+      "물리"
+    ],
+    "tags_ko": [
+      "보조",
+      "징표",
+      "물리"
+    ],
+    "tags_en": [
+      "support",
+      "mark",
+      "physical"
+    ],
+    "meta_tags": [
+      "mark",
+      "physical",
+      "support"
+    ],
+    "raw_tags": "보조 , 징표 , 물리"
+  },
+  {
+    "name": "유지되는 대지 I",
+    "tier": 2,
+    "tags": [
+      "보조"
+    ],
+    "tags_ko": [
+      "보조"
+    ],
+    "tags_en": [
+      "support"
+    ],
+    "meta_tags": [
+      "support"
+    ],
+    "raw_tags": "보조"
+  },
+  {
+    "name": "격노하는 함성",
+    "tier": 2,
+    "tags": [
+      "보조",
+      "함성"
+    ],
+    "tags_ko": [
+      "보조",
+      "함성"
+    ],
+    "tags_en": [
+      "support",
+      "warcry"
+    ],
+    "meta_tags": [
+      "support",
+      "warcry"
+    ],
+    "raw_tags": "보조 , 함성"
+  },
+  {
+    "name": "굴절 I",
+    "tier": 2,
+    "tags": [
+      "보조",
+      "버프",
+      "유지형"
+    ],
+    "tags_ko": [
+      "보조",
+      "버프",
+      "유지형"
+    ],
+    "tags_en": [
+      "support",
+      "buff",
+      "persistent"
+    ],
+    "meta_tags": [
+      "buff",
+      "persistent",
+      "support"
+    ],
+    "raw_tags": "보조 , 버프 , 유지형"
+  },
+  {
+    "name": "잔류물 효력 I",
+    "tier": 2,
+    "tags": [
+      "보조",
+      "잔류물"
+    ],
+    "tags_ko": [
+      "보조",
+      "잔류물"
+    ],
+    "tags_en": [
+      "support",
+      "remnant"
+    ],
+    "meta_tags": [
+      "remnant",
+      "support"
+    ],
+    "raw_tags": "보조 , 잔류물"
+  },
+  {
+    "name": "보복 I",
+    "tier": 2,
+    "tags": [
+      "보조",
+      "공격",
+      "근접"
+    ],
+    "tags_ko": [
+      "보조",
+      "공격",
+      "근접"
+    ],
+    "tags_en": [
+      "support",
+      "attack",
+      "melee"
+    ],
+    "meta_tags": [
+      "attack",
+      "melee",
+      "support"
+    ],
+    "raw_tags": "보조 , 공격 , 근접"
+  },
+  {
+    "name": "이타적인 잔류물",
+    "tier": 2,
+    "tags": [
+      "보조",
+      "잔류물"
+    ],
+    "tags_ko": [
+      "보조",
+      "잔류물"
+    ],
+    "tags_en": [
+      "support",
+      "remnant"
+    ],
+    "meta_tags": [
+      "remnant",
+      "support"
+    ],
+    "raw_tags": "보조 , 잔류물"
+  },
+  {
+    "name": "짧은 퓨즈 I",
+    "tier": 2,
+    "tags": [
+      "보조"
+    ],
+    "tags_ko": [
+      "보조"
+    ],
+    "tags_en": [
+      "support"
+    ],
+    "meta_tags": [
+      "support"
+    ],
+    "raw_tags": "보조"
+  },
+  {
+    "name": "달리는 돌 I",
+    "tier": 2,
+    "tags": [
+      "보조",
+      "소환수",
+      "발동",
+      "물리",
+      "지속시간"
+    ],
+    "tags_ko": [
+      "보조",
+      "소환수",
+      "발동",
+      "물리",
+      "지속시간"
+    ],
+    "tags_en": [
+      "support",
+      "minion",
+      "trigger",
+      "physical",
+      "duration"
+    ],
+    "meta_tags": [
+      "duration",
+      "duration_scaling",
+      "minion",
+      "minion_scaling",
+      "physical",
+      "support",
+      "trigger",
+      "trigger_synergy"
+    ],
+    "raw_tags": "보조 , 소환수 , 발동 , 물리 , 지속시간"
+  },
+  {
+    "name": "지층 강타",
+    "tier": 2,
+    "tags": [
+      "보조",
+      "공격",
+      "근접",
+      "강타"
+    ],
+    "tags_ko": [
+      "보조",
+      "공격",
+      "근접",
+      "강타"
+    ],
+    "tags_en": [
+      "support",
+      "attack",
+      "melee",
+      "slam"
+    ],
+    "meta_tags": [
+      "attack",
+      "melee",
+      "slam",
+      "support"
+    ],
+    "raw_tags": "보조 , 공격 , 근접 , 강타"
+  },
+  {
+    "name": "기절 I",
+    "tier": 2,
+    "tags": [
+      "보조"
+    ],
+    "tags_ko": [
+      "보조"
+    ],
+    "tags_en": [
+      "support"
+    ],
+    "meta_tags": [
+      "support"
+    ],
+    "raw_tags": "보조"
+  },
+  {
+    "name": "가시피부 I",
+    "tier": 2,
+    "tags": [
+      "보조",
+      "버프",
+      "유지형"
+    ],
+    "tags_ko": [
+      "보조",
+      "버프",
+      "유지형"
+    ],
+    "tags_en": [
+      "support",
+      "buff",
+      "persistent"
+    ],
+    "meta_tags": [
+      "buff",
+      "persistent",
+      "support"
+    ],
+    "raw_tags": "보조 , 버프 , 유지형"
+  },
+  {
+    "name": "긴급한 토템 I",
+    "tier": 2,
+    "tags": [
+      "보조",
+      "토템"
+    ],
+    "tags_ko": [
+      "보조",
+      "토템"
+    ],
+    "tags_en": [
+      "support",
+      "totem"
+    ],
+    "meta_tags": [
+      "support",
+      "totem"
+    ],
+    "raw_tags": "보조 , 토템"
+  },
+  {
+    "name": "선봉대 II",
+    "tier": 2,
+    "tags": [
+      "보조"
+    ],
+    "tags_ko": [
+      "보조"
+    ],
+    "tags_en": [
+      "support"
+    ],
+    "meta_tags": [
+      "support"
+    ],
+    "raw_tags": "보조"
+  },
+  {
+    "name": "화산 분출",
+    "tier": 2,
+    "tags": [
+      "보조",
+      "공격",
+      "효과 범위",
+      "근접",
+      "타격",
+      "투사체",
+      "발동",
+      "화염"
+    ],
+    "tags_ko": [
+      "보조",
+      "공격",
+      "효과 범위",
+      "근접",
+      "타격",
+      "투사체",
+      "발동",
+      "화염"
+    ],
+    "tags_en": [
+      "support",
+      "attack",
+      "aoe",
+      "melee",
+      "strike",
+      "projectile",
+      "trigger",
+      "fire"
+    ],
+    "meta_tags": [
+      "aoe",
+      "attack",
+      "elemental",
+      "fire",
+      "melee",
+      "projectile",
+      "projectile_scaling",
+      "strike",
+      "support",
+      "trigger",
+      "trigger_synergy"
+    ],
+    "raw_tags": "보조 , 공격 , 효과 범위 , 근접 , 타격 , 투사체 , 발동 , 화염"
+  },
+  {
+    "name": "방어구 파괴 II",
+    "tier": 3,
+    "tags": [
+      "보조",
+      "물리"
+    ],
+    "tags_ko": [
+      "보조",
+      "물리"
+    ],
+    "tags_en": [
+      "support",
+      "physical"
+    ],
+    "meta_tags": [
+      "physical",
+      "support"
+    ],
+    "raw_tags": "보조 , 물리"
+  },
+  {
+    "name": "방어구 철거자 II",
+    "tier": 3,
+    "tags": [
+      "보조"
+    ],
+    "tags_ko": [
+      "보조"
+    ],
+    "tags_en": [
+      "support"
+    ],
+    "meta_tags": [
+      "support"
+    ],
+    "raw_tags": "보조"
+  },
+  {
+    "name": "미늘 I",
+    "tier": 3,
+    "tags": [
+      "보조",
+      "공격",
+      "근접",
+      "타격"
+    ],
+    "tags_ko": [
+      "보조",
+      "공격",
+      "근접",
+      "타격"
+    ],
+    "tags_en": [
+      "support",
+      "attack",
+      "melee",
+      "strike"
+    ],
+    "meta_tags": [
+      "attack",
+      "melee",
+      "strike",
+      "support"
+    ],
+    "raw_tags": "보조 , 공격 , 근접 , 타격"
+  },
+  {
+    "name": "참수 II",
+    "tier": 3,
+    "tags": [
+      "보조",
+      "공격",
+      "근접",
+      "타격"
+    ],
+    "tags_ko": [
+      "보조",
+      "공격",
+      "근접",
+      "타격"
+    ],
+    "tags_en": [
+      "support",
+      "attack",
+      "melee",
+      "strike"
+    ],
+    "meta_tags": [
+      "attack",
+      "melee",
+      "strike",
+      "support"
+    ],
+    "raw_tags": "보조 , 공격 , 근접 , 타격"
+  },
+  {
+    "name": "출혈 II",
+    "tier": 3,
+    "tags": [
+      "보조",
+      "물리"
+    ],
+    "tags_ko": [
+      "보조",
+      "물리"
+    ],
+    "tags_en": [
+      "support",
+      "physical"
+    ],
+    "meta_tags": [
+      "physical",
+      "support"
+    ],
+    "raw_tags": "보조 , 물리"
+  },
+  {
+    "name": "파생하는 균열 I",
+    "tier": 3,
+    "tags": [
+      "보조"
+    ],
+    "tags_ko": [
+      "보조"
+    ],
+    "tags_en": [
+      "support"
+    ],
+    "meta_tags": [
+      "support"
+    ],
+    "raw_tags": "보조"
+  },
+  {
+    "name": "목전 II",
+    "tier": 3,
+    "tags": [
+      "보조",
+      "공격",
+      "근접"
+    ],
+    "tags_ko": [
+      "보조",
+      "공격",
+      "근접"
+    ],
+    "tags_en": [
+      "support",
+      "attack",
+      "melee"
+    ],
+    "meta_tags": [
+      "attack",
+      "melee",
+      "support"
+    ],
+    "raw_tags": "보조 , 공격 , 근접"
+  },
+  {
+    "name": "식인 I",
+    "tier": 3,
+    "tags": [
+      "보조",
+      "버프",
+      "유지형"
+    ],
+    "tags_ko": [
+      "보조",
+      "버프",
+      "유지형"
+    ],
+    "tags_en": [
+      "support",
+      "buff",
+      "persistent"
+    ],
+    "meta_tags": [
+      "buff",
+      "persistent",
+      "support"
+    ],
+    "raw_tags": "보조 , 버프 , 유지형"
+  },
+  {
+    "name": "격돌",
+    "tier": 3,
+    "tags": [
+      "보조",
+      "공격",
+      "근접"
+    ],
+    "tags_ko": [
+      "보조",
+      "공격",
+      "근접"
+    ],
+    "tags_en": [
+      "support",
+      "attack",
+      "melee"
+    ],
+    "meta_tags": [
+      "attack",
+      "melee",
+      "support"
+    ],
+    "raw_tags": "보조 , 공격 , 근접"
+  },
+  {
+    "name": "지속시간 압축 II",
+    "tier": 3,
+    "tags": [
+      "보조",
+      "지속시간"
+    ],
+    "tags_ko": [
+      "보조",
+      "지속시간"
+    ],
+    "tags_en": [
+      "support",
+      "duration"
+    ],
+    "meta_tags": [
+      "duration",
+      "duration_scaling",
+      "support"
+    ],
+    "raw_tags": "보조 , 지속시간"
+  },
+  {
+    "name": "차가운 머리",
+    "tier": 3,
+    "tags": [
+      "보조",
+      "버프",
+      "유지형"
+    ],
+    "tags_ko": [
+      "보조",
+      "버프",
+      "유지형"
+    ],
+    "tags_en": [
+      "support",
+      "buff",
+      "persistent"
+    ],
+    "meta_tags": [
+      "buff",
+      "persistent",
+      "support"
+    ],
+    "raw_tags": "보조 , 버프 , 유지형"
+  },
+  {
+    "name": "타락시키는 비명 I",
+    "tier": 3,
+    "tags": [
+      "보조",
+      "함성",
+      "물리",
+      "지속시간"
+    ],
+    "tags_ko": [
+      "보조",
+      "함성",
+      "물리",
+      "지속시간"
+    ],
+    "tags_en": [
+      "support",
+      "warcry",
+      "physical",
+      "duration"
+    ],
+    "meta_tags": [
+      "duration",
+      "duration_scaling",
+      "physical",
+      "support",
+      "warcry"
+    ],
+    "raw_tags": "보조 , 함성 , 물리 , 지속시간"
+  },
+  {
+    "name": "치명적인 투지",
+    "tier": 3,
+    "tags": [
+      "보조",
+      "공격",
+      "효과 범위",
+      "발동",
+      "물리",
+      "집중 유지",
+      "단계"
+    ],
+    "tags_ko": [
+      "보조",
+      "공격",
+      "효과 범위",
+      "발동",
+      "물리",
+      "집중 유지",
+      "단계"
+    ],
+    "tags_en": [
+      "support",
+      "attack",
+      "aoe",
+      "trigger",
+      "physical",
+      "channelling",
+      "staged"
+    ],
+    "meta_tags": [
+      "aoe",
+      "attack",
+      "channelling",
+      "physical",
+      "staged",
+      "support",
+      "trigger",
+      "trigger_synergy"
+    ],
+    "raw_tags": "보조 , 공격 , 효과 범위 , 발동 , 물리 , 집중 유지 , 단계"
+  },
+  {
+    "name": "이글거리는 화염 I",
+    "tier": 3,
+    "tags": [
+      "보조",
+      "화염"
+    ],
+    "tags_ko": [
+      "보조",
+      "화염"
+    ],
+    "tags_en": [
+      "support",
+      "fire"
+    ],
+    "meta_tags": [
+      "elemental",
+      "fire",
+      "support"
+    ],
+    "raw_tags": "보조 , 화염"
+  },
+  {
+    "name": "깊은 상처 I",
+    "tier": 3,
+    "tags": [
+      "보조",
+      "물리"
+    ],
+    "tags_ko": [
+      "보조",
+      "물리"
+    ],
+    "tags_en": [
+      "support",
+      "physical"
+    ],
+    "meta_tags": [
+      "physical",
+      "support"
+    ],
+    "raw_tags": "보조 , 물리"
+  },
+  {
+    "name": "전쟁의 주먹 II",
+    "tier": 3,
+    "tags": [
+      "보조",
+      "공격",
+      "근접",
+      "강타"
+    ],
+    "tags_ko": [
+      "보조",
+      "공격",
+      "근접",
+      "강타"
+    ],
+    "tags_en": [
+      "support",
+      "attack",
+      "melee",
+      "slam"
+    ],
+    "meta_tags": [
+      "attack",
+      "melee",
+      "slam",
+      "support"
+    ],
+    "raw_tags": "보조 , 공격 , 근접 , 강타"
+  },
+  {
+    "name": "혈액수정",
+    "tier": 3,
+    "tags": [
+      "보조",
+      "공격",
+      "효과 범위",
+      "발동",
+      "물리"
+    ],
+    "tags_ko": [
+      "보조",
+      "공격",
+      "효과 범위",
+      "발동",
+      "물리"
+    ],
+    "tags_en": [
+      "support",
+      "attack",
+      "aoe",
+      "trigger",
+      "physical"
+    ],
+    "meta_tags": [
+      "aoe",
+      "attack",
+      "physical",
+      "support",
+      "trigger",
+      "trigger_synergy"
+    ],
+    "raw_tags": "보조 , 공격 , 효과 범위 , 발동 , 물리"
+  },
+  {
+    "name": "영원한 화염 II",
+    "tier": 3,
+    "tags": [
+      "보조",
+      "화염"
+    ],
+    "tags_ko": [
+      "보조",
+      "화염"
+    ],
+    "tags_en": [
+      "support",
+      "fire"
+    ],
+    "meta_tags": [
+      "elemental",
+      "fire",
+      "support"
+    ],
+    "raw_tags": "보조 , 화염"
+  },
+  {
+    "name": "점화 II",
+    "tier": 3,
+    "tags": [
+      "보조",
+      "화염"
+    ],
+    "tags_ko": [
+      "보조",
+      "화염"
+    ],
+    "tags_en": [
+      "support",
+      "fire"
+    ],
+    "meta_tags": [
+      "elemental",
+      "fire",
+      "support"
+    ],
+    "raw_tags": "보조 , 화염"
+  },
+  {
+    "name": "번제",
+    "tier": 3,
+    "tags": [
+      "보조",
+      "화염",
+      "청산"
+    ],
+    "tags_ko": [
+      "보조",
+      "화염",
+      "청산"
+    ],
+    "tags_en": [
+      "support",
+      "fire",
+      "payoff"
+    ],
+    "meta_tags": [
+      "elemental",
+      "fire",
+      "payoff",
+      "support"
+    ],
+    "raw_tags": "보조 , 화염 , 청산"
+  },
+  {
+    "name": "밀어내기",
+    "tier": 3,
+    "tags": [
+      "보조"
+    ],
+    "tags_ko": [
+      "보조"
+    ],
+    "tags_en": [
+      "support"
+    ],
+    "meta_tags": [
+      "support"
+    ],
+    "raw_tags": "보조"
+  },
+  {
+    "name": "생명력 흡수 II",
+    "tier": 3,
+    "tags": [
+      "보조",
+      "공격",
+      "물리"
+    ],
+    "tags_ko": [
+      "보조",
+      "공격",
+      "물리"
+    ],
+    "tags_en": [
+      "support",
+      "attack",
+      "physical"
+    ],
+    "meta_tags": [
+      "attack",
+      "physical",
+      "support"
+    ],
+    "raw_tags": "보조 , 공격 , 물리"
+  },
+  {
+    "name": "육탄 방어 II",
+    "tier": 3,
+    "tags": [
+      "보조",
+      "소환수"
+    ],
+    "tags_ko": [
+      "보조",
+      "소환수"
+    ],
+    "tags_en": [
+      "support",
+      "minion"
+    ],
+    "meta_tags": [
+      "minion",
+      "minion_scaling",
+      "support"
+    ],
+    "raw_tags": "보조 , 소환수"
+  },
+  {
+    "name": "유지되는 대지 II",
+    "tier": 3,
+    "tags": [
+      "보조"
+    ],
+    "tags_ko": [
+      "보조"
+    ],
+    "tags_en": [
+      "support"
+    ],
+    "meta_tags": [
+      "support"
+    ],
+    "raw_tags": "보조"
+  },
+  {
+    "name": "지속시간 연장 II",
+    "tier": 3,
+    "tags": [
+      "보조",
+      "지속시간"
+    ],
+    "tags_ko": [
+      "보조",
+      "지속시간"
+    ],
+    "tags_en": [
+      "support",
+      "duration"
+    ],
+    "meta_tags": [
+      "duration",
+      "duration_scaling",
+      "support"
+    ],
+    "raw_tags": "보조 , 지속시간"
+  },
+  {
+    "name": "가시 격발",
+    "tier": 3,
+    "tags": [
+      "보조",
+      "공격",
+      "효과 범위",
+      "근접",
+      "발동",
+      "물리"
+    ],
+    "tags_ko": [
+      "보조",
+      "공격",
+      "효과 범위",
+      "근접",
+      "발동",
+      "물리"
+    ],
+    "tags_en": [
+      "support",
+      "attack",
+      "aoe",
+      "melee",
+      "trigger",
+      "physical"
+    ],
+    "meta_tags": [
+      "aoe",
+      "attack",
+      "melee",
+      "physical",
+      "support",
+      "trigger",
+      "trigger_synergy"
+    ],
+    "raw_tags": "보조 , 공격 , 효과 범위 , 근접 , 발동 , 물리"
+  },
+  {
+    "name": "굴절 II",
+    "tier": 3,
+    "tags": [
+      "보조",
+      "버프",
+      "유지형"
+    ],
+    "tags_ko": [
+      "보조",
+      "버프",
+      "유지형"
+    ],
+    "tags_en": [
+      "support",
+      "buff",
+      "persistent"
+    ],
+    "meta_tags": [
+      "buff",
+      "persistent",
+      "support"
+    ],
+    "raw_tags": "보조 , 버프 , 유지형"
+  },
+  {
+    "name": "보강된 토템 I",
+    "tier": 3,
+    "tags": [
+      "보조",
+      "토템"
+    ],
+    "tags_ko": [
+      "보조",
+      "토템"
+    ],
+    "tags_en": [
+      "support",
+      "totem"
+    ],
+    "meta_tags": [
+      "support",
+      "totem"
+    ],
+    "raw_tags": "보조 , 토템"
+  },
+  {
+    "name": "잔류물 효력 II",
+    "tier": 3,
+    "tags": [
+      "보조",
+      "잔류물"
+    ],
+    "tags_ko": [
+      "보조",
+      "잔류물"
+    ],
+    "tags_en": [
+      "support",
+      "remnant"
+    ],
+    "meta_tags": [
+      "remnant",
+      "support"
+    ],
+    "raw_tags": "보조 , 잔류물"
+  },
+  {
+    "name": "분리하는 정점",
+    "tier": 3,
+    "tags": [
+      "보조",
+      "공격",
+      "근접",
+      "타격"
+    ],
+    "tags_ko": [
+      "보조",
+      "공격",
+      "근접",
+      "타격"
+    ],
+    "tags_en": [
+      "support",
+      "attack",
+      "melee",
+      "strike"
+    ],
+    "meta_tags": [
+      "attack",
+      "melee",
+      "strike",
+      "support"
+    ],
+    "raw_tags": "보조 , 공격 , 근접 , 타격"
+  },
+  {
+    "name": "뜯기",
+    "tier": 3,
+    "tags": [
+      "보조",
+      "공격",
+      "근접",
+      "물리",
+      "지속시간",
+      "잔류물"
+    ],
+    "tags_ko": [
+      "보조",
+      "공격",
+      "근접",
+      "물리",
+      "지속시간",
+      "잔류물"
+    ],
+    "tags_en": [
+      "support",
+      "attack",
+      "melee",
+      "physical",
+      "duration",
+      "remnant"
+    ],
+    "meta_tags": [
+      "attack",
+      "duration",
+      "duration_scaling",
+      "melee",
+      "physical",
+      "remnant",
+      "support"
+    ],
+    "raw_tags": "보조 , 공격 , 근접 , 물리 , 지속시간 , 잔류물"
+  },
+  {
+    "name": "파열",
+    "tier": 3,
+    "tags": [
+      "보조",
+      "물리"
+    ],
+    "tags_ko": [
+      "보조",
+      "물리"
+    ],
+    "tags_en": [
+      "support",
+      "physical"
+    ],
+    "meta_tags": [
+      "physical",
+      "support"
+    ],
+    "raw_tags": "보조 , 물리"
+  },
+  {
+    "name": "파편 토템 I",
+    "tier": 3,
+    "tags": [
+      "보조",
+      "토템"
+    ],
+    "tags_ko": [
+      "보조",
+      "토템"
+    ],
+    "tags_en": [
+      "support",
+      "totem"
+    ],
+    "meta_tags": [
+      "support",
+      "totem"
+    ],
+    "raw_tags": "보조 , 토템"
+  },
+  {
+    "name": "요지부동 II",
+    "tier": 3,
+    "tags": [
+      "보조",
+      "집중 유지"
+    ],
+    "tags_ko": [
+      "보조",
+      "집중 유지"
+    ],
+    "tags_en": [
+      "support",
+      "channelling"
+    ],
+    "meta_tags": [
+      "channelling",
+      "support"
+    ],
+    "raw_tags": "보조 , 집중 유지"
+  },
+  {
+    "name": "극기 I",
+    "tier": 3,
+    "tags": [
+      "보조"
+    ],
+    "tags_ko": [
+      "보조"
+    ],
+    "tags_en": [
+      "support"
+    ],
+    "meta_tags": [
+      "support"
+    ],
+    "raw_tags": "보조"
+  },
+  {
+    "name": "찢기",
+    "tier": 3,
+    "tags": [
+      "보조",
+      "공격",
+      "근접",
+      "물리"
+    ],
+    "tags_ko": [
+      "보조",
+      "공격",
+      "근접",
+      "물리"
+    ],
+    "tags_en": [
+      "support",
+      "attack",
+      "melee",
+      "physical"
+    ],
+    "meta_tags": [
+      "attack",
+      "melee",
+      "physical",
+      "support"
+    ],
+    "raw_tags": "보조 , 공격 , 근접 , 물리"
+  },
+  {
+    "name": "긴급한 토템 II",
+    "tier": 3,
+    "tags": [
+      "보조",
+      "토템"
+    ],
+    "tags_ko": [
+      "보조",
+      "토템"
+    ],
+    "tags_en": [
+      "support",
+      "totem"
+    ],
+    "meta_tags": [
+      "support",
+      "totem"
+    ],
+    "raw_tags": "보조 , 토템"
+  },
+  {
+    "name": "여진 II",
+    "tier": 4,
+    "tags": [
+      "보조",
+      "공격",
+      "근접",
+      "강타"
+    ],
+    "tags_ko": [
+      "보조",
+      "공격",
+      "근접",
+      "강타"
+    ],
+    "tags_en": [
+      "support",
+      "attack",
+      "melee",
+      "slam"
+    ],
+    "meta_tags": [
+      "attack",
+      "melee",
+      "slam",
+      "support"
+    ],
+    "raw_tags": "보조 , 공격 , 근접 , 강타"
+  },
+  {
+    "name": "선대의 부름 I",
+    "tier": 4,
+    "tags": [
+      "보조",
+      "공격",
+      "근접",
+      "타격"
+    ],
+    "tags_ko": [
+      "보조",
+      "공격",
+      "근접",
+      "타격"
+    ],
+    "tags_en": [
+      "support",
+      "attack",
+      "melee",
+      "strike"
+    ],
+    "meta_tags": [
+      "attack",
+      "melee",
+      "strike",
+      "support"
+    ],
+    "raw_tags": "보조 , 공격 , 근접 , 타격"
+  },
+  {
+    "name": "방어구 파괴 III",
+    "tier": 4,
+    "tags": [
+      "보조",
+      "물리"
+    ],
+    "tags_ko": [
+      "보조",
+      "물리"
+    ],
+    "tags_en": [
+      "support",
+      "physical"
+    ],
+    "meta_tags": [
+      "physical",
+      "support"
+    ],
+    "raw_tags": "보조 , 물리"
+  },
+  {
+    "name": "식인 II",
+    "tier": 4,
+    "tags": [
+      "보조",
+      "버프",
+      "유지형"
+    ],
+    "tags_ko": [
+      "보조",
+      "버프",
+      "유지형"
+    ],
+    "tags_en": [
+      "support",
+      "buff",
+      "persistent"
+    ],
+    "meta_tags": [
+      "buff",
+      "persistent",
+      "support"
+    ],
+    "raw_tags": "보조 , 버프 , 유지형"
+  },
+  {
+    "name": "배합 II",
+    "tier": 4,
+    "tags": [
+      "보조"
+    ],
+    "tags_ko": [
+      "보조"
+    ],
+    "tags_en": [
+      "support"
+    ],
+    "meta_tags": [
+      "support"
+    ],
+    "raw_tags": "보조"
+  },
+  {
+    "name": "이글거리는 화염 II",
+    "tier": 4,
+    "tags": [
+      "보조",
+      "화염"
+    ],
+    "tags_ko": [
+      "보조",
+      "화염"
+    ],
+    "tags_en": [
+      "support",
+      "fire"
+    ],
+    "meta_tags": [
+      "elemental",
+      "fire",
+      "support"
+    ],
+    "raw_tags": "보조 , 화염"
+  },
+  {
+    "name": "극한타격 II",
+    "tier": 4,
+    "tags": [
+      "보조",
+      "버프",
+      "유지형"
+    ],
+    "tags_ko": [
+      "보조",
+      "버프",
+      "유지형"
+    ],
+    "tags_en": [
+      "support",
+      "buff",
+      "persistent"
+    ],
+    "meta_tags": [
+      "buff",
+      "persistent",
+      "support"
+    ],
+    "raw_tags": "보조 , 버프 , 유지형"
+  },
+  {
+    "name": "메아리치는 함성",
+    "tier": 4,
+    "tags": [
+      "보조",
+      "함성",
+      "효과 범위"
+    ],
+    "tags_ko": [
+      "보조",
+      "함성",
+      "효과 범위"
+    ],
+    "tags_en": [
+      "support",
+      "warcry",
+      "aoe"
+    ],
+    "meta_tags": [
+      "aoe",
+      "support",
+      "warcry"
+    ],
+    "raw_tags": "보조 , 함성 , 효과 범위"
+  },
+  {
+    "name": "효율 II",
+    "tier": 4,
+    "tags": [
+      "보조"
+    ],
+    "tags_ko": [
+      "보조"
+    ],
+    "tags_en": [
+      "support"
+    ],
+    "meta_tags": [
+      "support"
+    ],
+    "raw_tags": "보조"
+  },
+  {
+    "name": "격앙된 함성 I",
+    "tier": 4,
+    "tags": [
+      "보조",
+      "함성"
+    ],
+    "tags_ko": [
+      "보조",
+      "함성"
+    ],
+    "tags_en": [
+      "support",
+      "warcry"
+    ],
+    "meta_tags": [
+      "support",
+      "warcry"
+    ],
+    "raw_tags": "보조 , 함성"
+  },
+  {
+    "name": "처형 II",
+    "tier": 4,
+    "tags": [
+      "보조"
+    ],
+    "tags_ko": [
+      "보조"
+    ],
+    "tags_en": [
+      "support"
+    ],
+    "meta_tags": [
+      "support"
+    ],
+    "raw_tags": "보조"
+  },
+  {
+    "name": "노출의 함성",
+    "tier": 4,
+    "tags": [
+      "보조",
+      "함성",
+      "지속시간"
+    ],
+    "tags_ko": [
+      "보조",
+      "함성",
+      "지속시간"
+    ],
+    "tags_en": [
+      "support",
+      "warcry",
+      "duration"
+    ],
+    "meta_tags": [
+      "duration",
+      "duration_scaling",
+      "support",
+      "warcry"
+    ],
+    "raw_tags": "보조 , 함성 , 지속시간"
+  },
+  {
+    "name": "불난 집 부채질 II",
+    "tier": 4,
+    "tags": [
+      "보조",
+      "공격",
+      "효과 범위",
+      "발동",
+      "화염"
+    ],
+    "tags_ko": [
+      "보조",
+      "공격",
+      "효과 범위",
+      "발동",
+      "화염"
+    ],
+    "tags_en": [
+      "support",
+      "attack",
+      "aoe",
+      "trigger",
+      "fire"
+    ],
+    "meta_tags": [
+      "aoe",
+      "attack",
+      "elemental",
+      "fire",
+      "support",
+      "trigger",
+      "trigger_synergy"
+    ],
+    "raw_tags": "보조 , 공격 , 효과 범위 , 발동 , 화염"
+  },
+  {
+    "name": "화염 노출",
+    "tier": 4,
+    "tags": [
+      "보조",
+      "화염",
+      "지속시간"
+    ],
+    "tags_ko": [
+      "보조",
+      "화염",
+      "지속시간"
+    ],
+    "tags_en": [
+      "support",
+      "fire",
+      "duration"
+    ],
+    "meta_tags": [
+      "duration",
+      "duration_scaling",
+      "elemental",
+      "fire",
+      "support"
+    ],
+    "raw_tags": "보조 , 화염 , 지속시간"
+  },
+  {
+    "name": "새 탄창 II",
+    "tier": 4,
+    "tags": [
+      "보조"
+    ],
+    "tags_ko": [
+      "보조"
+    ],
+    "tags_en": [
+      "support"
+    ],
+    "meta_tags": [
+      "support"
+    ],
+    "raw_tags": "보조"
+  },
+  {
+    "name": "강인한 토템 II",
+    "tier": 4,
+    "tags": [
+      "보조",
+      "토템"
+    ],
+    "tags_ko": [
+      "보조",
+      "토템"
+    ],
+    "tags_en": [
+      "support",
+      "totem"
+    ],
+    "meta_tags": [
+      "support",
+      "totem"
+    ],
+    "raw_tags": "보조 , 토템"
+  },
+  {
+    "name": "지속되는 충격 II",
+    "tier": 4,
+    "tags": [
+      "보조"
+    ],
+    "tags_ko": [
+      "보조"
+    ],
+    "tags_en": [
+      "support"
+    ],
+    "meta_tags": [
+      "support"
+    ],
+    "raw_tags": "보조"
+  },
+  {
+    "name": "약초학 II",
+    "tier": 4,
+    "tags": [
+      "보조",
+      "버프",
+      "유지형"
+    ],
+    "tags_ko": [
+      "보조",
+      "버프",
+      "유지형"
+    ],
+    "tags_en": [
+      "support",
+      "buff",
+      "persistent"
+    ],
+    "meta_tags": [
+      "buff",
+      "persistent",
+      "support"
+    ],
+    "raw_tags": "보조 , 버프 , 유지형"
+  },
+  {
+    "name": "영원한 화염 III",
+    "tier": 4,
+    "tags": [
+      "보조",
+      "화염"
+    ],
+    "tags_ko": [
+      "보조",
+      "화염"
+    ],
+    "tags_en": [
+      "support",
+      "fire"
+    ],
+    "meta_tags": [
+      "elemental",
+      "fire",
+      "support"
+    ],
+    "raw_tags": "보조 , 화염"
+  },
+  {
+    "name": "절개",
+    "tier": 4,
+    "tags": [
+      "보조",
+      "공격",
+      "물리"
+    ],
+    "tags_ko": [
+      "보조",
+      "공격",
+      "물리"
+    ],
+    "tags_en": [
+      "support",
+      "attack",
+      "physical"
+    ],
+    "meta_tags": [
+      "attack",
+      "physical",
+      "support"
+    ],
+    "raw_tags": "보조 , 공격 , 물리"
+  },
+  {
+    "name": "지옥불 군단 II",
+    "tier": 4,
+    "tags": [
+      "보조",
+      "소환수",
+      "효과 범위",
+      "화염"
+    ],
+    "tags_ko": [
+      "보조",
+      "소환수",
+      "효과 범위",
+      "화염"
+    ],
+    "tags_en": [
+      "support",
+      "minion",
+      "aoe",
+      "fire"
+    ],
+    "meta_tags": [
+      "aoe",
+      "elemental",
+      "fire",
+      "minion",
+      "minion_scaling",
+      "support"
+    ],
+    "raw_tags": "보조 , 소환수 , 효과 범위 , 화염"
+  },
+  {
+    "name": "긴 퓨즈 I",
+    "tier": 4,
+    "tags": [
+      "보조"
+    ],
+    "tags_ko": [
+      "보조"
+    ],
+    "tags_en": [
+      "support"
+    ],
+    "meta_tags": [
+      "support"
+    ],
+    "raw_tags": "보조"
+  },
+  {
+    "name": "죽음의 징표 II",
+    "tier": 4,
+    "tags": [
+      "보조",
+      "징표",
+      "물리"
+    ],
+    "tags_ko": [
+      "보조",
+      "징표",
+      "물리"
+    ],
+    "tags_en": [
+      "support",
+      "mark",
+      "physical"
+    ],
+    "meta_tags": [
+      "mark",
+      "physical",
+      "support"
+    ],
+    "raw_tags": "보조 , 징표 , 물리"
+  },
+  {
+    "name": "묵직한 휘두르기",
+    "tier": 4,
+    "tags": [
+      "보조",
+      "공격",
+      "근접",
+      "물리"
+    ],
+    "tags_ko": [
+      "보조",
+      "공격",
+      "근접",
+      "물리"
+    ],
+    "tags_en": [
+      "support",
+      "attack",
+      "melee",
+      "physical"
+    ],
+    "meta_tags": [
+      "attack",
+      "melee",
+      "physical",
+      "support"
+    ],
+    "raw_tags": "보조 , 공격 , 근접 , 물리"
+  },
+  {
+    "name": "격노 II",
+    "tier": 4,
+    "tags": [
+      "보조",
+      "공격",
+      "근접"
+    ],
+    "tags_ko": [
+      "보조",
+      "공격",
+      "근접"
+    ],
+    "tags_en": [
+      "support",
+      "attack",
+      "melee"
+    ],
+    "meta_tags": [
+      "attack",
+      "melee",
+      "support"
+    ],
+    "raw_tags": "보조 , 공격 , 근접"
+  },
+  {
+    "name": "격노벼림 I",
+    "tier": 4,
+    "tags": [
+      "보조"
+    ],
+    "tags_ko": [
+      "보조"
+    ],
+    "tags_en": [
+      "support"
+    ],
+    "meta_tags": [
+      "support"
+    ],
+    "raw_tags": "보조"
+  },
+  {
+    "name": "잔류물 효력 III",
+    "tier": 4,
+    "tags": [
+      "보조",
+      "잔류물"
+    ],
+    "tags_ko": [
+      "보조",
+      "잔류물"
+    ],
+    "tags_en": [
+      "support",
+      "remnant"
+    ],
+    "meta_tags": [
+      "remnant",
+      "support"
+    ],
+    "raw_tags": "보조 , 잔류물"
+  },
+  {
+    "name": "보복 II",
+    "tier": 4,
+    "tags": [
+      "보조",
+      "공격",
+      "근접"
+    ],
+    "tags_ko": [
+      "보조",
+      "공격",
+      "근접"
+    ],
+    "tags_en": [
+      "support",
+      "attack",
+      "melee"
+    ],
+    "meta_tags": [
+      "attack",
+      "melee",
+      "support"
+    ],
+    "raw_tags": "보조 , 공격 , 근접"
+  },
+  {
+    "name": "짧은 퓨즈 II",
+    "tier": 4,
+    "tags": [
+      "보조"
+    ],
+    "tags_ko": [
+      "보조"
+    ],
+    "tags_en": [
+      "support"
+    ],
+    "meta_tags": [
+      "support"
+    ],
+    "raw_tags": "보조"
+  },
+  {
+    "name": "달리는 돌 II",
+    "tier": 4,
+    "tags": [
+      "보조",
+      "소환수",
+      "발동",
+      "물리",
+      "지속시간"
+    ],
+    "tags_ko": [
+      "보조",
+      "소환수",
+      "발동",
+      "물리",
+      "지속시간"
+    ],
+    "tags_en": [
+      "support",
+      "minion",
+      "trigger",
+      "physical",
+      "duration"
+    ],
+    "meta_tags": [
+      "duration",
+      "duration_scaling",
+      "minion",
+      "minion_scaling",
+      "physical",
+      "support",
+      "trigger",
+      "trigger_synergy"
+    ],
+    "raw_tags": "보조 , 소환수 , 발동 , 물리 , 지속시간"
+  },
+  {
+    "name": "기절 II",
+    "tier": 4,
+    "tags": [
+      "보조"
+    ],
+    "tags_ko": [
+      "보조"
+    ],
+    "tags_en": [
+      "support"
+    ],
+    "meta_tags": [
+      "support"
+    ],
+    "raw_tags": "보조"
+  },
+  {
+    "name": "삭망",
+    "tier": 4,
+    "tags": [
+      "보조",
+      "공격",
+      "근접",
+      "강타",
+      "화염"
+    ],
+    "tags_ko": [
+      "보조",
+      "공격",
+      "근접",
+      "강타",
+      "화염"
+    ],
+    "tags_en": [
+      "support",
+      "attack",
+      "melee",
+      "slam",
+      "fire"
+    ],
+    "meta_tags": [
+      "attack",
+      "elemental",
+      "fire",
+      "melee",
+      "slam",
+      "support"
+    ],
+    "raw_tags": "보조 , 공격 , 근접 , 강타 , 화염"
+  },
+  {
+    "name": "가시피부 II",
+    "tier": 4,
+    "tags": [
+      "보조",
+      "버프",
+      "유지형"
+    ],
+    "tags_ko": [
+      "보조",
+      "버프",
+      "유지형"
+    ],
+    "tags_en": [
+      "support",
+      "buff",
+      "persistent"
+    ],
+    "meta_tags": [
+      "buff",
+      "persistent",
+      "support"
+    ],
+    "raw_tags": "보조 , 버프 , 유지형"
+  },
+  {
+    "name": "긴급한 토템 III",
+    "tier": 4,
+    "tags": [
+      "보조",
+      "토템"
+    ],
+    "tags_ko": [
+      "보조",
+      "토템"
+    ],
+    "tags_en": [
+      "support",
+      "totem"
+    ],
+    "meta_tags": [
+      "support",
+      "totem"
+    ],
+    "raw_tags": "보조 , 토템"
+  },
+  {
+    "name": "활력 II",
+    "tier": 4,
+    "tags": [
+      "보조",
+      "버프",
+      "유지형"
+    ],
+    "tags_ko": [
+      "보조",
+      "버프",
+      "유지형"
+    ],
+    "tags_en": [
+      "support",
+      "buff",
+      "persistent"
+    ],
+    "meta_tags": [
+      "buff",
+      "persistent",
+      "support"
+    ],
+    "raw_tags": "보조 , 버프 , 유지형"
+  },
+  {
+    "name": "선대의 부름 II",
+    "tier": 5,
+    "tags": [
+      "보조",
+      "공격",
+      "근접",
+      "타격"
+    ],
+    "tags_ko": [
+      "보조",
+      "공격",
+      "근접",
+      "타격"
+    ],
+    "tags_en": [
+      "support",
+      "attack",
+      "melee",
+      "strike"
+    ],
+    "meta_tags": [
+      "attack",
+      "melee",
+      "strike",
+      "support"
+    ],
+    "raw_tags": "보조 , 공격 , 근접 , 타격"
+  },
+  {
+    "name": "미늘 III",
+    "tier": 5,
+    "tags": [
+      "보조",
+      "공격",
+      "근접",
+      "타격"
+    ],
+    "tags_ko": [
+      "보조",
+      "공격",
+      "근접",
+      "타격"
+    ],
+    "tags_en": [
+      "support",
+      "attack",
+      "melee",
+      "strike"
+    ],
+    "meta_tags": [
+      "attack",
+      "melee",
+      "strike",
+      "support"
+    ],
+    "raw_tags": "보조 , 공격 , 근접 , 타격"
+  },
+  {
+    "name": "미늘 II",
+    "tier": 5,
+    "tags": [
+      "보조",
+      "공격",
+      "근접",
+      "타격"
+    ],
+    "tags_ko": [
+      "보조",
+      "공격",
+      "근접",
+      "타격"
+    ],
+    "tags_en": [
+      "support",
+      "attack",
+      "melee",
+      "strike"
+    ],
+    "meta_tags": [
+      "attack",
+      "melee",
+      "strike",
+      "support"
+    ],
+    "raw_tags": "보조 , 공격 , 근접 , 타격"
+  },
+  {
+    "name": "출혈 IV",
+    "tier": 5,
+    "tags": [
+      "보조",
+      "물리"
+    ],
+    "tags_ko": [
+      "보조",
+      "물리"
+    ],
+    "tags_en": [
+      "support",
+      "physical"
+    ],
+    "meta_tags": [
+      "physical",
+      "support"
+    ],
+    "raw_tags": "보조 , 물리"
+  },
+  {
+    "name": "출혈 III",
+    "tier": 5,
+    "tags": [
+      "보조",
+      "물리"
+    ],
+    "tags_ko": [
+      "보조",
+      "물리"
+    ],
+    "tags_en": [
+      "support",
+      "physical"
+    ],
+    "meta_tags": [
+      "physical",
+      "support"
+    ],
+    "raw_tags": "보조 , 물리"
+  },
+  {
+    "name": "가시나무 강타",
+    "tier": 5,
+    "tags": [
+      "보조",
+      "공격",
+      "효과 범위",
+      "근접",
+      "강타",
+      "발동",
+      "물리",
+      "위해 요소",
+      "식물"
+    ],
+    "tags_ko": [
+      "보조",
+      "공격",
+      "효과 범위",
+      "근접",
+      "강타",
+      "발동",
+      "물리",
+      "위해 요소",
+      "식물"
+    ],
+    "tags_en": [
+      "support",
+      "attack",
+      "aoe",
+      "melee",
+      "slam",
+      "trigger",
+      "physical",
+      "hazard",
+      "plant"
+    ],
+    "meta_tags": [
+      "aoe",
+      "attack",
+      "hazard",
+      "melee",
+      "physical",
+      "plant",
+      "slam",
+      "support",
+      "trigger",
+      "trigger_synergy"
+    ],
+    "raw_tags": "보조 , 공격 , 효과 범위 , 근접 , 강타 , 발동 , 물리 , 위해 요소 , 식물"
+  },
+  {
+    "name": "파생하는 균열 II",
+    "tier": 5,
+    "tags": [
+      "보조"
+    ],
+    "tags_ko": [
+      "보조"
+    ],
+    "tags_en": [
+      "support"
+    ],
+    "meta_tags": [
+      "support"
+    ],
+    "raw_tags": "보조"
+  },
+  {
+    "name": "포악함 III",
+    "tier": 5,
+    "tags": [
+      "보조",
+      "물리"
+    ],
+    "tags_ko": [
+      "보조",
+      "물리"
+    ],
+    "tags_en": [
+      "support",
+      "physical"
+    ],
+    "meta_tags": [
+      "physical",
+      "support"
+    ],
+    "raw_tags": "보조 , 물리"
+  },
+  {
+    "name": "타락시키는 비명 II",
+    "tier": 5,
+    "tags": [
+      "보조",
+      "함성",
+      "물리",
+      "지속시간"
+    ],
+    "tags_ko": [
+      "보조",
+      "함성",
+      "물리",
+      "지속시간"
+    ],
+    "tags_en": [
+      "support",
+      "warcry",
+      "physical",
+      "duration"
+    ],
+    "meta_tags": [
+      "duration",
+      "duration_scaling",
+      "physical",
+      "support",
+      "warcry"
+    ],
+    "raw_tags": "보조 , 함성 , 물리 , 지속시간"
+  },
+  {
+    "name": "깊은 상처 II",
+    "tier": 5,
+    "tags": [
+      "보조",
+      "물리"
+    ],
+    "tags_ko": [
+      "보조",
+      "물리"
+    ],
+    "tags_en": [
+      "support",
+      "physical"
+    ],
+    "meta_tags": [
+      "physical",
+      "support"
+    ],
+    "raw_tags": "보조 , 물리"
+  },
+  {
+    "name": "거역 II",
+    "tier": 5,
+    "tags": [
+      "보조",
+      "공격"
+    ],
+    "tags_ko": [
+      "보조",
+      "공격"
+    ],
+    "tags_en": [
+      "support",
+      "attack"
+    ],
+    "meta_tags": [
+      "attack",
+      "support"
+    ],
+    "raw_tags": "보조 , 공격"
+  },
+  {
+    "name": "더블배럴 III",
+    "tier": 5,
+    "tags": [
+      "보조",
+      "탄약",
+      "투사체"
+    ],
+    "tags_ko": [
+      "보조",
+      "탄약",
+      "투사체"
+    ],
+    "tags_en": [
+      "support",
+      "ammo",
+      "projectile"
+    ],
+    "meta_tags": [
+      "ammo",
+      "projectile",
+      "projectile_scaling",
+      "support"
+    ],
+    "raw_tags": "보조 , 탄약 , 투사체"
+  },
+  {
+    "name": "원소 병기 III",
+    "tier": 5,
+    "tags": [
+      "보조",
+      "공격"
+    ],
+    "tags_ko": [
+      "보조",
+      "공격"
+    ],
+    "tags_en": [
+      "support",
+      "attack"
+    ],
+    "meta_tags": [
+      "attack",
+      "support"
+    ],
+    "raw_tags": "보조 , 공격"
+  },
+  {
+    "name": "격앙된 함성 II",
+    "tier": 5,
+    "tags": [
+      "보조",
+      "함성"
+    ],
+    "tags_ko": [
+      "보조",
+      "함성"
+    ],
+    "tags_en": [
+      "support",
+      "warcry"
+    ],
+    "meta_tags": [
+      "support",
+      "warcry"
+    ],
+    "raw_tags": "보조 , 함성"
+  },
+  {
+    "name": "처형 III",
+    "tier": 5,
+    "tags": [
+      "보조"
+    ],
+    "tags_ko": [
+      "보조"
+    ],
+    "tags_en": [
+      "support"
+    ],
+    "meta_tags": [
+      "support"
+    ],
+    "raw_tags": "보조"
+  },
+  {
+    "name": "화염 관통 II",
+    "tier": 5,
+    "tags": [
+      "보조",
+      "화염"
+    ],
+    "tags_ko": [
+      "보조",
+      "화염"
+    ],
+    "tags_en": [
+      "support",
+      "fire"
+    ],
+    "meta_tags": [
+      "elemental",
+      "fire",
+      "support"
+    ],
+    "raw_tags": "보조 , 화염"
+  },
+  {
+    "name": "전쟁의 주먹 III",
+    "tier": 5,
+    "tags": [
+      "보조",
+      "공격",
+      "근접",
+      "강타"
+    ],
+    "tags_ko": [
+      "보조",
+      "공격",
+      "근접",
+      "강타"
+    ],
+    "tags_en": [
+      "support",
+      "attack",
+      "melee",
+      "slam"
+    ],
+    "meta_tags": [
+      "attack",
+      "melee",
+      "slam",
+      "support"
+    ],
+    "raw_tags": "보조 , 공격 , 근접 , 강타"
+  },
+  {
+    "name": "중량",
+    "tier": 5,
+    "tags": [
+      "보조",
+      "물리"
+    ],
+    "tags_ko": [
+      "보조",
+      "물리"
+    ],
+    "tags_en": [
+      "support",
+      "physical"
+    ],
+    "meta_tags": [
+      "physical",
+      "support"
+    ],
+    "raw_tags": "보조 , 물리"
+  },
+  {
+    "name": "상서로운 비탈",
+    "tier": 5,
+    "tags": [
+      "보조",
+      "효과 범위",
+      "지속시간"
+    ],
+    "tags_ko": [
+      "보조",
+      "효과 범위",
+      "지속시간"
+    ],
+    "tags_en": [
+      "support",
+      "aoe",
+      "duration"
+    ],
+    "meta_tags": [
+      "aoe",
+      "duration",
+      "duration_scaling",
+      "support"
+    ],
+    "raw_tags": "보조 , 효과 범위 , 지속시간"
+  },
+  {
+    "name": "점화 III",
+    "tier": 5,
+    "tags": [
+      "보조",
+      "화염"
+    ],
+    "tags_ko": [
+      "보조",
+      "화염"
+    ],
+    "tags_en": [
+      "support",
+      "fire"
+    ],
+    "meta_tags": [
+      "elemental",
+      "fire",
+      "support"
+    ],
+    "raw_tags": "보조 , 화염"
+  },
+  {
+    "name": "지옥불 군단 III",
+    "tier": 5,
+    "tags": [
+      "보조",
+      "소환수",
+      "효과 범위",
+      "화염"
+    ],
+    "tags_ko": [
+      "보조",
+      "소환수",
+      "효과 범위",
+      "화염"
+    ],
+    "tags_en": [
+      "support",
+      "minion",
+      "aoe",
+      "fire"
+    ],
+    "meta_tags": [
+      "aoe",
+      "elemental",
+      "fire",
+      "minion",
+      "minion_scaling",
+      "support"
+    ],
+    "raw_tags": "보조 , 소환수 , 효과 범위 , 화염"
+  },
+  {
+    "name": "요철 지대 II",
+    "tier": 5,
+    "tags": [
+      "보조",
+      "공격",
+      "효과 범위",
+      "근접",
+      "강타",
+      "지속시간"
+    ],
+    "tags_ko": [
+      "보조",
+      "공격",
+      "효과 범위",
+      "근접",
+      "강타",
+      "지속시간"
+    ],
+    "tags_en": [
+      "support",
+      "attack",
+      "aoe",
+      "melee",
+      "slam",
+      "duration"
+    ],
+    "meta_tags": [
+      "aoe",
+      "attack",
+      "duration",
+      "duration_scaling",
+      "melee",
+      "slam",
+      "support"
+    ],
+    "raw_tags": "보조 , 공격 , 효과 범위 , 근접 , 강타 , 지속시간"
+  },
+  {
+    "name": "생명력 흡수 III",
+    "tier": 5,
+    "tags": [
+      "보조",
+      "공격",
+      "물리"
+    ],
+    "tags_ko": [
+      "보조",
+      "공격",
+      "물리"
+    ],
+    "tags_en": [
+      "support",
+      "attack",
+      "physical"
+    ],
+    "meta_tags": [
+      "attack",
+      "physical",
+      "support"
+    ],
+    "raw_tags": "보조 , 공격 , 물리"
+  },
+  {
+    "name": "긴 퓨즈 II",
+    "tier": 5,
+    "tags": [
+      "보조"
+    ],
+    "tags_ko": [
+      "보조"
+    ],
+    "tags_en": [
+      "support"
+    ],
+    "meta_tags": [
+      "support"
+    ],
+    "raw_tags": "보조"
+  },
+  {
+    "name": "유지되는 대지 III",
+    "tier": 5,
+    "tags": [
+      "보조"
+    ],
+    "tags_ko": [
+      "보조"
+    ],
+    "tags_en": [
+      "support"
+    ],
+    "meta_tags": [
+      "support"
+    ],
+    "raw_tags": "보조"
+  },
+  {
+    "name": "격노 III",
+    "tier": 5,
+    "tags": [
+      "보조",
+      "공격",
+      "근접"
+    ],
+    "tags_ko": [
+      "보조",
+      "공격",
+      "근접"
+    ],
+    "tags_en": [
+      "support",
+      "attack",
+      "melee"
+    ],
+    "meta_tags": [
+      "attack",
+      "melee",
+      "support"
+    ],
+    "raw_tags": "보조 , 공격 , 근접"
+  },
+  {
+    "name": "격노벼림 II",
+    "tier": 5,
+    "tags": [
+      "보조"
+    ],
+    "tags_ko": [
+      "보조"
+    ],
+    "tags_en": [
+      "support"
+    ],
+    "meta_tags": [
+      "support"
+    ],
+    "raw_tags": "보조"
+  },
+  {
+    "name": "굴절 III",
+    "tier": 5,
+    "tags": [
+      "보조",
+      "버프",
+      "유지형"
+    ],
+    "tags_ko": [
+      "보조",
+      "버프",
+      "유지형"
+    ],
+    "tags_en": [
+      "support",
+      "buff",
+      "persistent"
+    ],
+    "meta_tags": [
+      "buff",
+      "persistent",
+      "support"
+    ],
+    "raw_tags": "보조 , 버프 , 유지형"
+  },
+  {
+    "name": "보강된 토템 II",
+    "tier": 5,
+    "tags": [
+      "보조",
+      "토템"
+    ],
+    "tags_ko": [
+      "보조",
+      "토템"
+    ],
+    "tags_en": [
+      "support",
+      "totem"
+    ],
+    "meta_tags": [
+      "support",
+      "totem"
+    ],
+    "raw_tags": "보조 , 토템"
+  },
+  {
+    "name": "파편 토템 II",
+    "tier": 5,
+    "tags": [
+      "보조",
+      "토템"
+    ],
+    "tags_ko": [
+      "보조",
+      "토템"
+    ],
+    "tags_en": [
+      "support",
+      "totem"
+    ],
+    "meta_tags": [
+      "support",
+      "totem"
+    ],
+    "raw_tags": "보조 , 토템"
+  },
+  {
+    "name": "극기 II",
+    "tier": 5,
+    "tags": [
+      "보조"
+    ],
+    "tags_ko": [
+      "보조"
+    ],
+    "tags_en": [
+      "support"
+    ],
+    "meta_tags": [
+      "support"
+    ],
+    "raw_tags": "보조"
+  },
+  {
+    "name": "기절 III",
+    "tier": 5,
+    "tags": [
+      "보조"
+    ],
+    "tags_ko": [
+      "보조"
+    ],
+    "tags_en": [
+      "support"
+    ],
+    "meta_tags": [
+      "support"
+    ],
+    "raw_tags": "보조"
+  },
+  {
+    "name": "격변 II",
+    "tier": 5,
+    "tags": [
+      "보조"
+    ],
+    "tags_ko": [
+      "보조"
+    ],
+    "tags_en": [
+      "support"
+    ],
+    "meta_tags": [
+      "support"
+    ],
+    "raw_tags": "보조"
+  },
+  {
+    "name": "아일리트의 종",
+    "tier": 1,
+    "tags": [
+      "보조",
+      "혈통"
+    ],
+    "tags_ko": [
+      "보조",
+      "혈통"
+    ],
+    "tags_en": [
+      "support",
+      "lineage"
+    ],
+    "meta_tags": [
+      "lineage",
+      "support"
+    ],
+    "raw_tags": "보조 , 혈통"
+  },
+  {
+    "name": "아르준의 메달",
+    "tier": 1,
+    "tags": [
+      "보조",
+      "혈통",
+      "탄약",
+      "투사체"
+    ],
+    "tags_ko": [
+      "보조",
+      "혈통",
+      "탄약",
+      "투사체"
+    ],
+    "tags_en": [
+      "support",
+      "lineage",
+      "ammo",
+      "projectile"
+    ],
+    "meta_tags": [
+      "ammo",
+      "lineage",
+      "projectile",
+      "projectile_scaling",
+      "support"
+    ],
+    "raw_tags": "보조 , 혈통 , 탄약 , 투사체"
+  },
+  {
+    "name": "아라칼리의 욕망",
+    "tier": 1,
+    "tags": [
+      "보조",
+      "혈통"
+    ],
+    "tags_ko": [
+      "보조",
+      "혈통"
+    ],
+    "tags_en": [
+      "support",
+      "lineage"
+    ],
+    "meta_tags": [
+      "lineage",
+      "support"
+    ],
+    "raw_tags": "보조 , 혈통"
+  },
+  {
+    "name": "앗지리의 조바심",
+    "tier": 1,
+    "tags": [
+      "보조",
+      "혈통"
+    ],
+    "tags_ko": [
+      "보조",
+      "혈통"
+    ],
+    "tags_en": [
+      "support",
+      "lineage"
+    ],
+    "meta_tags": [
+      "lineage",
+      "support"
+    ],
+    "raw_tags": "보조 , 혈통"
+  },
+  {
+    "name": "라타의 공격",
+    "tier": 1,
+    "tags": [
+      "보조",
+      "혈통",
+      "탄약",
+      "투사체"
+    ],
+    "tags_ko": [
+      "보조",
+      "혈통",
+      "탄약",
+      "투사체"
+    ],
+    "tags_en": [
+      "support",
+      "lineage",
+      "ammo",
+      "projectile"
+    ],
+    "meta_tags": [
+      "ammo",
+      "lineage",
+      "projectile",
+      "projectile_scaling",
+      "support"
+    ],
+    "raw_tags": "보조 , 혈통 , 탄약 , 투사체"
+  },
+  {
+    "name": "몽상가의 종소리",
+    "tier": 1,
+    "tags": [
+      "보조",
+      "혈통",
+      "공격",
+      "효과 범위",
+      "근접",
+      "발동",
+      "지속시간"
+    ],
+    "tags_ko": [
+      "보조",
+      "혈통",
+      "공격",
+      "효과 범위",
+      "근접",
+      "발동",
+      "지속시간"
+    ],
+    "tags_en": [
+      "support",
+      "lineage",
+      "attack",
+      "aoe",
+      "melee",
+      "trigger",
+      "duration"
+    ],
+    "meta_tags": [
+      "aoe",
+      "attack",
+      "duration",
+      "duration_scaling",
+      "lineage",
+      "melee",
+      "support",
+      "trigger",
+      "trigger_synergy"
+    ],
+    "raw_tags": "보조 , 혈통 , 공격 , 효과 범위 , 근접 , 발동 , 지속시간"
+  },
+  {
+    "name": "에오니르의 천둥",
+    "tier": 1,
+    "tags": [
+      "보조",
+      "혈통",
+      "효과 범위",
+      "번개"
+    ],
+    "tags_ko": [
+      "보조",
+      "혈통",
+      "효과 범위",
+      "번개"
+    ],
+    "tags_en": [
+      "support",
+      "lineage",
+      "aoe",
+      "lightning"
+    ],
+    "meta_tags": [
+      "aoe",
+      "elemental",
+      "lightning",
+      "lineage",
+      "support"
+    ],
+    "raw_tags": "보조 , 혈통 , 효과 범위 , 번개"
+  },
+  {
+    "name": "의도적인 살인",
+    "tier": 1,
+    "tags": [
+      "보조"
+    ],
+    "tags_ko": [
+      "보조"
+    ],
+    "tags_en": [
+      "support"
+    ],
+    "meta_tags": [
+      "support"
+    ],
+    "raw_tags": "보조"
+  },
+  {
+    "name": "흉포함",
+    "tier": 1,
+    "tags": [
+      "보조"
+    ],
+    "tags_ko": [
+      "보조"
+    ],
+    "tags_en": [
+      "support"
+    ],
+    "meta_tags": [
+      "support"
+    ],
+    "raw_tags": "보조"
+  },
+  {
+    "name": "가루칸의 투지",
+    "tier": 1,
+    "tags": [
+      "보조",
+      "혈통",
+      "공격"
+    ],
+    "tags_ko": [
+      "보조",
+      "혈통",
+      "공격"
+    ],
+    "tags_en": [
+      "support",
+      "lineage",
+      "attack"
+    ],
+    "meta_tags": [
+      "attack",
+      "lineage",
+      "support"
+    ],
+    "raw_tags": "보조 , 혈통 , 공격"
+  },
+  {
+    "name": "과잉 III",
+    "tier": 1,
+    "tags": [
+      "보조",
+      "저주"
+    ],
+    "tags_ko": [
+      "보조",
+      "저주"
+    ],
+    "tags_en": [
+      "support",
+      "curse"
+    ],
+    "meta_tags": [
+      "curse",
+      "support"
+    ],
+    "raw_tags": "보조 , 저주"
+  },
+  {
+    "name": "생명력 하사품",
+    "tier": 1,
+    "tags": [
+      "보조"
+    ],
+    "tags_ko": [
+      "보조"
+    ],
+    "tags_en": [
+      "support"
+    ],
+    "meta_tags": [
+      "support"
+    ],
+    "raw_tags": "보조"
+  },
+  {
+    "name": "폐쇄",
+    "tier": 1,
+    "tags": [
+      "보조"
+    ],
+    "tags_ko": [
+      "보조"
+    ],
+    "tags_en": [
+      "support"
+    ],
+    "meta_tags": [
+      "support"
+    ],
+    "raw_tags": "보조"
+  },
+  {
+    "name": "질병",
+    "tier": 1,
+    "tags": [
+      "보조"
+    ],
+    "tags_ko": [
+      "보조"
+    ],
+    "tags_en": [
+      "support"
+    ],
+    "meta_tags": [
+      "support"
+    ],
+    "raw_tags": "보조"
+  },
+  {
+    "name": "마나 하사품",
+    "tier": 1,
+    "tags": [
+      "보조"
+    ],
+    "tags_ko": [
+      "보조"
+    ],
+    "tags_en": [
+      "support"
+    ],
+    "meta_tags": [
+      "support"
+    ],
+    "raw_tags": "보조"
+  },
+  {
+    "name": "도미누스의 장악",
+    "tier": 1,
+    "tags": [
+      "보조",
+      "혈통",
+      "투사체",
+      "연쇄"
+    ],
+    "tags_ko": [
+      "보조",
+      "혈통",
+      "투사체",
+      "연쇄"
+    ],
+    "tags_en": [
+      "support",
+      "lineage",
+      "projectile",
+      "chain"
+    ],
+    "meta_tags": [
+      "chain",
+      "clear_speed",
+      "lineage",
+      "projectile",
+      "projectile_scaling",
+      "support"
+    ],
+    "raw_tags": "보조 , 혈통 , 투사체 , 연쇄"
+  },
+  {
+    "name": "라키아타의 흐름",
+    "tier": 1,
+    "tags": [
+      "보조",
+      "혈통"
+    ],
+    "tags_ko": [
+      "보조",
+      "혈통"
+    ],
+    "tags_en": [
+      "support",
+      "lineage"
+    ],
+    "meta_tags": [
+      "lineage",
+      "support"
+    ],
+    "raw_tags": "보조 , 혈통"
+  },
+  {
+    "name": "리그월드의 흉포함",
+    "tier": 1,
+    "tags": [
+      "보조",
+      "혈통",
+      "공격"
+    ],
+    "tags_ko": [
+      "보조",
+      "혈통",
+      "공격"
+    ],
+    "tags_en": [
+      "support",
+      "lineage",
+      "attack"
+    ],
+    "meta_tags": [
+      "attack",
+      "lineage",
+      "support"
+    ],
+    "raw_tags": "보조 , 혈통 , 공격"
+  },
+  {
+    "name": "폭풍연쇄",
+    "tier": 1,
+    "tags": [
+      "보조",
+      "투사체",
+      "번개",
+      "연쇄"
+    ],
+    "tags_ko": [
+      "보조",
+      "투사체",
+      "번개",
+      "연쇄"
+    ],
+    "tags_en": [
+      "support",
+      "projectile",
+      "lightning",
+      "chain"
+    ],
+    "meta_tags": [
+      "chain",
+      "clear_speed",
+      "elemental",
+      "lightning",
+      "projectile",
+      "projectile_scaling",
+      "support"
+    ],
+    "raw_tags": "보조 , 투사체 , 번개 , 연쇄"
+  },
+  {
+    "name": "타카티의 진노",
+    "tier": 1,
+    "tags": [
+      "보조",
+      "혈통",
+      "카오스"
+    ],
+    "tags_ko": [
+      "보조",
+      "혈통",
+      "카오스"
+    ],
+    "tags_en": [
+      "support",
+      "lineage",
+      "chaos"
+    ],
+    "meta_tags": [
+      "chaos",
+      "lineage",
+      "support"
+    ],
+    "raw_tags": "보조 , 혈통 , 카오스"
+  },
+  {
+    "name": "타살리오의 리듬",
+    "tier": 1,
+    "tags": [
+      "보조",
+      "혈통"
+    ],
+    "tags_ko": [
+      "보조",
+      "혈통"
+    ],
+    "tags_en": [
+      "support",
+      "lineage"
+    ],
+    "meta_tags": [
+      "lineage",
+      "support"
+    ],
+    "raw_tags": "보조 , 혈통"
+  },
+  {
+    "name": "튕겨 쏘기 III",
+    "tier": 1,
+    "tags": [
+      "보조",
+      "투사체"
+    ],
+    "tags_ko": [
+      "보조",
+      "투사체"
+    ],
+    "tags_en": [
+      "support",
+      "projectile"
+    ],
+    "meta_tags": [
+      "projectile",
+      "projectile_scaling",
+      "support"
+    ],
+    "raw_tags": "보조 , 투사체"
+  },
+  {
+    "name": "툴의 고요",
+    "tier": 1,
+    "tags": [
+      "보조",
+      "혈통",
+      "냉기",
+      "카오스"
+    ],
+    "tags_ko": [
+      "보조",
+      "혈통",
+      "냉기",
+      "카오스"
+    ],
+    "tags_en": [
+      "support",
+      "lineage",
+      "cold",
+      "chaos"
+    ],
+    "meta_tags": [
+      "chaos",
+      "cold",
+      "elemental",
+      "lineage",
+      "support"
+    ],
+    "raw_tags": "보조 , 혈통 , 냉기 , 카오스"
+  },
+  {
+    "name": "번개 조율",
+    "tier": 1,
+    "tags": [
+      "보조",
+      "공격",
+      "번개"
+    ],
+    "tags_ko": [
+      "보조",
+      "공격",
+      "번개"
+    ],
+    "tags_en": [
+      "support",
+      "attack",
+      "lightning"
+    ],
+    "meta_tags": [
+      "attack",
+      "elemental",
+      "lightning",
+      "support"
+    ],
+    "raw_tags": "보조 , 공격 , 번개"
+  },
+  {
+    "name": "맹점 공략",
+    "tier": 1,
+    "tags": [
+      "보조"
+    ],
+    "tags_ko": [
+      "보조"
+    ],
+    "tags_en": [
+      "support"
+    ],
+    "meta_tags": [
+      "support"
+    ],
+    "raw_tags": "보조"
+  },
+  {
+    "name": "연쇄 I",
+    "tier": 1,
+    "tags": [
+      "보조",
+      "투사체",
+      "연쇄"
+    ],
+    "tags_ko": [
+      "보조",
+      "투사체",
+      "연쇄"
+    ],
+    "tags_en": [
+      "support",
+      "projectile",
+      "chain"
+    ],
+    "meta_tags": [
+      "chain",
+      "clear_speed",
+      "projectile",
+      "projectile_scaling",
+      "support"
+    ],
+    "raw_tags": "보조 , 투사체 , 연쇄"
+  },
+  {
+    "name": "넘치는 충전 I",
+    "tier": 1,
+    "tags": [
+      "보조"
+    ],
+    "tags_ko": [
+      "보조"
+    ],
+    "tags_en": [
+      "support"
+    ],
+    "meta_tags": [
+      "support"
+    ],
+    "raw_tags": "보조"
+  },
+  {
+    "name": "연계 마무리 I",
+    "tier": 1,
+    "tags": [
+      "보조",
+      "공격",
+      "근접",
+      "타격",
+      "조건부"
+    ],
+    "tags_ko": [
+      "보조",
+      "공격",
+      "근접",
+      "타격",
+      "조건부"
+    ],
+    "tags_en": [
+      "support",
+      "attack",
+      "melee",
+      "strike",
+      "conditional"
+    ],
+    "meta_tags": [
+      "attack",
+      "conditional",
+      "melee",
+      "strike",
+      "support"
+    ],
+    "raw_tags": "보조 , 공격 , 근접 , 타격 , 조건부"
+  },
+  {
+    "name": "부식",
+    "tier": 1,
+    "tags": [
+      "보조",
+      "물리",
+      "카오스"
+    ],
+    "tags_ko": [
+      "보조",
+      "물리",
+      "카오스"
+    ],
+    "tags_en": [
+      "support",
+      "physical",
+      "chaos"
+    ],
+    "meta_tags": [
+      "chaos",
+      "physical",
+      "support"
+    ],
+    "raw_tags": "보조 , 물리 , 카오스"
+  },
+  {
+    "name": "격화되는 중독",
+    "tier": 1,
+    "tags": [
+      "보조",
+      "카오스"
+    ],
+    "tags_ko": [
+      "보조",
+      "카오스"
+    ],
+    "tags_en": [
+      "support",
+      "chaos"
+    ],
+    "meta_tags": [
+      "chaos",
+      "support"
+    ],
+    "raw_tags": "보조 , 카오스"
+  },
+  {
+    "name": "고조된 정확도 I",
+    "tier": 1,
+    "tags": [
+      "보조",
+      "공격"
+    ],
+    "tags_ko": [
+      "보조",
+      "공격"
+    ],
+    "tags_en": [
+      "support",
+      "attack"
+    ],
+    "meta_tags": [
+      "attack",
+      "support"
+    ],
+    "raw_tags": "보조 , 공격"
+  },
+  {
+    "name": "과잉 I",
+    "tier": 1,
+    "tags": [
+      "보조"
+    ],
+    "tags_ko": [
+      "보조"
+    ],
+    "tags_en": [
+      "support"
+    ],
+    "meta_tags": [
+      "support"
+    ],
+    "raw_tags": "보조"
+  },
+  {
+    "name": "자극",
+    "tier": 1,
+    "tags": [
+      "보조",
+      "공격",
+      "번개",
+      "지속시간"
+    ],
+    "tags_ko": [
+      "보조",
+      "공격",
+      "번개",
+      "지속시간"
+    ],
+    "tags_en": [
+      "support",
+      "attack",
+      "lightning",
+      "duration"
+    ],
+    "meta_tags": [
+      "attack",
+      "duration",
+      "duration_scaling",
+      "elemental",
+      "lightning",
+      "support"
+    ],
+    "raw_tags": "보조 , 공격 , 번개 , 지속시간"
+  },
+  {
+    "name": "생명력 고갈",
+    "tier": 1,
+    "tags": [
+      "보조"
+    ],
+    "tags_ko": [
+      "보조"
+    ],
+    "tags_en": [
+      "support"
+    ],
+    "meta_tags": [
+      "support"
+    ],
+    "raw_tags": "보조"
+  },
+  {
+    "name": "다중 사격 I",
+    "tier": 1,
+    "tags": [
+      "보조",
+      "투사체"
+    ],
+    "tags_ko": [
+      "보조",
+      "투사체"
+    ],
+    "tags_en": [
+      "support",
+      "projectile"
+    ],
+    "meta_tags": [
+      "projectile",
+      "projectile_scaling",
+      "support"
+    ],
+    "raw_tags": "보조 , 투사체"
+  },
+  {
+    "name": "관통 I",
+    "tier": 1,
+    "tags": [
+      "보조",
+      "투사체"
+    ],
+    "tags_ko": [
+      "보조",
+      "투사체"
+    ],
+    "tags_en": [
+      "support",
+      "projectile"
+    ],
+    "meta_tags": [
+      "projectile",
+      "projectile_scaling",
+      "support"
+    ],
+    "raw_tags": "보조 , 투사체"
+  },
+  {
+    "name": "고정 I",
+    "tier": 1,
+    "tags": [
+      "보조",
+      "물리"
+    ],
+    "tags_ko": [
+      "보조",
+      "물리"
+    ],
+    "tags_en": [
+      "support",
+      "physical"
+    ],
+    "meta_tags": [
+      "physical",
+      "support"
+    ],
+    "raw_tags": "보조 , 물리"
+  },
+  {
+    "name": "중독 I",
+    "tier": 1,
+    "tags": [
+      "보조",
+      "카오스"
+    ],
+    "tags_ko": [
+      "보조",
+      "카오스"
+    ],
+    "tags_en": [
+      "support",
+      "chaos"
+    ],
+    "meta_tags": [
+      "chaos",
+      "support"
+    ],
+    "raw_tags": "보조 , 카오스"
+  },
+  {
+    "name": "정밀함 I",
+    "tier": 1,
+    "tags": [
+      "보조",
+      "버프",
+      "유지형"
+    ],
+    "tags_ko": [
+      "보조",
+      "버프",
+      "유지형"
+    ],
+    "tags_en": [
+      "support",
+      "buff",
+      "persistent"
+    ],
+    "meta_tags": [
+      "buff",
+      "persistent",
+      "support"
+    ],
+    "raw_tags": "보조 , 버프 , 유지형"
+  },
+  {
+    "name": "투사체 가속 I",
+    "tier": 1,
+    "tags": [
+      "보조",
+      "투사체"
+    ],
+    "tags_ko": [
+      "보조",
+      "투사체"
+    ],
+    "tags_en": [
+      "support",
+      "projectile"
+    ],
+    "meta_tags": [
+      "projectile",
+      "projectile_scaling",
+      "support"
+    ],
+    "raw_tags": "보조 , 투사체"
+  },
+  {
+    "name": "투사체 감속 I",
+    "tier": 1,
+    "tags": [
+      "보조",
+      "투사체"
+    ],
+    "tags_ko": [
+      "보조",
+      "투사체"
+    ],
+    "tags_en": [
+      "support",
+      "projectile"
+    ],
+    "meta_tags": [
+      "projectile",
+      "projectile_scaling",
+      "support"
+    ],
+    "raw_tags": "보조 , 투사체"
+  },
+  {
+    "name": "추격 I",
+    "tier": 1,
+    "tags": [
+      "보조",
+      "공격",
+      "근접"
+    ],
+    "tags_ko": [
+      "보조",
+      "공격",
+      "근접"
+    ],
+    "tags_en": [
+      "support",
+      "attack",
+      "melee"
+    ],
+    "meta_tags": [
+      "attack",
+      "melee",
+      "support"
+    ],
+    "raw_tags": "보조 , 공격 , 근접"
+  },
+  {
+    "name": "빠른 공격 I",
+    "tier": 1,
+    "tags": [
+      "보조",
+      "공격"
+    ],
+    "tags_ko": [
+      "보조",
+      "공격"
+    ],
+    "tags_en": [
+      "support",
+      "attack"
+    ],
+    "meta_tags": [
+      "attack",
+      "support"
+    ],
+    "raw_tags": "보조 , 공격"
+  },
+  {
+    "name": "퇴각 I",
+    "tier": 1,
+    "tags": [
+      "보조",
+      "투사체"
+    ],
+    "tags_ko": [
+      "보조",
+      "투사체"
+    ],
+    "tags_en": [
+      "support",
+      "projectile"
+    ],
+    "meta_tags": [
+      "projectile",
+      "projectile_scaling",
+      "support"
+    ],
+    "raw_tags": "보조 , 투사체"
+  },
+  {
+    "name": "감전",
+    "tier": 1,
+    "tags": [
+      "보조",
+      "번개"
+    ],
+    "tags_ko": [
+      "보조",
+      "번개"
+    ],
+    "tags_en": [
+      "support",
+      "lightning"
+    ],
+    "meta_tags": [
+      "elemental",
+      "lightning",
+      "support"
+    ],
+    "raw_tags": "보조 , 번개"
+  },
+  {
+    "name": "느린 효력",
+    "tier": 1,
+    "tags": [
+      "보조",
+      "주문"
+    ],
+    "tags_ko": [
+      "보조",
+      "주문"
+    ],
+    "tags_en": [
+      "support",
+      "spell"
+    ],
+    "meta_tags": [
+      "spell",
+      "support"
+    ],
+    "raw_tags": "보조 , 주문"
+  },
+  {
+    "name": "고통 격화 I",
+    "tier": 1,
+    "tags": [
+      "보조",
+      "지속시간"
+    ],
+    "tags_ko": [
+      "보조",
+      "지속시간"
+    ],
+    "tags_en": [
+      "support",
+      "duration"
+    ],
+    "meta_tags": [
+      "duration",
+      "duration_scaling",
+      "support"
+    ],
+    "raw_tags": "보조 , 지속시간"
+  },
+  {
+    "name": "기회의 창 I",
+    "tier": 1,
+    "tags": [
+      "보조",
+      "집중 유지"
+    ],
+    "tags_ko": [
+      "보조",
+      "집중 유지"
+    ],
+    "tags_en": [
+      "support",
+      "channelling"
+    ],
+    "meta_tags": [
+      "channelling",
+      "support"
+    ],
+    "raw_tags": "보조 , 집중 유지"
+  },
+  {
+    "name": "접착 유탄 I",
+    "tier": 2,
+    "tags": [
+      "보조",
+      "유탄"
+    ],
+    "tags_ko": [
+      "보조",
+      "유탄"
+    ],
+    "tags_en": [
+      "support",
+      "grenade"
+    ],
+    "meta_tags": [
+      "grenade",
+      "grenade_scaling",
+      "support"
+    ],
+    "raw_tags": "보조 , 유탄"
+  },
+  {
+    "name": "배합물",
+    "tier": 2,
+    "tags": [
+      "보조",
+      "물리",
+      "카오스"
+    ],
+    "tags_ko": [
+      "보조",
+      "물리",
+      "카오스"
+    ],
+    "tags_en": [
+      "support",
+      "physical",
+      "chaos"
+    ],
+    "meta_tags": [
+      "chaos",
+      "physical",
+      "support"
+    ],
+    "raw_tags": "보조 , 물리 , 카오스"
+  },
+  {
+    "name": "탄약 보존 I",
+    "tier": 2,
+    "tags": [
+      "보조",
+      "탄약",
+      "투사체"
+    ],
+    "tags_ko": [
+      "보조",
+      "탄약",
+      "투사체"
+    ],
+    "tags_en": [
+      "support",
+      "ammo",
+      "projectile"
+    ],
+    "meta_tags": [
+      "ammo",
+      "projectile",
+      "projectile_scaling",
+      "support"
+    ],
+    "raw_tags": "보조 , 탄약 , 투사체"
+  },
+  {
+    "name": "실명 I",
+    "tier": 2,
+    "tags": [
+      "보조"
+    ],
+    "tags_ko": [
+      "보조"
+    ],
+    "tags_en": [
+      "support"
+    ],
+    "meta_tags": [
+      "support"
+    ],
+    "raw_tags": "보조"
+  },
+  {
+    "name": "하사품 I",
+    "tier": 2,
+    "tags": [
+      "보조"
+    ],
+    "tags_ko": [
+      "보조"
+    ],
+    "tags_en": [
+      "support"
+    ],
+    "meta_tags": [
+      "support"
+    ],
+    "raw_tags": "보조"
+  },
+  {
+    "name": "운율",
+    "tier": 2,
+    "tags": [
+      "보조",
+      "공격"
+    ],
+    "tags_ko": [
+      "보조",
+      "공격"
+    ],
+    "tags_en": [
+      "support",
+      "attack"
+    ],
+    "meta_tags": [
+      "attack",
+      "support"
+    ],
+    "raw_tags": "보조 , 공격"
+  },
+  {
+    "name": "연쇄 II",
+    "tier": 2,
+    "tags": [
+      "보조",
+      "투사체",
+      "연쇄"
+    ],
+    "tags_ko": [
+      "보조",
+      "투사체",
+      "연쇄"
+    ],
+    "tags_en": [
+      "support",
+      "projectile",
+      "chain"
+    ],
+    "meta_tags": [
+      "chain",
+      "clear_speed",
+      "projectile",
+      "projectile_scaling",
+      "support"
+    ],
+    "raw_tags": "보조 , 투사체 , 연쇄"
+  },
+  {
+    "name": "억제자",
+    "tier": 2,
+    "tags": [
+      "보조",
+      "주문"
+    ],
+    "tags_ko": [
+      "보조",
+      "주문"
+    ],
+    "tags_en": [
+      "support",
+      "spell"
+    ],
+    "meta_tags": [
+      "spell",
+      "support"
+    ],
+    "raw_tags": "보조 , 주문"
+  },
+  {
+    "name": "동정",
+    "tier": 2,
+    "tags": [
+      "보조"
+    ],
+    "tags_ko": [
+      "보조"
+    ],
+    "tags_en": [
+      "support"
+    ],
+    "meta_tags": [
+      "support"
+    ],
+    "raw_tags": "보조"
+  },
+  {
+    "name": "치명적인 중독 I",
+    "tier": 2,
+    "tags": [
+      "보조",
+      "카오스"
+    ],
+    "tags_ko": [
+      "보조",
+      "카오스"
+    ],
+    "tags_en": [
+      "support",
+      "chaos"
+    ],
+    "meta_tags": [
+      "chaos",
+      "support"
+    ],
+    "raw_tags": "보조 , 카오스"
+  },
+  {
+    "name": "보상 유예",
+    "tier": 2,
+    "tags": [
+      "보조"
+    ],
+    "tags_ko": [
+      "보조"
+    ],
+    "tags_en": [
+      "support"
+    ],
+    "meta_tags": [
+      "support"
+    ],
+    "raw_tags": "보조"
+  },
+  {
+    "name": "내구도",
+    "tier": 2,
+    "tags": [
+      "보조"
+    ],
+    "tags_ko": [
+      "보조"
+    ],
+    "tags_en": [
+      "support"
+    ],
+    "meta_tags": [
+      "support"
+    ],
+    "raw_tags": "보조"
+  },
+  {
+    "name": "전기 처형",
+    "tier": 2,
+    "tags": [
+      "보조",
+      "번개"
+    ],
+    "tags_ko": [
+      "보조",
+      "번개"
+    ],
+    "tags_en": [
+      "support",
+      "lightning"
+    ],
+    "meta_tags": [
+      "elemental",
+      "lightning",
+      "support"
+    ],
+    "raw_tags": "보조 , 번개"
+  },
+  {
+    "name": "원거리 사격 I",
+    "tier": 2,
+    "tags": [
+      "보조",
+      "공격"
+    ],
+    "tags_ko": [
+      "보조",
+      "공격"
+    ],
+    "tags_en": [
+      "support",
+      "attack"
+    ],
+    "meta_tags": [
+      "attack",
+      "support"
+    ],
+    "raw_tags": "보조 , 공격"
+  },
+  {
+    "name": "열광적인 반격",
+    "tier": 2,
+    "tags": [
+      "보조",
+      "공격"
+    ],
+    "tags_ko": [
+      "보조",
+      "공격"
+    ],
+    "tags_en": [
+      "support",
+      "attack"
+    ],
+    "meta_tags": [
+      "attack",
+      "support"
+    ],
+    "raw_tags": "보조 , 공격"
+  },
+  {
+    "name": "얼어붙은 악의",
+    "tier": 2,
+    "tags": [
+      "보조",
+      "효과 범위",
+      "투사체",
+      "발동",
+      "냉기"
+    ],
+    "tags_ko": [
+      "보조",
+      "효과 범위",
+      "투사체",
+      "발동",
+      "냉기"
+    ],
+    "tags_en": [
+      "support",
+      "aoe",
+      "projectile",
+      "trigger",
+      "cold"
+    ],
+    "meta_tags": [
+      "aoe",
+      "cold",
+      "elemental",
+      "projectile",
+      "projectile_scaling",
+      "support",
+      "trigger",
+      "trigger_synergy"
+    ],
+    "raw_tags": "보조 , 효과 범위 , 투사체 , 발동 , 냉기"
+  },
+  {
+    "name": "고조된 충전",
+    "tier": 2,
+    "tags": [
+      "보조"
+    ],
+    "tags_ko": [
+      "보조"
+    ],
+    "tags_en": [
+      "support"
+    ],
+    "meta_tags": [
+      "support"
+    ],
+    "raw_tags": "보조"
+  },
+  {
+    "name": "이어지는 충격",
+    "tier": 2,
+    "tags": [
+      "보조",
+      "번개"
+    ],
+    "tags_ko": [
+      "보조",
+      "번개"
+    ],
+    "tags_en": [
+      "support",
+      "lightning"
+    ],
+    "meta_tags": [
+      "elemental",
+      "lightning",
+      "support"
+    ],
+    "raw_tags": "보조 , 번개"
+  },
+  {
+    "name": "번개 관통",
+    "tier": 2,
+    "tags": [
+      "보조",
+      "번개"
+    ],
+    "tags_ko": [
+      "보조",
+      "번개"
+    ],
+    "tags_en": [
+      "support",
+      "lightning"
+    ],
+    "meta_tags": [
+      "elemental",
+      "lightning",
+      "support"
+    ],
+    "raw_tags": "보조 , 번개"
+  },
+  {
+    "name": "힘줄 절단",
+    "tier": 2,
+    "tags": [
+      "보조",
+      "공격"
+    ],
+    "tags_ko": [
+      "보조",
+      "공격"
+    ],
+    "tags_en": [
+      "support",
+      "attack"
+    ],
+    "meta_tags": [
+      "attack",
+      "support"
+    ],
+    "raw_tags": "보조 , 공격"
+  },
+  {
+    "name": "기세",
+    "tier": 2,
+    "tags": [
+      "보조"
+    ],
+    "tags_ko": [
+      "보조"
+    ],
+    "tags_en": [
+      "support"
+    ],
+    "meta_tags": [
+      "support"
+    ],
+    "raw_tags": "보조"
+  },
+  {
+    "name": "다중 사격 II",
+    "tier": 2,
+    "tags": [
+      "보조",
+      "투사체"
+    ],
+    "tags_ko": [
+      "보조",
+      "투사체"
+    ],
+    "tags_en": [
+      "support",
+      "projectile"
+    ],
+    "meta_tags": [
+      "projectile",
+      "projectile_scaling",
+      "support"
+    ],
+    "raw_tags": "보조 , 투사체"
+  },
+  {
+    "name": "폭발 투사체 I",
+    "tier": 2,
+    "tags": [
+      "보조",
+      "투사체"
+    ],
+    "tags_ko": [
+      "보조",
+      "투사체"
+    ],
+    "tags_en": [
+      "support",
+      "projectile"
+    ],
+    "meta_tags": [
+      "projectile",
+      "projectile_scaling",
+      "support"
+    ],
+    "raw_tags": "보조 , 투사체"
+  },
+  {
+    "name": "무리",
+    "tier": 2,
+    "tags": [
+      "보조",
+      "공격"
+    ],
+    "tags_ko": [
+      "보조",
+      "공격"
+    ],
+    "tags_en": [
+      "support",
+      "attack"
+    ],
+    "meta_tags": [
+      "attack",
+      "support"
+    ],
+    "raw_tags": "보조 , 공격"
+  },
+  {
+    "name": "질러 뻗기",
+    "tier": 2,
+    "tags": [
+      "보조",
+      "공격",
+      "효과 범위"
+    ],
+    "tags_ko": [
+      "보조",
+      "공격",
+      "효과 범위"
+    ],
+    "tags_en": [
+      "support",
+      "attack",
+      "aoe"
+    ],
+    "meta_tags": [
+      "aoe",
+      "attack",
+      "support"
+    ],
+    "raw_tags": "보조 , 공격 , 효과 범위"
+  },
+  {
+    "name": "고정 II",
+    "tier": 2,
+    "tags": [
+      "보조",
+      "물리"
+    ],
+    "tags_ko": [
+      "보조",
+      "물리"
+    ],
+    "tags_en": [
+      "support",
+      "physical"
+    ],
+    "meta_tags": [
+      "physical",
+      "support"
+    ],
+    "raw_tags": "보조 , 물리"
+  },
+  {
+    "name": "새로운 활력 I",
+    "tier": 2,
+    "tags": [
+      "보조"
+    ],
+    "tags_ko": [
+      "보조"
+    ],
+    "tags_en": [
+      "support"
+    ],
+    "meta_tags": [
+      "support"
+    ],
+    "raw_tags": "보조"
+  },
+  {
+    "name": "감전 도약",
+    "tier": 2,
+    "tags": [
+      "보조",
+      "효과 범위",
+      "지속시간"
+    ],
+    "tags_ko": [
+      "보조",
+      "효과 범위",
+      "지속시간"
+    ],
+    "tags_en": [
+      "support",
+      "aoe",
+      "duration"
+    ],
+    "meta_tags": [
+      "aoe",
+      "duration",
+      "duration_scaling",
+      "support"
+    ],
+    "raw_tags": "보조 , 효과 범위 , 지속시간"
+  },
+  {
+    "name": "터져 나오는 역병",
+    "tier": 2,
+    "tags": [
+      "보조",
+      "효과 범위",
+      "발동",
+      "물리",
+      "카오스"
+    ],
+    "tags_ko": [
+      "보조",
+      "효과 범위",
+      "발동",
+      "물리",
+      "카오스"
+    ],
+    "tags_en": [
+      "support",
+      "aoe",
+      "trigger",
+      "physical",
+      "chaos"
+    ],
+    "meta_tags": [
+      "aoe",
+      "chaos",
+      "physical",
+      "support",
+      "trigger",
+      "trigger_synergy"
+    ],
+    "raw_tags": "보조 , 효과 범위 , 발동 , 물리 , 카오스"
+  },
+  {
+    "name": "튕겨 쏘기 I",
+    "tier": 2,
+    "tags": [
+      "보조",
+      "투사체"
+    ],
+    "tags_ko": [
+      "보조",
+      "투사체"
+    ],
+    "tags_en": [
+      "support",
+      "projectile"
+    ],
+    "meta_tags": [
+      "projectile",
+      "projectile_scaling",
+      "support"
+    ],
+    "raw_tags": "보조 , 투사체"
+  },
+  {
+    "name": "전압",
+    "tier": 2,
+    "tags": [
+      "보조",
+      "공격",
+      "투사체",
+      "번개",
+      "연쇄"
+    ],
+    "tags_ko": [
+      "보조",
+      "공격",
+      "투사체",
+      "번개",
+      "연쇄"
+    ],
+    "tags_en": [
+      "support",
+      "attack",
+      "projectile",
+      "lightning",
+      "chain"
+    ],
+    "meta_tags": [
+      "attack",
+      "chain",
+      "clear_speed",
+      "elemental",
+      "lightning",
+      "projectile",
+      "projectile_scaling",
+      "support"
+    ],
+    "raw_tags": "보조 , 공격 , 투사체 , 번개 , 연쇄"
+  },
+  {
+    "name": "접착 유탄 II",
+    "tier": 3,
+    "tags": [
+      "보조",
+      "유탄"
+    ],
+    "tags_ko": [
+      "보조",
+      "유탄"
+    ],
+    "tags_en": [
+      "support",
+      "grenade"
+    ],
+    "meta_tags": [
+      "grenade",
+      "grenade_scaling",
+      "support"
+    ],
+    "raw_tags": "보조 , 유탄"
+  },
+  {
+    "name": "정렬 I",
+    "tier": 3,
+    "tags": [
+      "보조",
+      "공격",
+      "투사체"
+    ],
+    "tags_ko": [
+      "보조",
+      "공격",
+      "투사체"
+    ],
+    "tags_en": [
+      "support",
+      "attack",
+      "projectile"
+    ],
+    "meta_tags": [
+      "attack",
+      "projectile",
+      "projectile_scaling",
+      "support"
+    ],
+    "raw_tags": "보조 , 공격 , 투사체"
+  },
+  {
+    "name": "마름쇠",
+    "tier": 3,
+    "tags": [
+      "보조",
+      "공격",
+      "효과 범위",
+      "투사체",
+      "발동",
+      "지속시간",
+      "위해 요소"
+    ],
+    "tags_ko": [
+      "보조",
+      "공격",
+      "효과 범위",
+      "투사체",
+      "발동",
+      "지속시간",
+      "위해 요소"
+    ],
+    "tags_en": [
+      "support",
+      "attack",
+      "aoe",
+      "projectile",
+      "trigger",
+      "duration",
+      "hazard"
+    ],
+    "meta_tags": [
+      "aoe",
+      "attack",
+      "duration",
+      "duration_scaling",
+      "hazard",
+      "projectile",
+      "projectile_scaling",
+      "support",
+      "trigger",
+      "trigger_synergy"
+    ],
+    "raw_tags": "보조 , 공격 , 효과 범위 , 투사체 , 발동 , 지속시간 , 위해 요소"
+  },
+  {
+    "name": "충전 사격 I",
+    "tier": 3,
+    "tags": [
+      "보조",
+      "공격",
+      "투사체"
+    ],
+    "tags_ko": [
+      "보조",
+      "공격",
+      "투사체"
+    ],
+    "tags_en": [
+      "support",
+      "attack",
+      "projectile"
+    ],
+    "meta_tags": [
+      "attack",
+      "projectile",
+      "projectile_scaling",
+      "support"
+    ],
+    "raw_tags": "보조 , 공격 , 투사체"
+  },
+  {
+    "name": "근접 전투 I",
+    "tier": 3,
+    "tags": [
+      "보조",
+      "공격"
+    ],
+    "tags_ko": [
+      "보조",
+      "공격"
+    ],
+    "tags_en": [
+      "support",
+      "attack"
+    ],
+    "meta_tags": [
+      "attack",
+      "support"
+    ],
+    "raw_tags": "보조 , 공격"
+  },
+  {
+    "name": "연계 마무리 II",
+    "tier": 3,
+    "tags": [
+      "보조",
+      "공격",
+      "근접",
+      "타격",
+      "조건부"
+    ],
+    "tags_ko": [
+      "보조",
+      "공격",
+      "근접",
+      "타격",
+      "조건부"
+    ],
+    "tags_en": [
+      "support",
+      "attack",
+      "melee",
+      "strike",
+      "conditional"
+    ],
+    "meta_tags": [
+      "attack",
+      "conditional",
+      "melee",
+      "strike",
+      "support"
+    ],
+    "raw_tags": "보조 , 공격 , 근접 , 타격 , 조건부"
+  },
+  {
+    "name": "재사용 대기시간 회복 I",
+    "tier": 3,
+    "tags": [
+      "보조"
+    ],
+    "tags_ko": [
+      "보조"
+    ],
+    "tags_en": [
+      "support"
+    ],
+    "meta_tags": [
+      "support"
+    ],
+    "raw_tags": "보조"
+  },
+  {
+    "name": "고조 I",
+    "tier": 3,
+    "tags": [
+      "보조",
+      "공격",
+      "근접",
+      "조건부"
+    ],
+    "tags_ko": [
+      "보조",
+      "공격",
+      "근접",
+      "조건부"
+    ],
+    "tags_en": [
+      "support",
+      "attack",
+      "melee",
+      "conditional"
+    ],
+    "meta_tags": [
+      "attack",
+      "conditional",
+      "melee",
+      "support"
+    ],
+    "raw_tags": "보조 , 공격 , 근접 , 조건부"
+  },
+  {
+    "name": "치명적인 전령",
+    "tier": 3,
+    "tags": [
+      "보조",
+      "전령"
+    ],
+    "tags_ko": [
+      "보조",
+      "전령"
+    ],
+    "tags_en": [
+      "support",
+      "herald"
+    ],
+    "meta_tags": [
+      "herald",
+      "support"
+    ],
+    "raw_tags": "보조 , 전령"
+  },
+  {
+    "name": "신중",
+    "tier": 3,
+    "tags": [
+      "보조"
+    ],
+    "tags_ko": [
+      "보조"
+    ],
+    "tags_en": [
+      "support"
+    ],
+    "meta_tags": [
+      "support"
+    ],
+    "raw_tags": "보조"
+  },
+  {
+    "name": "원거리 사격 II",
+    "tier": 3,
+    "tags": [
+      "보조",
+      "공격"
+    ],
+    "tags_ko": [
+      "보조",
+      "공격"
+    ],
+    "tags_en": [
+      "support",
+      "attack"
+    ],
+    "meta_tags": [
+      "attack",
+      "support"
+    ],
+    "raw_tags": "보조 , 공격"
+  },
+  {
+    "name": "갈래",
+    "tier": 3,
+    "tags": [
+      "보조",
+      "투사체"
+    ],
+    "tags_ko": [
+      "보조",
+      "투사체"
+    ],
+    "tags_en": [
+      "support",
+      "projectile"
+    ],
+    "meta_tags": [
+      "projectile",
+      "projectile_scaling",
+      "support"
+    ],
+    "raw_tags": "보조 , 투사체"
+  },
+  {
+    "name": "고조된 정확도 II",
+    "tier": 3,
+    "tags": [
+      "보조",
+      "공격"
+    ],
+    "tags_ko": [
+      "보조",
+      "공격"
+    ],
+    "tags_en": [
+      "support",
+      "attack"
+    ],
+    "meta_tags": [
+      "attack",
+      "support"
+    ],
+    "raw_tags": "보조 , 공격"
+  },
+  {
+    "name": "영혼 고갈",
+    "tier": 3,
+    "tags": [
+      "보조"
+    ],
+    "tags_ko": [
+      "보조"
+    ],
+    "tags_en": [
+      "support"
+    ],
+    "meta_tags": [
+      "support"
+    ],
+    "raw_tags": "보조"
+  },
+  {
+    "name": "기동성",
+    "tier": 3,
+    "tags": [
+      "보조"
+    ],
+    "tags_ko": [
+      "보조"
+    ],
+    "tags_en": [
+      "support"
+    ],
+    "meta_tags": [
+      "support"
+    ],
+    "raw_tags": "보조"
+  },
+  {
+    "name": "신경 과부하",
+    "tier": 3,
+    "tags": [
+      "보조",
+      "번개"
+    ],
+    "tags_ko": [
+      "보조",
+      "번개"
+    ],
+    "tags_en": [
+      "support",
+      "lightning"
+    ],
+    "meta_tags": [
+      "elemental",
+      "lightning",
+      "support"
+    ],
+    "raw_tags": "보조 , 번개"
+  },
+  {
+    "name": "관통 II",
+    "tier": 3,
+    "tags": [
+      "보조",
+      "투사체"
+    ],
+    "tags_ko": [
+      "보조",
+      "투사체"
+    ],
+    "tags_en": [
+      "support",
+      "projectile"
+    ],
+    "meta_tags": [
+      "projectile",
+      "projectile_scaling",
+      "support"
+    ],
+    "raw_tags": "보조 , 투사체"
+  },
+  {
+    "name": "독 포자",
+    "tier": 3,
+    "tags": [
+      "보조",
+      "공격",
+      "버프",
+      "효과 범위",
+      "발동",
+      "물리",
+      "카오스",
+      "지속시간",
+      "식물"
+    ],
+    "tags_ko": [
+      "보조",
+      "공격",
+      "버프",
+      "효과 범위",
+      "발동",
+      "물리",
+      "카오스",
+      "지속시간",
+      "식물"
+    ],
+    "tags_en": [
+      "support",
+      "attack",
+      "buff",
+      "aoe",
+      "trigger",
+      "physical",
+      "chaos",
+      "duration",
+      "plant"
+    ],
+    "meta_tags": [
+      "aoe",
+      "attack",
+      "buff",
+      "chaos",
+      "duration",
+      "duration_scaling",
+      "physical",
+      "plant",
+      "support",
+      "trigger",
+      "trigger_synergy"
+    ],
+    "raw_tags": "보조 , 공격 , 버프 , 효과 범위 , 발동 , 물리 , 카오스 , 지속시간 , 식물"
+  },
+  {
+    "name": "중독 II",
+    "tier": 3,
+    "tags": [
+      "보조",
+      "카오스"
+    ],
+    "tags_ko": [
+      "보조",
+      "카오스"
+    ],
+    "tags_en": [
+      "support",
+      "chaos"
+    ],
+    "meta_tags": [
+      "chaos",
+      "support"
+    ],
+    "raw_tags": "보조 , 카오스"
+  },
+  {
+    "name": "숙련된 연계",
+    "tier": 3,
+    "tags": [
+      "보조",
+      "공격",
+      "근접",
+      "타격"
+    ],
+    "tags_ko": [
+      "보조",
+      "공격",
+      "근접",
+      "타격"
+    ],
+    "tags_en": [
+      "support",
+      "attack",
+      "melee",
+      "strike"
+    ],
+    "meta_tags": [
+      "attack",
+      "melee",
+      "strike",
+      "support"
+    ],
+    "raw_tags": "보조 , 공격 , 근접 , 타격"
+  },
+  {
+    "name": "투사체 감속 II",
+    "tier": 3,
+    "tags": [
+      "보조",
+      "투사체"
+    ],
+    "tags_ko": [
+      "보조",
+      "투사체"
+    ],
+    "tags_en": [
+      "support",
+      "projectile"
+    ],
+    "meta_tags": [
+      "projectile",
+      "projectile_scaling",
+      "support"
+    ],
+    "raw_tags": "보조 , 투사체"
+  },
+  {
+    "name": "흘려 치기",
+    "tier": 3,
+    "tags": [
+      "보조",
+      "공격",
+      "근접"
+    ],
+    "tags_ko": [
+      "보조",
+      "공격",
+      "근접"
+    ],
+    "tags_en": [
+      "support",
+      "attack",
+      "melee"
+    ],
+    "meta_tags": [
+      "attack",
+      "melee",
+      "support"
+    ],
+    "raw_tags": "보조 , 공격 , 근접"
+  },
+  {
+    "name": "추격 II",
+    "tier": 3,
+    "tags": [
+      "보조",
+      "공격",
+      "근접"
+    ],
+    "tags_ko": [
+      "보조",
+      "공격",
+      "근접"
+    ],
+    "tags_en": [
+      "support",
+      "attack",
+      "melee"
+    ],
+    "meta_tags": [
+      "attack",
+      "melee",
+      "support"
+    ],
+    "raw_tags": "보조 , 공격 , 근접"
+  },
+  {
+    "name": "재무장 I",
+    "tier": 3,
+    "tags": [
+      "보조",
+      "위해 요소"
+    ],
+    "tags_ko": [
+      "보조",
+      "위해 요소"
+    ],
+    "tags_en": [
+      "support",
+      "hazard"
+    ],
+    "meta_tags": [
+      "hazard",
+      "support"
+    ],
+    "raw_tags": "보조 , 위해 요소"
+  },
+  {
+    "name": "퇴각 II",
+    "tier": 3,
+    "tags": [
+      "보조",
+      "투사체"
+    ],
+    "tags_ko": [
+      "보조",
+      "투사체"
+    ],
+    "tags_en": [
+      "support",
+      "projectile"
+    ],
+    "meta_tags": [
+      "projectile",
+      "projectile_scaling",
+      "support"
+    ],
+    "raw_tags": "보조 , 투사체"
+  },
+  {
+    "name": "포화",
+    "tier": 3,
+    "tags": [
+      "보조",
+      "공격",
+      "투사체"
+    ],
+    "tags_ko": [
+      "보조",
+      "공격",
+      "투사체"
+    ],
+    "tags_en": [
+      "support",
+      "attack",
+      "projectile"
+    ],
+    "meta_tags": [
+      "attack",
+      "projectile",
+      "projectile_scaling",
+      "support"
+    ],
+    "raw_tags": "보조 , 공격 , 투사체"
+  },
+  {
+    "name": "유선형 탄환",
+    "tier": 3,
+    "tags": [
+      "보조",
+      "탄약",
+      "투사체"
+    ],
+    "tags_ko": [
+      "보조",
+      "탄약",
+      "투사체"
+    ],
+    "tags_en": [
+      "support",
+      "ammo",
+      "projectile"
+    ],
+    "meta_tags": [
+      "ammo",
+      "projectile",
+      "projectile_scaling",
+      "support"
+    ],
+    "raw_tags": "보조 , 탄약 , 투사체"
+  },
+  {
+    "name": "고통 격화 II",
+    "tier": 3,
+    "tags": [
+      "보조",
+      "지속시간"
+    ],
+    "tags_ko": [
+      "보조",
+      "지속시간"
+    ],
+    "tags_en": [
+      "support",
+      "duration"
+    ],
+    "meta_tags": [
+      "duration",
+      "duration_scaling",
+      "support"
+    ],
+    "raw_tags": "보조 , 지속시간"
+  },
+  {
+    "name": "따뜻한 피",
+    "tier": 3,
+    "tags": [
+      "보조",
+      "버프",
+      "유지형"
+    ],
+    "tags_ko": [
+      "보조",
+      "버프",
+      "유지형"
+    ],
+    "tags_en": [
+      "support",
+      "buff",
+      "persistent"
+    ],
+    "meta_tags": [
+      "buff",
+      "persistent",
+      "support"
+    ],
+    "raw_tags": "보조 , 버프 , 유지형"
+  },
+  {
+    "name": "정렬 II",
+    "tier": 4,
+    "tags": [
+      "보조",
+      "공격",
+      "투사체"
+    ],
+    "tags_ko": [
+      "보조",
+      "공격",
+      "투사체"
+    ],
+    "tags_en": [
+      "support",
+      "attack",
+      "projectile"
+    ],
+    "meta_tags": [
+      "attack",
+      "projectile",
+      "projectile_scaling",
+      "support"
+    ],
+    "raw_tags": "보조 , 공격 , 투사체"
+  },
+  {
+    "name": "탄약 보존 II",
+    "tier": 4,
+    "tags": [
+      "보조",
+      "탄약",
+      "투사체"
+    ],
+    "tags_ko": [
+      "보조",
+      "탄약",
+      "투사체"
+    ],
+    "tags_en": [
+      "support",
+      "ammo",
+      "projectile"
+    ],
+    "meta_tags": [
+      "ammo",
+      "projectile",
+      "projectile_scaling",
+      "support"
+    ],
+    "raw_tags": "보조 , 탄약 , 투사체"
+  },
+  {
+    "name": "하사품 II",
+    "tier": 4,
+    "tags": [
+      "보조"
+    ],
+    "tags_ko": [
+      "보조"
+    ],
+    "tags_en": [
+      "support"
+    ],
+    "meta_tags": [
+      "support"
+    ],
+    "raw_tags": "보조"
+  },
+  {
+    "name": "제어된 위해 요소",
+    "tier": 4,
+    "tags": [
+      "보조",
+      "위해 요소"
+    ],
+    "tags_ko": [
+      "보조",
+      "위해 요소"
+    ],
+    "tags_en": [
+      "support",
+      "hazard"
+    ],
+    "meta_tags": [
+      "hazard",
+      "support"
+    ],
+    "raw_tags": "보조 , 위해 요소"
+  },
+  {
+    "name": "재사용 대기시간 회복 II",
+    "tier": 4,
+    "tags": [
+      "보조"
+    ],
+    "tags_ko": [
+      "보조"
+    ],
+    "tags_en": [
+      "support"
+    ],
+    "meta_tags": [
+      "support"
+    ],
+    "raw_tags": "보조"
+  },
+  {
+    "name": "마무리 타격 I",
+    "tier": 4,
+    "tags": [
+      "보조",
+      "공격"
+    ],
+    "tags_ko": [
+      "보조",
+      "공격"
+    ],
+    "tags_en": [
+      "support",
+      "attack"
+    ],
+    "meta_tags": [
+      "attack",
+      "support"
+    ],
+    "raw_tags": "보조 , 공격"
+  },
+  {
+    "name": "치명적인 중독 II",
+    "tier": 4,
+    "tags": [
+      "보조",
+      "카오스"
+    ],
+    "tags_ko": [
+      "보조",
+      "카오스"
+    ],
+    "tags_en": [
+      "support",
+      "chaos"
+    ],
+    "meta_tags": [
+      "chaos",
+      "support"
+    ],
+    "raw_tags": "보조 , 카오스"
+  },
+  {
+    "name": "지연 반응",
+    "tier": 4,
+    "tags": [
+      "보조",
+      "위해 요소"
+    ],
+    "tags_ko": [
+      "보조",
+      "위해 요소"
+    ],
+    "tags_en": [
+      "support",
+      "hazard"
+    ],
+    "meta_tags": [
+      "hazard",
+      "support"
+    ],
+    "raw_tags": "보조 , 위해 요소"
+  },
+  {
+    "name": "치고 빠지기",
+    "tier": 4,
+    "tags": [
+      "보조",
+      "공격",
+      "조건부"
+    ],
+    "tags_ko": [
+      "보조",
+      "공격",
+      "조건부"
+    ],
+    "tags_en": [
+      "support",
+      "attack",
+      "conditional"
+    ],
+    "meta_tags": [
+      "attack",
+      "conditional",
+      "support"
+    ],
+    "raw_tags": "보조 , 공격 , 조건부"
+  },
+  {
+    "name": "꿰뚫기",
+    "tier": 4,
+    "tags": [
+      "보조",
+      "공격",
+      "물리"
+    ],
+    "tags_ko": [
+      "보조",
+      "공격",
+      "물리"
+    ],
+    "tags_en": [
+      "support",
+      "attack",
+      "physical"
+    ],
+    "meta_tags": [
+      "attack",
+      "physical",
+      "support"
+    ],
+    "raw_tags": "보조 , 공격 , 물리"
+  },
+  {
+    "name": "과잉 II",
+    "tier": 4,
+    "tags": [
+      "보조"
+    ],
+    "tags_ko": [
+      "보조"
+    ],
+    "tags_en": [
+      "support"
+    ],
+    "meta_tags": [
+      "support"
+    ],
+    "raw_tags": "보조"
+  },
+  {
+    "name": "번개 노출",
+    "tier": 4,
+    "tags": [
+      "보조",
+      "번개",
+      "지속시간"
+    ],
+    "tags_ko": [
+      "보조",
+      "번개",
+      "지속시간"
+    ],
+    "tags_en": [
+      "support",
+      "lightning",
+      "duration"
+    ],
+    "meta_tags": [
+      "duration",
+      "duration_scaling",
+      "elemental",
+      "lightning",
+      "support"
+    ],
+    "raw_tags": "보조 , 번개 , 지속시간"
+  },
+  {
+    "name": "가뿐한 재장전",
+    "tier": 4,
+    "tags": [
+      "보조",
+      "탄약",
+      "투사체"
+    ],
+    "tags_ko": [
+      "보조",
+      "탄약",
+      "투사체"
+    ],
+    "tags_en": [
+      "support",
+      "ammo",
+      "projectile"
+    ],
+    "meta_tags": [
+      "ammo",
+      "projectile",
+      "projectile_scaling",
+      "support"
+    ],
+    "raw_tags": "보조 , 탄약 , 투사체"
+  },
+  {
+    "name": "폭발 투사체 II",
+    "tier": 4,
+    "tags": [
+      "보조",
+      "투사체"
+    ],
+    "tags_ko": [
+      "보조",
+      "투사체"
+    ],
+    "tags_en": [
+      "support",
+      "projectile"
+    ],
+    "meta_tags": [
+      "projectile",
+      "projectile_scaling",
+      "support"
+    ],
+    "raw_tags": "보조 , 투사체"
+  },
+  {
+    "name": "과충전",
+    "tier": 4,
+    "tags": [
+      "보조",
+      "번개"
+    ],
+    "tags_ko": [
+      "보조",
+      "번개"
+    ],
+    "tags_en": [
+      "support",
+      "lightning"
+    ],
+    "meta_tags": [
+      "elemental",
+      "lightning",
+      "support"
+    ],
+    "raw_tags": "보조 , 번개"
+  },
+  {
+    "name": "화물",
+    "tier": 4,
+    "tags": [
+      "보조",
+      "유탄"
+    ],
+    "tags_ko": [
+      "보조",
+      "유탄"
+    ],
+    "tags_en": [
+      "support",
+      "grenade"
+    ],
+    "meta_tags": [
+      "grenade",
+      "grenade_scaling",
+      "support"
+    ],
+    "raw_tags": "보조 , 유탄"
+  },
+  {
+    "name": "다듬어진 인내",
+    "tier": 4,
+    "tags": [
+      "보조",
+      "집중 유지"
+    ],
+    "tags_ko": [
+      "보조",
+      "집중 유지"
+    ],
+    "tags_en": [
+      "support",
+      "channelling"
+    ],
+    "meta_tags": [
+      "channelling",
+      "support"
+    ],
+    "raw_tags": "보조 , 집중 유지"
+  },
+  {
+    "name": "완벽",
+    "tier": 4,
+    "tags": [
+      "보조"
+    ],
+    "tags_ko": [
+      "보조"
+    ],
+    "tags_en": [
+      "support"
+    ],
+    "meta_tags": [
+      "support"
+    ],
+    "raw_tags": "보조"
+  },
+  {
+    "name": "정밀함 II",
+    "tier": 4,
+    "tags": [
+      "보조",
+      "버프",
+      "유지형"
+    ],
+    "tags_ko": [
+      "보조",
+      "버프",
+      "유지형"
+    ],
+    "tags_en": [
+      "support",
+      "buff",
+      "persistent"
+    ],
+    "meta_tags": [
+      "buff",
+      "persistent",
+      "support"
+    ],
+    "raw_tags": "보조 , 버프 , 유지형"
+  },
+  {
+    "name": "투사체 가속 II",
+    "tier": 4,
+    "tags": [
+      "보조",
+      "투사체"
+    ],
+    "tags_ko": [
+      "보조",
+      "투사체"
+    ],
+    "tags_en": [
+      "support",
+      "projectile"
+    ],
+    "meta_tags": [
+      "projectile",
+      "projectile_scaling",
+      "support"
+    ],
+    "raw_tags": "보조 , 투사체"
+  },
+  {
+    "name": "빠른 공격 II",
+    "tier": 4,
+    "tags": [
+      "보조",
+      "공격"
+    ],
+    "tags_ko": [
+      "보조",
+      "공격"
+    ],
+    "tags_en": [
+      "support",
+      "attack"
+    ],
+    "meta_tags": [
+      "attack",
+      "support"
+    ],
+    "raw_tags": "보조 , 공격"
+  },
+  {
+    "name": "새로운 활력 II",
+    "tier": 4,
+    "tags": [
+      "보조"
+    ],
+    "tags_ko": [
+      "보조"
+    ],
+    "tags_en": [
+      "support"
+    ],
+    "meta_tags": [
+      "support"
+    ],
+    "raw_tags": "보조"
+  },
+  {
+    "name": "영체 사격 공세",
+    "tier": 4,
+    "tags": [
+      "보조",
+      "공격",
+      "투사체"
+    ],
+    "tags_ko": [
+      "보조",
+      "공격",
+      "투사체"
+    ],
+    "tags_en": [
+      "support",
+      "attack",
+      "projectile"
+    ],
+    "meta_tags": [
+      "attack",
+      "projectile",
+      "projectile_scaling",
+      "support"
+    ],
+    "raw_tags": "보조 , 공격 , 투사체"
+  },
+  {
+    "name": "튕겨 쏘기 II",
+    "tier": 4,
+    "tags": [
+      "보조",
+      "투사체"
+    ],
+    "tags_ko": [
+      "보조",
+      "투사체"
+    ],
+    "tags_en": [
+      "support",
+      "projectile"
+    ],
+    "meta_tags": [
+      "projectile",
+      "projectile_scaling",
+      "support"
+    ],
+    "raw_tags": "보조 , 투사체"
+  },
+  {
+    "name": "정렬 III",
+    "tier": 5,
+    "tags": [
+      "보조",
+      "공격",
+      "투사체"
+    ],
+    "tags_ko": [
+      "보조",
+      "공격",
+      "투사체"
+    ],
+    "tags_en": [
+      "support",
+      "attack",
+      "projectile"
+    ],
+    "meta_tags": [
+      "attack",
+      "projectile",
+      "projectile_scaling",
+      "support"
+    ],
+    "raw_tags": "보조 , 공격 , 투사체"
+  },
+  {
+    "name": "탄약 보존 III",
+    "tier": 5,
+    "tags": [
+      "보조",
+      "탄약",
+      "투사체"
+    ],
+    "tags_ko": [
+      "보조",
+      "탄약",
+      "투사체"
+    ],
+    "tags_en": [
+      "support",
+      "ammo",
+      "projectile"
+    ],
+    "meta_tags": [
+      "ammo",
+      "projectile",
+      "projectile_scaling",
+      "support"
+    ],
+    "raw_tags": "보조 , 탄약 , 투사체"
+  },
+  {
+    "name": "실명 II",
+    "tier": 5,
+    "tags": [
+      "보조"
+    ],
+    "tags_ko": [
+      "보조"
+    ],
+    "tags_en": [
+      "support"
+    ],
+    "meta_tags": [
+      "support"
+    ],
+    "raw_tags": "보조"
+  },
+  {
+    "name": "연쇄 III",
+    "tier": 5,
+    "tags": [
+      "보조",
+      "투사체",
+      "연쇄"
+    ],
+    "tags_ko": [
+      "보조",
+      "투사체",
+      "연쇄"
+    ],
+    "tags_en": [
+      "support",
+      "projectile",
+      "chain"
+    ],
+    "meta_tags": [
+      "chain",
+      "clear_speed",
+      "projectile",
+      "projectile_scaling",
+      "support"
+    ],
+    "raw_tags": "보조 , 투사체 , 연쇄"
+  },
+  {
+    "name": "넘치는 충전 II",
+    "tier": 5,
+    "tags": [
+      "보조"
+    ],
+    "tags_ko": [
+      "보조"
+    ],
+    "tags_en": [
+      "support"
+    ],
+    "meta_tags": [
+      "support"
+    ],
+    "raw_tags": "보조"
+  },
+  {
+    "name": "충전된 징표",
+    "tier": 5,
+    "tags": [
+      "보조",
+      "주문",
+      "효과 범위",
+      "발동",
+      "징표",
+      "지속시간"
+    ],
+    "tags_ko": [
+      "보조",
+      "주문",
+      "효과 범위",
+      "발동",
+      "징표",
+      "지속시간"
+    ],
+    "tags_en": [
+      "support",
+      "spell",
+      "aoe",
+      "trigger",
+      "mark",
+      "duration"
+    ],
+    "meta_tags": [
+      "aoe",
+      "duration",
+      "duration_scaling",
+      "mark",
+      "spell",
+      "support",
+      "trigger",
+      "trigger_synergy"
+    ],
+    "raw_tags": "보조 , 주문 , 효과 범위 , 발동 , 징표 , 지속시간"
+  },
+  {
+    "name": "충전 사격 II",
+    "tier": 5,
+    "tags": [
+      "보조",
+      "공격",
+      "투사체"
+    ],
+    "tags_ko": [
+      "보조",
+      "공격",
+      "투사체"
+    ],
+    "tags_en": [
+      "support",
+      "attack",
+      "projectile"
+    ],
+    "meta_tags": [
+      "attack",
+      "projectile",
+      "projectile_scaling",
+      "support"
+    ],
+    "raw_tags": "보조 , 공격 , 투사체"
+  },
+  {
+    "name": "근접 전투 II",
+    "tier": 5,
+    "tags": [
+      "보조",
+      "공격"
+    ],
+    "tags_ko": [
+      "보조",
+      "공격"
+    ],
+    "tags_en": [
+      "support",
+      "attack"
+    ],
+    "meta_tags": [
+      "attack",
+      "support"
+    ],
+    "raw_tags": "보조 , 공격"
+  },
+  {
+    "name": "마무리 타격 II",
+    "tier": 5,
+    "tags": [
+      "보조",
+      "공격"
+    ],
+    "tags_ko": [
+      "보조",
+      "공격"
+    ],
+    "tags_en": [
+      "support",
+      "attack"
+    ],
+    "meta_tags": [
+      "attack",
+      "support"
+    ],
+    "raw_tags": "보조 , 공격"
+  },
+  {
+    "name": "고조 II",
+    "tier": 5,
+    "tags": [
+      "보조",
+      "공격",
+      "근접",
+      "조건부"
+    ],
+    "tags_ko": [
+      "보조",
+      "공격",
+      "근접",
+      "조건부"
+    ],
+    "tags_en": [
+      "support",
+      "attack",
+      "melee",
+      "conditional"
+    ],
+    "meta_tags": [
+      "attack",
+      "conditional",
+      "melee",
+      "support"
+    ],
+    "raw_tags": "보조 , 공격 , 근접 , 조건부"
+  },
+  {
+    "name": "관통 III",
+    "tier": 5,
+    "tags": [
+      "보조",
+      "투사체"
+    ],
+    "tags_ko": [
+      "보조",
+      "투사체"
+    ],
+    "tags_en": [
+      "support",
+      "projectile"
+    ],
+    "meta_tags": [
+      "projectile",
+      "projectile_scaling",
+      "support"
+    ],
+    "raw_tags": "보조 , 투사체"
+  },
+  {
+    "name": "고정 III",
+    "tier": 5,
+    "tags": [
+      "보조",
+      "물리"
+    ],
+    "tags_ko": [
+      "보조",
+      "물리"
+    ],
+    "tags_en": [
+      "support",
+      "physical"
+    ],
+    "meta_tags": [
+      "physical",
+      "support"
+    ],
+    "raw_tags": "보조 , 물리"
+  },
+  {
+    "name": "중독 III",
+    "tier": 5,
+    "tags": [
+      "보조",
+      "카오스"
+    ],
+    "tags_ko": [
+      "보조",
+      "카오스"
+    ],
+    "tags_en": [
+      "support",
+      "chaos"
+    ],
+    "meta_tags": [
+      "chaos",
+      "support"
+    ],
+    "raw_tags": "보조 , 카오스"
+  },
+  {
+    "name": "투사체 가속 III",
+    "tier": 5,
+    "tags": [
+      "보조",
+      "투사체"
+    ],
+    "tags_ko": [
+      "보조",
+      "투사체"
+    ],
+    "tags_en": [
+      "support",
+      "projectile"
+    ],
+    "meta_tags": [
+      "projectile",
+      "projectile_scaling",
+      "support"
+    ],
+    "raw_tags": "보조 , 투사체"
+  },
+  {
+    "name": "추격 III",
+    "tier": 5,
+    "tags": [
+      "보조",
+      "공격",
+      "근접"
+    ],
+    "tags_ko": [
+      "보조",
+      "공격",
+      "근접"
+    ],
+    "tags_en": [
+      "support",
+      "attack",
+      "melee"
+    ],
+    "meta_tags": [
+      "attack",
+      "melee",
+      "support"
+    ],
+    "raw_tags": "보조 , 공격 , 근접"
+  },
+  {
+    "name": "빠른 공격 III",
+    "tier": 5,
+    "tags": [
+      "보조",
+      "공격"
+    ],
+    "tags_ko": [
+      "보조",
+      "공격"
+    ],
+    "tags_en": [
+      "support",
+      "attack"
+    ],
+    "meta_tags": [
+      "attack",
+      "support"
+    ],
+    "raw_tags": "보조 , 공격"
+  },
+  {
+    "name": "재무장 II",
+    "tier": 5,
+    "tags": [
+      "보조",
+      "위해 요소"
+    ],
+    "tags_ko": [
+      "보조",
+      "위해 요소"
+    ],
+    "tags_en": [
+      "support",
+      "hazard"
+    ],
+    "meta_tags": [
+      "hazard",
+      "support"
+    ],
+    "raw_tags": "보조 , 위해 요소"
+  },
+  {
+    "name": "퇴각 III",
+    "tier": 5,
+    "tags": [
+      "보조",
+      "투사체"
+    ],
+    "tags_ko": [
+      "보조",
+      "투사체"
+    ],
+    "tags_en": [
+      "support",
+      "projectile"
+    ],
+    "meta_tags": [
+      "projectile",
+      "projectile_scaling",
+      "support"
+    ],
+    "raw_tags": "보조 , 투사체"
+  },
+  {
+    "name": "새로운 활력 III",
+    "tier": 5,
+    "tags": [
+      "보조"
+    ],
+    "tags_ko": [
+      "보조"
+    ],
+    "tags_en": [
+      "support"
+    ],
+    "meta_tags": [
+      "support"
+    ],
+    "raw_tags": "보조"
+  },
+  {
+    "name": "고통 격화 III",
+    "tier": 5,
+    "tags": [
+      "보조",
+      "지속시간"
+    ],
+    "tags_ko": [
+      "보조",
+      "지속시간"
+    ],
+    "tags_en": [
+      "support",
+      "duration"
+    ],
+    "meta_tags": [
+      "duration",
+      "duration_scaling",
+      "support"
+    ],
+    "raw_tags": "보조 , 지속시간"
+  },
+  {
+    "name": "기회의 창 II",
+    "tier": 5,
+    "tags": [
+      "보조",
+      "집중 유지"
+    ],
+    "tags_ko": [
+      "보조",
+      "집중 유지"
+    ],
+    "tags_en": [
+      "support",
+      "channelling"
+    ],
+    "meta_tags": [
+      "channelling",
+      "support"
+    ],
+    "raw_tags": "보조 , 집중 유지"
+  },
+  {
+    "name": "안의 성채",
+    "tier": 1,
+    "tags": [
+      "보조",
+      "혈통"
+    ],
+    "tags_ko": [
+      "보조",
+      "혈통"
+    ],
+    "tags_en": [
+      "support",
+      "lineage"
+    ],
+    "meta_tags": [
+      "lineage",
+      "support"
+    ],
+    "raw_tags": "보조 , 혈통"
+  },
+  {
+    "name": "중재자의 점화",
+    "tier": 1,
+    "tags": [
+      "보조",
+      "혈통",
+      "주문",
+      "화염"
+    ],
+    "tags_ko": [
+      "보조",
+      "혈통",
+      "주문",
+      "화염"
+    ],
+    "tags_en": [
+      "support",
+      "lineage",
+      "spell",
+      "fire"
+    ],
+    "meta_tags": [
+      "elemental",
+      "fire",
+      "lineage",
+      "spell",
+      "support"
+    ],
+    "raw_tags": "보조 , 혈통 , 주문 , 화염"
+  },
+  {
+    "name": "앗지리의 매혹",
+    "tier": 1,
+    "tags": [
+      "보조",
+      "혈통",
+      "저주"
+    ],
+    "tags_ko": [
+      "보조",
+      "혈통",
+      "저주"
+    ],
+    "tags_en": [
+      "support",
+      "lineage",
+      "curse"
+    ],
+    "meta_tags": [
+      "curse",
+      "lineage",
+      "support"
+    ],
+    "raw_tags": "보조 , 혈통 , 저주"
+  },
+  {
+    "name": "앗지리의 부름",
+    "tier": 1,
+    "tags": [
+      "보조",
+      "혈통",
+      "주문",
+      "효과 범위",
+      "발동"
+    ],
+    "tags_ko": [
+      "보조",
+      "혈통",
+      "주문",
+      "효과 범위",
+      "발동"
+    ],
+    "tags_en": [
+      "support",
+      "lineage",
+      "spell",
+      "aoe",
+      "trigger"
+    ],
+    "meta_tags": [
+      "aoe",
+      "lineage",
+      "spell",
+      "support",
+      "trigger",
+      "trigger_synergy"
+    ],
+    "raw_tags": "보조 , 혈통 , 주문 , 효과 범위 , 발동"
+  },
+  {
+    "name": "바타이르의 복수",
+    "tier": 1,
+    "tags": [
+      "보조",
+      "공격",
+      "함성",
+      "냉기",
+      "지속시간"
+    ],
+    "tags_ko": [
+      "보조",
+      "공격",
+      "함성",
+      "냉기",
+      "지속시간"
+    ],
+    "tags_en": [
+      "support",
+      "attack",
+      "warcry",
+      "cold",
+      "duration"
+    ],
+    "meta_tags": [
+      "attack",
+      "cold",
+      "duration",
+      "duration_scaling",
+      "elemental",
+      "support",
+      "warcry"
+    ],
+    "raw_tags": "보조 , 공격 , 함성 , 냉기 , 지속시간"
+  },
+  {
+    "name": "율령",
+    "tier": 1,
+    "tags": [
+      "보조",
+      "소환수",
+      "명령"
+    ],
+    "tags_ko": [
+      "보조",
+      "소환수",
+      "명령"
+    ],
+    "tags_en": [
+      "support",
+      "minion",
+      "command"
+    ],
+    "meta_tags": [
+      "command",
+      "minion",
+      "minion_scaling",
+      "support"
+    ],
+    "raw_tags": "보조 , 소환수 , 명령"
+  },
+  {
+    "name": "디알라의 갈망",
+    "tier": 1,
+    "tags": [
+      "보조",
+      "혈통"
+    ],
+    "tags_ko": [
+      "보조",
+      "혈통"
+    ],
+    "tags_en": [
+      "support",
+      "lineage"
+    ],
+    "meta_tags": [
+      "lineage",
+      "support"
+    ],
+    "raw_tags": "보조 , 혈통"
+  },
+  {
+    "name": "도이드리의 파멸",
+    "tier": 1,
+    "tags": [
+      "보조",
+      "혈통",
+      "주문",
+      "효과 범위",
+      "발동",
+      "카오스",
+      "저주",
+      "위해 요소"
+    ],
+    "tags_ko": [
+      "보조",
+      "혈통",
+      "주문",
+      "효과 범위",
+      "발동",
+      "카오스",
+      "저주",
+      "위해 요소"
+    ],
+    "tags_en": [
+      "support",
+      "lineage",
+      "spell",
+      "aoe",
+      "trigger",
+      "chaos",
+      "curse",
+      "hazard"
+    ],
+    "meta_tags": [
+      "aoe",
+      "chaos",
+      "curse",
+      "hazard",
+      "lineage",
+      "spell",
+      "support",
+      "trigger",
+      "trigger_synergy"
+    ],
+    "raw_tags": "보조 , 혈통 , 주문 , 효과 범위 , 발동 , 카오스 , 저주 , 위해 요소"
+  },
+  {
+    "name": "충격 착취",
+    "tier": 1,
+    "tags": [
+      "보조",
+      "번개"
+    ],
+    "tags_ko": [
+      "보조",
+      "번개"
+    ],
+    "tags_en": [
+      "support",
+      "lightning"
+    ],
+    "meta_tags": [
+      "elemental",
+      "lightning",
+      "support"
+    ],
+    "raw_tags": "보조 , 번개"
+  },
+  {
+    "name": "에쉬의 광휘",
+    "tier": 1,
+    "tags": [
+      "보조",
+      "혈통",
+      "번개",
+      "카오스"
+    ],
+    "tags_ko": [
+      "보조",
+      "혈통",
+      "번개",
+      "카오스"
+    ],
+    "tags_en": [
+      "support",
+      "lineage",
+      "lightning",
+      "chaos"
+    ],
+    "meta_tags": [
+      "chaos",
+      "elemental",
+      "lightning",
+      "lineage",
+      "support"
+    ],
+    "raw_tags": "보조 , 혈통 , 번개 , 카오스"
+  },
+  {
+    "name": "익스첼의 고통",
+    "tier": 1,
+    "tags": [
+      "보조",
+      "혈통",
+      "발동"
+    ],
+    "tags_ko": [
+      "보조",
+      "혈통",
+      "발동"
+    ],
+    "tags_en": [
+      "support",
+      "lineage",
+      "trigger"
+    ],
+    "meta_tags": [
+      "lineage",
+      "support",
+      "trigger",
+      "trigger_synergy"
+    ],
+    "raw_tags": "보조 , 혈통 , 발동"
+  },
+  {
+    "name": "동결갈래",
+    "tier": 1,
+    "tags": [
+      "보조",
+      "투사체",
+      "냉기"
+    ],
+    "tags_ko": [
+      "보조",
+      "투사체",
+      "냉기"
+    ],
+    "tags_en": [
+      "support",
+      "projectile",
+      "cold"
+    ],
+    "meta_tags": [
+      "cold",
+      "elemental",
+      "projectile",
+      "projectile_scaling",
+      "support"
+    ],
+    "raw_tags": "보조 , 투사체 , 냉기"
+  },
+  {
+    "name": "과텔리치의 삭마",
+    "tier": 1,
+    "tags": [
+      "보조",
+      "혈통"
+    ],
+    "tags_ko": [
+      "보조",
+      "혈통"
+    ],
+    "tags_en": [
+      "support",
+      "lineage"
+    ],
+    "meta_tags": [
+      "lineage",
+      "support"
+    ],
+    "raw_tags": "보조 , 혈통"
+  },
+  {
+    "name": "하욕시의 뇌전",
+    "tier": 1,
+    "tags": [
+      "보조",
+      "혈통",
+      "주문",
+      "효과 범위",
+      "발동",
+      "물리",
+      "번개",
+      "냉기",
+      "화염",
+      "카오스",
+      "저주"
+    ],
+    "tags_ko": [
+      "보조",
+      "혈통",
+      "주문",
+      "효과 범위",
+      "발동",
+      "물리",
+      "번개",
+      "냉기",
+      "화염",
+      "카오스",
+      "저주"
+    ],
+    "tags_en": [
+      "support",
+      "lineage",
+      "spell",
+      "aoe",
+      "trigger",
+      "physical",
+      "lightning",
+      "cold",
+      "fire",
+      "chaos",
+      "curse"
+    ],
+    "meta_tags": [
+      "aoe",
+      "chaos",
+      "cold",
+      "curse",
+      "elemental",
+      "fire",
+      "lightning",
+      "lineage",
+      "physical",
+      "spell",
+      "support",
+      "trigger",
+      "trigger_synergy"
+    ],
+    "raw_tags": "보조 , 혈통 , 주문 , 효과 범위 , 발동 , 물리 , 번개 , 냉기 , 화염 , 카오스 , 저주"
+  },
+  {
+    "name": "칼리사의 크레센도",
+    "tier": 1,
+    "tags": [
+      "보조",
+      "혈통"
+    ],
+    "tags_ko": [
+      "보조",
+      "혈통"
+    ],
+    "tags_en": [
+      "support",
+      "lineage"
+    ],
+    "meta_tags": [
+      "lineage",
+      "support"
+    ],
+    "raw_tags": "보조 , 혈통"
+  },
+  {
+    "name": "카탈의 회춘",
+    "tier": 1,
+    "tags": [
+      "보조",
+      "혈통",
+      "잔류물"
+    ],
+    "tags_ko": [
+      "보조",
+      "혈통",
+      "잔류물"
+    ],
+    "tags_en": [
+      "support",
+      "lineage",
+      "remnant"
+    ],
+    "meta_tags": [
+      "lineage",
+      "remnant",
+      "support"
+    ],
+    "raw_tags": "보조 , 혈통 , 잔류물"
+  },
+  {
+    "name": "쿨레막의 지배",
+    "tier": 1,
+    "tags": [
+      "보조",
+      "혈통"
+    ],
+    "tags_ko": [
+      "보조",
+      "혈통"
+    ],
+    "tags_en": [
+      "support",
+      "lineage"
+    ],
+    "meta_tags": [
+      "lineage",
+      "support"
+    ],
+    "raw_tags": "보조 , 혈통"
+  },
+  {
+    "name": "쿠르갈의 가죽끈",
+    "tier": 1,
+    "tags": [
+      "보조",
+      "혈통",
+      "소환수",
+      "카오스"
+    ],
+    "tags_ko": [
+      "보조",
+      "혈통",
+      "소환수",
+      "카오스"
+    ],
+    "tags_en": [
+      "support",
+      "lineage",
+      "minion",
+      "chaos"
+    ],
+    "meta_tags": [
+      "chaos",
+      "lineage",
+      "minion",
+      "minion_scaling",
+      "support"
+    ],
+    "raw_tags": "보조 , 혈통 , 소환수 , 카오스"
+  },
+  {
+    "name": "모르가나의 폭풍",
+    "tier": 1,
+    "tags": [
+      "보조",
+      "혈통",
+      "주문",
+      "폭풍"
+    ],
+    "tags_ko": [
+      "보조",
+      "혈통",
+      "주문",
+      "폭풍"
+    ],
+    "tags_en": [
+      "support",
+      "lineage",
+      "spell",
+      "storm"
+    ],
+    "meta_tags": [
+      "lineage",
+      "spell",
+      "storm",
+      "support"
+    ],
+    "raw_tags": "보조 , 혈통 , 주문 , 폭풍"
+  },
+  {
+    "name": "오이신의 서약",
+    "tier": 1,
+    "tags": [
+      "보조",
+      "혈통",
+      "주문"
+    ],
+    "tags_ko": [
+      "보조",
+      "혈통",
+      "주문"
+    ],
+    "tags_en": [
+      "support",
+      "lineage",
+      "spell"
+    ],
+    "meta_tags": [
+      "lineage",
+      "spell",
+      "support"
+    ],
+    "raw_tags": "보조 , 혈통 , 주문"
+  },
+  {
+    "name": "로미라의 보답",
+    "tier": 1,
+    "tags": [
+      "보조",
+      "혈통",
+      "소환수"
+    ],
+    "tags_ko": [
+      "보조",
+      "혈통",
+      "소환수"
+    ],
+    "tags_en": [
+      "support",
+      "lineage",
+      "minion"
+    ],
+    "meta_tags": [
+      "lineage",
+      "minion",
+      "minion_scaling",
+      "support"
+    ],
+    "raw_tags": "보조 , 혈통 , 소환수"
+  },
+  {
+    "name": "테크로드의 복수",
+    "tier": 1,
+    "tags": [
+      "보조",
+      "혈통",
+      "소환수",
+      "유지형",
+      "지속시간"
+    ],
+    "tags_ko": [
+      "보조",
+      "혈통",
+      "소환수",
+      "유지형",
+      "지속시간"
+    ],
+    "tags_en": [
+      "support",
+      "lineage",
+      "minion",
+      "persistent",
+      "duration"
+    ],
+    "meta_tags": [
+      "duration",
+      "duration_scaling",
+      "lineage",
+      "minion",
+      "minion_scaling",
+      "persistent",
+      "support"
+    ],
+    "raw_tags": "보조 , 혈통 , 소환수 , 유지형 , 지속시간"
+  },
+  {
+    "name": "바라시타의 축복",
+    "tier": 1,
+    "tags": [
+      "보조",
+      "혈통"
+    ],
+    "tags_ko": [
+      "보조",
+      "혈통"
+    ],
+    "tags_en": [
+      "support",
+      "lineage"
+    ],
+    "meta_tags": [
+      "lineage",
+      "support"
+    ],
+    "raw_tags": "보조 , 혈통"
+  },
+  {
+    "name": "바일렌타의 추진",
+    "tier": 1,
+    "tags": [
+      "보조",
+      "혈통",
+      "주문",
+      "투사체"
+    ],
+    "tags_ko": [
+      "보조",
+      "혈통",
+      "주문",
+      "투사체"
+    ],
+    "tags_en": [
+      "support",
+      "lineage",
+      "spell",
+      "projectile"
+    ],
+    "meta_tags": [
+      "lineage",
+      "projectile",
+      "projectile_scaling",
+      "spell",
+      "support"
+    ],
+    "raw_tags": "보조 , 혈통 , 주문 , 투사체"
+  },
+  {
+    "name": "시온의 성미",
+    "tier": 1,
+    "tags": [
+      "보조",
+      "혈통",
+      "주문",
+      "투사체"
+    ],
+    "tags_ko": [
+      "보조",
+      "혈통",
+      "주문",
+      "투사체"
+    ],
+    "tags_en": [
+      "support",
+      "lineage",
+      "spell",
+      "projectile"
+    ],
+    "meta_tags": [
+      "lineage",
+      "projectile",
+      "projectile_scaling",
+      "spell",
+      "support"
+    ],
+    "raw_tags": "보조 , 혈통 , 주문 , 투사체"
+  },
+  {
+    "name": "지바콰의 분리",
+    "tier": 1,
+    "tags": [
+      "보조",
+      "혈통",
+      "효과 범위",
+      "발동",
+      "화염"
+    ],
+    "tags_ko": [
+      "보조",
+      "혈통",
+      "효과 범위",
+      "발동",
+      "화염"
+    ],
+    "tags_en": [
+      "support",
+      "lineage",
+      "aoe",
+      "trigger",
+      "fire"
+    ],
+    "meta_tags": [
+      "aoe",
+      "elemental",
+      "fire",
+      "lineage",
+      "support",
+      "trigger",
+      "trigger_synergy"
+    ],
+    "raw_tags": "보조 , 혈통 , 효과 범위 , 발동 , 화염"
+  },
+  {
+    "name": "자로크의 절제",
+    "tier": 1,
+    "tags": [
+      "보조",
+      "혈통",
+      "주문",
+      "효과 범위"
+    ],
+    "tags_ko": [
+      "보조",
+      "혈통",
+      "주문",
+      "효과 범위"
+    ],
+    "tags_en": [
+      "support",
+      "lineage",
+      "spell",
+      "aoe"
+    ],
+    "meta_tags": [
+      "aoe",
+      "lineage",
+      "spell",
+      "support"
+    ],
+    "raw_tags": "보조 , 혈통 , 주문 , 효과 범위"
+  },
+  {
+    "name": "자로크의 봉기",
+    "tier": 1,
+    "tags": [
+      "보조",
+      "주문"
+    ],
+    "tags_ko": [
+      "보조",
+      "주문"
+    ],
+    "tags_en": [
+      "support",
+      "spell"
+    ],
+    "meta_tags": [
+      "spell",
+      "support"
+    ],
+    "raw_tags": "보조 , 주문"
+  },
+  {
+    "name": "냉기 조율",
+    "tier": 1,
+    "tags": [
+      "보조",
+      "공격",
+      "냉기"
+    ],
+    "tags_ko": [
+      "보조",
+      "공격",
+      "냉기"
+    ],
+    "tags_en": [
+      "support",
+      "attack",
+      "cold"
+    ],
+    "meta_tags": [
+      "attack",
+      "cold",
+      "elemental",
+      "support"
+    ],
+    "raw_tags": "보조 , 공격 , 냉기"
+  },
+  {
+    "name": "매복",
+    "tier": 1,
+    "tags": [
+      "보조"
+    ],
+    "tags_ko": [
+      "보조"
+    ],
+    "tags_en": [
+      "support"
+    ],
+    "meta_tags": [
+      "support"
+    ],
+    "raw_tags": "보조"
+  },
+  {
+    "name": "비전 쇄도",
+    "tier": 1,
+    "tags": [
+      "보조",
+      "주문",
+      "지속시간"
+    ],
+    "tags_ko": [
+      "보조",
+      "주문",
+      "지속시간"
+    ],
+    "tags_en": [
+      "support",
+      "spell",
+      "duration"
+    ],
+    "meta_tags": [
+      "duration",
+      "duration_scaling",
+      "spell",
+      "support"
+    ],
+    "raw_tags": "보조 , 주문 , 지속시간"
+  },
+  {
+    "name": "급성장 I",
+    "tier": 1,
+    "tags": [
+      "보조",
+      "집중 유지"
+    ],
+    "tags_ko": [
+      "보조",
+      "집중 유지"
+    ],
+    "tags_en": [
+      "support",
+      "channelling"
+    ],
+    "meta_tags": [
+      "channelling",
+      "support"
+    ],
+    "raw_tags": "보조 , 집중 유지"
+  },
+  {
+    "name": "명상 I",
+    "tier": 1,
+    "tags": [
+      "보조",
+      "버프",
+      "유지형"
+    ],
+    "tags_ko": [
+      "보조",
+      "버프",
+      "유지형"
+    ],
+    "tags_en": [
+      "support",
+      "buff",
+      "persistent"
+    ],
+    "meta_tags": [
+      "buff",
+      "persistent",
+      "support"
+    ],
+    "raw_tags": "보조 , 버프 , 유지형"
+  },
+  {
+    "name": "범위 집중",
+    "tier": 1,
+    "tags": [
+      "보조",
+      "효과 범위"
+    ],
+    "tags_ko": [
+      "보조",
+      "효과 범위"
+    ],
+    "tags_en": [
+      "support",
+      "aoe"
+    ],
+    "meta_tags": [
+      "aoe",
+      "support"
+    ],
+    "raw_tags": "보조 , 효과 범위"
+  },
+  {
+    "name": "제어된 파괴",
+    "tier": 1,
+    "tags": [
+      "보조",
+      "주문"
+    ],
+    "tags_ko": [
+      "보조",
+      "주문"
+    ],
+    "tags_en": [
+      "support",
+      "spell"
+    ],
+    "meta_tags": [
+      "spell",
+      "support"
+    ],
+    "raw_tags": "보조 , 주문"
+  },
+  {
+    "name": "엄습하는 오한",
+    "tier": 1,
+    "tags": [
+      "보조",
+      "효과 범위",
+      "발동",
+      "냉기"
+    ],
+    "tags_ko": [
+      "보조",
+      "효과 범위",
+      "발동",
+      "냉기"
+    ],
+    "tags_en": [
+      "support",
+      "aoe",
+      "trigger",
+      "cold"
+    ],
+    "meta_tags": [
+      "aoe",
+      "cold",
+      "elemental",
+      "support",
+      "trigger",
+      "trigger_synergy"
+    ],
+    "raw_tags": "보조 , 효과 범위 , 발동 , 냉기"
+  },
+  {
+    "name": "크레센도 I",
+    "tier": 1,
+    "tags": [
+      "보조",
+      "공격",
+      "근접",
+      "타격"
+    ],
+    "tags_ko": [
+      "보조",
+      "공격",
+      "근접",
+      "타격"
+    ],
+    "tags_en": [
+      "support",
+      "attack",
+      "melee",
+      "strike"
+    ],
+    "meta_tags": [
+      "attack",
+      "melee",
+      "strike",
+      "support"
+    ],
+    "raw_tags": "보조 , 공격 , 근접 , 타격"
+  },
+  {
+    "name": "결정체 파편",
+    "tier": 1,
+    "tags": [
+      "보조"
+    ],
+    "tags_ko": [
+      "보조"
+    ],
+    "tags_en": [
+      "support"
+    ],
+    "meta_tags": [
+      "support"
+    ],
+    "raw_tags": "보조"
+  },
+  {
+    "name": "고조된 저주",
+    "tier": 1,
+    "tags": [
+      "보조",
+      "저주"
+    ],
+    "tags_ko": [
+      "보조",
+      "저주"
+    ],
+    "tags_en": [
+      "support",
+      "curse"
+    ],
+    "meta_tags": [
+      "curse",
+      "support"
+    ],
+    "raw_tags": "보조 , 저주"
+  },
+  {
+    "name": "세차게 흐르는 전류",
+    "tier": 1,
+    "tags": [
+      "보조",
+      "주문",
+      "투사체",
+      "발동",
+      "번개",
+      "연쇄"
+    ],
+    "tags_ko": [
+      "보조",
+      "주문",
+      "투사체",
+      "발동",
+      "번개",
+      "연쇄"
+    ],
+    "tags_en": [
+      "support",
+      "spell",
+      "projectile",
+      "trigger",
+      "lightning",
+      "chain"
+    ],
+    "meta_tags": [
+      "chain",
+      "clear_speed",
+      "elemental",
+      "lightning",
+      "projectile",
+      "projectile_scaling",
+      "spell",
+      "support",
+      "trigger",
+      "trigger_synergy"
+    ],
+    "raw_tags": "보조 , 주문 , 투사체 , 발동 , 번개 , 연쇄"
+  },
+  {
+    "name": "원소의 군단",
+    "tier": 1,
+    "tags": [
+      "보조",
+      "소환수"
+    ],
+    "tags_ko": [
+      "보조",
+      "소환수"
+    ],
+    "tags_en": [
+      "support",
+      "minion"
+    ],
+    "meta_tags": [
+      "minion",
+      "minion_scaling",
+      "support"
+    ],
+    "raw_tags": "보조 , 소환수"
+  },
+  {
+    "name": "광장",
+    "tier": 1,
+    "tags": [
+      "보조",
+      "효과 범위"
+    ],
+    "tags_ko": [
+      "보조",
+      "효과 범위"
+    ],
+    "tags_en": [
+      "support",
+      "aoe"
+    ],
+    "meta_tags": [
+      "aoe",
+      "support"
+    ],
+    "raw_tags": "보조 , 효과 범위"
+  },
+  {
+    "name": "모래시계",
+    "tier": 1,
+    "tags": [
+      "보조"
+    ],
+    "tags_ko": [
+      "보조"
+    ],
+    "tags_en": [
+      "support"
+    ],
+    "meta_tags": [
+      "support"
+    ],
+    "raw_tags": "보조"
+  },
+  {
+    "name": "얼음 쐐기 I",
+    "tier": 1,
+    "tags": [
+      "보조",
+      "공격",
+      "함성",
+      "냉기",
+      "지속시간"
+    ],
+    "tags_ko": [
+      "보조",
+      "공격",
+      "함성",
+      "냉기",
+      "지속시간"
+    ],
+    "tags_en": [
+      "support",
+      "attack",
+      "warcry",
+      "cold",
+      "duration"
+    ],
+    "meta_tags": [
+      "attack",
+      "cold",
+      "duration",
+      "duration_scaling",
+      "elemental",
+      "support",
+      "warcry"
+    ],
+    "raw_tags": "보조 , 공격 , 함성 , 냉기 , 지속시간"
+  },
+  {
+    "name": "임박한 멸망",
+    "tier": 1,
+    "tags": [
+      "보조",
+      "주문",
+      "효과 범위",
+      "발동",
+      "카오스"
+    ],
+    "tags_ko": [
+      "보조",
+      "주문",
+      "효과 범위",
+      "발동",
+      "카오스"
+    ],
+    "tags_en": [
+      "support",
+      "spell",
+      "aoe",
+      "trigger",
+      "chaos"
+    ],
+    "meta_tags": [
+      "aoe",
+      "chaos",
+      "spell",
+      "support",
+      "trigger",
+      "trigger_synergy"
+    ],
+    "raw_tags": "보조 , 주문 , 효과 범위 , 발동 , 카오스"
+  },
+  {
+    "name": "마지막 헐떡임",
+    "tier": 1,
+    "tags": [
+      "보조",
+      "소환수",
+      "유지형",
+      "지속시간"
+    ],
+    "tags_ko": [
+      "보조",
+      "소환수",
+      "유지형",
+      "지속시간"
+    ],
+    "tags_en": [
+      "support",
+      "minion",
+      "persistent",
+      "duration"
+    ],
+    "meta_tags": [
+      "duration",
+      "duration_scaling",
+      "minion",
+      "minion_scaling",
+      "persistent",
+      "support"
+    ],
+    "raw_tags": "보조 , 소환수 , 유지형 , 지속시간"
+  },
+  {
+    "name": "결빙",
+    "tier": 1,
+    "tags": [
+      "보조",
+      "냉기"
+    ],
+    "tags_ko": [
+      "보조",
+      "냉기"
+    ],
+    "tags_en": [
+      "support",
+      "cold"
+    ],
+    "meta_tags": [
+      "cold",
+      "elemental",
+      "support"
+    ],
+    "raw_tags": "보조 , 냉기"
+  },
+  {
+    "name": "범위 확대 I",
+    "tier": 1,
+    "tags": [
+      "보조",
+      "효과 범위"
+    ],
+    "tags_ko": [
+      "보조",
+      "효과 범위"
+    ],
+    "tags_en": [
+      "support",
+      "aoe"
+    ],
+    "meta_tags": [
+      "aoe",
+      "support"
+    ],
+    "raw_tags": "보조 , 효과 범위"
+  },
+  {
+    "name": "착취의 징표",
+    "tier": 1,
+    "tags": [
+      "보조",
+      "징표"
+    ],
+    "tags_ko": [
+      "보조",
+      "징표"
+    ],
+    "tags_en": [
+      "support",
+      "mark"
+    ],
+    "meta_tags": [
+      "mark",
+      "support"
+    ],
+    "raw_tags": "보조 , 징표"
+  },
+  {
+    "name": "소환수 맹약 I",
+    "tier": 1,
+    "tags": [
+      "보조",
+      "소환수"
+    ],
+    "tags_ko": [
+      "보조",
+      "소환수"
+    ],
+    "tags_en": [
+      "support",
+      "minion"
+    ],
+    "meta_tags": [
+      "minion",
+      "minion_scaling",
+      "support"
+    ],
+    "raw_tags": "보조 , 소환수"
+  },
+  {
+    "name": "영속적인 충전",
+    "tier": 1,
+    "tags": [
+      "보조"
+    ],
+    "tags_ko": [
+      "보조"
+    ],
+    "tags_en": [
+      "support"
+    ],
+    "meta_tags": [
+      "support"
+    ],
+    "raw_tags": "보조"
+  },
+  {
+    "name": "불경 I",
+    "tier": 1,
+    "tags": [
+      "보조",
+      "카오스"
+    ],
+    "tags_ko": [
+      "보조",
+      "카오스"
+    ],
+    "tags_en": [
+      "support",
+      "chaos"
+    ],
+    "meta_tags": [
+      "chaos",
+      "support"
+    ],
+    "raw_tags": "보조 , 카오스"
+  },
+  {
+    "name": "빠른 시전 I",
+    "tier": 1,
+    "tags": [
+      "보조",
+      "주문"
+    ],
+    "tags_ko": [
+      "보조",
+      "주문"
+    ],
+    "tags_en": [
+      "support",
+      "spell"
+    ],
+    "meta_tags": [
+      "spell",
+      "support"
+    ],
+    "raw_tags": "보조 , 주문"
+  },
+  {
+    "name": "희생양 I",
+    "tier": 1,
+    "tags": [
+      "보조",
+      "소환수"
+    ],
+    "tags_ko": [
+      "보조",
+      "소환수"
+    ],
+    "tags_en": [
+      "support",
+      "minion"
+    ],
+    "meta_tags": [
+      "minion",
+      "minion_scaling",
+      "support"
+    ],
+    "raw_tags": "보조 , 소환수"
+  },
+  {
+    "name": "연속 주문",
+    "tier": 1,
+    "tags": [
+      "보조",
+      "효과 범위"
+    ],
+    "tags_ko": [
+      "보조",
+      "효과 범위"
+    ],
+    "tags_en": [
+      "support",
+      "aoe"
+    ],
+    "meta_tags": [
+      "aoe",
+      "support"
+    ],
+    "raw_tags": "보조 , 효과 범위"
+  },
+  {
+    "name": "살인의 전율",
+    "tier": 1,
+    "tags": [
+      "보조",
+      "공격",
+      "번개",
+      "지속시간"
+    ],
+    "tags_ko": [
+      "보조",
+      "공격",
+      "번개",
+      "지속시간"
+    ],
+    "tags_en": [
+      "support",
+      "attack",
+      "lightning",
+      "duration"
+    ],
+    "meta_tags": [
+      "attack",
+      "duration",
+      "duration_scaling",
+      "elemental",
+      "lightning",
+      "support"
+    ],
+    "raw_tags": "보조 , 공격 , 번개 , 지속시간"
+  },
+  {
+    "name": "촉발",
+    "tier": 1,
+    "tags": [
+      "보조",
+      "주문"
+    ],
+    "tags_ko": [
+      "보조",
+      "주문"
+    ],
+    "tags_en": [
+      "support",
+      "spell"
+    ],
+    "meta_tags": [
+      "spell",
+      "support"
+    ],
+    "raw_tags": "보조 , 주문"
+  },
+  {
+    "name": "요새 I",
+    "tier": 1,
+    "tags": [
+      "보조"
+    ],
+    "tags_ko": [
+      "보조"
+    ],
+    "tags_en": [
+      "support"
+    ],
+    "meta_tags": [
+      "support"
+    ],
+    "raw_tags": "보조"
+  },
+  {
+    "name": "위축의 손길",
+    "tier": 1,
+    "tags": [
+      "보조",
+      "카오스",
+      "지속시간"
+    ],
+    "tags_ko": [
+      "보조",
+      "카오스",
+      "지속시간"
+    ],
+    "tags_en": [
+      "support",
+      "chaos",
+      "duration"
+    ],
+    "meta_tags": [
+      "chaos",
+      "duration",
+      "duration_scaling",
+      "support"
+    ],
+    "raw_tags": "보조 , 카오스 , 지속시간"
+  },
+  {
+    "name": "북극성 I",
+    "tier": 1,
+    "tags": [
+      "보조",
+      "주문"
+    ],
+    "tags_ko": [
+      "보조",
+      "주문"
+    ],
+    "tags_en": [
+      "support",
+      "spell"
+    ],
+    "meta_tags": [
+      "spell",
+      "support"
+    ],
+    "raw_tags": "보조 , 주문"
+  },
+  {
+    "name": "변치 않는 사술",
+    "tier": 2,
+    "tags": [
+      "보조",
+      "저주"
+    ],
+    "tags_ko": [
+      "보조",
+      "저주"
+    ],
+    "tags_en": [
+      "support",
+      "curse"
+    ],
+    "meta_tags": [
+      "curse",
+      "support"
+    ],
+    "raw_tags": "보조 , 저주"
+  },
+  {
+    "name": "신랄",
+    "tier": 2,
+    "tags": [
+      "보조"
+    ],
+    "tags_ko": [
+      "보조"
+    ],
+    "tags_en": [
+      "support"
+    ],
+    "meta_tags": [
+      "support"
+    ],
+    "raw_tags": "보조"
+  },
+  {
+    "name": "암브로시아",
+    "tier": 2,
+    "tags": [
+      "보조"
+    ],
+    "tags_ko": [
+      "보조"
+    ],
+    "tags_en": [
+      "support"
+    ],
+    "meta_tags": [
+      "support"
+    ],
+    "raw_tags": "보조"
+  },
+  {
+    "name": "지시 I",
+    "tier": 2,
+    "tags": [
+      "보조",
+      "소환수",
+      "명령"
+    ],
+    "tags_ko": [
+      "보조",
+      "소환수",
+      "명령"
+    ],
+    "tags_en": [
+      "support",
+      "minion",
+      "command"
+    ],
+    "meta_tags": [
+      "command",
+      "minion",
+      "minion_scaling",
+      "support"
+    ],
+    "raw_tags": "보조 , 소환수 , 명령"
+  },
+  {
+    "name": "뼈 파편",
+    "tier": 2,
+    "tags": [
+      "보조",
+      "효과 범위",
+      "발동",
+      "물리"
+    ],
+    "tags_ko": [
+      "보조",
+      "효과 범위",
+      "발동",
+      "물리"
+    ],
+    "tags_en": [
+      "support",
+      "aoe",
+      "trigger",
+      "physical"
+    ],
+    "meta_tags": [
+      "aoe",
+      "physical",
+      "support",
+      "trigger",
+      "trigger_synergy"
+    ],
+    "raw_tags": "보조 , 효과 범위 , 발동 , 물리"
+  },
+  {
+    "name": "무한한 에너지 I",
+    "tier": 2,
+    "tags": [
+      "보조"
+    ],
+    "tags_ko": [
+      "보조"
+    ],
+    "tags_en": [
+      "support"
+    ],
+    "meta_tags": [
+      "support"
+    ],
+    "raw_tags": "보조"
+  },
+  {
+    "name": "카타르시스",
+    "tier": 2,
+    "tags": [
+      "보조",
+      "물리",
+      "카오스",
+      "조건부"
+    ],
+    "tags_ko": [
+      "보조",
+      "물리",
+      "카오스",
+      "조건부"
+    ],
+    "tags_en": [
+      "support",
+      "physical",
+      "chaos",
+      "conditional"
+    ],
+    "meta_tags": [
+      "chaos",
+      "conditional",
+      "physical",
+      "support"
+    ],
+    "raw_tags": "보조 , 물리 , 카오스 , 조건부"
+  },
+  {
+    "name": "서리 연결부",
+    "tier": 2,
+    "tags": [
+      "보조",
+      "효과 범위",
+      "냉기"
+    ],
+    "tags_ko": [
+      "보조",
+      "효과 범위",
+      "냉기"
+    ],
+    "tags_en": [
+      "support",
+      "aoe",
+      "cold"
+    ],
+    "meta_tags": [
+      "aoe",
+      "cold",
+      "elemental",
+      "support"
+    ],
+    "raw_tags": "보조 , 효과 범위 , 냉기"
+  },
+  {
+    "name": "냉기 관통",
+    "tier": 2,
+    "tags": [
+      "보조",
+      "냉기"
+    ],
+    "tags_ko": [
+      "보조",
+      "냉기"
+    ],
+    "tags_en": [
+      "support",
+      "cold"
+    ],
+    "meta_tags": [
+      "cold",
+      "elemental",
+      "support"
+    ],
+    "raw_tags": "보조 , 냉기"
+  },
+  {
+    "name": "신중한 시전",
+    "tier": 2,
+    "tags": [
+      "보조",
+      "주문"
+    ],
+    "tags_ko": [
+      "보조",
+      "주문"
+    ],
+    "tags_en": [
+      "support",
+      "spell"
+    ],
+    "meta_tags": [
+      "spell",
+      "support"
+    ],
+    "raw_tags": "보조 , 주문"
+  },
+  {
+    "name": "치직대는 방벽",
+    "tier": 2,
+    "tags": [
+      "보조",
+      "번개",
+      "집중 유지"
+    ],
+    "tags_ko": [
+      "보조",
+      "번개",
+      "집중 유지"
+    ],
+    "tags_en": [
+      "support",
+      "lightning",
+      "channelling"
+    ],
+    "meta_tags": [
+      "channelling",
+      "elemental",
+      "lightning",
+      "support"
+    ],
+    "raw_tags": "보조 , 번개 , 집중 유지"
+  },
+  {
+    "name": "섬뜩한 무도",
+    "tier": 2,
+    "tags": [
+      "보조"
+    ],
+    "tags_ko": [
+      "보조"
+    ],
+    "tags_en": [
+      "support"
+    ],
+    "meta_tags": [
+      "support"
+    ],
+    "raw_tags": "보조"
+  },
+  {
+    "name": "죽음의 행군",
+    "tier": 2,
+    "tags": [
+      "보조",
+      "소환수",
+      "유지형"
+    ],
+    "tags_ko": [
+      "보조",
+      "소환수",
+      "유지형"
+    ],
+    "tags_en": [
+      "support",
+      "minion",
+      "persistent"
+    ],
+    "meta_tags": [
+      "minion",
+      "minion_scaling",
+      "persistent",
+      "support"
+    ],
+    "raw_tags": "보조 , 소환수 , 유지형"
+  },
+  {
+    "name": "혹독",
+    "tier": 2,
+    "tags": [
+      "보조",
+      "냉기"
+    ],
+    "tags_ko": [
+      "보조",
+      "냉기"
+    ],
+    "tags_en": [
+      "support",
+      "cold"
+    ],
+    "meta_tags": [
+      "cold",
+      "elemental",
+      "support"
+    ],
+    "raw_tags": "보조 , 냉기"
+  },
+  {
+    "name": "강화된 전기불꽃 I",
+    "tier": 2,
+    "tags": [
+      "보조"
+    ],
+    "tags_ko": [
+      "보조"
+    ],
+    "tags_en": [
+      "support"
+    ],
+    "meta_tags": [
+      "support"
+    ],
+    "raw_tags": "보조"
+  },
+  {
+    "name": "잠식하는 지대",
+    "tier": 2,
+    "tags": [
+      "보조",
+      "효과 범위"
+    ],
+    "tags_ko": [
+      "보조",
+      "효과 범위"
+    ],
+    "tags_en": [
+      "support",
+      "aoe"
+    ],
+    "meta_tags": [
+      "aoe",
+      "support"
+    ],
+    "raw_tags": "보조 , 효과 범위"
+  },
+  {
+    "name": "절제",
+    "tier": 2,
+    "tags": [
+      "보조"
+    ],
+    "tags_ko": [
+      "보조"
+    ],
+    "tags_en": [
+      "support"
+    ],
+    "meta_tags": [
+      "support"
+    ],
+    "raw_tags": "보조"
+  },
+  {
+    "name": "가속된 성장",
+    "tier": 2,
+    "tags": [
+      "보조",
+      "주문",
+      "효과 범위",
+      "발동",
+      "식물"
+    ],
+    "tags_ko": [
+      "보조",
+      "주문",
+      "효과 범위",
+      "발동",
+      "식물"
+    ],
+    "tags_en": [
+      "support",
+      "spell",
+      "aoe",
+      "trigger",
+      "plant"
+    ],
+    "meta_tags": [
+      "aoe",
+      "plant",
+      "spell",
+      "support",
+      "trigger",
+      "trigger_synergy"
+    ],
+    "raw_tags": "보조 , 주문 , 효과 범위 , 발동 , 식물"
+  },
+  {
+    "name": "불타는 죽음",
+    "tier": 2,
+    "tags": [
+      "보조",
+      "주문",
+      "효과 범위",
+      "발동",
+      "화염"
+    ],
+    "tags_ko": [
+      "보조",
+      "주문",
+      "효과 범위",
+      "발동",
+      "화염"
+    ],
+    "tags_en": [
+      "support",
+      "spell",
+      "aoe",
+      "trigger",
+      "fire"
+    ],
+    "meta_tags": [
+      "aoe",
+      "elemental",
+      "fire",
+      "spell",
+      "support",
+      "trigger",
+      "trigger_synergy"
+    ],
+    "raw_tags": "보조 , 주문 , 효과 범위 , 발동 , 화염"
+  },
+  {
+    "name": "조화로운 잔류물 I",
+    "tier": 2,
+    "tags": [
+      "보조",
+      "잔류물"
+    ],
+    "tags_ko": [
+      "보조",
+      "잔류물"
+    ],
+    "tags_en": [
+      "support",
+      "remnant"
+    ],
+    "meta_tags": [
+      "remnant",
+      "support"
+    ],
+    "raw_tags": "보조 , 잔류물"
+  },
+  {
+    "name": "집중된 저주",
+    "tier": 2,
+    "tags": [
+      "보조",
+      "저주"
+    ],
+    "tags_ko": [
+      "보조",
+      "저주"
+    ],
+    "tags_en": [
+      "support",
+      "curse"
+    ],
+    "meta_tags": [
+      "curse",
+      "support"
+    ],
+    "raw_tags": "보조 , 저주"
+  },
+  {
+    "name": "동결",
+    "tier": 2,
+    "tags": [
+      "보조",
+      "냉기"
+    ],
+    "tags_ko": [
+      "보조",
+      "냉기"
+    ],
+    "tags_en": [
+      "support",
+      "cold"
+    ],
+    "meta_tags": [
+      "cold",
+      "elemental",
+      "support"
+    ],
+    "raw_tags": "보조 , 냉기"
+  },
+  {
+    "name": "빙하",
+    "tier": 2,
+    "tags": [
+      "보조"
+    ],
+    "tags_ko": [
+      "보조"
+    ],
+    "tags_en": [
+      "support"
+    ],
+    "meta_tags": [
+      "support"
+    ],
+    "raw_tags": "보조"
+  },
+  {
+    "name": "탐식",
+    "tier": 2,
+    "tags": [
+      "보조"
+    ],
+    "tags_ko": [
+      "보조"
+    ],
+    "tags_en": [
+      "support"
+    ],
+    "meta_tags": [
+      "support"
+    ],
+    "raw_tags": "보조"
+  },
+  {
+    "name": "고드름",
+    "tier": 2,
+    "tags": [
+      "보조"
+    ],
+    "tags_ko": [
+      "보조"
+    ],
+    "tags_en": [
+      "support"
+    ],
+    "meta_tags": [
+      "support"
+    ],
+    "raw_tags": "보조"
+  },
+  {
+    "name": "격렬한 고통",
+    "tier": 2,
+    "tags": [
+      "보조",
+      "주문",
+      "지속시간"
+    ],
+    "tags_ko": [
+      "보조",
+      "주문",
+      "지속시간"
+    ],
+    "tags_en": [
+      "support",
+      "spell",
+      "duration"
+    ],
+    "meta_tags": [
+      "duration",
+      "duration_scaling",
+      "spell",
+      "support"
+    ],
+    "raw_tags": "보조 , 주문 , 지속시간"
+  },
+  {
+    "name": "살아 있는 번개",
+    "tier": 2,
+    "tags": [
+      "보조",
+      "소환수",
+      "발동",
+      "번개",
+      "지속시간"
+    ],
+    "tags_ko": [
+      "보조",
+      "소환수",
+      "발동",
+      "번개",
+      "지속시간"
+    ],
+    "tags_en": [
+      "support",
+      "minion",
+      "trigger",
+      "lightning",
+      "duration"
+    ],
+    "meta_tags": [
+      "duration",
+      "duration_scaling",
+      "elemental",
+      "lightning",
+      "minion",
+      "minion_scaling",
+      "support",
+      "trigger",
+      "trigger_synergy"
+    ],
+    "raw_tags": "보조 , 소환수 , 발동 , 번개 , 지속시간"
+  },
+  {
+    "name": "충성심",
+    "tier": 2,
+    "tags": [
+      "보조",
+      "소환수"
+    ],
+    "tags_ko": [
+      "보조",
+      "소환수"
+    ],
+    "tags_en": [
+      "support",
+      "minion"
+    ],
+    "meta_tags": [
+      "minion",
+      "minion_scaling",
+      "support"
+    ],
+    "raw_tags": "보조 , 소환수"
+  },
+  {
+    "name": "마나 섬광",
+    "tier": 2,
+    "tags": [
+      "보조",
+      "주문",
+      "효과 범위",
+      "발동",
+      "화염"
+    ],
+    "tags_ko": [
+      "보조",
+      "주문",
+      "효과 범위",
+      "발동",
+      "화염"
+    ],
+    "tags_en": [
+      "support",
+      "spell",
+      "aoe",
+      "trigger",
+      "fire"
+    ],
+    "meta_tags": [
+      "aoe",
+      "elemental",
+      "fire",
+      "spell",
+      "support",
+      "trigger",
+      "trigger_synergy"
+    ],
+    "raw_tags": "보조 , 주문 , 효과 범위 , 발동 , 화염"
+  },
+  {
+    "name": "마나의 샘",
+    "tier": 2,
+    "tags": [
+      "보조",
+      "토템"
+    ],
+    "tags_ko": [
+      "보조",
+      "토템"
+    ],
+    "tags_en": [
+      "support",
+      "totem"
+    ],
+    "meta_tags": [
+      "support",
+      "totem"
+    ],
+    "raw_tags": "보조 , 토템"
+  },
+  {
+    "name": "마나 흡수",
+    "tier": 2,
+    "tags": [
+      "보조",
+      "공격",
+      "물리"
+    ],
+    "tags_ko": [
+      "보조",
+      "공격",
+      "물리"
+    ],
+    "tags_en": [
+      "support",
+      "attack",
+      "physical"
+    ],
+    "meta_tags": [
+      "attack",
+      "physical",
+      "support"
+    ],
+    "raw_tags": "보조 , 공격 , 물리"
+  },
+  {
+    "name": "소환수 불안정",
+    "tier": 2,
+    "tags": [
+      "보조",
+      "소환수",
+      "화염"
+    ],
+    "tags_ko": [
+      "보조",
+      "소환수",
+      "화염"
+    ],
+    "tags_en": [
+      "support",
+      "minion",
+      "fire"
+    ],
+    "meta_tags": [
+      "elemental",
+      "fire",
+      "minion",
+      "minion_scaling",
+      "support"
+    ],
+    "raw_tags": "보조 , 소환수 , 화염"
+  },
+  {
+    "name": "신비주의 I",
+    "tier": 2,
+    "tags": [
+      "보조",
+      "버프",
+      "유지형"
+    ],
+    "tags_ko": [
+      "보조",
+      "버프",
+      "유지형"
+    ],
+    "tags_en": [
+      "support",
+      "buff",
+      "persistent"
+    ],
+    "meta_tags": [
+      "buff",
+      "persistent",
+      "support"
+    ],
+    "raw_tags": "보조 , 버프 , 유지형"
+  },
+  {
+    "name": "핵심 조준 치명타",
+    "tier": 2,
+    "tags": [
+      "보조"
+    ],
+    "tags_ko": [
+      "보조"
+    ],
+    "tags_en": [
+      "support"
+    ],
+    "meta_tags": [
+      "support"
+    ],
+    "raw_tags": "보조"
+  },
+  {
+    "name": "효력 있는 노출",
+    "tier": 2,
+    "tags": [
+      "보조",
+      "주문"
+    ],
+    "tags_ko": [
+      "보조",
+      "주문"
+    ],
+    "tags_en": [
+      "support",
+      "spell"
+    ],
+    "meta_tags": [
+      "spell",
+      "support"
+    ],
+    "raw_tags": "보조 , 주문"
+  },
+  {
+    "name": "감전 전도 I",
+    "tier": 2,
+    "tags": [
+      "보조",
+      "효과 범위",
+      "번개"
+    ],
+    "tags_ko": [
+      "보조",
+      "효과 범위",
+      "번개"
+    ],
+    "tags_en": [
+      "support",
+      "aoe",
+      "lightning"
+    ],
+    "meta_tags": [
+      "aoe",
+      "elemental",
+      "lightning",
+      "support"
+    ],
+    "raw_tags": "보조 , 효과 범위 , 번개"
+  },
+  {
+    "name": "주문 메아리",
+    "tier": 2,
+    "tags": [
+      "보조",
+      "주문",
+      "효과 범위"
+    ],
+    "tags_ko": [
+      "보조",
+      "주문",
+      "효과 범위"
+    ],
+    "tags_en": [
+      "support",
+      "spell",
+      "aoe"
+    ],
+    "meta_tags": [
+      "aoe",
+      "spell",
+      "support"
+    ],
+    "raw_tags": "보조 , 주문 , 효과 범위"
+  },
+  {
+    "name": "밀려오는 폭풍",
+    "tier": 2,
+    "tags": [
+      "보조"
+    ],
+    "tags_ko": [
+      "보조"
+    ],
+    "tags_en": [
+      "support"
+    ],
+    "meta_tags": [
+      "support"
+    ],
+    "raw_tags": "보조"
+  },
+  {
+    "name": "용승 I",
+    "tier": 2,
+    "tags": [
+      "보조",
+      "버프",
+      "유지형"
+    ],
+    "tags_ko": [
+      "보조",
+      "버프",
+      "유지형"
+    ],
+    "tags_en": [
+      "support",
+      "buff",
+      "persistent"
+    ],
+    "meta_tags": [
+      "buff",
+      "persistent",
+      "support"
+    ],
+    "raw_tags": "보조 , 버프 , 유지형"
+  },
+  {
+    "name": "도깨비불",
+    "tier": 2,
+    "tags": [
+      "보조",
+      "효과 범위",
+      "화염"
+    ],
+    "tags_ko": [
+      "보조",
+      "효과 범위",
+      "화염"
+    ],
+    "tags_en": [
+      "support",
+      "aoe",
+      "fire"
+    ],
+    "meta_tags": [
+      "aoe",
+      "elemental",
+      "fire",
+      "support"
+    ],
+    "raw_tags": "보조 , 효과 범위 , 화염"
+  },
+  {
+    "name": "카오스 조율",
+    "tier": 3,
+    "tags": [
+      "보조",
+      "공격",
+      "카오스"
+    ],
+    "tags_ko": [
+      "보조",
+      "공격",
+      "카오스"
+    ],
+    "tags_en": [
+      "support",
+      "attack",
+      "chaos"
+    ],
+    "meta_tags": [
+      "attack",
+      "chaos",
+      "support"
+    ],
+    "raw_tags": "보조 , 공격 , 카오스"
+  },
+  {
+    "name": "암브로시아 II",
+    "tier": 3,
+    "tags": [
+      "보조"
+    ],
+    "tags_ko": [
+      "보조"
+    ],
+    "tags_en": [
+      "support"
+    ],
+    "meta_tags": [
+      "support"
+    ],
+    "raw_tags": "보조"
+  },
+  {
+    "name": "우주의 영사",
+    "tier": 3,
+    "tags": [
+      "보조"
+    ],
+    "tags_ko": [
+      "보조"
+    ],
+    "tags_en": [
+      "support"
+    ],
+    "meta_tags": [
+      "support"
+    ],
+    "raw_tags": "보조"
+  },
+  {
+    "name": "살을 에는 서리 I",
+    "tier": 3,
+    "tags": [
+      "보조",
+      "냉기",
+      "청산"
+    ],
+    "tags_ko": [
+      "보조",
+      "냉기",
+      "청산"
+    ],
+    "tags_en": [
+      "support",
+      "cold",
+      "payoff"
+    ],
+    "meta_tags": [
+      "cold",
+      "elemental",
+      "payoff",
+      "support"
+    ],
+    "raw_tags": "보조 , 냉기 , 청산"
+  },
+  {
+    "name": "깨지기 쉬운 방어구",
+    "tier": 3,
+    "tags": [
+      "보조",
+      "물리",
+      "냉기"
+    ],
+    "tags_ko": [
+      "보조",
+      "물리",
+      "냉기"
+    ],
+    "tags_en": [
+      "support",
+      "physical",
+      "cold"
+    ],
+    "meta_tags": [
+      "cold",
+      "elemental",
+      "physical",
+      "support"
+    ],
+    "raw_tags": "보조 , 물리 , 냉기"
+  },
+  {
+    "name": "혼돈의 동결",
+    "tier": 3,
+    "tags": [
+      "보조",
+      "주문",
+      "카오스"
+    ],
+    "tags_ko": [
+      "보조",
+      "주문",
+      "카오스"
+    ],
+    "tags_en": [
+      "support",
+      "spell",
+      "chaos"
+    ],
+    "meta_tags": [
+      "chaos",
+      "spell",
+      "support"
+    ],
+    "raw_tags": "보조 , 주문 , 카오스"
+  },
+  {
+    "name": "시체 보존",
+    "tier": 3,
+    "tags": [
+      "보조"
+    ],
+    "tags_ko": [
+      "보조"
+    ],
+    "tags_en": [
+      "support"
+    ],
+    "meta_tags": [
+      "support"
+    ],
+    "raw_tags": "보조"
+  },
+  {
+    "name": "저주받은 지대",
+    "tier": 3,
+    "tags": [
+      "보조",
+      "저주"
+    ],
+    "tags_ko": [
+      "보조",
+      "저주"
+    ],
+    "tags_en": [
+      "support",
+      "curse"
+    ],
+    "meta_tags": [
+      "curse",
+      "support"
+    ],
+    "raw_tags": "보조 , 저주"
+  },
+  {
+    "name": "쇠퇴의 사술",
+    "tier": 3,
+    "tags": [
+      "보조",
+      "카오스",
+      "저주"
+    ],
+    "tags_ko": [
+      "보조",
+      "카오스",
+      "저주"
+    ],
+    "tags_en": [
+      "support",
+      "chaos",
+      "curse"
+    ],
+    "meta_tags": [
+      "chaos",
+      "curse",
+      "support"
+    ],
+    "raw_tags": "보조 , 카오스 , 저주"
+  },
+  {
+    "name": "상태 이상 흡수",
+    "tier": 3,
+    "tags": [
+      "보조",
+      "주문"
+    ],
+    "tags_ko": [
+      "보조",
+      "주문"
+    ],
+    "tags_en": [
+      "support",
+      "spell"
+    ],
+    "meta_tags": [
+      "spell",
+      "support"
+    ],
+    "raw_tags": "보조 , 주문"
+  },
+  {
+    "name": "원소 방출",
+    "tier": 3,
+    "tags": [
+      "보조",
+      "주문",
+      "효과 범위",
+      "발동",
+      "번개",
+      "냉기",
+      "화염",
+      "청산"
+    ],
+    "tags_ko": [
+      "보조",
+      "주문",
+      "효과 범위",
+      "발동",
+      "번개",
+      "냉기",
+      "화염",
+      "청산"
+    ],
+    "tags_en": [
+      "support",
+      "spell",
+      "aoe",
+      "trigger",
+      "lightning",
+      "cold",
+      "fire",
+      "payoff"
+    ],
+    "meta_tags": [
+      "aoe",
+      "cold",
+      "elemental",
+      "fire",
+      "lightning",
+      "payoff",
+      "spell",
+      "support",
+      "trigger",
+      "trigger_synergy"
+    ],
+    "raw_tags": "보조 , 주문 , 효과 범위 , 발동 , 번개 , 냉기 , 화염 , 청산"
+  },
+  {
+    "name": "원소 집중",
+    "tier": 3,
+    "tags": [
+      "보조"
+    ],
+    "tags_ko": [
+      "보조"
+    ],
+    "tags_en": [
+      "support"
+    ],
+    "meta_tags": [
+      "support"
+    ],
+    "raw_tags": "보조"
+  },
+  {
+    "name": "에너지 축전기",
+    "tier": 3,
+    "tags": [
+      "보조"
+    ],
+    "tags_ko": [
+      "보조"
+    ],
+    "tags_en": [
+      "support"
+    ],
+    "meta_tags": [
+      "support"
+    ],
+    "raw_tags": "보조"
+  },
+  {
+    "name": "에너지 유지",
+    "tier": 3,
+    "tags": [
+      "보조",
+      "발동"
+    ],
+    "tags_ko": [
+      "보조",
+      "발동"
+    ],
+    "tags_en": [
+      "support",
+      "trigger"
+    ],
+    "meta_tags": [
+      "support",
+      "trigger",
+      "trigger_synergy"
+    ],
+    "raw_tags": "보조 , 발동"
+  },
+  {
+    "name": "정수 수확",
+    "tier": 3,
+    "tags": [
+      "보조",
+      "소환수",
+      "유지형"
+    ],
+    "tags_ko": [
+      "보조",
+      "소환수",
+      "유지형"
+    ],
+    "tags_en": [
+      "support",
+      "minion",
+      "persistent"
+    ],
+    "meta_tags": [
+      "minion",
+      "minion_scaling",
+      "persistent",
+      "support"
+    ],
+    "raw_tags": "보조 , 소환수 , 유지형"
+  },
+  {
+    "name": "영원한 징표",
+    "tier": 3,
+    "tags": [
+      "보조",
+      "징표"
+    ],
+    "tags_ko": [
+      "보조",
+      "징표"
+    ],
+    "tags_en": [
+      "support",
+      "mark"
+    ],
+    "meta_tags": [
+      "mark",
+      "support"
+    ],
+    "raw_tags": "보조 , 징표"
+  },
+  {
+    "name": "혐오 표출",
+    "tier": 3,
+    "tags": [
+      "보조"
+    ],
+    "tags_ko": [
+      "보조"
+    ],
+    "tags_en": [
+      "support"
+    ],
+    "meta_tags": [
+      "support"
+    ],
+    "raw_tags": "보조"
+  },
+  {
+    "name": "추출",
+    "tier": 3,
+    "tags": [
+      "보조",
+      "주문",
+      "카오스"
+    ],
+    "tags_ko": [
+      "보조",
+      "주문",
+      "카오스"
+    ],
+    "tags_en": [
+      "support",
+      "spell",
+      "chaos"
+    ],
+    "meta_tags": [
+      "chaos",
+      "spell",
+      "support"
+    ],
+    "raw_tags": "보조 , 주문 , 카오스"
+  },
+  {
+    "name": "격분 주입 I",
+    "tier": 3,
+    "tags": [
+      "보조",
+      "소환수"
+    ],
+    "tags_ko": [
+      "보조",
+      "소환수"
+    ],
+    "tags_en": [
+      "support",
+      "minion"
+    ],
+    "meta_tags": [
+      "minion",
+      "minion_scaling",
+      "support"
+    ],
+    "raw_tags": "보조 , 소환수"
+  },
+  {
+    "name": "조화로운 잔류물 II",
+    "tier": 3,
+    "tags": [
+      "보조",
+      "잔류물"
+    ],
+    "tags_ko": [
+      "보조",
+      "잔류물"
+    ],
+    "tags_en": [
+      "support",
+      "remnant"
+    ],
+    "meta_tags": [
+      "remnant",
+      "support"
+    ],
+    "raw_tags": "보조 , 잔류물"
+  },
+  {
+    "name": "요행",
+    "tier": 3,
+    "tags": [
+      "보조",
+      "발동"
+    ],
+    "tags_ko": [
+      "보조",
+      "발동"
+    ],
+    "tags_en": [
+      "support",
+      "trigger"
+    ],
+    "meta_tags": [
+      "support",
+      "trigger",
+      "trigger_synergy"
+    ],
+    "raw_tags": "보조 , 발동"
+  },
+  {
+    "name": "서리화염",
+    "tier": 3,
+    "tags": [
+      "보조",
+      "냉기",
+      "화염",
+      "청산"
+    ],
+    "tags_ko": [
+      "보조",
+      "냉기",
+      "화염",
+      "청산"
+    ],
+    "tags_en": [
+      "support",
+      "cold",
+      "fire",
+      "payoff"
+    ],
+    "meta_tags": [
+      "cold",
+      "elemental",
+      "fire",
+      "payoff",
+      "support"
+    ],
+    "raw_tags": "보조 , 냉기 , 화염 , 청산"
+  },
+  {
+    "name": "도박 사격",
+    "tier": 3,
+    "tags": [
+      "보조",
+      "투사체"
+    ],
+    "tags_ko": [
+      "보조",
+      "투사체"
+    ],
+    "tags_en": [
+      "support",
+      "projectile"
+    ],
+    "meta_tags": [
+      "projectile",
+      "projectile_scaling",
+      "support"
+    ],
+    "raw_tags": "보조 , 투사체"
+  },
+  {
+    "name": "사술의 꽃",
+    "tier": 3,
+    "tags": [
+      "보조",
+      "효과 범위",
+      "저주"
+    ],
+    "tags_ko": [
+      "보조",
+      "효과 범위",
+      "저주"
+    ],
+    "tags_en": [
+      "support",
+      "aoe",
+      "curse"
+    ],
+    "meta_tags": [
+      "aoe",
+      "curse",
+      "support"
+    ],
+    "raw_tags": "보조 , 효과 범위 , 저주"
+  },
+  {
+    "name": "얼음 쐐기 II",
+    "tier": 3,
+    "tags": [
+      "보조",
+      "공격",
+      "함성",
+      "냉기",
+      "지속시간"
+    ],
+    "tags_ko": [
+      "보조",
+      "공격",
+      "함성",
+      "냉기",
+      "지속시간"
+    ],
+    "tags_en": [
+      "support",
+      "attack",
+      "warcry",
+      "cold",
+      "duration"
+    ],
+    "meta_tags": [
+      "attack",
+      "cold",
+      "duration",
+      "duration_scaling",
+      "elemental",
+      "support",
+      "warcry"
+    ],
+    "raw_tags": "보조 , 공격 , 함성 , 냉기 , 지속시간"
+  },
+  {
+    "name": "초치명타",
+    "tier": 3,
+    "tags": [
+      "보조"
+    ],
+    "tags_ko": [
+      "보조"
+    ],
+    "tags_en": [
+      "support"
+    ],
+    "meta_tags": [
+      "support"
+    ],
+    "raw_tags": "보조"
+  },
+  {
+    "name": "거침없는 치명타 I",
+    "tier": 3,
+    "tags": [
+      "보조"
+    ],
+    "tags_ko": [
+      "보조"
+    ],
+    "tags_en": [
+      "support"
+    ],
+    "meta_tags": [
+      "support"
+    ],
+    "raw_tags": "보조"
+  },
+  {
+    "name": "범위 확대 II",
+    "tier": 3,
+    "tags": [
+      "보조",
+      "효과 범위"
+    ],
+    "tags_ko": [
+      "보조",
+      "효과 범위"
+    ],
+    "tags_en": [
+      "support",
+      "aoe"
+    ],
+    "meta_tags": [
+      "aoe",
+      "support"
+    ],
+    "raw_tags": "보조 , 효과 범위"
+  },
+  {
+    "name": "결집",
+    "tier": 3,
+    "tags": [
+      "보조",
+      "소환수"
+    ],
+    "tags_ko": [
+      "보조",
+      "소환수"
+    ],
+    "tags_en": [
+      "support",
+      "minion"
+    ],
+    "meta_tags": [
+      "minion",
+      "minion_scaling",
+      "support"
+    ],
+    "raw_tags": "보조 , 소환수"
+  },
+  {
+    "name": "실전 마법 I",
+    "tier": 3,
+    "tags": [
+      "보조",
+      "주문",
+      "지속시간"
+    ],
+    "tags_ko": [
+      "보조",
+      "주문",
+      "지속시간"
+    ],
+    "tags_en": [
+      "support",
+      "spell",
+      "duration"
+    ],
+    "meta_tags": [
+      "duration",
+      "duration_scaling",
+      "spell",
+      "support"
+    ],
+    "raw_tags": "보조 , 주문 , 지속시간"
+  },
+  {
+    "name": "의식의 저주",
+    "tier": 3,
+    "tags": [
+      "보조",
+      "효과 범위",
+      "저주"
+    ],
+    "tags_ko": [
+      "보조",
+      "효과 범위",
+      "저주"
+    ],
+    "tags_en": [
+      "support",
+      "aoe",
+      "curse"
+    ],
+    "meta_tags": [
+      "aoe",
+      "curse",
+      "support"
+    ],
+    "raw_tags": "보조 , 효과 범위 , 저주"
+  },
+  {
+    "name": "희생양 II",
+    "tier": 3,
+    "tags": [
+      "보조",
+      "소환수"
+    ],
+    "tags_ko": [
+      "보조",
+      "소환수"
+    ],
+    "tags_en": [
+      "support",
+      "minion"
+    ],
+    "meta_tags": [
+      "minion",
+      "minion_scaling",
+      "support"
+    ],
+    "raw_tags": "보조 , 소환수"
+  },
+  {
+    "name": "희생의 공물",
+    "tier": 3,
+    "tags": [
+      "보조"
+    ],
+    "tags_ko": [
+      "보조"
+    ],
+    "tags_en": [
+      "support"
+    ],
+    "meta_tags": [
+      "support"
+    ],
+    "raw_tags": "보조"
+  },
+  {
+    "name": "전자기력",
+    "tier": 3,
+    "tags": [
+      "보조",
+      "주문",
+      "효과 범위",
+      "발동",
+      "지속형",
+      "번개",
+      "청산"
+    ],
+    "tags_ko": [
+      "보조",
+      "주문",
+      "효과 범위",
+      "발동",
+      "지속형",
+      "번개",
+      "청산"
+    ],
+    "tags_en": [
+      "support",
+      "spell",
+      "aoe",
+      "trigger",
+      "persistent",
+      "lightning",
+      "payoff"
+    ],
+    "meta_tags": [
+      "aoe",
+      "elemental",
+      "lightning",
+      "payoff",
+      "persistent",
+      "spell",
+      "support",
+      "trigger",
+      "trigger_synergy"
+    ],
+    "raw_tags": "보조 , 주문 , 효과 범위 , 발동 , 지속형 , 번개 , 청산"
+  },
+  {
+    "name": "정전기 감전",
+    "tier": 3,
+    "tags": [
+      "보조",
+      "주문",
+      "효과 범위",
+      "발동",
+      "지속형",
+      "번개",
+      "지속시간"
+    ],
+    "tags_ko": [
+      "보조",
+      "주문",
+      "효과 범위",
+      "발동",
+      "지속형",
+      "번개",
+      "지속시간"
+    ],
+    "tags_en": [
+      "support",
+      "spell",
+      "aoe",
+      "trigger",
+      "persistent",
+      "lightning",
+      "duration"
+    ],
+    "meta_tags": [
+      "aoe",
+      "duration",
+      "duration_scaling",
+      "elemental",
+      "lightning",
+      "persistent",
+      "spell",
+      "support",
+      "trigger",
+      "trigger_synergy"
+    ],
+    "raw_tags": "보조 , 주문 , 효과 범위 , 발동 , 지속형 , 번개 , 지속시간"
+  },
+  {
+    "name": "태풍불길",
+    "tier": 3,
+    "tags": [
+      "보조",
+      "번개",
+      "화염"
+    ],
+    "tags_ko": [
+      "보조",
+      "번개",
+      "화염"
+    ],
+    "tags_en": [
+      "support",
+      "lightning",
+      "fire"
+    ],
+    "meta_tags": [
+      "elemental",
+      "fire",
+      "lightning",
+      "support"
+    ],
+    "raw_tags": "보조 , 번개 , 화염"
+  },
+  {
+    "name": "강심장",
+    "tier": 3,
+    "tags": [
+      "보조",
+      "버프",
+      "유지형"
+    ],
+    "tags_ko": [
+      "보조",
+      "버프",
+      "유지형"
+    ],
+    "tags_en": [
+      "support",
+      "buff",
+      "persistent"
+    ],
+    "meta_tags": [
+      "buff",
+      "persistent",
+      "support"
+    ],
+    "raw_tags": "보조 , 버프 , 유지형"
+  },
+  {
+    "name": "살인의 전율 II",
+    "tier": 3,
+    "tags": [
+      "보조",
+      "공격",
+      "번개",
+      "지속시간"
+    ],
+    "tags_ko": [
+      "보조",
+      "공격",
+      "번개",
+      "지속시간"
+    ],
+    "tags_en": [
+      "support",
+      "attack",
+      "lightning",
+      "duration"
+    ],
+    "meta_tags": [
+      "attack",
+      "duration",
+      "duration_scaling",
+      "elemental",
+      "lightning",
+      "support"
+    ],
+    "raw_tags": "보조 , 공격 , 번개 , 지속시간"
+  },
+  {
+    "name": "베르글라",
+    "tier": 3,
+    "tags": [
+      "보조",
+      "냉기"
+    ],
+    "tags_ko": [
+      "보조",
+      "냉기"
+    ],
+    "tags_en": [
+      "support",
+      "cold"
+    ],
+    "meta_tags": [
+      "cold",
+      "elemental",
+      "support"
+    ],
+    "raw_tags": "보조 , 냉기"
+  },
+  {
+    "name": "일촉즉발",
+    "tier": 3,
+    "tags": [
+      "보조",
+      "물리",
+      "카오스"
+    ],
+    "tags_ko": [
+      "보조",
+      "물리",
+      "카오스"
+    ],
+    "tags_en": [
+      "support",
+      "physical",
+      "chaos"
+    ],
+    "meta_tags": [
+      "chaos",
+      "physical",
+      "support"
+    ],
+    "raw_tags": "보조 , 물리 , 카오스"
+  },
+  {
+    "name": "요새 II",
+    "tier": 3,
+    "tags": [
+      "보조"
+    ],
+    "tags_ko": [
+      "보조"
+    ],
+    "tags_en": [
+      "support"
+    ],
+    "meta_tags": [
+      "support"
+    ],
+    "raw_tags": "보조"
+  },
+  {
+    "name": "난무하는 파편 I",
+    "tier": 3,
+    "tags": [
+      "보조",
+      "주문",
+      "투사체"
+    ],
+    "tags_ko": [
+      "보조",
+      "주문",
+      "투사체"
+    ],
+    "tags_en": [
+      "support",
+      "spell",
+      "projectile"
+    ],
+    "meta_tags": [
+      "projectile",
+      "projectile_scaling",
+      "spell",
+      "support"
+    ],
+    "raw_tags": "보조 , 주문 , 투사체"
+  },
+  {
+    "name": "북극성 II",
+    "tier": 3,
+    "tags": [
+      "보조",
+      "주문"
+    ],
+    "tags_ko": [
+      "보조",
+      "주문"
+    ],
+    "tags_en": [
+      "support",
+      "spell"
+    ],
+    "meta_tags": [
+      "spell",
+      "support"
+    ],
+    "raw_tags": "보조 , 주문"
+  },
+  {
+    "name": "전진하는 폭풍",
+    "tier": 4,
+    "tags": [
+      "보조",
+      "주문",
+      "폭풍"
+    ],
+    "tags_ko": [
+      "보조",
+      "주문",
+      "폭풍"
+    ],
+    "tags_en": [
+      "support",
+      "spell",
+      "storm"
+    ],
+    "meta_tags": [
+      "spell",
+      "storm",
+      "support"
+    ],
+    "raw_tags": "보조 , 주문 , 폭풍"
+  },
+  {
+    "name": "지시 II",
+    "tier": 4,
+    "tags": [
+      "보조",
+      "소환수",
+      "명령"
+    ],
+    "tags_ko": [
+      "보조",
+      "소환수",
+      "명령"
+    ],
+    "tags_en": [
+      "support",
+      "minion",
+      "command"
+    ],
+    "meta_tags": [
+      "command",
+      "minion",
+      "minion_scaling",
+      "support"
+    ],
+    "raw_tags": "보조 , 소환수 , 명령"
+  },
+  {
+    "name": "타오르는 치명타",
+    "tier": 4,
+    "tags": [
+      "보조",
+      "공격",
+      "화염",
+      "지속시간"
+    ],
+    "tags_ko": [
+      "보조",
+      "공격",
+      "화염",
+      "지속시간"
+    ],
+    "tags_en": [
+      "support",
+      "attack",
+      "fire",
+      "duration"
+    ],
+    "meta_tags": [
+      "attack",
+      "duration",
+      "duration_scaling",
+      "elemental",
+      "fire",
+      "support"
+    ],
+    "raw_tags": "보조 , 공격 , 화염 , 지속시간"
+  },
+  {
+    "name": "무한한 에너지 II",
+    "tier": 4,
+    "tags": [
+      "보조"
+    ],
+    "tags_ko": [
+      "보조"
+    ],
+    "tags_en": [
+      "support"
+    ],
+    "meta_tags": [
+      "support"
+    ],
+    "raw_tags": "보조"
+  },
+  {
+    "name": "급성장 II",
+    "tier": 4,
+    "tags": [
+      "보조",
+      "집중 유지"
+    ],
+    "tags_ko": [
+      "보조",
+      "집중 유지"
+    ],
+    "tags_en": [
+      "support",
+      "channelling"
+    ],
+    "meta_tags": [
+      "channelling",
+      "support"
+    ],
+    "raw_tags": "보조 , 집중 유지"
+  },
+  {
+    "name": "용암 명문",
+    "tier": 4,
+    "tags": [
+      "보조",
+      "효과 범위",
+      "발동",
+      "화염"
+    ],
+    "tags_ko": [
+      "보조",
+      "효과 범위",
+      "발동",
+      "화염"
+    ],
+    "tags_en": [
+      "support",
+      "aoe",
+      "trigger",
+      "fire"
+    ],
+    "meta_tags": [
+      "aoe",
+      "elemental",
+      "fire",
+      "support",
+      "trigger",
+      "trigger_synergy"
+    ],
+    "raw_tags": "보조 , 효과 범위 , 발동 , 화염"
+  },
+  {
+    "name": "명상 II",
+    "tier": 4,
+    "tags": [
+      "보조",
+      "버프",
+      "유지형"
+    ],
+    "tags_ko": [
+      "보조",
+      "버프",
+      "유지형"
+    ],
+    "tags_en": [
+      "support",
+      "buff",
+      "persistent"
+    ],
+    "meta_tags": [
+      "buff",
+      "persistent",
+      "support"
+    ],
+    "raw_tags": "보조 , 버프 , 유지형"
+  },
+  {
+    "name": "냉기 노출",
+    "tier": 4,
+    "tags": [
+      "보조",
+      "냉기",
+      "지속시간"
+    ],
+    "tags_ko": [
+      "보조",
+      "냉기",
+      "지속시간"
+    ],
+    "tags_en": [
+      "support",
+      "cold",
+      "duration"
+    ],
+    "meta_tags": [
+      "cold",
+      "duration",
+      "duration_scaling",
+      "elemental",
+      "support"
+    ],
+    "raw_tags": "보조 , 냉기 , 지속시간"
+  },
+  {
+    "name": "뇌진탕 주문",
+    "tier": 4,
+    "tags": [
+      "보조",
+      "주문",
+      "물리"
+    ],
+    "tags_ko": [
+      "보조",
+      "주문",
+      "물리"
+    ],
+    "tags_en": [
+      "support",
+      "spell",
+      "physical"
+    ],
+    "meta_tags": [
+      "physical",
+      "spell",
+      "support"
+    ],
+    "raw_tags": "보조 , 주문 , 물리"
+  },
+  {
+    "name": "미쳐버린 소환수",
+    "tier": 4,
+    "tags": [
+      "보조",
+      "소환수",
+      "유지형"
+    ],
+    "tags_ko": [
+      "보조",
+      "소환수",
+      "유지형"
+    ],
+    "tags_en": [
+      "support",
+      "minion",
+      "persistent"
+    ],
+    "meta_tags": [
+      "minion",
+      "minion_scaling",
+      "persistent",
+      "support"
+    ],
+    "raw_tags": "보조 , 소환수 , 유지형"
+  },
+  {
+    "name": "크레센도 II",
+    "tier": 4,
+    "tags": [
+      "보조",
+      "공격",
+      "근접",
+      "타격"
+    ],
+    "tags_ko": [
+      "보조",
+      "공격",
+      "근접",
+      "타격"
+    ],
+    "tags_en": [
+      "support",
+      "attack",
+      "melee",
+      "strike"
+    ],
+    "meta_tags": [
+      "attack",
+      "melee",
+      "strike",
+      "support"
+    ],
+    "raw_tags": "보조 , 공격 , 근접 , 타격"
+  },
+  {
+    "name": "분란",
+    "tier": 4,
+    "tags": [
+      "보조"
+    ],
+    "tags_ko": [
+      "보조"
+    ],
+    "tags_en": [
+      "support"
+    ],
+    "meta_tags": [
+      "support"
+    ],
+    "raw_tags": "보조"
+  },
+  {
+    "name": "강화된 전기불꽃 II",
+    "tier": 4,
+    "tags": [
+      "보조"
+    ],
+    "tags_ko": [
+      "보조"
+    ],
+    "tags_en": [
+      "support"
+    ],
+    "meta_tags": [
+      "support"
+    ],
+    "raw_tags": "보조"
+  },
+  {
+    "name": "격분 주입 II",
+    "tier": 4,
+    "tags": [
+      "보조",
+      "소환수"
+    ],
+    "tags_ko": [
+      "보조",
+      "소환수"
+    ],
+    "tags_en": [
+      "support",
+      "minion"
+    ],
+    "meta_tags": [
+      "minion",
+      "minion_scaling",
+      "support"
+    ],
+    "raw_tags": "보조 , 소환수"
+  },
+  {
+    "name": "육중한 소환수",
+    "tier": 4,
+    "tags": [
+      "보조",
+      "소환수",
+      "유지형"
+    ],
+    "tags_ko": [
+      "보조",
+      "소환수",
+      "유지형"
+    ],
+    "tags_en": [
+      "support",
+      "minion",
+      "persistent"
+    ],
+    "meta_tags": [
+      "minion",
+      "minion_scaling",
+      "persistent",
+      "support"
+    ],
+    "raw_tags": "보조 , 소환수 , 유지형"
+  },
+  {
+    "name": "거침없는 치명타 II",
+    "tier": 4,
+    "tags": [
+      "보조"
+    ],
+    "tags_ko": [
+      "보조"
+    ],
+    "tags_en": [
+      "support"
+    ],
+    "meta_tags": [
+      "support"
+    ],
+    "raw_tags": "보조"
+  },
+  {
+    "name": "살아 있는 번개 II",
+    "tier": 4,
+    "tags": [
+      "보조",
+      "소환수",
+      "발동",
+      "번개",
+      "지속시간"
+    ],
+    "tags_ko": [
+      "보조",
+      "소환수",
+      "발동",
+      "번개",
+      "지속시간"
+    ],
+    "tags_en": [
+      "support",
+      "minion",
+      "trigger",
+      "lightning",
+      "duration"
+    ],
+    "meta_tags": [
+      "duration",
+      "duration_scaling",
+      "elemental",
+      "lightning",
+      "minion",
+      "minion_scaling",
+      "support",
+      "trigger",
+      "trigger_synergy"
+    ],
+    "raw_tags": "보조 , 소환수 , 발동 , 번개 , 지속시간"
+  },
+  {
+    "name": "착취의 징표 II",
+    "tier": 4,
+    "tags": [
+      "보조",
+      "징표"
+    ],
+    "tags_ko": [
+      "보조",
+      "징표"
+    ],
+    "tags_en": [
+      "support",
+      "mark"
+    ],
+    "meta_tags": [
+      "mark",
+      "support"
+    ],
+    "raw_tags": "보조 , 징표"
+  },
+  {
+    "name": "소환수 맹약 II",
+    "tier": 4,
+    "tags": [
+      "보조",
+      "소환수"
+    ],
+    "tags_ko": [
+      "보조",
+      "소환수"
+    ],
+    "tags_en": [
+      "support",
+      "minion"
+    ],
+    "meta_tags": [
+      "minion",
+      "minion_scaling",
+      "support"
+    ],
+    "raw_tags": "보조 , 소환수"
+  },
+  {
+    "name": "신비주의 II",
+    "tier": 4,
+    "tags": [
+      "보조",
+      "버프",
+      "유지형"
+    ],
+    "tags_ko": [
+      "보조",
+      "버프",
+      "유지형"
+    ],
+    "tags_en": [
+      "support",
+      "buff",
+      "persistent"
+    ],
+    "meta_tags": [
+      "buff",
+      "persistent",
+      "support"
+    ],
+    "raw_tags": "보조 , 버프 , 유지형"
+  },
+  {
+    "name": "빠른 시전 II",
+    "tier": 4,
+    "tags": [
+      "보조",
+      "주문"
+    ],
+    "tags_ko": [
+      "보조",
+      "주문"
+    ],
+    "tags_en": [
+      "support",
+      "spell"
+    ],
+    "meta_tags": [
+      "spell",
+      "support"
+    ],
+    "raw_tags": "보조 , 주문"
+  },
+  {
+    "name": "용승 II",
+    "tier": 4,
+    "tags": [
+      "보조",
+      "버프",
+      "유지형"
+    ],
+    "tags_ko": [
+      "보조",
+      "버프",
+      "유지형"
+    ],
+    "tags_en": [
+      "support",
+      "buff",
+      "persistent"
+    ],
+    "meta_tags": [
+      "buff",
+      "persistent",
+      "support"
+    ],
+    "raw_tags": "보조 , 버프 , 유지형"
+  },
+  {
+    "name": "지시 III",
+    "tier": 5,
+    "tags": [
+      "보조",
+      "소환수",
+      "명령"
+    ],
+    "tags_ko": [
+      "보조",
+      "소환수",
+      "명령"
+    ],
+    "tags_en": [
+      "support",
+      "minion",
+      "command"
+    ],
+    "meta_tags": [
+      "command",
+      "minion",
+      "minion_scaling",
+      "support"
+    ],
+    "raw_tags": "보조 , 소환수 , 명령"
+  },
+  {
+    "name": "살을 에는 서리 II",
+    "tier": 5,
+    "tags": [
+      "보조",
+      "냉기",
+      "청산"
+    ],
+    "tags_ko": [
+      "보조",
+      "냉기",
+      "청산"
+    ],
+    "tags_en": [
+      "support",
+      "cold",
+      "payoff"
+    ],
+    "meta_tags": [
+      "cold",
+      "elemental",
+      "payoff",
+      "support"
+    ],
+    "raw_tags": "보조 , 냉기 , 청산"
+  },
+  {
+    "name": "촉진시키는 원소",
+    "tier": 5,
+    "tags": [
+      "보조",
+      "주문",
+      "효과 범위",
+      "발동",
+      "번개",
+      "냉기",
+      "화염"
+    ],
+    "tags_ko": [
+      "보조",
+      "주문",
+      "효과 범위",
+      "발동",
+      "번개",
+      "냉기",
+      "화염"
+    ],
+    "tags_en": [
+      "support",
+      "spell",
+      "aoe",
+      "trigger",
+      "lightning",
+      "cold",
+      "fire"
+    ],
+    "meta_tags": [
+      "aoe",
+      "cold",
+      "elemental",
+      "fire",
+      "lightning",
+      "spell",
+      "support",
+      "trigger",
+      "trigger_synergy"
+    ],
+    "raw_tags": "보조 , 주문 , 효과 범위 , 발동 , 번개 , 냉기 , 화염"
+  },
+  {
+    "name": "카오스 숙련",
+    "tier": 5,
+    "tags": [
+      "보조",
+      "카오스"
+    ],
+    "tags_ko": [
+      "보조",
+      "카오스"
+    ],
+    "tags_en": [
+      "support",
+      "chaos"
+    ],
+    "meta_tags": [
+      "chaos",
+      "support"
+    ],
+    "raw_tags": "보조 , 카오스"
+  },
+  {
+    "name": "냉기 숙련",
+    "tier": 5,
+    "tags": [
+      "보조",
+      "냉기"
+    ],
+    "tags_ko": [
+      "보조",
+      "냉기"
+    ],
+    "tags_en": [
+      "support",
+      "cold"
+    ],
+    "meta_tags": [
+      "cold",
+      "elemental",
+      "support"
+    ],
+    "raw_tags": "보조 , 냉기"
+  },
+  {
+    "name": "크레센도 III",
+    "tier": 5,
+    "tags": [
+      "보조",
+      "공격",
+      "근접",
+      "타격"
+    ],
+    "tags_ko": [
+      "보조",
+      "공격",
+      "근접",
+      "타격"
+    ],
+    "tags_en": [
+      "support",
+      "attack",
+      "melee",
+      "strike"
+    ],
+    "meta_tags": [
+      "attack",
+      "melee",
+      "strike",
+      "support"
+    ],
+    "raw_tags": "보조 , 공격 , 근접 , 타격"
+  },
+  {
+    "name": "확장",
+    "tier": 5,
+    "tags": [
+      "보조",
+      "주문",
+      "효과 범위"
+    ],
+    "tags_ko": [
+      "보조",
+      "주문",
+      "효과 범위"
+    ],
+    "tags_en": [
+      "support",
+      "spell",
+      "aoe"
+    ],
+    "meta_tags": [
+      "aoe",
+      "spell",
+      "support"
+    ],
+    "raw_tags": "보조 , 주문 , 효과 범위"
+  },
+  {
+    "name": "가속된 성장 II",
+    "tier": 5,
+    "tags": [
+      "보조",
+      "주문",
+      "효과 범위",
+      "발동",
+      "식물"
+    ],
+    "tags_ko": [
+      "보조",
+      "주문",
+      "효과 범위",
+      "발동",
+      "식물"
+    ],
+    "tags_en": [
+      "support",
+      "spell",
+      "aoe",
+      "trigger",
+      "plant"
+    ],
+    "meta_tags": [
+      "aoe",
+      "plant",
+      "spell",
+      "support",
+      "trigger",
+      "trigger_synergy"
+    ],
+    "raw_tags": "보조 , 주문 , 효과 범위 , 발동 , 식물"
+  },
+  {
+    "name": "화염 숙련",
+    "tier": 5,
+    "tags": [
+      "보조",
+      "화염"
+    ],
+    "tags_ko": [
+      "보조",
+      "화염"
+    ],
+    "tags_en": [
+      "support",
+      "fire"
+    ],
+    "meta_tags": [
+      "elemental",
+      "fire",
+      "support"
+    ],
+    "raw_tags": "보조 , 화염"
+  },
+  {
+    "name": "번개 숙련",
+    "tier": 5,
+    "tags": [
+      "보조",
+      "번개"
+    ],
+    "tags_ko": [
+      "보조",
+      "번개"
+    ],
+    "tags_en": [
+      "support",
+      "lightning"
+    ],
+    "meta_tags": [
+      "elemental",
+      "lightning",
+      "support"
+    ],
+    "raw_tags": "보조 , 번개"
+  },
+  {
+    "name": "소환수 숙련",
+    "tier": 5,
+    "tags": [
+      "보조",
+      "소환수"
+    ],
+    "tags_ko": [
+      "보조",
+      "소환수"
+    ],
+    "tags_en": [
+      "support",
+      "minion"
+    ],
+    "meta_tags": [
+      "minion",
+      "minion_scaling",
+      "support"
+    ],
+    "raw_tags": "보조 , 소환수"
+  },
+  {
+    "name": "물리 숙련",
+    "tier": 5,
+    "tags": [
+      "보조",
+      "물리"
+    ],
+    "tags_ko": [
+      "보조",
+      "물리"
+    ],
+    "tags_en": [
+      "support",
+      "physical"
+    ],
+    "meta_tags": [
+      "physical",
+      "support"
+    ],
+    "raw_tags": "보조 , 물리"
+  },
+  {
+    "name": "실전 마법 II",
+    "tier": 5,
+    "tags": [
+      "보조",
+      "주문",
+      "지속시간"
+    ],
+    "tags_ko": [
+      "보조",
+      "주문",
+      "지속시간"
+    ],
+    "tags_en": [
+      "support",
+      "spell",
+      "duration"
+    ],
+    "meta_tags": [
+      "duration",
+      "duration_scaling",
+      "spell",
+      "support"
+    ],
+    "raw_tags": "보조 , 주문 , 지속시간"
+  },
+  {
+    "name": "불경 II",
+    "tier": 5,
+    "tags": [
+      "보조",
+      "카오스"
+    ],
+    "tags_ko": [
+      "보조",
+      "카오스"
+    ],
+    "tags_en": [
+      "support",
+      "chaos"
+    ],
+    "meta_tags": [
+      "chaos",
+      "support"
+    ],
+    "raw_tags": "보조 , 카오스"
+  },
+  {
+    "name": "빠른 시전 III",
+    "tier": 5,
+    "tags": [
+      "보조",
+      "주문"
+    ],
+    "tags_ko": [
+      "보조",
+      "주문"
+    ],
+    "tags_en": [
+      "support",
+      "spell"
+    ],
+    "meta_tags": [
+      "spell",
+      "support"
+    ],
+    "raw_tags": "보조 , 주문"
+  },
+  {
+    "name": "감전 전도 II",
+    "tier": 5,
+    "tags": [
+      "보조",
+      "효과 범위",
+      "번개"
+    ],
+    "tags_ko": [
+      "보조",
+      "효과 범위",
+      "번개"
+    ],
+    "tags_en": [
+      "support",
+      "aoe",
+      "lightning"
+    ],
+    "meta_tags": [
+      "aoe",
+      "elemental",
+      "lightning",
+      "support"
+    ],
+    "raw_tags": "보조 , 효과 범위 , 번개"
+  },
+  {
+    "name": "난무하는 파편 II",
+    "tier": 5,
+    "tags": [
+      "보조",
+      "주문",
+      "투사체"
+    ],
+    "tags_ko": [
+      "보조",
+      "주문",
+      "투사체"
+    ],
+    "tags_en": [
+      "support",
+      "spell",
+      "projectile"
+    ],
+    "meta_tags": [
+      "projectile",
+      "projectile_scaling",
+      "spell",
+      "support"
+    ],
+    "raw_tags": "보조 , 주문 , 투사체"
+  }
+]

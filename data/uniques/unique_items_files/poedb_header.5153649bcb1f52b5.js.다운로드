@@ -1,0 +1,1311 @@
+
+function sidebar160(id, rail) {
+  var mediaQuery = "(min-width: 1500px)";
+  var sizes = [
+    ["160", "600"]
+  ];
+  if ($(window).width() >= 1900) {
+    mediaQuery = "(min-width: 1900px)";
+    sizes = [
+      ["160", "600"],
+      ["300", "600"],
+      ["300", "250"],
+    ];
+  }
+  if (window['nitroAds']) {
+    window['nitroAds'].createAd(id, {
+      "mediaQuery": mediaQuery,
+      "refreshLimit": 10,
+      "refreshTime": 90,
+      "format": "rail",
+      "rail": rail,
+      "railOffsetTop": 0,
+      "railOffsetBottom": 0,
+      "railCollisionWhitelist": ["*"],
+      "sizes": sizes,
+      "report": {
+        "enabled": false,
+        "wording": "Report Ad",
+        "position": "bottom-right"
+      }
+    });
+  }
+}
+
+function topbanner970(id) {
+  var mediaQuery = "(min-width: 970px)";
+  var sizes = [
+    ["970", "250"],
+    ["970", "90"],
+    ["728", "90"]
+  ];
+  var height = 0;
+  if ($(window).width() >= 970) {
+    if (Math.floor((Math.random() * 100) + 1) > 100) {
+      sizes = [
+        ["970", "90"],
+        ["728", "90"]
+      ];
+      height = 90;
+    } else {
+      height = 250;
+    }
+  } else if ($(window).width() >= 728 && $(window).width() < 970) {
+    mediaQuery = "(min-width: 728px)";
+    sizes = [
+      ["728", "90"]
+    ];
+    height = 90;
+  } else if ($(window).width() < 728) {
+    mediaQuery = "(min-width: 300px)";
+    sizes = [
+      ["300", "250"]
+    ];
+    height = 250;
+  }
+  //$("#"+id).css('min-height', '90px');
+  if (height) {
+    //$("#"+id).height(height);
+  }
+  if (window['nitroAds']) {
+    window['nitroAds'].createAd(id, {
+      "mediaQuery": mediaQuery,
+      "refreshLimit": 10,
+      "refreshTime": 90,
+      "renderVisibleOnly": false,
+      "refreshVisibleOnly": true,
+      "sizes": sizes,
+      "report": {
+        "enabled": false,
+        "wording": "Report Ad",
+        "position": "bottom-right"
+      }
+    });
+  }
+}
+
+// Function called if AdBlock is not detected
+function adBlockNotDetected() {
+  //alert('AdBlock is not enabled');
+}
+
+function fuckAdBlockChecker() {
+  // We look at whether FuckAdBlock already exists.
+  if (typeof fuckAdBlock !== 'undefined' || typeof FuckAdBlock !== 'undefined') {
+    // If this is the case, it means that something tries to usurp are identity
+    // So, considering that it is a detection
+    adBlockDetected();
+  } else {
+    // Otherwise, you import the script FuckAdBlock
+    var importFAB = document.createElement('script');
+    importFAB.onload = function () {
+      // If all goes well, we configure FuckAdBlock
+      fuckAdBlock.onDetected(adBlockDetected);
+      fuckAdBlock.onNotDetected(adBlockNotDetected);
+    };
+    importFAB.onerror = function () {
+      // If the script does not load (blocked, integrity error, ...)
+      // Then a detection is triggered
+      adBlockDetected();
+    };
+    importFAB.integrity = 'sha256-xjwKUY/NgkPjZZBOtOxRYtK20GaqTwUCf7WYCJ1z69w=';
+    importFAB.crossOrigin = 'anonymous';
+    importFAB.src = 'https://cdnjs.cloudflare.com/ajax/libs/fuckadblock/3.2.1/fuckadblock.min.js';
+    document.head.appendChild(importFAB);
+  }
+}
+
+function fixAdPlacement() {
+  var validWidth = 1140 + 170 * 2;
+  var menuTop = $('div.navbar').height() + 10;
+  //console.log("menuTop->" + menuTop);
+
+  if ($(window).width() < validWidth) {
+    //console.log("init_hide");
+    $(".fix").hide();
+  } else {
+    //console.log("init_show");
+    $(".fix").show();
+    $(".fix").css({
+      position: "fixed",
+      top: menuTop.toString() + 'px',
+      right: '10px'
+    });
+  }
+
+  $(window).resize(function () {
+    wdth = $(window).width();
+    if (wdth > validWidth) {
+      //console.log("run_show");
+      $(".fix").show();
+      $(".fix").css({
+        position: "fixed",
+        top: menuTop.toString() + 'px',
+        right: '10px'
+      });
+    } else {
+      //console.log("run_hide");
+      $(".fix").hide();
+    }
+  });
+
+  var lastScrollTop = 0;
+  $(window).scroll(function (event) {
+    var st = $(this).scrollTop();
+    var current = $(document).scrollTop();
+    if (st > lastScrollTop) {
+      //console.log("down_current->" + current);
+      if (current > menuTop) {
+        $(".fix").css({
+          position: "fixed",
+          top: '10px',
+          right: '10px'
+        });
+      }
+    } else {
+      //console.log("up_current->" + current);
+      if (current < menuTop) {
+        $(".fix").css({
+          position: "fixed",
+          top: menuTop.toString() + 'px',
+          right: '10px'
+        });
+      }
+    }
+    lastScrollTop = st;
+  });
+}
+
+function fixAdLeftPlacement() {
+  var validWidth = 1140 + 170 * 2;
+  var menuTop = $('div.navbar').height() + 10;
+  //console.log("menuTop->" + menuTop);
+
+  if ($(window).width() < validWidth) {
+    //console.log("init_hide");
+    $(".fix-left").hide();
+  } else {
+    //console.log("init_show");
+    $(".fix-left").show();
+    $(".fix-left").css({
+      position: "fixed",
+      top: menuTop.toString() + 'px',
+      left: '10px'
+    });
+  }
+
+  $(window).resize(function () {
+    wdth = $(window).width();
+    if (wdth > validWidth) {
+      //console.log("run_show");
+      $(".fix-left").show();
+      $(".fix-left").css({
+        position: "fixed",
+        top: menuTop.toString() + 'px',
+        left: '10px'
+      });
+    } else {
+      //console.log("run_hide");
+      $(".fix-left").hide();
+    }
+  });
+
+  var lastScrollTop = 0;
+  $(window).scroll(function (event) {
+    var st = $(this).scrollTop();
+    var current = $(document).scrollTop();
+    if (st > lastScrollTop) {
+      //console.log("down_current->" + current);
+      if (current > menuTop) {
+        $(".fix-left").css({
+          position: "fixed",
+          top: '10px',
+          left: '10px'
+        });
+      }
+    } else {
+      //console.log("up_current->" + current);
+      if (current < menuTop) {
+        $(".fix-left").css({
+          position: "fixed",
+          top: menuTop.toString() + 'px',
+          left: '10px'
+        });
+      }
+    }
+    lastScrollTop = st;
+  });
+}
+
+function adsBlocked(callback) {
+  var testURL = 'https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js'
+  var myInit = {
+    method: 'HEAD',
+    mode: 'no-cors'
+  };
+  var myRequest = new Request(testURL, myInit);
+  fetch(myRequest).then(function (response) {
+    return response;
+  }).then(function (response) {
+    //console.log(response);
+    callback(false)
+  }).catch(function (e) {
+    //console.log(e)
+    callback(true)
+  });
+}
+
+function adinit() {
+  adsBlocked(function (blocked) {
+    if (blocked) {
+      adBlockDetected();
+      //document.getElementById('result').innerHTML = 'ads are blocked';
+    } else {
+      //document.getElementById('result').innerHTML = 'ads are not blocked';
+    }
+  })
+}
+
+/**
+ * Updated: 28th November 2022
+ * 
+ * Detects uBlock Origin, Adblock Plus and AdBlocker Ultimate with JavaScript only.
+ * 
+ * Usage: detectAdblock().then((res) => { console.log(res) });
+ * 
+ */
+function detectAdblock() {
+  const adblockTests = {
+    // https://github.com/uBlockOrigin/uAssets/blob/master/filters/filters-2022.txt
+    uBlockOrigin: {
+      url: 'https://poedb.tw/data/yzfdmoan.js',
+      id: '837jlaBksSjd9jh',
+    },
+    // https://github.com/easylist/easylist/blob/master/easylist/easylist_general_block.txt
+    adblockPlus: {
+      url: 'https://poedb.tw/a/ads/utep_ad.js',
+      id: 'hfuBadsf3hFAk',
+    },
+  };
+
+  function canLoadRemoteScript(obj) {
+    return new Promise(function (resolve, reject) {
+      var script = document.createElement('script');
+
+      script.onload = function () {
+        if (document.getElementById(obj.id)) {
+          resolve(false);
+        } else {
+          resolve(true);
+        }
+      }
+
+      script.onerror = function () {
+        resolve(true);
+      }
+
+      script.src = obj.url;
+      document.body.appendChild(script);
+    });
+  }
+
+  return new Promise(function (resolve, reject) {
+    let promises = [
+      canLoadRemoteScript(adblockTests.uBlockOrigin),
+      canLoadRemoteScript(adblockTests.adblockPlus),
+    ];
+
+    Promise.all(promises).then((results) => {
+      resolve({
+        uBlockOrigin: results[0],
+        adblockPlus: results[1],
+        usingAdblock: (results[0] === true) || (results[1] === true),
+      });
+    }).catch((err) => {
+      reject(err);
+    });
+  });
+}
+
+function arrayIndexOf(arrays, col) {
+  for (const val of arrays) {
+    let firstChar = val.charAt(0);
+    if (firstChar == '-') {
+      if (col.indexOf(val.substr(1)) != -1) {
+        return false;
+      }
+    } else {
+      if (col.indexOf(val) == -1) {
+        return false;
+      }
+    }
+  }
+  return true;
+}
+
+var langPaths = ['/us/', '/cn/', '/ru/', '/pt/', '/th/', '/fr/', '/de/', '/sp/', '/kr/', '/tw/', '/jp/'];
+
+/*!
+    jQuery scrollTopTop v1.0 - 2013-03-15
+    (c) 2013 Yang Zhao - geniuscarrier.com
+    license: http://www.opensource.org/licenses/mit-license.php
+*/
+(function ($) {
+  $.fn.scrollToTop = function (options) {
+    var config = {
+      "speed": 800
+    };
+    if (options) {
+      $.extend(config, {
+        "speed": options
+      });
+    }
+    return this.each(function () {
+      var $this = $(this);
+      $(window).scroll(function () {
+        if ($(this).scrollTop() > 100) {
+          $this.fadeIn();
+        } else {
+          $this.fadeOut();
+        }
+      });
+      $this.click(function (e) {
+        e.preventDefault();
+        $("body, html").animate({
+          scrollTop: 0
+        }, config.speed);
+      });
+    });
+  };
+})(jQuery);
+
+Date.prototype.YYYYMMDDHHMMSS = function () {
+  var yyyy = this.getFullYear().toString();
+  var MM = pad(this.getMonth() + 1, 2);
+  var dd = pad(this.getDate(), 2);
+  var hh = pad(this.getHours(), 2);
+  var mm = pad(this.getMinutes(), 2)
+  var ss = pad(this.getSeconds(), 2)
+
+  return yyyy + "-" + MM + "-" + dd + " " + hh + ":" + mm + ":" + ss;
+};
+
+// https://github.com/padolsey-archive/jquery.fn/blob/master/sortElements/jquery.sortElements.js
+jQuery.fn.sortElements = (function () {
+  var sort = [].sort;
+  return function (comparator, getSortable) {
+    getSortable = getSortable || function () {
+      return this;
+    };
+    var placements = this.map(function () {
+      var sortElement = getSortable.call(this),
+        parentNode = sortElement.parentNode,
+        // Since the element itself will change position, we have
+        // to have some way of storing it's original position in
+        // the DOM. The easiest way is to have a 'flag' node:
+        nextSibling = parentNode.insertBefore(
+          document.createTextNode(''),
+          sortElement.nextSibling
+        );
+      return function () {
+        if (parentNode === this) {
+          throw new Error(
+            "You can't sort elements if any one is a descendant of another."
+          );
+        }
+        // Insert before flag:
+        parentNode.insertBefore(this, nextSibling);
+        // Remove flag:
+        parentNode.removeChild(nextSibling);
+      };
+    });
+    return sort.call(this, comparator).each(function (i) {
+      placements[i].call(getSortable.call(this));
+    });
+  };
+})();
+
+function getUrlVars() {
+  var vars = [];
+  if (window.location.href.indexOf('?') == -1) {
+    return vars;
+  }
+  var hashes = window.location.href.slice(window.location.href.indexOf('?') + 1).split('&');
+  for (var i = 0; i < hashes.length; i++) {
+    var hash = hashes[i].split('=');
+    vars[decodeURIComponent(hash[0])] = decodeURIComponent(hash[1]);
+  }
+  return vars;
+}
+
+function notify(title, msg) {
+  Swal.fire({
+    position: 'bottom-end',
+    icon: 'success',
+    title: title,
+    text: msg,
+    timer: 2000,
+  });
+}
+
+function run_countdown() {
+  $('[data-countdown]').each(function () {
+    var $this = $(this),
+      finalDate = getDate($(this).data('countdown'));
+    var format = $(this).data('format');
+    $this.countdown(finalDate, { elapse: true })
+      .on('update.countdown', function (event) {
+        if (format == 'day') {
+          $this.html(event.strftime('%Dd %Hh %Mm %Ss'));
+        } else { // default: hour
+          var totalHours = event.offset.totalDays * 24 + event.offset.hours;
+          $this.html(event.strftime(totalHours + 'h %Mm %Ss'));
+        }
+      });
+  });
+
+  $('[data-displaytime]').each(function () {
+    finalDate = getDate($(this).data('displaytime'));
+    //let finalStr = finalDate.toLocaleString([], {hour: '2-digit', minute:'2-digit', hour12: false});
+    let finalStr = finalDate.toLocaleString();
+    finalStr = finalStr.substring(0, finalStr.length - 3);
+    $(this).text(finalStr);
+  });
+}
+
+function pad(number, length) {
+  var str = '' + number;
+  while (str.length < length) {
+    str = '0' + str;
+  }
+  return str;
+}
+
+function getDate(p) {
+  var date = new Date(p * 1000);
+  return date.YYYYMMDDHHMMSS();
+}
+
+var runQueryTimer;
+var queryString;
+
+/* unused? */
+function changeColQuery() {
+  $("input[name=col-query]").on('input', function () {
+    queryString = $(this).val();
+    clearTimeout(runQueryTimer);
+    $input = $(this);
+    runQueryTimer = setTimeout(function () {
+      let target = $input.data('target') ? $($input.data('target')) : $input.closest(".card").find("div.filters .col");
+      if (queryString === '') {
+        target.show();
+      } else {
+        var arr = queryString.split(" ").map(v => v.toLowerCase());
+        target.each(function () {
+          $(this).show();
+          for (i = 0; i < arr.length; ++i) {
+            if ($(this).text().toLowerCase().indexOf(arr[i]) === -1) {
+              $(this).hide();
+            }
+          }
+        });
+      }
+    }, 500);
+  });
+}
+
+function filterClick(input) {
+  input.on('input', function () {
+    var value = $(this).val().trim();
+    let target = $(this).data('target') ? $($(this).data('target')) : $(this).closest('form').next().children();
+    if (value === '') {
+      target.each(function () {
+        $(this).toggle(true);
+      });
+    } else {
+      var arrays = value.toLowerCase().split(' ');
+      target.each(function () {
+        var col = $(this).text().toLowerCase();
+        if ($(this).data('filters')) {
+          col += ' ' + $(this).data('filters').toLowerCase();
+        }
+        $(this).toggle(arrayIndexOf(arrays, col));
+      });
+    }
+  });
+
+  input.closest('form').find(':reset').click(function (e) {
+    input.val('').trigger('input');
+  });
+}
+
+function changeCardQuery() {
+  $("input[name=card-query]").on('input', function () {
+    queryString = $(this).val();
+    clearTimeout(runQueryTimer);
+    let target = $(this).data('target') ? $($(this).data('target')) : $(this).closest(".card").find("table.filters tbody tr");
+    runQueryTimer = setTimeout(function () {
+      if (queryString === '') {
+        target.show();
+      } else {
+        var arr = queryString.toLowerCase().split(' ');
+        target.each(function () {
+          let col = $(this).text().toLowerCase();
+          $(this).toggle(arrayIndexOf(arr, col));
+        });
+      }
+    }, 200);
+  });
+}
+
+function triggerTableSearch() {
+  /* table query */
+  $("input[name=query]").on('input', function () {
+    queryString = $(this).val();
+    clearTimeout(runQueryTimer);
+    let target = $("table.filters tbody tr");
+    runQueryTimer = setTimeout(function () {
+      tableFilterString(queryString, target);
+    }, 200);
+  });
+  // tags - screen
+  $(".tags span").click(function () {
+    var input = $("input[name=query]");
+    if (input.val() === '') {
+      queryString = $(this).text();
+    } else {
+      filter = $(this).text().replace('  ', ' ').trim();
+      if (queryString.includes('-' + filter)) {
+        queryString = queryString.replace('-' + filter, '').trim().replace('  ', ' ');
+      } else if (queryString.includes(filter)) {
+        queryString = queryString.replace(filter, '-' + filter).trim().replace('  ', ' ');
+      } else {
+        queryString = queryString + ' ' + $(this).text();
+      }
+    }
+    input.val(queryString).trigger('input');
+  });
+  // button clear query
+  $("input[type=reset]").click(function () {
+    $("input[name=query]").val("").trigger('input');
+  });
+}
+
+function tableFilterString(string, target) {
+  if (string === '') {
+    target.show();
+    //location.hash = '';
+  } else {
+    var arr = string.toLowerCase().split(' ');
+    target.each(function () {
+      $(this).show();
+      let col = $(this).text().toLowerCase();
+      if ($(this).data("filters")) {
+          col += ' ' + $(this).data("filters").toLowerCase();
+      }
+      for (i = 0; i < arr.length; ++i) {
+        let curr = arr[i];
+        let firstChar = curr.charAt(0);
+        if (firstChar == '-') {
+          if (col.indexOf(curr.substr(1)) != -1) {
+            $(this).hide();
+          }
+        } else {
+          if (col.indexOf(curr) === -1) {
+              $(this).hide();
+          }
+        }
+      }
+    });
+    //location.hash = '#' + string;
+  }
+}
+
+function getLang(href) {
+  var el = document.createElement('a');
+  el.href = href;
+  var pathname = el.pathname.substring(0, 4);
+  if ($.inArray(pathname, langPaths) != -1) {
+    return pathname.substring(1, 3);
+  }
+  return 'us';
+}
+
+function filterLanguageContent() {
+  const userLanguage = document.documentElement.lang;
+  $('body [lang]').each(function () {
+    if ($(this).attr('lang').split(',').indexOf(userLanguage) == -1) {
+      $(this).hide();
+    }
+  });
+}
+
+function getPageLang() {
+  let langLocales = {
+    'zh-Hant': 'tw',
+    'tw': 'tw',
+    'zh-Hans': 'cn',
+    'cn': 'cn',
+    'fr': 'fr',
+    'es': 'sp',
+    'sp': 'sp',
+    'de': 'de',
+    'ko': 'kr',
+    'kr': 'kr',
+    'ru': 'ru',
+    'pt': 'pt',
+    'en': 'us',
+    'us': 'us',
+    'th': 'th',
+    'ja': 'jp',
+    'jp': 'jp',
+  };
+  if (lang = langLocales[document.documentElement.lang]) {
+    return lang;
+  }
+  if ($.inArray('/' + document.documentElement.lang + '/', langPaths) != -1) {
+    return document.documentElement.lang;
+  }
+  return getLang(window.location.href);
+}
+
+function loadAutoComplete() {
+  let lang = getPageLang();
+  if (!lang) {
+    return;
+  }
+  if ($('#navautosearch').length == 0) {
+    return;
+  }
+  let beta = isBeta() ? 'cb' : '';
+  let gets = {
+    'autocomplete_us.json': 'autocomplete_us.2f9021c1f3834e01.json',
+    'autocomplete_tw.json': 'autocomplete_tw.d18eafeb972db1fa.json',
+    'autocomplete_cn.json': 'autocomplete_cn.58ceceafacacc255.json',
+    'autocomplete_kr.json': 'autocomplete_kr.4c60f0f55e394ff9.json',
+    'autocomplete_ru.json': 'autocomplete_ru.f5944378a3856b9d.json',
+    'autocomplete_pt.json': 'autocomplete_pt.90fd7ab2da52ba02.json',
+    'autocomplete_fr.json': 'autocomplete_fr.496891aa102403a3.json',
+    'autocomplete_th.json': 'autocomplete_th.3b0644cb4aa4a8ca.json',
+    'autocomplete_de.json': 'autocomplete_de.f04f30f9eb5e175a.json',
+    'autocomplete_sp.json': 'autocomplete_sp.03fc985aa95b9b37.json',
+    'autocomplete_jp.json': 'autocomplete_jp.4b89671a8a40e267.json',
+    'autocompletecb_us.json': 'autocompletecb_us.c779717952ff3998.json',
+    'autocompletecb_tw.json': 'autocompletecb_tw.636486e8c3831096.json',
+    'autocompletecb_cn.json': 'autocompletecb_cn.087a76060f269639.json',
+    'autocompletecb_kr.json': 'autocompletecb_kr.dc3d3bbd5843eb67.json',
+    'autocompletecb_ru.json': 'autocompletecb_ru.8414687ecae1ec0b.json',
+    'autocompletecb_pt.json': 'autocompletecb_pt.08c041f31b405519.json',
+    'autocompletecb_fr.json': 'autocompletecb_fr.26daad43b8952e95.json',
+    'autocompletecb_th.json': 'autocompletecb_th.9733483b27c147a7.json',
+    'autocompletecb_de.json': 'autocompletecb_de.5775472579f59a6c.json',
+    'autocompletecb_sp.json': 'autocompletecb_sp.db142402b0a9edbe.json',
+    'autocompletecb_jp.json': 'autocompletecb_jp.7aea76fec65dd884.json',
+  };
+  let id = `autocomplete${beta}_${lang}.json`;
+  let jsonFile = gets[id];
+  $.get(`${getCdnDir()}json/${jsonFile}`, function (data) {
+    $('#navautosearch').autocomplete({
+      source: data,
+      select: function (event, ui) {
+        document.location = ui.item.value;
+        return false;
+      }
+    })
+      .autocomplete("instance")._renderItem = function (ul, item) {
+        if (!item.class) {
+          item.class = '';
+        }
+        return $("<li>")
+          .append(`<div class='${item.class}'>${item.label}<small class='float-end normal small'>${item.desc}</small></div>`)
+          .appendTo(ul);
+      };
+  });
+}
+
+
+var isAltPressed = false;
+// Track if ALT is pressed
+document.addEventListener('keydown', (e) => {
+  if (e.key === 'Alt') isAltPressed = true;
+});
+document.addEventListener('keyup', (e) => {
+  if (e.key === 'Alt') isAltPressed = false;
+});
+
+var tippy_timer;
+var tippy_caches = {};
+var tippy_hovered;
+function tippyOnShow(tip) {
+  let lang = getPageLang();
+      var url = "/" + lang + "/hover" + tip.reference.dataset.hover;
+      let delay = 200;
+      if (tip.reference.dataset.hover.charAt(0) != '?') {
+        url = tip.reference.dataset.hover;
+        if (url.startsWith('/cache1/') || url.startsWith('/cache2/')) {
+          url = getCdnDir() + url;
+        }
+        delay = 50;
+      }
+      if (tippy_caches[url]) {
+        tip.setContent(tippy_caches[url]);
+      } else {
+        if (tippy_timer) {
+          clearTimeout(tippy_timer);
+        }
+        //tippy_timer = setTimeout(function () {
+          $.ajax({
+            url: url,
+            success: function (data) {
+              tippy_caches[url] = data;
+              tip.setContent(data);
+              tippy_hover('.tippy-content [data-hover]');
+            }
+          });
+        //}, delay);
+        tippy_hovered = tip.reference.dataset.hover;
+      }
+}
+function tippy_hover(selector) {
+  let tippyOpt = {
+    zIndex: 2147483647,
+    maxWidth: 'none',
+    content: "Loading....",
+    allowHTML: true,
+    onShow(tip) {
+      tippyOnShow(tip);
+    },
+    onHidden(tip) {
+      tip.setContent('Loading...');
+      if (tippy_hovered == tip.reference.dataset.hover) {
+        clearTimeout(tippy_timer);
+      }
+    },
+    onHide(tip) {
+      if (isAltPressed) {
+        //return false;
+      }
+    },
+    interactive: false,
+    appendTo: () => document.body,
+    delay: [100, 0],
+    placement: 'auto',
+  };
+  tippy(selector, tippyOpt);
+  //$(selector).removeAttr('data-hover');
+}
+
+function lightbox_panel() {
+  $('a[data-lightbox="panel"]').each(function (index, value) {
+    if ($(this).html() == '') {
+      $(this).html('<img loading="lazy" class="gemborder" src="' + $(this).attr('href') + '" width="320"/>');
+    }
+  });
+}
+
+function autoChangeTab() {
+  // 直接切換 tab by #
+  let url = location.href.replace(/\/$/, "");
+  if (location.hash) {
+    const hash = url.split("#");
+    $('.nav[role="tablist"] a[href="#' + decodeURIComponent(hash[1]) + '"]').tab("show");
+    url = location.href.replace(/\/#/, "#");
+    history.replaceState(null, null, url);
+  }
+
+  var anchor = window.location.href.split('#')[1];
+  if (anchor != '') {
+    //$('#tabs').tabs('select', anchor);
+  }
+
+  $('a[role="tab"]').on("click", function () {
+    let newUrl;
+    const hash = $(this).attr("href");
+    newUrl = url.split("#")[0] + hash;
+    history.replaceState(null, null, newUrl);
+    //echartResize();
+  });
+}
+
+// fix echart width=100 error
+function echartResize() {
+  //console.log('echartResize');
+  $(".echart").each(function () {
+    var id = $(this).attr('_echarts_instance_');
+    window.echarts.getInstanceById(id).resize();
+  });
+}
+
+function detectHostValid() {
+  if (window.location.hostname != "poedb.tw" && window.location.hostname != "poe2db.tw") {
+    window.location.href = "https://poedb.tw/";
+  }
+  // http
+  if (window.location.href == 'http://poedb.tw' || window.location.href == 'http://poe2db.tw/') {
+    window.location.href = "https://poedb.tw/";
+  }
+}
+
+function clickXyzSortable() {
+  $(".sortable").click(function () {
+    var name = $(this).data("name");
+    $("#xyz_items >tbody > tr").sortElements(function (b, c) {
+      var d = 0;
+      0 < $(b).find("span[data-name='" + name + "']").length && (d = 1 * $(b).find("span[data-name='" + name + "']").data("value"));
+      var e = 0;
+      0 < $(c).find("span[data-name='" + name + "']").length && (e = 1 * $(c).find("span[data-name='" + name + "']").data("value"));
+      return d > e ? -1 : 1
+    }, function () {
+      return this;
+    });
+    $("html, body").animate({
+      scrollTop: 200
+    }, "slow")
+  });
+}
+
+function clickSetTheme() {
+  $('.SetTheme').click(function () {
+    event.preventDefault();
+    var theme = $(this).data('theme');
+    $.ajax({
+      type: "GET",
+      url: "SetTheme/" + theme,
+      success: function () {
+        location.reload();
+      }
+    });
+  });
+}
+
+function ajaxLoadTabs() {
+  $("#tabs").tabs({
+    beforeLoad: function (event, ui) {
+      ui.jqXHR.fail(function () {
+        ui.panel.html(
+          "Couldn't load this tab. We'll try to fix this as soon as possible. " +
+          "If this wouldn't be a demo.");
+      });
+    },
+    activate: function (event, ui) {
+      //window.location.hash = ui.newPanel.attr('id');
+    },
+    load: function (event, ui) {
+      tippy_hover('.ui-widget-content [data-hover]');
+    }
+  });
+}
+
+function loadDataMarkdown() {
+  $('div[data-markdown]').each(function () {
+    var div = $(this);
+    $.get(div.data('markdown'), function (markdown) {
+      if (markdown.parsed) {
+        div.html(marked(markdown.parsed));
+        $('.need_login').hide();
+        tippy_hover('.page [data-hover]');
+      }
+    });
+  });
+}
+
+function fa_search() {
+  $("span.fa-search").click(function (e) { // remove next patch
+    //$(this).next('input').removeClass('hidden').focus();
+    $(this).next('input').removeClass('d-none').focus();
+    $(this).hide();
+  });
+  $("i.fa-search").click(function (e) {
+    //$(this).next('input').removeClass('hidden').focus();
+    $(this).next('input').removeClass('d-none').focus();
+    $(this).hide();
+  });
+}
+
+function js_modal_btn() {
+  if ($('.js-modal-btn').length == 0) {
+    return;
+  }
+  $('.js-modal-btn').each(function (index, value) {
+    $(this).html('<img class="uniqueborder" src="https://i.ytimg.com/vi/' + $(this).data('video-id') + '/mqdefault.jpg">');
+    let opt = [];
+    if ($(this).data('start')) {
+      opt.push({
+        'start': $(this).data('start')
+      });
+    }
+    //$(this).modalVideo(opt);
+  });
+  //$('.js-modal-btn').modalVideo();
+  new ModalVideo('.js-modal-btn');
+}
+
+function itemHeaderClick() {
+  $('.itemboximage').click(function (e) {
+    e.preventDefault();
+    $(this).prev().append($(this));
+  });
+}
+
+function itemHeaderClickResize() {
+  $('.itemboximage').click(function (e) {
+    e.preventDefault();
+    let itembox = $(this).parents('.itemPopup');
+    let width = itembox.css('width');
+    if (width == '750px') {
+      itembox.css('width', '440px');
+    } else if (width == '440px') {
+      itembox.css('width', '750px');
+    }
+  });
+}
+
+function itemDescriptionClick() {
+  $('.item_description').click(function (e) {
+    $('.item_description').toggle();
+  });
+}
+
+function clearPlayingClass() {
+  document.querySelectorAll("a.play.playing").forEach(
+    function (e) { e.classList.remove("playing"); }
+  );
+}
+
+function playerOgg() {
+  if ($('a.play').length == 0) {
+    return;
+  }
+  $('body').append('<audio id="player" class="d-none" controls autoplay></audio>');
+
+  var player = document.getElementById("player");
+  $('a.play').click(function () {
+    var link = event.target;
+    if (link.tagName != "A" || !link.classList.contains("play"))
+      return;
+    clearPlayingClass();
+    var href = link.href;
+    if (player.canPlayType("audio/ogg")) {
+    } else {
+      alert("Sorry... your browser cannot play the media on this site.");
+    }
+    link.classList.add("playing");
+    if (player.src != href)
+      player.src = href;
+    else if (player.paused)
+      player.play();
+    else
+      player.pause();
+    event.preventDefault();
+  });
+
+  player.addEventListener("canplay", function () {
+    document.getElementById("player").classList.remove("d-none");
+  });
+
+  player.addEventListener("ended", function () {
+    document.getElementById("player").classList.add("d-none");
+    clearPlayingClass();
+  });
+}
+
+function localizeData(data) {
+  $('[data-i18n]').each(function () {
+    let tr = data[$(this).data('i18n')];
+    if (tr) {
+      $(this).html(tr);
+      $(this).removeAttr('data-i18n');
+    }
+  });
+}
+
+function localize() {
+  let lang = getPageLang();
+  $(`[data-i18n-${lang}]`).each(function () {
+    let tr = $(this).data(`i18n-${lang}`);
+    if (tr) {
+      $(this).html(tr);
+      $(this).removeAttr(`data-i18n-${lang}`);
+    }
+  });
+
+  if ($('[data-i18n]').length == 0) {
+    return;
+  }
+  let beta = isBeta() ? 'cb' : '';
+  let gets = {
+    'i18n_us.json': 'i18n_us.ab50e99759593be2.json',
+    'i18n_tw.json': 'i18n_tw.bedcdc66679dc877.json',
+    'i18n_cn.json': 'i18n_cn.b055e95897413b54.json',
+    'i18n_kr.json': 'i18n_kr.67a38bb572332a9e.json',
+    'i18n_ru.json': 'i18n_ru.844f7af14dfc073c.json',
+    'i18n_pt.json': 'i18n_pt.dbf3ff5bd0680d2b.json',
+    'i18n_fr.json': 'i18n_fr.31c85a4ae503b9c8.json',
+    'i18n_th.json': 'i18n_th.81705587bf6acabb.json',
+    'i18n_de.json': 'i18n_de.a898da40480581b0.json',
+    'i18n_sp.json': 'i18n_sp.e25f0ea1f8b320af.json',
+    'i18n_jp.json': 'i18n_jp.793805d6a845d068.json',
+    'i18ncb_us.json': 'i18ncb_us.26fe6f78ba3e0d52.json',
+    'i18ncb_tw.json': 'i18ncb_tw.72550be27c7add45.json',
+    'i18ncb_cn.json': 'i18ncb_cn.618c47421297d3fa.json',
+    'i18ncb_kr.json': 'i18ncb_kr.c03da6af76223b08.json',
+    'i18ncb_ru.json': 'i18ncb_ru.4256a1822d741bc3.json',
+    'i18ncb_pt.json': 'i18ncb_pt.5a9e24a920bf9079.json',
+    'i18ncb_fr.json': 'i18ncb_fr.ec0ea41947658224.json',
+    'i18ncb_th.json': 'i18ncb_th.6475f017d88d030f.json',
+    'i18ncb_de.json': 'i18ncb_de.02a36c4bb2470a7f.json',
+    'i18ncb_sp.json': 'i18ncb_sp.4ae8388f110438ca.json',
+    'i18ncb_jp.json': 'i18ncb_jp.2cf24ea05aa47121.json',
+  };
+  let id = `i18n${beta}_${lang}.json`;
+  let jsonFile = gets[id];
+  $.getJSON(`${getCdnDir()}json/${jsonFile}`, function (data) {
+    if (!data) {
+      return;
+    }
+    localizeData(data);
+  });
+}
+
+function getCdnDir() {
+  return isBeta() ? 'https://cdn.poe2db.tw/' : 'https://cdn.poedb.tw/';
+}
+
+function monsterEffectLevel() {
+  if ($('.monsterEffect').length == 0) {
+    return;
+  }
+  for (i = 90; i >= 1; i--) {
+    $('.monsterEffect').append($('<option>', {
+      value: i,
+      text: 'Level ' + i,
+    }));
+  }
+  $('.monsterEffect').select2({
+    theme: "bootstrap-5",
+  });
+  $('.monsterEffect').change(function () {
+    let monsterHash = $(this).data('monster-id');
+    let arealv = $(this).val();
+    $.ajax({
+      url: 'api/monsterLevelSkill',
+      data: { monsterHash: monsterHash, arealv: arealv },
+      dataType: 'json',
+      success: function (data) {
+        //console.log(data);
+        if (data.code == 200 && data.data) {
+          $(`#MonsterLevelSkill${monsterHash}`).html(data.data);
+          $(`#MonsterLevelSkill${monsterHash} [data-bs-toggle="tooltip"]`).tooltip({ html: true });
+        }
+      },
+    });
+  });
+}
+
+function isBeta() {
+  if (document.location.host == 'ptr.poedb.tw' || document.location.host == 'poe2db.tw') {
+    return true;
+  }
+  return false;
+}
+
+function rowEnlarge() {
+  $('.row.enlarge > .col').click(function (e) {
+    if ($(this).hasClass('col-lg-12')) {
+      $(this).removeClass('col-lg-12');
+    } else {
+      $(this).addClass('col-lg-12');
+    }
+  });
+}
+
+function parseKeyword(i, el) {
+  if (el.nodeType === 3) {
+    var k = new KeywordPopups;
+    $(el).replaceWith(k.hoverStr(el.data));
+  } else {
+    $(el).contents().each(parseKeyword);
+  }
+}
+
+class KeywordPopups {
+  validKeywords = { "Test": "Test", "Physical": "Physical Damage", "Fire": "Fire Damage", "Cold": "Cold Damage", "Lightning": "Lightning Damage", "Chaos": "Chaos Damage", "test2": "Test custom content", "Ailments": "Ailments", "Attributes": "Attributes", "Strength": "Strength", "Dexterity": "Dexterity", "Intelligence": "Intelligence", "Bleeding": "Bleeding", "Blind": "Blind", "Chill": "Chill", "ChilledGround": "Chilled Ground", "ConsecratedGround": "Consecrated Ground", "CullingStrike": "Culling Strike", "DecimatingStrike": "Decimating Strike", "DamageTypes": "Damage Types", "DamagingAilments": "Damaging Ailments", "Defences": "Defences", "DesecratedGround": "Desecrated Ground", "ElementalAilments": "Elemental Ailments", "Freeze": "Freeze", "Hinder": "Hinder", "Ignite": "Ignite", "Flammability": "Flammability", "IgnoreResistances": "Ignoring Resistances", "Knockback": "Knockback", "LifeLeech": "Life Leech", "LowEnergyShield": "Low Energy Shield", "LowLife": "Low Life", "LowMana": "Low Mana", "Lucky": "Lucky", "Maim": "Maim", "ManaLeech": "Mana Leech", "RageLeech": "Rage Leech", "MapOwner": "Map Owner", "NonDamagingAilments": "Non-Damaging Ailments", "Overkill": "Overkill", "Poison": "Poison", "Rage": "Rage", "Recently": "Recently", "Shapeshift": "Shapeshifting", "Shock": "Shock", "SmokeCloud": "Smoke Clouds", "StunThreshold": "Player Stun Threshold", "EnemyStunThreshold": "Enemy Stun Threshold", "FreezeThreshold": "Freeze Threshold", "ElectrocuteThreshold": "Electrocute Threshold", "Unaffected": "Unaffected", "UncappedResist": "Uncapped Resistance", "OvercappedResist": "Overcapped Resistance", "Unlucky": "Unlucky", "Immobilised": "Immobilised", "Stun": "Stun", "LightStun": "Light Stun", "HeavyStun": "Heavy Stun", "HeavyStunPlayer": "Player Heavy Stun", "Electrocute": "Electrocution", "Pinned": "Pinned", "Overwhelm": "Overwhelm", "Melee": "Melee", "Slam": "Slams", "Chain": "Chain", "Pierce": "Pierce", "Fork": "Fork", "Split": "Split", "Deflect": "Deflect", "Suppress": "Suppress", "Block": "Block", "ChanceToBlock": "Chance to Block", "OvercappedBlock": "Overcapped Block Chance", "Strike": "Strike", "Projectile": "Projectile", "Resistances": "Resistances", "Critical": "Critical Hits", "CriticalDamageBonus": "Critical Damage Bonus", "JaggedGround": "Jagged Ground", "Totem": "Totems", "Taunt": "Taunt", "Empowered": "Empowered Skills", "Power": "Monster Power", "Armour": "Armour", "Burning": "Burning", "Frozen": "Frozen", "Evasion": "Evasion", "Accuracy": "Accuracy", "EnergyShield": "Energy Shield", "PrimedElectrocution": "Primed for Electrocution", "PrimedStun": "Primed for Stun", "PrimedFreeze": "Primed for Freeze", "IronReflexes": "Iron Reflexes", "Slow": "Slow", "Rarity": "Rarity", "FasterESRechargeStart": "Faster Start of Energy Shield Recharge", "ESRechargeRate": "Energy Shield Recharge Rate", "HitDamage": "Hit Damage", "Spell": "Spells", "Attack": "Attacks", "Trap": "Traps", "Withered": "Withered", "Crushed": "Crushed", "CrushingBlow": "Crushing Blows", "Brittle": "Brittle", "QuestItem": "Quest Item", "Sword": "Swords", "Mace": "Maces", "Sceptre": "Sceptres", "Wand": "Wands", "Axe": "Axes", "Bow": "Bows", "Dagger": "Daggers", "Staff": "Staves", "Claw": "Claws", "Talisman": "Talismans", "Shield": "Shields", "ArmouredShield": "Armoured Shields", "Buckler": "Bucklers", "Focus": "Foci", "Quarterstaff": "Quarterstaves", "Spear": "Spears", "Crossbow": "Crossbows", "Flail": "Flails", "Flask": "Flasks", "UFlask": "Utility Flasks", "Quiver": "Quivers", "Spirit": "Spirit", "One-Handed": "One-Handed", "Two-Handed": "Two-Handed", "Allies": "Allies", "DualWield": "Dual Wielding", "Minion": "Minions", "Warcry": "Warcries", "Curse": "Curses", "Aftershock": "Aftershocks", "Elusive": "Elusive", "ShockedGround": "Shocked Ground", "EnergyShieldLeech": "Energy Shield Leech", "Unarmed": "Unarmed", "Orb": "Orb Skills", "Exposure": "Exposure", "Energy": "Energy", "IceCrystals": "Ice Crystals", "IceCrystalShatter": "Ice Crystal Shattering", "Return": "Returning", "Phasing": "Phasing", "Corpse": "Corpses", "Charges": "Charges", "ElementalDamage": "Elemental Damage Types", "Wells": "Wells", "Presence": "Presence", "LightRadius": "Light Radius", "ItemRarity": "Item Rarity", "Shatter": "Shatter", "Penetration": "Resistance Penetration", "ArmourBreak": "Armour Break", "ArmourOverbreak": "Armour Break below 0", "Channelling": "Channelling", "Remote": "Remote Skills", "AncestralBoost": "Ancestral Boost", "Buff": "Buffs", "Debuff": "Debuffs", "Persistent": "Persistent Skills", "Consume": "Effect Consumption", "ChaosOrb": "Chaos Orb", "OrbOfAlteration": "Orb of Alteration", "OrbOfTransmutation": "Orb of Transmutation", "OrbOfAlchemy": "Orb of Alchemy", "OrbOfChance": "Orb of Chance", "RegalOrb": "Regal Orb", "ArtificersOrb": "Artificer's Orb", "Aura": "Auras", "StormSurge": "Stormsurge", "Reviving": "Reviving Minions", "Quality": "Quality", "SupportGem": "Support Gems", "AoESkill": "Area of Effect Skills", "DurationSkill": "Duration Skills", "Detonator": "Detonator Skills", "Nova": "Nova Skills", "Trigger": "Triggered Skills", "Herald": "Herald Skills", "Recoup": "Recoup", "Thorns": "Thorns", "IgnitedGround": "Ignited Ground", "CriticalWeakness": "Critical Weakness", "ElementalGround": "Elemental Ground Surfaces", "Ammunition": "Crossbow Ammunition Skills", "MonsterModifiers": "Monster Modifiers", "UnwaveringStance": "Unwavering Stance", "EldritchBattery": "Eldritch Battery", "MindOverMatter": "Mind over Matter", "BloodMagic": "Blood Magic", "GiantsBlood": "Giant's Blood", "VaalPact": "Vaal Pact", "PainAttunement": "Pain Attunement", "HexMaster": "Hex Master", "GlancingBlows": "Glancing Blows", "AncestralBond": "Ancestral Bond", "Conduit": "Conduit", "ResoluteTechnique": "Resolute Technique", "WhispersOfDoom": "Whispers of Doom", "AvatarOfFire": "Avatar of Fire", "ScarredFaith": "Scarred Faith", "LordOfTheWilds": "Lord of the Wilds", "NecromanticTalisman": "Necromantic Talisman", "HollowPalmTechnique": "Hollow Palm Technique", "ChaosInoculation": "Chaos Inoculation", "MartialWeapon": "Martial Weapons", "Sacrifice": "Sacrifice", "Travel": "Travel Skills", "EternalYouth": "Eternal Youth", "SupportGemRequirements": "Support Gem Requirements", "BuffMagnitude": "Buff/Debuff Magnitude", "BuffEffect": "Buff/Debuff Effect", "Heartstopper": "Heartstopper", "ElementalEquilibrium": "Elemental Equilibrium", "Oasis": "Oasis", "ArcaneSurge": "Arcane Surge", "ArcaneSurgeDuration": "Arcane Surge", "Invoke": "Invoke", "Meta": "Meta Gems", "FinalStrike": "Final Strike", "CorruptedBlood": "Corrupted Blood", "Aggravate": "Aggravated Bleeding", "AggravateIgnite": "Aggravated Ignite", "LeechSameAmount": "Allies Leech the same amount", "NonStackingEffect": "Non-Stacking Effects", "Mark": "Mark", "LifeRecharge": "Life Recharge", "ESRecharge": "Energy Shield Recharge", "ESProtectsMana": "Energy Shield Protecting Mana", "Onslaught": "Onslaught", "DruidicProwess": "Druidic Prowess", "Checkpoint": "Checkpoints", "CheckpointMaps": "Checkpoints in Maps", "Waypoint": "Waypoints", "AilmentThreshold": "Elemental Ailment Threshold", "MaximumResistances": "Maximum Resistances", "ChargeCycle": "Resonance", "Sustained": "Sustained Skills", "Daze": "Daze", "Combo": "Combo", "MinionDeath": "Minion Death and Killing Minions", "Surrounded": "Surrounded", "Reservation": "Reservation", "LowInfernalFlame": "Low Infernal Flame", "Bulwark": "Bulwark", "Conversion": "Damage Conversion", "Gain": "Damage Gained as extra X", "Tailwind": "Tailwind", "Jade": "Jade", "Concentration": "Concentration", "FlamesOfChayula": "Flame of Chayula", "RedFlamesOfChayula": "Red Flames of Chayula", "BlueFlamesOfChayula": "Blue Flames of Chayula", "SmallPassive": "Small Passives", "Valour": "Valour", "Intimidate": "Intimidate", "Ballista": "Ballista Totems", "SoulCore": "Soul Core", "AbyssalEye": "Abyssal Eye", "Rune": "Rune", "Idol": "Idol", "Honour": "Honour", "LightningAilment": "Lightning Ailments", "AddedAttackCastTime": "Added Skill Use Time", "Oil": "Covered in Oil", "OilGround": "Oil Ground", "Str": "Str", "Dex": "Dex", "Int": "Int", "StrDex": "Str/Dex", "StrInt": "Str/Int", "DexInt": "Dex/Int", "StrDexInt": "Str/Dex/Int", "OneHanded": "One-Handed", "TwoHanded": "Two-Hander", "Total": "Stat Totals", "TotalPlus": "Adding to Stat Totals", "Charm": "Charms", "ZealotsOath": "Zealot's Oath", "UnboundFury": "Unbound Fury", "StatConversion": "Stat Conversion", "LifeLoss": "Life Loss", "StatGain": "Gaining Stats from other Stats", "Overflow": "Overflow", "Command": "Minion Commands", "AtlasDifficulty": "Difficulty", "LimitedRespawn": "Revival Availability", "MapBoss": "Map Boss", "PowerfulMapBoss": "Powerful Map Boss", "ContainsMapBoss": "Empowerment", "WakingNightmare": "Waking Nightmare", "Toughness": "Toughness", "AilmentSpread": "Spreading Ailments", "DanceWithDeath": "Dance with Death", "Contributes": "Damage Contributing to Ailments", "WeaponSetPassiveSkillPoints": "Weapon Set Passive Skill Points", "RunicInscription": "Runic Inscriptions", "Offering": "Offering Skills", "Payoff": "Payoff Skills", "Grenade": "Grenade Skills", "StunRecovery": "Stun Recovery", "GraspingVines": "Grasping Vines", "Enraged": "Enraged", "Volatiles": "Volatiles", "Petrify": "Petrify", "Augment": "Augment", "AlternateStrengthBonus": "Black Scythe Training", "KeystoneAlternateDexterityBonus": "Circular Teachings", "KeystoneAlternateIntelligenceBonus": "Knightly Tenets", "SacredWater": "Sacred Water", "Boons": "Boons", "Afflictions": "Afflictions", "Enfeeble": "Enfeeble", "BindingChains": "Binding Chains", "SekhemaKeys": "Trial of the Sekhema Keys", "Relic": "Relics", "SlowMagnitudeModifier": "Slow Magnitude Modifier", "HighInfernalFlame": "High Infernal Flame", "PurpleFlamesOfChayula": "Purple Flame of Chayula", "SkillSpeed": "Skill Speed", "WildwoodWisp": "Wildwood Wisp", "CloseRange": "Close Range", "Unleash": "Unleash", "Link": "Link Skills", "Guard": "Guard", "ContainsDelirium": "Delirium", "ContainsExpedition": "Expedition", "ContainsBreach": "Breach", "ContainsRitual": "Ritual", "ContainsIrradiated": "Irradiated", "ContainsAbyss": "Abyss", "PrecursorTablet": "Precursor Tablets", "Waystone": "Waystones", "Essence": "Essence", "Shrine": "Shrine", "Strongbox": "Strongbox", "PrecursorTower": "Precursor Towers", "FracturingMirror": "Fracturing Mirrors", "Acrobatics": "Acrobatics", "BasicJewel": "Basic Jewel", "Realmgate": "The Realmgate", "ReliquaryVault": "The Reliquary Vault", "ContainsCorruption": "Corruption", "ContainsUniqueMap": "Unique Map", "ContainsHideout": "Hideout", "ContainsWanderingTrader": "Wandering Trader", "CopperCitadel": "Copper Citadel", "IronCitadel": "Iron Citadel", "StoneCitadel": "Stone Citadel", "TheBurningMonoilth": "The Burning Monolith", "MapNode": "Map Node", "CooldownRecovery": "Cooldown Recovery Rate", "Jewel": "Jewels", "IronGrip": "Iron Grip", "IronWill": "Iron Will", "SoulEater": "Soul Eater", "Leech": "Leech", "Historic": "Historic Jewels", "Catalyst": "Catalysts", "Omen": "Omens", "Logbook": "Logbooks", "AudienceWithTheKing": "Audience With The King", "DistilledEmotion": "Liquid Emotions", "Corrupted": "Corrupted Items", "Mirrored": "Mirrored Items", "Hexproof": "Hexproof", "Runic": "Runic", "CoalescedCorruption": "Coalesced Corruption", "PerfectTiming": "Perfect Timing", "Limit": "Limit", "SoulEaterMonster": "Monster Soul Eater", "Remnant": "Remnants", "AscendancyPoints": "Ascendancy Points", "HonourResistance": "Honour Resistance", "GainsStages": "Stage-Gaining Skills", "PrimedPin": "Primed for Pin", "Surge": "Elemental Surges", "ChaosSurge": "Chaos Surge", "Banner": "Banner Skills", "Conditional": "Conditional Usage", "Whirlwind": "Whirlwinds", "Volatility": "Volatility", "Bloodstained": "Bloodstained", "RevealWeakness": "Revealing Weaknesses", "Resonance": "Resonance", "Incision": "Incision", "ThornsRetaliation": "Retaliate with Thorns", "Companion": "Companions", "MonsterCategory": "Monster Category", "Hobble": "Hobble", "Hazard": "Hazards", "UnholyMight": "Unholy Might", "Impale": "Impale", "BloodLoss": "Blood Loss", "PerfectionBuff": "Perfection Buff", "KillingBlow": "Killing Blow", "ForksCrit": "Bifurcated Critical Hits", "Premitigation": "Pre-mitigation Damage", "EasyTargetDebuff": "Easy Target", "ExpectedKnockback": "Expected Knockback", "RogueExile": "Rogue Exile", "AzmeriSpirit": "Azmeri Spirit", "SpiritPossessed": "Possessed", "SpiritTouched": "Spirit-Influenced", "ExtraContent": "Extra Content", "CovetousShrine": "Seeking Shrine", "EnlighteningShrine": "Enlightening Shrine", "GreedShrine": "Greed Shrine", "CartographersStrongbox": "Cartographer's Strongbox", "ResearchersStrongbox": "Researcher's Strongbox", "OrnateStrongbox": "Ornate Strongbox", "EffectiveChance": "Effective Chance", "CrimsonAssault": "Crimson Assault", "Equipped": "Equipped", "Jewellery": "Jewellery", "Equipment": "Equipment", "BooleanDamageRoll": "Only Minimum or Maximum Damage", "TrustedKinship": "Trusted Kinship", "DamageAbsorption": "Damage Absorption", "Parry": "Parry", "ParriedDebuff": "Parried", "EverlastingSacrifice": "Everlasting Sacrifice", "LocalOnAggravateBleeding": "Aggravating any Bleeding", "DetonationTime": "Detonation Time", "MapBossMapDrop": "Waystone Tier Progression", "RareMonsterMapDrop": "Map Objective Waystone Drops", "CorruptedNexus": "Corrupted Nexus", "CorruptedBoss": "Corrupted Boss", "IrradiatedNonAtlas": "Irradiated", "RetaliateAgainstAll": "Retaliate against all Hits", "TakeManaCostAsDamage": "Take Mana Costs as Damage", "UpfrontCost": "Upfront Costs", "AccountBound": "Account Bound", "EssenceDelirium": "Essence of Delirium", "Cleansed": "Cleansed", "Delirious": "Delirious Players", "ExceedChance": "Chances in excess of 100%", "SpiritOfTheOwlPossessedPlayer": "Spirit Of The Owl", "SpiritOfTheSerpentPossessedPlayer": "Spirit Of The Serpent", "SpiritOfThePrimatePossessedPlayer": "Spirit Of The Primate", "SpiritOfTheBearPossessedPlayer": "Spirit Of The Bear", "SpiritOfTheBoarPossessedPlayer": "Spirit Of The Boar", "SpiritOfTheOxPossessedPlayer": "Spirit Of The Ox", "SpiritOfTheWolfPossessedPlayer": "Spirit Of The Wolf", "SpiritOfTheStagPossessedPlayer": "Spirit Of The Stag", "SpiritOfTheCatPossessedPlayer": "Spirit Of The Cat", "PlayerPossessed": "Possessed", "Vulnerability": "Vulnerability", "Despair": "Despair", "TemporalChains": "Temporal Chains", "ResistedBy": "Resisted by Other Value", "Glory": "Glory", "MountingGreed": "Mounting Greed", "ObeliskCorruption": "Obelisk of Corruption", "ObeliskCleansing": "Obelisk of Cleansing", "ImmuredFury": "Immured Fury", "Fracture": "Fractured Modifiers", "WeaponSets": "Weapon Sets", "TimeLostJewel": "[DNT] Time Lost Jewel", "MonsterAdditionalProjectiles1": "Additional Projectiles", "MonsterAreaOfEffect1": "Increased Area of Effect", "MonsterArmourPenetration1": "Breaks Armour", "MonsterBombardier1": "Bombardier", "MonsterChaosResistance1": "Chaos Resistant", "MonsterColdResistance1": "Cold Resistant", "MonsterCriticalStrikeChance1": "Extra Crits", "MonsterDamageGainedAsChaos1": "Extra Chaos Damage", "MonsterDamageGainedAsCold1": "Extra Cold Damage", "MonsterDamageGainedAsFire1": "Extra Fire Damage", "MonsterDamageGainedAsLightning1": "Extra Lightning Damage", "MonsterEnergyShieldAura1": "Energy Shield Aura", "MonsterExtraArmour1": "Armoured", "MonsterExtraEnergyShield1": "Extra Energy Shield", "MonsterExtraEvasion1": "Evasive", "MonsterFireResistance1": "Fire Resistant", "MonsterFlamewaller1": "Conjures Flamewalls", "MonsterFlaskRemovalAura1": "Siphons Flask Charges", "MonsterGlacialPrison1": "Conjures Ice Prisons", "MonsterHealingNova1": "Heals Allies and Suppresses Foe Recovery", "MonsterHinderAura1": "Hinder Aura", "MonsterImmuneAura1": "Periodic Invulnerability Aura", "MonsterImmuneAura2": "Empowered Periodic Invulnerability Aura", "MonsterImmuneAuraMinion2": "Increased Life", "MonsterImmuneToSlow1": "Slow Resistant", "MonsterImmuneToStun1": "Increased Stun Threshold", "MonsterIncreasedAccuracy1": "Accurate", "MonsterIncreasedSpeed1": "Hasted", "MonsterIncreasedSpeedAura1": "Haste Aura", "MonsterLifeRegenerationRatePercentage1": "Regenerates Life", "MonsterLightningMirage1": "Lightning Mirage When Hit", "MonsterLightningMirage2": "Lightning Mirages When Hit", "MonsterLightningResistance1": "Lightning Resistant", "MonsterLivingCrystals1": "Volatile Crystals", "MonsterMagmaBarrier1": "Magma Barrier", "MonsterManaSiphonAura1": "Siphons Mana and Deals Lightning Damage", "MonsterManaSiphonAura2": "Siphons Mana and Deals Lightning Damage", "MonsterMinionsTakeLifeInstead1": "Damage Taken From Minions First", "MonsterMinionsTakeLifeInsteadMinions1": "", "MonsterMinionStrongerMinions1": "Empowered", "MonsterModReducedCritMulti1": "Crit Resistant", "MonsterPeriodicEnrage1": "Periodically Enrages", "MonsterPeriodicEnrage2": "Enraged", "MonsterPhysicalDamageAura1": "Extra Physical Damage Aura", "MonsterPreventRecoveryAura1": "Prevents Recovery Above 50%", "MonsterProximalTangibility1": "Proximal Tangibility", "MonsterResistanceAura1": "Elemental Resistance Aura", "MonsterRevivesMinions1": "Reviving Minions", "MonsterRevivesMinions2": "Empowered Reviving Minions", "MonsterShockedGroundTrail1": "Trail of Lightning", "MonsterShroudWalker1": "Shroud Walker", "MonsterShroudWalker2": "Shroud Walker", "MonsterStrongerMinions1": "Powerful Minions", "MonsterStunDamageIncrease1": "Stuns", "MonsterStunResilience1": "Stun Resistant", "MonsterTemporalAura1": "Temporal Bubble", "MonsterVolatilePlants1": "Volatile Plants", "MonsterVolatilePlants2": "Empowering Volatile Plants", "MonsterVolatileRocks1": "Volatile Crag", "MonsterVolatileRocks2": "Empowering Volatile Crag", "Pack": "Pack", "UniqueArrowModifierChain": "Crescendo Arrows", "UniqueArrowModifierSplit": "Splinter Arrows", "UniqueArrowModifierPierceReturn": "Reversing Arrows", "UniqueArrowModifierCrit": "Diamond Arrows", "UniqueArrowModifierRarity": "Covetous Arrows", "UniqueArrowModifierStun": "Blunt Arrows", "Repeat": "Repeating Skills", "UniqueShrineFire": "Guided Meteoric Shrine", "UniqueShrineLightning": "Guided Tempest Shrine", "UniqueShrineCold": "Guided Freezing Shrine", "UniqueShrineChaos": "Dreaming Gloom Shrine", "AbyssalWasting": "Abyssal Wasting", "Ancient": "Ancient Augment", "EquipArmour": "Equippable Armours", "CasterWeapon": "Caster Weapon", "SpectralFire": "Spectral Fire", "Sanctified": "Sanctified Items", "Efficiency": "Efficiency", "ItemDefences": "Item Defences", "KeystoneFireSpellsBecomeChaosSpells": "Blackflame Covenant", "KeystoneAutoInvocation": "Ritual Cadence", "ElementalWeakness": "Elemental Weakness", "Debilitate": "Debilitate", "SupportGemCategory": "Support Gem Categories", "BetterCurrencyMinimumLevel": "Minimum Modifier Level", "CurrencyMaximumItemLevel": "Maximum Item Level", "Heat": "Heat", "ElementalInfusion": "Elemental Infusions", "Abyssalify": "Desecrated Modifiers", "UnstableDesecration": "Unstable Desecration", "AbyssalModifiers": "Abyssal Modifiers", "AbyssalDepths": "Abyssal Depths", "MarkedforDeath": "Marked for Death", "LineageSupports": "Lineage Supports", "NaturalSpawn": "Naturally Spawning Monsters", "EdictDeclaration": "[DNT-UNUSED] Edict Declaration", "UnionofSoulsBoss": "Union of Souls", "UnionofSoulsPack": "Union of Souls", "ThaumaturgicalDynamism": "Thaumaturgical Dynamism", "ArmourPenalties": "Armour Movement Penalties", "Merging": "Merging", "Pacify": "Pacification", "Archon": "Archon Buff", "IceArchon": "Ice Archon", "FlameArchon": "Flame Archon", "LightningArchon": "Lightning Archon", "ElementalArchon": "Elemental Archon", "TemporaryMinion": "Temporary Minion", "Reform": "Minion Reforming", "Gigantic": "Gigantic", "MarkofAbyssalLord": "Mark of the Abyssal Lord", "RivenArmour": "Riven Armour", "MoltenFissure": "Molten Fissures", "Chronobuff": "Sands of Time", "UnravellingBuff": "Unravelling", "TacticianTotemBuff": "Embankment Auras", "IceFragment": "Ice Fragments", "BrokenStance": "Broken Stance", "LichSkeletalBuff": "Umbral Souls", "DeadlyMapBoss": "Deadly Map Boss", "Invocation": "Invocation", "SunderedArmour": "Sundered Armour", "WitheringGround": "Withering Ground", "DefaultAttack": "Default Attack", "DefaultAttackDamage": "Default Attack Damage", "KhatalsRejuvenation": "Khatal's Rejuvenation", "ConnectedGem": "Connected Support Gems", "StoneSummoningCircle": "Summoning Circle", "Adaptation": "Adaptation", "Bear": "Bear Form", "Werewolf": "Werewolf Form", "Wyvern": "Wyvern Form", "Plant": "Plant Skills and Overgrowth", "InevitableCriticalHits": "Inevitable Critical Hits", "MonsterEffectiveness": "Monster Effectiveness", "KeystoneDruidicRage": "Primal Hunger", "UniqueCulture": "Unique Culture", "Wind": "Wind Skills", "OraclePaths": "Paths Not Taken", "ShamanOnlyMods": "Bonded Modifiers", "VaalSiphoner": "Vaal Siphoner", "SurpassChance": "Chance can Surpass 100%", "MaximumQuality": "Maximum Quality", "ThornyGround": "Thorny Ground", "MeleeSplash": "Splash Damage", "MarkActivate": "Activating Marks", "RerollCrit": "Rerolling Critical Hit Chance", "CompoundIgnite": "Compounding Ignite", "Drenched": "Drenched", "Storm": "Storm Skills", "MaximumTotal": "Maximim", "KeystoneWildsurgeIncantation": "Wildsurge Incantation", "IncursionCrystal": "Energised Crystal", "BaseSkillAttackTime": "Base Skill Attack Time", "IncursionDestabilization": "Temple Destabilisation", "IncursionRestrictedRoom": "Restricted Room" };
+
+  escape(str) {
+    return str.replace(' ', '_').replace('?', '_').replace('/', '_');
+  }
+
+  valid(str) {
+    return this.validKeywords[str];
+  }
+
+  hoverStr(str) {
+    const result = str.match(/\[.+?\]/g);
+    $.each(result, (_, val) => {
+      let exp = val.slice(1, -1).split('|');
+      let href = '';
+      if (href = this.valid(exp[0])) {
+        href = this.escape(href);
+        let hover = encodeURIComponent('Data\\KeywordPopups/' + exp[0]);
+        str = str.replace(val, `<a href="${href}" class="KeywordPopups" data-hover="?s=${hover}">${exp[1] || exp[0]}</a>`, str);
+      }
+    });
+    return str;
+  }
+
+  stripStr(str) {
+    const result = str.match(/\[.+?\]/g);
+    $.each(result, (_, val) => {
+      let exp = val.slice(1, -1).split('|');
+      let href = '';
+      if (href = this.valid(exp[0])) {
+        href = this.escape(href);
+        let hover = encodeURIComponent('Data\\KeywordPopups/' + exp[0]);
+        str = str.replace(val, `<span class="KeywordPopups">${exp[1] || exp[0]}</span>`, str);
+      }
+    });
+    return str;
+  }
+}
+
+const generateRandomId = (length = 9) => {
+  return Math.random().toString(36).substring(2, length + 2);
+};
+
+function drawCurrencyChart(chartId, opt) {
+  const params = new URLSearchParams(opt);
+  $.get(`api/currencyExchange?${params}`).done(function (data) {
+    echarts.init(document.getElementById(chartId), 'dark').setOption(data);
+  });
+}
+
+function loadWebp() {
+  $('.loadWebp').click(function (e) {
+    let webp = getCdnDir() + 'image/' + $(this).text().replace('.dds', '.webp');
+    $(this).html(`<img src="${webp}"/>`);
+  });
+}
+
+class Zoom {
+    init() {
+        this.root = document.getElementsByTagName('svg')[0];
+        this.root.style.touchAction = 'none';
+        this.WIDTH = this.root.viewBox.baseVal.width;
+        this.HEIGHT = this.root.viewBox.baseVal.height;
+
+        this.MIN_ZOOM = 0.7;
+        this.MAX_ZOOM = 15.0;
+        this.ZOOM_FACTOR = 1 / 100;
+
+        this.zoomLevel = 1;
+
+        this.center_x = 0;
+        this.center_y = 0;
+
+        this.pointers = {};
+        this.lastDist = null;
+
+        this.root.addEventListener('pointerdown', this.onPointerDown.bind(this), {
+            passive: true
+        });
+        this.root.addEventListener('pointermove', this.onPointerMove.bind(this), {
+            passive: true
+        });
+        this.root.addEventListener('pointerup', this.onPointerLeave.bind(this), {
+            passive: true
+        });
+        this.root.addEventListener('pointercancel', this.onPointerLeave.bind(this), {
+            passive: true
+        });
+        this.root.addEventListener('wheel', this.onWheel.bind(this), {
+            passive: false
+        });
+    }
+
+    update() {
+        const dx = this.WIDTH / this.zoomLevel;
+        const dy = this.HEIGHT / this.zoomLevel;
+        const x = this.center_x / this.zoomLevel - dx / 2;
+        const y = this.center_y / this.zoomLevel - dy / 2;
+        this.root.setAttribute('viewBox', `${x} ${y} ${dx} ${dy}`);
+    }
+
+    zoom(pixels) {
+        if (pixels === 0) {
+            return;
+        }
+
+        const newZoomLevel = Math.min(this.MAX_ZOOM, Math.max(this.MIN_ZOOM, this.zoomLevel - pixels * this.ZOOM_FACTOR));
+        if (Math.abs(this.zoomLevel - newZoomLevel) < 0.001) {
+            return false;
+        }
+
+        this.center_x -= this.center_x * (1 - newZoomLevel / this.zoomLevel);
+        this.center_y -= this.center_y * (1 - newZoomLevel / this.zoomLevel);
+        this.zoomLevel = newZoomLevel;
+
+        this.update();
+        return true;
+    }
+
+    onPointerDown(event) {
+        this.pointers[event.pointerId] = {
+            x: event.clientX,
+            y: event.clientY
+        };
+        $('#funcPanel').addClass('unselectable');
+        this.statsPanelVisible = $('#statsPanel').is(':visible');
+        if (this.statsPanelVisible) {
+            $('#statsPanel').collapse('hide');
+        }
+    }
+
+    onPointerMove(event) {
+        if (!this.pointers[event.pointerId]) {
+            return;
+        }
+        const numPointers = Object.keys(this.pointers).length;
+        if (numPointers === 1) {
+            const lastPosition = this.pointers[event.pointerId];
+            if (event.clientX == lastPosition.x && event.clientY == lastPosition.y) {
+                return;
+            }
+            let scale = Math.max(this.WIDTH / window.innerWidth, this.HEIGHT / window.innerHeight);
+            this.center_x += (lastPosition.x - event.clientX) * scale;
+            this.center_y += (lastPosition.y - event.clientY) * scale;
+            this.update();
+        } else if (numPointers === 2) {
+            const other = Object.keys(this.pointers).find(x => x != event.pointerId);
+            const lastPosition = this.pointers[other];
+
+            const dist = Math.hypot(lastPosition.x - event.clientX, lastPosition.y - event.clientY,);
+            if (this.lastDist !== null) {
+                const pinch = this.lastDist - dist;
+                this.zoom(pinch);
+            }
+            this.lastDist = dist;
+        }
+        this.pointers[event.pointerId] = {
+            x: event.clientX,
+            y: event.clientY
+        };
+    }
+
+    onPointerLeave(event) {
+        delete this.pointers[event.pointerId];
+        this.lastDist = null;
+        $('#funcPanel').removeClass('unselectable');
+        if (this.statsPanelVisible) {
+            $('#statsPanel').collapse('show');
+        }
+    }
+
+    onWheel(event) {
+        if (event.ctrlKey || event.altKey) {
+            return;
+        }
+        event.preventDefault();
+        this.zoom(event.deltaY)
+    }
+}
+

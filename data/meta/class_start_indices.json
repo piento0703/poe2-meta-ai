@@ -1,0 +1,1511 @@
+{
+  "class_starts": [
+    {
+      "id": "47175",
+      "classStartIndex": [
+        0,
+        6
+      ],
+      "name": "MARAUDER",
+      "x": -1271.19,
+      "y": 733.095,
+      "out": [
+        "16732",
+        "51916",
+        "54579",
+        "5852",
+        "33812",
+        "32534",
+        "3936",
+        "38646"
+      ],
+      "in": [],
+      "stats": [],
+      "raw_keys": [
+        "id",
+        "skill",
+        "name",
+        "icon",
+        "stats",
+        "classStartIndex",
+        "group",
+        "orbit",
+        "orbitIndex",
+        "x",
+        "y",
+        "out",
+        "in",
+        "edges"
+      ]
+    },
+    {
+      "id": "54447",
+      "classStartIndex": [
+        1,
+        7
+      ],
+      "name": "WITCH",
+      "x": 0.005,
+      "y": -1490.58,
+      "out": [
+        "23710",
+        "59822",
+        "32699",
+        "40721",
+        "22147",
+        "8305",
+        "4739"
+      ],
+      "in": [
+        "44871"
+      ],
+      "stats": [],
+      "raw_keys": [
+        "id",
+        "skill",
+        "name",
+        "icon",
+        "stats",
+        "classStartIndex",
+        "group",
+        "orbit",
+        "orbitIndex",
+        "x",
+        "y",
+        "out",
+        "in",
+        "edges"
+      ]
+    },
+    {
+      "id": "50459",
+      "classStartIndex": [
+        2,
+        8
+      ],
+      "name": "RANGER",
+      "x": 1274.68,
+      "y": 735.845,
+      "out": [
+        "46990",
+        "1583",
+        "24665",
+        "41736",
+        "63493",
+        "36365",
+        "13828",
+        "56651"
+      ],
+      "in": [],
+      "stats": [],
+      "raw_keys": [
+        "id",
+        "skill",
+        "name",
+        "icon",
+        "stats",
+        "classStartIndex",
+        "group",
+        "orbit",
+        "orbitIndex",
+        "x",
+        "y",
+        "out",
+        "in",
+        "edges"
+      ]
+    },
+    {
+      "id": "50986",
+      "classStartIndex": [
+        3,
+        9
+      ],
+      "name": "DUELIST",
+      "x": 1.945,
+      "y": 1469.82,
+      "out": [
+        "39383",
+        "10889",
+        "62386",
+        "36252",
+        "7120",
+        "55536",
+        "59915"
+      ],
+      "in": [
+        "59779"
+      ],
+      "stats": [],
+      "raw_keys": [
+        "id",
+        "skill",
+        "name",
+        "icon",
+        "stats",
+        "classStartIndex",
+        "group",
+        "orbit",
+        "orbitIndex",
+        "x",
+        "y",
+        "out",
+        "in",
+        "edges"
+      ]
+    },
+    {
+      "id": "44683",
+      "classStartIndex": [
+        4,
+        10
+      ],
+      "name": "SIX",
+      "x": 1270.43,
+      "y": -728.835,
+      "out": [
+        "5162",
+        "45406",
+        "50198",
+        "11495",
+        "9994",
+        "74",
+        "52980"
+      ],
+      "in": [
+        "10364"
+      ],
+      "stats": [],
+      "raw_keys": [
+        "id",
+        "skill",
+        "name",
+        "icon",
+        "stats",
+        "classStartIndex",
+        "group",
+        "orbit",
+        "orbitIndex",
+        "x",
+        "y",
+        "out",
+        "in",
+        "edges"
+      ]
+    },
+    {
+      "id": "61525",
+      "classStartIndex": [
+        5,
+        11
+      ],
+      "name": "TEMPLAR",
+      "x": -1245.18,
+      "y": -728.895,
+      "out": [
+        "13855",
+        "35715",
+        "26353",
+        "950",
+        "28429",
+        "35535",
+        "42761"
+      ],
+      "in": [
+        "50084"
+      ],
+      "stats": [],
+      "raw_keys": [
+        "id",
+        "skill",
+        "name",
+        "icon",
+        "stats",
+        "classStartIndex",
+        "group",
+        "orbit",
+        "orbitIndex",
+        "x",
+        "y",
+        "out",
+        "in",
+        "edges"
+      ]
+    }
+  ],
+  "ascendancy_starts": [
+    {
+      "id": "42761",
+      "name": "Oracle",
+      "ascendancyId": "Druid1",
+      "x": -22597.4,
+      "y": -2727.53,
+      "out": [
+        "11335",
+        "21284",
+        "56505",
+        "39659",
+        "25092",
+        "15275"
+      ],
+      "in": [
+        "61525"
+      ],
+      "stats": [],
+      "raw_keys": [
+        "id",
+        "skill",
+        "name",
+        "icon",
+        "ascendancyId",
+        "isAscendancyStart",
+        "stats",
+        "group",
+        "orbit",
+        "orbitIndex",
+        "x",
+        "y",
+        "out",
+        "in",
+        "edges"
+      ]
+    },
+    {
+      "id": "35535",
+      "name": "Shaman",
+      "ascendancyId": "Druid2",
+      "x": -20479.7,
+      "y": -3530.3,
+      "out": [
+        "1855",
+        "33824",
+        "61722",
+        "54512",
+        "28022"
+      ],
+      "in": [
+        "61525"
+      ],
+      "stats": [],
+      "raw_keys": [
+        "id",
+        "skill",
+        "name",
+        "icon",
+        "ascendancyId",
+        "isAscendancyStart",
+        "stats",
+        "group",
+        "orbit",
+        "orbitIndex",
+        "x",
+        "y",
+        "out",
+        "in",
+        "edges"
+      ]
+    },
+    {
+      "id": "28429",
+      "name": "",
+      "ascendancyId": "Druid3",
+      "x": -17628.4,
+      "y": -3305.06,
+      "out": [
+        "55382",
+        "35311",
+        "44207",
+        "39614",
+        "6830"
+      ],
+      "in": [
+        "61525"
+      ],
+      "stats": [],
+      "raw_keys": [
+        "id",
+        "skill",
+        "name",
+        "icon",
+        "stats",
+        "ascendancyId",
+        "isAscendancyStart",
+        "group",
+        "orbit",
+        "orbitIndex",
+        "x",
+        "y",
+        "out",
+        "in",
+        "edges"
+      ]
+    },
+    {
+      "id": "62386",
+      "name": "",
+      "ascendancyId": "Duelist1",
+      "x": 685.135,
+      "y": 17310.7,
+      "out": [
+        "63843",
+        "62674",
+        "7046",
+        "57256",
+        "38949"
+      ],
+      "in": [
+        "50986"
+      ],
+      "stats": [],
+      "raw_keys": [
+        "id",
+        "skill",
+        "name",
+        "icon",
+        "stats",
+        "ascendancyId",
+        "isAscendancyStart",
+        "group",
+        "orbit",
+        "orbitIndex",
+        "x",
+        "y",
+        "out",
+        "in",
+        "edges"
+      ]
+    },
+    {
+      "id": "39383",
+      "name": "",
+      "ascendancyId": "Duelist2",
+      "x": -100.915,
+      "y": 19035.4,
+      "out": [
+        "30474",
+        "15395",
+        "62406",
+        "55891",
+        "60122"
+      ],
+      "in": [
+        "50986"
+      ],
+      "stats": [],
+      "raw_keys": [
+        "id",
+        "skill",
+        "name",
+        "icon",
+        "stats",
+        "ascendancyId",
+        "isAscendancyStart",
+        "group",
+        "orbit",
+        "orbitIndex",
+        "x",
+        "y",
+        "out",
+        "in",
+        "edges"
+      ]
+    },
+    {
+      "id": "10889",
+      "name": "",
+      "ascendancyId": "Duelist3",
+      "x": 2313.75,
+      "y": 19118,
+      "out": [
+        "467",
+        "33436",
+        "47676",
+        "2375",
+        "35088",
+        "62573"
+      ],
+      "in": [
+        "50986"
+      ],
+      "stats": [],
+      "raw_keys": [
+        "id",
+        "skill",
+        "name",
+        "icon",
+        "stats",
+        "ascendancyId",
+        "isAscendancyStart",
+        "group",
+        "orbit",
+        "orbitIndex",
+        "x",
+        "y",
+        "out",
+        "in",
+        "edges"
+      ]
+    },
+    {
+      "id": "41736",
+      "name": "Amazon",
+      "ascendancyId": "Huntress1",
+      "x": 19517,
+      "y": 5659.29,
+      "out": [
+        "46071",
+        "35033",
+        "5563",
+        "60662",
+        "2702",
+        "6109"
+      ],
+      "in": [
+        "50459"
+      ],
+      "stats": [],
+      "raw_keys": [
+        "id",
+        "skill",
+        "name",
+        "icon",
+        "ascendancyId",
+        "isAscendancyStart",
+        "stats",
+        "group",
+        "orbit",
+        "orbitIndex",
+        "x",
+        "y",
+        "out",
+        "in",
+        "edges"
+      ]
+    },
+    {
+      "id": "63493",
+      "name": "Spirit Walker",
+      "ascendancyId": "Huntress2",
+      "x": 19054.3,
+      "y": 7409.64,
+      "out": [
+        "26294",
+        "37769",
+        "45228",
+        "5733",
+        "62424",
+        "28254"
+      ],
+      "in": [
+        "50459"
+      ],
+      "stats": [],
+      "raw_keys": [
+        "id",
+        "skill",
+        "name",
+        "icon",
+        "ascendancyId",
+        "isAscendancyStart",
+        "stats",
+        "group",
+        "orbit",
+        "orbitIndex",
+        "x",
+        "y",
+        "out",
+        "in",
+        "edges"
+      ]
+    },
+    {
+      "id": "36365",
+      "name": "Ritualist",
+      "ascendancyId": "Huntress3",
+      "x": 21698.9,
+      "y": 7966.05,
+      "out": [
+        "60859",
+        "58149",
+        "22661",
+        "17058",
+        "42017",
+        "58574",
+        "11776"
+      ],
+      "in": [
+        "50459"
+      ],
+      "stats": [],
+      "raw_keys": [
+        "id",
+        "skill",
+        "name",
+        "icon",
+        "ascendancyId",
+        "isAscendancyStart",
+        "stats",
+        "group",
+        "orbit",
+        "orbitIndex",
+        "x",
+        "y",
+        "out",
+        "in",
+        "edges"
+      ]
+    },
+    {
+      "id": "16732",
+      "name": "",
+      "ascendancyId": "Marauder1",
+      "x": -16418.4,
+      "y": 7973.42,
+      "out": [
+        "28460",
+        "33810",
+        "28814",
+        "41136",
+        "65136"
+      ],
+      "in": [
+        "47175"
+      ],
+      "stats": [],
+      "raw_keys": [
+        "id",
+        "skill",
+        "name",
+        "icon",
+        "stats",
+        "ascendancyId",
+        "isAscendancyStart",
+        "group",
+        "orbit",
+        "orbitIndex",
+        "x",
+        "y",
+        "out",
+        "in",
+        "edges"
+      ]
+    },
+    {
+      "id": "54579",
+      "name": "",
+      "ascendancyId": "Marauder2",
+      "x": -17594.8,
+      "y": 9999.39,
+      "out": [
+        "14143",
+        "6799",
+        "40358",
+        "12261",
+        "43012"
+      ],
+      "in": [
+        "47175"
+      ],
+      "stats": [],
+      "raw_keys": [
+        "id",
+        "skill",
+        "name",
+        "icon",
+        "stats",
+        "ascendancyId",
+        "isAscendancyStart",
+        "group",
+        "orbit",
+        "orbitIndex",
+        "x",
+        "y",
+        "out",
+        "in",
+        "edges"
+      ]
+    },
+    {
+      "id": "51916",
+      "name": "",
+      "ascendancyId": "Marauder3",
+      "x": -15271.4,
+      "y": 9912.93,
+      "out": [
+        "21773",
+        "47642",
+        "38626",
+        "11674",
+        "52088"
+      ],
+      "in": [
+        "47175"
+      ],
+      "stats": [],
+      "raw_keys": [
+        "id",
+        "skill",
+        "name",
+        "icon",
+        "stats",
+        "ascendancyId",
+        "isAscendancyStart",
+        "group",
+        "orbit",
+        "orbitIndex",
+        "x",
+        "y",
+        "out",
+        "in",
+        "edges"
+      ]
+    },
+    {
+      "id": "36252",
+      "name": "Tactician",
+      "ascendancyId": "Mercenary1",
+      "x": -5780.33,
+      "y": 17710.6,
+      "out": [
+        "46522",
+        "762",
+        "12054",
+        "29162",
+        "54892"
+      ],
+      "in": [
+        "50986"
+      ],
+      "stats": [],
+      "raw_keys": [
+        "id",
+        "skill",
+        "name",
+        "icon",
+        "ascendancyId",
+        "isAscendancyStart",
+        "stats",
+        "group",
+        "orbit",
+        "orbitIndex",
+        "x",
+        "y",
+        "out",
+        "in",
+        "edges"
+      ]
+    },
+    {
+      "id": "7120",
+      "name": "Witchhunter",
+      "ascendancyId": "Mercenary2",
+      "x": -7044.15,
+      "y": 20144.6,
+      "out": [
+        "43131",
+        "20830",
+        "61897",
+        "51737",
+        "25172"
+      ],
+      "in": [
+        "50986"
+      ],
+      "stats": [],
+      "raw_keys": [
+        "id",
+        "skill",
+        "name",
+        "icon",
+        "ascendancyId",
+        "isAscendancyStart",
+        "stats",
+        "group",
+        "orbit",
+        "orbitIndex",
+        "x",
+        "y",
+        "out",
+        "in",
+        "edges"
+      ]
+    },
+    {
+      "id": "55536",
+      "name": "Gambler",
+      "ascendancyId": "Mercenary3",
+      "x": -4507.21,
+      "y": 20196.5,
+      "out": [
+        "34882",
+        "1442",
+        "3084"
+      ],
+      "in": [
+        "50986"
+      ],
+      "stats": [],
+      "raw_keys": [
+        "id",
+        "skill",
+        "name",
+        "icon",
+        "ascendancyId",
+        "isAscendancyStart",
+        "stats",
+        "group",
+        "orbit",
+        "orbitIndex",
+        "x",
+        "y",
+        "out",
+        "in",
+        "edges"
+      ]
+    },
+    {
+      "id": "11495",
+      "name": "Martial Artist",
+      "ascendancyId": "Monk1",
+      "x": 15934.7,
+      "y": -6466.77,
+      "out": [
+        "34081",
+        "36643",
+        "53280",
+        "20437",
+        "52295",
+        "37604"
+      ],
+      "in": [
+        "44683"
+      ],
+      "stats": [],
+      "raw_keys": [
+        "id",
+        "skill",
+        "name",
+        "icon",
+        "ascendancyId",
+        "isAscendancyStart",
+        "stats",
+        "group",
+        "orbit",
+        "orbitIndex",
+        "x",
+        "y",
+        "out",
+        "in",
+        "edges"
+      ]
+    },
+    {
+      "id": "9994",
+      "name": "Master of the Elements",
+      "ascendancyId": "Monk2",
+      "x": 15872.7,
+      "y": -3918.67,
+      "out": [
+        "23415",
+        "44357",
+        "13065",
+        "27686",
+        "25434",
+        "17268"
+      ],
+      "in": [
+        "44683"
+      ],
+      "stats": [],
+      "raw_keys": [
+        "id",
+        "skill",
+        "name",
+        "icon",
+        "ascendancyId",
+        "isAscendancyStart",
+        "stats",
+        "group",
+        "orbit",
+        "orbitIndex",
+        "x",
+        "y",
+        "out",
+        "in",
+        "edges"
+      ]
+    },
+    {
+      "id": "74",
+      "name": "Acolyte of Chayula",
+      "ascendancyId": "Monk3",
+      "x": 18232.4,
+      "y": -5305.15,
+      "out": [
+        "17923",
+        "24475",
+        "36788",
+        "25779",
+        "1347",
+        "25885"
+      ],
+      "in": [
+        "44683"
+      ],
+      "stats": [],
+      "raw_keys": [
+        "id",
+        "skill",
+        "name",
+        "icon",
+        "ascendancyId",
+        "isAscendancyStart",
+        "stats",
+        "group",
+        "orbit",
+        "orbitIndex",
+        "x",
+        "y",
+        "out",
+        "in",
+        "edges"
+      ]
+    },
+    {
+      "id": "46990",
+      "name": "Deadeye",
+      "ascendancyId": "Ranger1",
+      "x": 15613.1,
+      "y": 5472.44,
+      "out": [
+        "3987",
+        "39723",
+        "49165",
+        "24295",
+        "61461"
+      ],
+      "in": [
+        "50459"
+      ],
+      "stats": [],
+      "raw_keys": [
+        "id",
+        "skill",
+        "name",
+        "icon",
+        "ascendancyId",
+        "isAscendancyStart",
+        "stats",
+        "group",
+        "orbit",
+        "orbitIndex",
+        "x",
+        "y",
+        "out",
+        "in",
+        "edges"
+      ]
+    },
+    {
+      "id": "24665",
+      "name": "",
+      "ascendancyId": "Ranger2",
+      "x": 13927.3,
+      "y": 7547.7,
+      "out": [
+        "42936",
+        "21719",
+        "33201",
+        "34963",
+        "14957"
+      ],
+      "in": [
+        "50459"
+      ],
+      "stats": [],
+      "raw_keys": [
+        "id",
+        "skill",
+        "name",
+        "icon",
+        "stats",
+        "ascendancyId",
+        "isAscendancyStart",
+        "group",
+        "orbit",
+        "orbitIndex",
+        "x",
+        "y",
+        "out",
+        "in",
+        "edges"
+      ]
+    },
+    {
+      "id": "1583",
+      "name": "Pathfinder",
+      "ascendancyId": "Ranger3",
+      "x": 16578.8,
+      "y": 7454.23,
+      "out": [
+        "14508",
+        "9798",
+        "49503",
+        "39292",
+        "12183",
+        "16"
+      ],
+      "in": [
+        "50459"
+      ],
+      "stats": [],
+      "raw_keys": [
+        "id",
+        "skill",
+        "name",
+        "icon",
+        "ascendancyId",
+        "isAscendancyStart",
+        "stats",
+        "group",
+        "orbit",
+        "orbitIndex",
+        "x",
+        "y",
+        "out",
+        "in",
+        "edges"
+      ]
+    },
+    {
+      "id": "5162",
+      "name": "",
+      "ascendancyId": "Shadow1",
+      "x": 14046.6,
+      "y": -11023.1,
+      "out": [
+        "49159",
+        "42596",
+        "33215",
+        "43404",
+        "10414",
+        "25344"
+      ],
+      "in": [
+        "44683"
+      ],
+      "stats": [],
+      "raw_keys": [
+        "id",
+        "skill",
+        "name",
+        "icon",
+        "stats",
+        "ascendancyId",
+        "isAscendancyStart",
+        "group",
+        "orbit",
+        "orbitIndex",
+        "x",
+        "y",
+        "out",
+        "in",
+        "edges"
+      ]
+    },
+    {
+      "id": "45406",
+      "name": "",
+      "ascendancyId": "Shadow2",
+      "x": 12554.6,
+      "y": -9016.07,
+      "out": [
+        "4991",
+        "56451",
+        "37563",
+        "36668",
+        "1894",
+        "30803"
+      ],
+      "in": [
+        "44683"
+      ],
+      "stats": [],
+      "raw_keys": [
+        "id",
+        "skill",
+        "name",
+        "icon",
+        "stats",
+        "ascendancyId",
+        "isAscendancyStart",
+        "group",
+        "orbit",
+        "orbitIndex",
+        "x",
+        "y",
+        "out",
+        "in",
+        "edges"
+      ]
+    },
+    {
+      "id": "50198",
+      "name": "",
+      "ascendancyId": "Shadow3",
+      "x": 14963.7,
+      "y": -9132.6,
+      "out": [
+        "38102",
+        "37921",
+        "62818",
+        "6971",
+        "13794"
+      ],
+      "in": [
+        "44683"
+      ],
+      "stats": [],
+      "raw_keys": [
+        "id",
+        "skill",
+        "name",
+        "icon",
+        "stats",
+        "ascendancyId",
+        "isAscendancyStart",
+        "group",
+        "orbit",
+        "orbitIndex",
+        "x",
+        "y",
+        "out",
+        "in",
+        "edges"
+      ]
+    },
+    {
+      "id": "40721",
+      "name": "Stormweaver",
+      "ascendancyId": "Sorceress1",
+      "x": -3808.09,
+      "y": -17801.5,
+      "out": [
+        "64789",
+        "65413",
+        "49759",
+        "13673",
+        "12488",
+        "44484"
+      ],
+      "in": [
+        "54447"
+      ],
+      "stats": [],
+      "raw_keys": [
+        "id",
+        "skill",
+        "name",
+        "icon",
+        "ascendancyId",
+        "isAscendancyStart",
+        "stats",
+        "group",
+        "orbit",
+        "orbitIndex",
+        "x",
+        "y",
+        "out",
+        "in",
+        "edges"
+      ]
+    },
+    {
+      "id": "22147",
+      "name": "Chronomancer",
+      "ascendancyId": "Sorceress2",
+      "x": -5794.69,
+      "y": -15863.3,
+      "out": [
+        "18678",
+        "50219",
+        "1579",
+        "27990",
+        "43128",
+        "54194"
+      ],
+      "in": [
+        "54447"
+      ],
+      "stats": [],
+      "raw_keys": [
+        "id",
+        "skill",
+        "name",
+        "icon",
+        "ascendancyId",
+        "isAscendancyStart",
+        "stats",
+        "group",
+        "orbit",
+        "orbitIndex",
+        "x",
+        "y",
+        "out",
+        "in",
+        "edges"
+      ]
+    },
+    {
+      "id": "8305",
+      "name": "Disciple of Varashta",
+      "ascendancyId": "Sorceress3",
+      "x": -2650.28,
+      "y": -15491.9,
+      "out": [
+        "9843",
+        "56783",
+        "13289",
+        "32705",
+        "34207",
+        "30265",
+        "35880"
+      ],
+      "in": [
+        "54447"
+      ],
+      "stats": [],
+      "raw_keys": [
+        "id",
+        "skill",
+        "name",
+        "icon",
+        "ascendancyId",
+        "isAscendancyStart",
+        "stats",
+        "group",
+        "orbit",
+        "orbitIndex",
+        "x",
+        "y",
+        "out",
+        "in",
+        "edges"
+      ]
+    },
+    {
+      "id": "35715",
+      "name": "",
+      "ascendancyId": "Templar1",
+      "x": -22983.6,
+      "y": -6933,
+      "out": [
+        "44889",
+        "35998",
+        "23732",
+        "23443",
+        "21974"
+      ],
+      "in": [
+        "61525"
+      ],
+      "stats": [],
+      "raw_keys": [
+        "id",
+        "skill",
+        "name",
+        "icon",
+        "stats",
+        "ascendancyId",
+        "isAscendancyStart",
+        "group",
+        "orbit",
+        "orbitIndex",
+        "x",
+        "y",
+        "out",
+        "in",
+        "edges"
+      ]
+    },
+    {
+      "id": "26353",
+      "name": "",
+      "ascendancyId": "Templar2",
+      "x": -20482.7,
+      "y": -7202.75,
+      "out": [
+        "443",
+        "21676",
+        "45846",
+        "23641",
+        "49398"
+      ],
+      "in": [
+        "61525"
+      ],
+      "stats": [],
+      "raw_keys": [
+        "id",
+        "skill",
+        "name",
+        "icon",
+        "stats",
+        "ascendancyId",
+        "isAscendancyStart",
+        "group",
+        "orbit",
+        "orbitIndex",
+        "x",
+        "y",
+        "out",
+        "in",
+        "edges"
+      ]
+    },
+    {
+      "id": "950",
+      "name": "",
+      "ascendancyId": "Templar3",
+      "x": -18039.7,
+      "y": -7133.62,
+      "out": [
+        "31686",
+        "12040",
+        "51122",
+        "55300",
+        "38100",
+        "48936"
+      ],
+      "in": [
+        "61525"
+      ],
+      "stats": [],
+      "raw_keys": [
+        "id",
+        "skill",
+        "name",
+        "icon",
+        "stats",
+        "ascendancyId",
+        "isAscendancyStart",
+        "group",
+        "orbit",
+        "orbitIndex",
+        "x",
+        "y",
+        "out",
+        "in",
+        "edges"
+      ]
+    },
+    {
+      "id": "32534",
+      "name": "Titan",
+      "ascendancyId": "Warrior1",
+      "x": -18967,
+      "y": 4344.19,
+      "out": [
+        "35453",
+        "19424",
+        "13715",
+        "51690",
+        "29323"
+      ],
+      "in": [
+        "47175"
+      ],
+      "stats": [],
+      "raw_keys": [
+        "id",
+        "skill",
+        "name",
+        "icon",
+        "ascendancyId",
+        "isAscendancyStart",
+        "stats",
+        "group",
+        "orbit",
+        "orbitIndex",
+        "x",
+        "y",
+        "out",
+        "in",
+        "edges"
+      ]
+    },
+    {
+      "id": "33812",
+      "name": "Brute",
+      "ascendancyId": "Warrior2",
+      "x": -21155.2,
+      "y": 5167.88,
+      "out": [
+        "38769",
+        "18585",
+        "25935",
+        "1994",
+        "39365"
+      ],
+      "in": [
+        "47175"
+      ],
+      "stats": [],
+      "raw_keys": [
+        "id",
+        "skill",
+        "name",
+        "icon",
+        "ascendancyId",
+        "isAscendancyStart",
+        "stats",
+        "group",
+        "orbit",
+        "orbitIndex",
+        "x",
+        "y",
+        "out",
+        "in",
+        "edges"
+      ]
+    },
+    {
+      "id": "5852",
+      "name": "Smith of Kitava",
+      "ascendancyId": "Warrior3",
+      "x": -21978.9,
+      "y": 7459.09,
+      "out": [
+        "20895",
+        "47236",
+        "5386",
+        "14960",
+        "9988"
+      ],
+      "in": [
+        "47175"
+      ],
+      "stats": [],
+      "raw_keys": [
+        "id",
+        "skill",
+        "name",
+        "icon",
+        "ascendancyId",
+        "isAscendancyStart",
+        "stats",
+        "group",
+        "orbit",
+        "orbitIndex",
+        "x",
+        "y",
+        "out",
+        "in",
+        "edges"
+      ]
+    },
+    {
+      "id": "32699",
+      "name": "Infernalist",
+      "ascendancyId": "Witch1",
+      "x": -308.885,
+      "y": -18939.3,
+      "out": [
+        "7793",
+        "23880",
+        "24135",
+        "39470",
+        "64379",
+        "63484"
+      ],
+      "in": [
+        "54447"
+      ],
+      "stats": [],
+      "raw_keys": [
+        "id",
+        "skill",
+        "name",
+        "icon",
+        "ascendancyId",
+        "isAscendancyStart",
+        "stats",
+        "group",
+        "orbit",
+        "orbitIndex",
+        "x",
+        "y",
+        "out",
+        "in",
+        "edges"
+      ]
+    },
+    {
+      "id": "59822",
+      "name": "Blood Mage",
+      "ascendancyId": "Witch2",
+      "x": 2442.74,
+      "y": -18936.4,
+      "out": [
+        "8415"
+      ],
+      "in": [
+        "54447"
+      ],
+      "stats": [],
+      "raw_keys": [
+        "id",
+        "skill",
+        "name",
+        "icon",
+        "ascendancyId",
+        "isAscendancyStart",
+        "stats",
+        "group",
+        "orbit",
+        "orbitIndex",
+        "x",
+        "y",
+        "out",
+        "in",
+        "edges"
+      ]
+    },
+    {
+      "id": "23710",
+      "name": "Necromancer",
+      "ascendancyId": "Witch3",
+      "x": 5253.69,
+      "y": -19013.2,
+      "out": [
+        "58751",
+        "2995",
+        "51142",
+        "39241",
+        "33141",
+        "62797"
+      ],
+      "in": [
+        "54447"
+      ],
+      "stats": [],
+      "raw_keys": [
+        "id",
+        "skill",
+        "name",
+        "icon",
+        "ascendancyId",
+        "isAscendancyStart",
+        "stats",
+        "group",
+        "orbit",
+        "orbitIndex",
+        "x",
+        "y",
+        "out",
+        "in",
+        "edges"
+      ]
+    }
+  ]
+}

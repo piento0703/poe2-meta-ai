@@ -1,0 +1,3546 @@
+[
+  {
+    "cluster": "projectile + fire",
+    "tags": [
+      "fire",
+      "projectile"
+    ],
+    "cluster_score": 531.91,
+    "skill_count": 14,
+    "avg_skill_score": 3538.21,
+    "total_skill_score": 49535.0,
+    "top_skills": [
+      {
+        "skill": "Gas Grenade (5) Attack , AoE , Projectile , Grenade , Fire , Chaos , Duration",
+        "score": 4534.5,
+        "skill_tags": [
+          "aoe",
+          "attack",
+          "chaos",
+          "duration",
+          "fire",
+          "projectile"
+        ]
+      },
+      {
+        "skill": "Elemental Expression (1) Spell , AoE , Projectile , Trigger , Lightning , Cold , Fire , Chaining",
+        "score": 4475.0,
+        "skill_tags": [
+          "aoe",
+          "cold",
+          "fire",
+          "lightning",
+          "projectile",
+          "spell",
+          "trigger"
+        ]
+      },
+      {
+        "skill": "Oil Grenade (9) Attack , AoE , Projectile , Grenade , Fire , Duration",
+        "score": 4279.5,
+        "skill_tags": [
+          "aoe",
+          "attack",
+          "duration",
+          "fire",
+          "projectile"
+        ]
+      },
+      {
+        "skill": "Siege Ballista (9) Attack , Totem , AoE , Projectile , Fire , Duration , Barrageable",
+        "score": 4279.5,
+        "skill_tags": [
+          "aoe",
+          "attack",
+          "duration",
+          "fire",
+          "projectile"
+        ]
+      },
+      {
+        "skill": "Rolling Magma (3) Attack , Shapeshift , Wyvern , AoE , Projectile , Fire , Detonator",
+        "score": 3907.5,
+        "skill_tags": [
+          "aoe",
+          "attack",
+          "fire",
+          "projectile",
+          "shapeshift"
+        ]
+      },
+      {
+        "skill": "Volcano (1) Spell , AoE , Projectile , Sustained , Fire , Duration , Channelling",
+        "score": 3410.5,
+        "skill_tags": [
+          "aoe",
+          "duration",
+          "fire",
+          "projectile",
+          "spell"
+        ]
+      },
+      {
+        "skill": "Explosive Concoction (1) Attack , AoE , Projectile , Fire",
+        "score": 3378.5,
+        "skill_tags": [
+          "aoe",
+          "attack",
+          "fire",
+          "projectile"
+        ]
+      },
+      {
+        "skill": "Explosive Grenade (1) Attack , AoE , Projectile , Grenade , Fire , Detonator",
+        "score": 3378.5,
+        "skill_tags": [
+          "aoe",
+          "attack",
+          "fire",
+          "projectile"
+        ]
+      },
+      {
+        "skill": "Incendiary Shot (3) Attack , AoE , Ammunition , Projectile , Fire , Merging",
+        "score": 3378.5,
+        "skill_tags": [
+          "aoe",
+          "attack",
+          "fire",
+          "projectile"
+        ]
+      },
+      {
+        "skill": "Explosive Shot (7) Attack , AoE , Ammunition , Projectile , Fire , Detonator",
+        "score": 3378.5,
+        "skill_tags": [
+          "aoe",
+          "attack",
+          "fire",
+          "projectile"
+        ]
+      },
+      {
+        "skill": "Cluster Grenade (13) Attack , AoE , Projectile , Grenade , Fire",
+        "score": 3378.5,
+        "skill_tags": [
+          "aoe",
+          "attack",
+          "fire",
+          "projectile"
+        ]
+      },
+      {
+        "skill": "Ruzhan's Trap (1) Command , AoE , Projectile , Fire , Duration , Hazard",
+        "score": 2911.5,
+        "skill_tags": [
+          "aoe",
+          "duration",
+          "fire",
+          "projectile"
+        ]
+      },
+      {
+        "skill": "Rapid Shot (5) Attack , Ammunition , Projectile , Fire",
+        "score": 2846.0,
+        "skill_tags": [
+          "attack",
+          "fire",
+          "projectile"
+        ]
+      },
+      {
+        "skill": "Ruzhan's Fury (1) Command , AoE , Projectile , Fire",
+        "score": 1998.5,
+        "skill_tags": [
+          "aoe",
+          "fire",
+          "projectile"
+        ]
+      }
+    ]
+  },
+  {
+    "cluster": "duration + fire",
+    "tags": [
+      "duration",
+      "fire"
+    ],
+    "cluster_score": 515.57,
+    "skill_count": 12,
+    "avg_skill_score": 4011.42,
+    "total_skill_score": 48137.0,
+    "top_skills": [
+      {
+        "skill": "Apocalypse (1) Buff , Spell , AoE , Trigger , Lightning , Cold , Fire , Duration , Conditional , Storm",
+        "score": 4739.0,
+        "skill_tags": [
+          "aoe",
+          "cold",
+          "duration",
+          "fire",
+          "lightning",
+          "spell",
+          "trigger"
+        ]
+      },
+      {
+        "skill": "Elemental Storm (1) Spell , AoE , Trigger , Lightning , Cold , Fire , Duration , Orb",
+        "score": 4739.0,
+        "skill_tags": [
+          "aoe",
+          "cold",
+          "duration",
+          "fire",
+          "lightning",
+          "spell",
+          "trigger"
+        ]
+      },
+      {
+        "skill": "Gas Grenade (5) Attack , AoE , Projectile , Grenade , Fire , Chaos , Duration",
+        "score": 4534.5,
+        "skill_tags": [
+          "aoe",
+          "attack",
+          "chaos",
+          "duration",
+          "fire",
+          "projectile"
+        ]
+      },
+      {
+        "skill": "Walking Calamity (13) Attack , Shapeshift , Buff , Bear , AoE , Trigger , Fire , Duration , Conditional",
+        "score": 4353.0,
+        "skill_tags": [
+          "aoe",
+          "attack",
+          "duration",
+          "fire",
+          "shapeshift",
+          "trigger"
+        ]
+      },
+      {
+        "skill": "Oil Grenade (9) Attack , AoE , Projectile , Grenade , Fire , Duration",
+        "score": 4279.5,
+        "skill_tags": [
+          "aoe",
+          "attack",
+          "duration",
+          "fire",
+          "projectile"
+        ]
+      },
+      {
+        "skill": "Siege Ballista (9) Attack , Totem , AoE , Projectile , Fire , Duration , Barrageable",
+        "score": 4279.5,
+        "skill_tags": [
+          "aoe",
+          "attack",
+          "duration",
+          "fire",
+          "projectile"
+        ]
+      },
+      {
+        "skill": "Flame Breath (13) Attack , Shapeshift , Wyvern , AoE , Sustained , Fire , Duration , Channelling , Detonator",
+        "score": 4221.5,
+        "skill_tags": [
+          "aoe",
+          "attack",
+          "duration",
+          "fire",
+          "shapeshift"
+        ]
+      },
+      {
+        "skill": "Shard Scavenger (8) Buff , Persistent , Physical , Lightning , Cold , Fire , Duration",
+        "score": 3928.0,
+        "skill_tags": [
+          "cold",
+          "duration",
+          "fire",
+          "lightning",
+          "physical"
+        ]
+      },
+      {
+        "skill": "Unbound Avatar (1) Buff , Lightning , Cold , Fire , Duration , Conditional",
+        "score": 3548.0,
+        "skill_tags": [
+          "cold",
+          "duration",
+          "fire",
+          "lightning"
+        ]
+      },
+      {
+        "skill": "Volcano (1) Spell , AoE , Projectile , Sustained , Fire , Duration , Channelling",
+        "score": 3410.5,
+        "skill_tags": [
+          "aoe",
+          "duration",
+          "fire",
+          "projectile",
+          "spell"
+        ]
+      },
+      {
+        "skill": "Decompose (1) Spell , AoE , Trigger , Fire , Chaos , Duration",
+        "score": 3193.0,
+        "skill_tags": [
+          "aoe",
+          "chaos",
+          "duration",
+          "fire",
+          "spell",
+          "trigger"
+        ]
+      },
+      {
+        "skill": "Ruzhan's Trap (1) Command , AoE , Projectile , Fire , Duration , Hazard",
+        "score": 2911.5,
+        "skill_tags": [
+          "aoe",
+          "duration",
+          "fire",
+          "projectile"
+        ]
+      }
+    ]
+  },
+  {
+    "cluster": "lightning + cold + fire",
+    "tags": [
+      "cold",
+      "fire",
+      "lightning"
+    ],
+    "cluster_score": 512.05,
+    "skill_count": 9,
+    "avg_skill_score": 4241.0,
+    "total_skill_score": 38169.0,
+    "top_skills": [
+      {
+        "skill": "Elemental Invocation (8) Buff , Persistent , Trigger , Lightning , Cold , Fire , Invocation , Meta",
+        "score": 6104.0,
+        "skill_tags": [
+          "cold",
+          "fire",
+          "lightning",
+          "meta_energy",
+          "trigger"
+        ]
+      },
+      {
+        "skill": "Elemental Surge (1) Attack , AoE , Trigger , Lightning , Cold , Fire",
+        "score": 4757.0,
+        "skill_tags": [
+          "aoe",
+          "attack",
+          "cold",
+          "fire",
+          "lightning",
+          "trigger"
+        ]
+      },
+      {
+        "skill": "Apocalypse (1) Buff , Spell , AoE , Trigger , Lightning , Cold , Fire , Duration , Conditional , Storm",
+        "score": 4739.0,
+        "skill_tags": [
+          "aoe",
+          "cold",
+          "duration",
+          "fire",
+          "lightning",
+          "spell",
+          "trigger"
+        ]
+      },
+      {
+        "skill": "Elemental Storm (1) Spell , AoE , Trigger , Lightning , Cold , Fire , Duration , Orb",
+        "score": 4739.0,
+        "skill_tags": [
+          "aoe",
+          "cold",
+          "duration",
+          "fire",
+          "lightning",
+          "spell",
+          "trigger"
+        ]
+      },
+      {
+        "skill": "Elemental Expression (1) Spell , AoE , Projectile , Trigger , Lightning , Cold , Fire , Chaining",
+        "score": 4475.0,
+        "skill_tags": [
+          "aoe",
+          "cold",
+          "fire",
+          "lightning",
+          "projectile",
+          "spell",
+          "trigger"
+        ]
+      },
+      {
+        "skill": "Shard Scavenger (8) Buff , Persistent , Physical , Lightning , Cold , Fire , Duration",
+        "score": 3928.0,
+        "skill_tags": [
+          "cold",
+          "duration",
+          "fire",
+          "lightning",
+          "physical"
+        ]
+      },
+      {
+        "skill": "Unbound Avatar (1) Buff , Lightning , Cold , Fire , Duration , Conditional",
+        "score": 3548.0,
+        "skill_tags": [
+          "cold",
+          "duration",
+          "fire",
+          "lightning"
+        ]
+      },
+      {
+        "skill": "Sorcery Ward (1) Spell , Buff , Persistent , Lightning , Cold , Fire",
+        "score": 3205.0,
+        "skill_tags": [
+          "cold",
+          "fire",
+          "lightning",
+          "spell"
+        ]
+      },
+      {
+        "skill": "Trinity (14) Buff , Persistent , Lightning , Cold , Fire",
+        "score": 2674.0,
+        "skill_tags": [
+          "cold",
+          "fire",
+          "lightning"
+        ]
+      }
+    ]
+  },
+  {
+    "cluster": "trigger + lightning + cold + fire",
+    "tags": [
+      "cold",
+      "fire",
+      "lightning",
+      "trigger"
+    ],
+    "cluster_score": 508.14,
+    "skill_count": 5,
+    "avg_skill_score": 4962.8,
+    "total_skill_score": 24814.0,
+    "top_skills": [
+      {
+        "skill": "Elemental Invocation (8) Buff , Persistent , Trigger , Lightning , Cold , Fire , Invocation , Meta",
+        "score": 6104.0,
+        "skill_tags": [
+          "cold",
+          "fire",
+          "lightning",
+          "meta_energy",
+          "trigger"
+        ]
+      },
+      {
+        "skill": "Elemental Surge (1) Attack , AoE , Trigger , Lightning , Cold , Fire",
+        "score": 4757.0,
+        "skill_tags": [
+          "aoe",
+          "attack",
+          "cold",
+          "fire",
+          "lightning",
+          "trigger"
+        ]
+      },
+      {
+        "skill": "Apocalypse (1) Buff , Spell , AoE , Trigger , Lightning , Cold , Fire , Duration , Conditional , Storm",
+        "score": 4739.0,
+        "skill_tags": [
+          "aoe",
+          "cold",
+          "duration",
+          "fire",
+          "lightning",
+          "spell",
+          "trigger"
+        ]
+      },
+      {
+        "skill": "Elemental Storm (1) Spell , AoE , Trigger , Lightning , Cold , Fire , Duration , Orb",
+        "score": 4739.0,
+        "skill_tags": [
+          "aoe",
+          "cold",
+          "duration",
+          "fire",
+          "lightning",
+          "spell",
+          "trigger"
+        ]
+      },
+      {
+        "skill": "Elemental Expression (1) Spell , AoE , Projectile , Trigger , Lightning , Cold , Fire , Chaining",
+        "score": 4475.0,
+        "skill_tags": [
+          "aoe",
+          "cold",
+          "fire",
+          "lightning",
+          "projectile",
+          "spell",
+          "trigger"
+        ]
+      }
+    ]
+  },
+  {
+    "cluster": "trigger + fire",
+    "tags": [
+      "fire",
+      "trigger"
+    ],
+    "cluster_score": 499.44,
+    "skill_count": 10,
+    "avg_skill_score": 4388.7,
+    "total_skill_score": 43887.0,
+    "top_skills": [
+      {
+        "skill": "Elemental Invocation (8) Buff , Persistent , Trigger , Lightning , Cold , Fire , Invocation , Meta",
+        "score": 6104.0,
+        "skill_tags": [
+          "cold",
+          "fire",
+          "lightning",
+          "meta_energy",
+          "trigger"
+        ]
+      },
+      {
+        "skill": "Fire Spell on Hit (1) Buff , Persistent , Trigger , Fire , Meta",
+        "score": 4778.0,
+        "skill_tags": [
+          "fire",
+          "meta_energy",
+          "spell",
+          "trigger"
+        ]
+      },
+      {
+        "skill": "Elemental Surge (1) Attack , AoE , Trigger , Lightning , Cold , Fire",
+        "score": 4757.0,
+        "skill_tags": [
+          "aoe",
+          "attack",
+          "cold",
+          "fire",
+          "lightning",
+          "trigger"
+        ]
+      },
+      {
+        "skill": "Apocalypse (1) Buff , Spell , AoE , Trigger , Lightning , Cold , Fire , Duration , Conditional , Storm",
+        "score": 4739.0,
+        "skill_tags": [
+          "aoe",
+          "cold",
+          "duration",
+          "fire",
+          "lightning",
+          "spell",
+          "trigger"
+        ]
+      },
+      {
+        "skill": "Elemental Storm (1) Spell , AoE , Trigger , Lightning , Cold , Fire , Duration , Orb",
+        "score": 4739.0,
+        "skill_tags": [
+          "aoe",
+          "cold",
+          "duration",
+          "fire",
+          "lightning",
+          "spell",
+          "trigger"
+        ]
+      },
+      {
+        "skill": "Elemental Expression (1) Spell , AoE , Projectile , Trigger , Lightning , Cold , Fire , Chaining",
+        "score": 4475.0,
+        "skill_tags": [
+          "aoe",
+          "cold",
+          "fire",
+          "lightning",
+          "projectile",
+          "spell",
+          "trigger"
+        ]
+      },
+      {
+        "skill": "Walking Calamity (13) Attack , Shapeshift , Buff , Bear , AoE , Trigger , Fire , Duration , Conditional",
+        "score": 4353.0,
+        "skill_tags": [
+          "aoe",
+          "attack",
+          "duration",
+          "fire",
+          "shapeshift",
+          "trigger"
+        ]
+      },
+      {
+        "skill": "Gemini Surge (1) Attack , AoE , Trigger , Cold , Fire",
+        "score": 3823.0,
+        "skill_tags": [
+          "aoe",
+          "attack",
+          "cold",
+          "fire",
+          "trigger"
+        ]
+      },
+      {
+        "skill": "Decompose (1) Spell , AoE , Trigger , Fire , Chaos , Duration",
+        "score": 3193.0,
+        "skill_tags": [
+          "aoe",
+          "chaos",
+          "duration",
+          "fire",
+          "spell",
+          "trigger"
+        ]
+      },
+      {
+        "skill": "Temper Weapon (1) Attack , Buff , AoE , Melee , Trigger , Fire , Channelling",
+        "score": 2926.0,
+        "skill_tags": [
+          "aoe",
+          "attack",
+          "fire",
+          "trigger"
+        ]
+      }
+    ]
+  },
+  {
+    "cluster": "meta_energy + trigger",
+    "tags": [
+      "meta_energy",
+      "trigger"
+    ],
+    "cluster_score": 492.46,
+    "skill_count": 8,
+    "avg_skill_score": 4549.12,
+    "total_skill_score": 36393.0,
+    "top_skills": [
+      {
+        "skill": "Pounce (3) Attack , Minion , Shapeshift , Werewolf , AoE , Melee , Slam , Trigger , Mark , Duration , Travel , Meta",
+        "score": 7262.0,
+        "skill_tags": [
+          "aoe",
+          "attack",
+          "duration",
+          "meta_energy",
+          "minion",
+          "shapeshift",
+          "trigger"
+        ]
+      },
+      {
+        "skill": "Elemental Invocation (8) Buff , Persistent , Trigger , Lightning , Cold , Fire , Invocation , Meta",
+        "score": 6104.0,
+        "skill_tags": [
+          "cold",
+          "fire",
+          "lightning",
+          "meta_energy",
+          "trigger"
+        ]
+      },
+      {
+        "skill": "Fire Spell on Hit (1) Buff , Persistent , Trigger , Fire , Meta",
+        "score": 4778.0,
+        "skill_tags": [
+          "fire",
+          "meta_energy",
+          "spell",
+          "trigger"
+        ]
+      },
+      {
+        "skill": "Mirage Deadeye (1) Buff , Persistent , Trigger , Duration , Meta",
+        "score": 4397.0,
+        "skill_tags": [
+          "duration",
+          "meta_energy",
+          "trigger"
+        ]
+      },
+      {
+        "skill": "Cast on Block (1) Buff , Persistent , Trigger , Meta",
+        "score": 3463.0,
+        "skill_tags": [
+          "meta_energy",
+          "trigger"
+        ]
+      },
+      {
+        "skill": "Barrier Invocation (8) Buff , Persistent , Trigger , Invocation , Meta",
+        "score": 3463.0,
+        "skill_tags": [
+          "meta_energy",
+          "trigger"
+        ]
+      },
+      {
+        "skill": "Cast on Dodge (14) Buff , Persistent , Trigger , Meta",
+        "score": 3463.0,
+        "skill_tags": [
+          "meta_energy",
+          "trigger"
+        ]
+      },
+      {
+        "skill": "Reaper's Invocation (14) Buff , Persistent , Trigger , Invocation , Meta",
+        "score": 3463.0,
+        "skill_tags": [
+          "meta_energy",
+          "trigger"
+        ]
+      }
+    ]
+  },
+  {
+    "cluster": "cold + fire",
+    "tags": [
+      "cold",
+      "fire"
+    ],
+    "cluster_score": 489.96,
+    "skill_count": 10,
+    "avg_skill_score": 4199.2,
+    "total_skill_score": 41992.0,
+    "top_skills": [
+      {
+        "skill": "Elemental Invocation (8) Buff , Persistent , Trigger , Lightning , Cold , Fire , Invocation , Meta",
+        "score": 6104.0,
+        "skill_tags": [
+          "cold",
+          "fire",
+          "lightning",
+          "meta_energy",
+          "trigger"
+        ]
+      },
+      {
+        "skill": "Elemental Surge (1) Attack , AoE , Trigger , Lightning , Cold , Fire",
+        "score": 4757.0,
+        "skill_tags": [
+          "aoe",
+          "attack",
+          "cold",
+          "fire",
+          "lightning",
+          "trigger"
+        ]
+      },
+      {
+        "skill": "Apocalypse (1) Buff , Spell , AoE , Trigger , Lightning , Cold , Fire , Duration , Conditional , Storm",
+        "score": 4739.0,
+        "skill_tags": [
+          "aoe",
+          "cold",
+          "duration",
+          "fire",
+          "lightning",
+          "spell",
+          "trigger"
+        ]
+      },
+      {
+        "skill": "Elemental Storm (1) Spell , AoE , Trigger , Lightning , Cold , Fire , Duration , Orb",
+        "score": 4739.0,
+        "skill_tags": [
+          "aoe",
+          "cold",
+          "duration",
+          "fire",
+          "lightning",
+          "spell",
+          "trigger"
+        ]
+      },
+      {
+        "skill": "Elemental Expression (1) Spell , AoE , Projectile , Trigger , Lightning , Cold , Fire , Chaining",
+        "score": 4475.0,
+        "skill_tags": [
+          "aoe",
+          "cold",
+          "fire",
+          "lightning",
+          "projectile",
+          "spell",
+          "trigger"
+        ]
+      },
+      {
+        "skill": "Shard Scavenger (8) Buff , Persistent , Physical , Lightning , Cold , Fire , Duration",
+        "score": 3928.0,
+        "skill_tags": [
+          "cold",
+          "duration",
+          "fire",
+          "lightning",
+          "physical"
+        ]
+      },
+      {
+        "skill": "Gemini Surge (1) Attack , AoE , Trigger , Cold , Fire",
+        "score": 3823.0,
+        "skill_tags": [
+          "aoe",
+          "attack",
+          "cold",
+          "fire",
+          "trigger"
+        ]
+      },
+      {
+        "skill": "Unbound Avatar (1) Buff , Lightning , Cold , Fire , Duration , Conditional",
+        "score": 3548.0,
+        "skill_tags": [
+          "cold",
+          "duration",
+          "fire",
+          "lightning"
+        ]
+      },
+      {
+        "skill": "Sorcery Ward (1) Spell , Buff , Persistent , Lightning , Cold , Fire",
+        "score": 3205.0,
+        "skill_tags": [
+          "cold",
+          "fire",
+          "lightning",
+          "spell"
+        ]
+      },
+      {
+        "skill": "Trinity (14) Buff , Persistent , Lightning , Cold , Fire",
+        "score": 2674.0,
+        "skill_tags": [
+          "cold",
+          "fire",
+          "lightning"
+        ]
+      }
+    ]
+  },
+  {
+    "cluster": "duration + projectile",
+    "tags": [
+      "duration",
+      "projectile"
+    ],
+    "cluster_score": 488.59,
+    "skill_count": 11,
+    "avg_skill_score": 3971.73,
+    "total_skill_score": 43689.0,
+    "top_skills": [
+      {
+        "skill": "Gas Grenade (5) Attack , AoE , Projectile , Grenade , Fire , Chaos , Duration",
+        "score": 4534.5,
+        "skill_tags": [
+          "aoe",
+          "attack",
+          "chaos",
+          "duration",
+          "fire",
+          "projectile"
+        ]
+      },
+      {
+        "skill": "Voltaic Grenade (7) Attack , AoE , Projectile , Grenade , Lightning , Duration",
+        "score": 4507.5,
+        "skill_tags": [
+          "aoe",
+          "attack",
+          "duration",
+          "lightning",
+          "projectile"
+        ]
+      },
+      {
+        "skill": "Stormblast Bolts (9) Attack , AoE , Ammunition , Projectile , Lightning , Duration",
+        "score": 4507.5,
+        "skill_tags": [
+          "aoe",
+          "attack",
+          "duration",
+          "lightning",
+          "projectile"
+        ]
+      },
+      {
+        "skill": "Glacial Bolt (7) Attack , AoE , Ammunition , Projectile , Cold , Duration",
+        "score": 4425.5,
+        "skill_tags": [
+          "aoe",
+          "attack",
+          "cold",
+          "duration",
+          "projectile"
+        ]
+      },
+      {
+        "skill": "Oil Grenade (9) Attack , AoE , Projectile , Grenade , Fire , Duration",
+        "score": 4279.5,
+        "skill_tags": [
+          "aoe",
+          "attack",
+          "duration",
+          "fire",
+          "projectile"
+        ]
+      },
+      {
+        "skill": "Siege Ballista (9) Attack , Totem , AoE , Projectile , Fire , Duration , Barrageable",
+        "score": 4279.5,
+        "skill_tags": [
+          "aoe",
+          "attack",
+          "duration",
+          "fire",
+          "projectile"
+        ]
+      },
+      {
+        "skill": "Staggering Palm (3) Attack , Buff , AoE , Melee , Strike , Projectile , Physical , Duration , Wind",
+        "score": 3919.5,
+        "skill_tags": [
+          "aoe",
+          "attack",
+          "duration",
+          "physical",
+          "projectile"
+        ]
+      },
+      {
+        "skill": "Artillery Ballista (7) Attack , Totem , AoE , Projectile , Sustained , Duration",
+        "score": 3526.5,
+        "skill_tags": [
+          "aoe",
+          "attack",
+          "duration",
+          "projectile"
+        ]
+      },
+      {
+        "skill": "Volcano (1) Spell , AoE , Projectile , Sustained , Fire , Duration , Channelling",
+        "score": 3410.5,
+        "skill_tags": [
+          "aoe",
+          "duration",
+          "fire",
+          "projectile",
+          "spell"
+        ]
+      },
+      {
+        "skill": "High Velocity Rounds (3) Attack , Ammunition , Projectile , Physical , Duration , Payoff",
+        "score": 3387.0,
+        "skill_tags": [
+          "attack",
+          "duration",
+          "physical",
+          "projectile"
+        ]
+      },
+      {
+        "skill": "Ruzhan's Trap (1) Command , AoE , Projectile , Fire , Duration , Hazard",
+        "score": 2911.5,
+        "skill_tags": [
+          "aoe",
+          "duration",
+          "fire",
+          "projectile"
+        ]
+      }
+    ]
+  },
+  {
+    "cluster": "trigger + cold",
+    "tags": [
+      "cold",
+      "trigger"
+    ],
+    "cluster_score": 484.41,
+    "skill_count": 9,
+    "avg_skill_score": 4488.11,
+    "total_skill_score": 40393.0,
+    "top_skills": [
+      {
+        "skill": "Elemental Invocation (8) Buff , Persistent , Trigger , Lightning , Cold , Fire , Invocation , Meta",
+        "score": 6104.0,
+        "skill_tags": [
+          "cold",
+          "fire",
+          "lightning",
+          "meta_energy",
+          "trigger"
+        ]
+      },
+      {
+        "skill": "Elemental Surge (1) Attack , AoE , Trigger , Lightning , Cold , Fire",
+        "score": 4757.0,
+        "skill_tags": [
+          "aoe",
+          "attack",
+          "cold",
+          "fire",
+          "lightning",
+          "trigger"
+        ]
+      },
+      {
+        "skill": "Apocalypse (1) Buff , Spell , AoE , Trigger , Lightning , Cold , Fire , Duration , Conditional , Storm",
+        "score": 4739.0,
+        "skill_tags": [
+          "aoe",
+          "cold",
+          "duration",
+          "fire",
+          "lightning",
+          "spell",
+          "trigger"
+        ]
+      },
+      {
+        "skill": "Elemental Storm (1) Spell , AoE , Trigger , Lightning , Cold , Fire , Duration , Orb",
+        "score": 4739.0,
+        "skill_tags": [
+          "aoe",
+          "cold",
+          "duration",
+          "fire",
+          "lightning",
+          "spell",
+          "trigger"
+        ]
+      },
+      {
+        "skill": "Lunar Blessing (13) Warcry , Attack , Shapeshift , Buff , Werewolf , AoE , Melee , Trigger , Cold , Duration",
+        "score": 4484.0,
+        "skill_tags": [
+          "aoe",
+          "attack",
+          "cold",
+          "duration",
+          "shapeshift",
+          "trigger"
+        ]
+      },
+      {
+        "skill": "Elemental Expression (1) Spell , AoE , Projectile , Trigger , Lightning , Cold , Fire , Chaining",
+        "score": 4475.0,
+        "skill_tags": [
+          "aoe",
+          "cold",
+          "fire",
+          "lightning",
+          "projectile",
+          "spell",
+          "trigger"
+        ]
+      },
+      {
+        "skill": "Shred (1) Attack , Shapeshift , Werewolf , AoE , Melee , Strike , Projectile , Trigger , Cold , Payoff",
+        "score": 4200.0,
+        "skill_tags": [
+          "aoe",
+          "attack",
+          "cold",
+          "projectile",
+          "shapeshift",
+          "trigger"
+        ]
+      },
+      {
+        "skill": "Gemini Surge (1) Attack , AoE , Trigger , Cold , Fire",
+        "score": 3823.0,
+        "skill_tags": [
+          "aoe",
+          "attack",
+          "cold",
+          "fire",
+          "trigger"
+        ]
+      },
+      {
+        "skill": "Shattering Palm (11) Attack , AoE , Melee , Strike , Trigger , Cold",
+        "score": 3072.0,
+        "skill_tags": [
+          "aoe",
+          "attack",
+          "cold",
+          "trigger"
+        ]
+      }
+    ]
+  },
+  {
+    "cluster": "trigger + cold + fire",
+    "tags": [
+      "cold",
+      "fire",
+      "trigger"
+    ],
+    "cluster_score": 478.64,
+    "skill_count": 6,
+    "avg_skill_score": 4772.83,
+    "total_skill_score": 28637.0,
+    "top_skills": [
+      {
+        "skill": "Elemental Invocation (8) Buff , Persistent , Trigger , Lightning , Cold , Fire , Invocation , Meta",
+        "score": 6104.0,
+        "skill_tags": [
+          "cold",
+          "fire",
+          "lightning",
+          "meta_energy",
+          "trigger"
+        ]
+      },
+      {
+        "skill": "Elemental Surge (1) Attack , AoE , Trigger , Lightning , Cold , Fire",
+        "score": 4757.0,
+        "skill_tags": [
+          "aoe",
+          "attack",
+          "cold",
+          "fire",
+          "lightning",
+          "trigger"
+        ]
+      },
+      {
+        "skill": "Apocalypse (1) Buff , Spell , AoE , Trigger , Lightning , Cold , Fire , Duration , Conditional , Storm",
+        "score": 4739.0,
+        "skill_tags": [
+          "aoe",
+          "cold",
+          "duration",
+          "fire",
+          "lightning",
+          "spell",
+          "trigger"
+        ]
+      },
+      {
+        "skill": "Elemental Storm (1) Spell , AoE , Trigger , Lightning , Cold , Fire , Duration , Orb",
+        "score": 4739.0,
+        "skill_tags": [
+          "aoe",
+          "cold",
+          "duration",
+          "fire",
+          "lightning",
+          "spell",
+          "trigger"
+        ]
+      },
+      {
+        "skill": "Elemental Expression (1) Spell , AoE , Projectile , Trigger , Lightning , Cold , Fire , Chaining",
+        "score": 4475.0,
+        "skill_tags": [
+          "aoe",
+          "cold",
+          "fire",
+          "lightning",
+          "projectile",
+          "spell",
+          "trigger"
+        ]
+      },
+      {
+        "skill": "Gemini Surge (1) Attack , AoE , Trigger , Cold , Fire",
+        "score": 3823.0,
+        "skill_tags": [
+          "aoe",
+          "attack",
+          "cold",
+          "fire",
+          "trigger"
+        ]
+      }
+    ]
+  },
+  {
+    "cluster": "duration + lightning",
+    "tags": [
+      "duration",
+      "lightning"
+    ],
+    "cluster_score": 472.36,
+    "skill_count": 9,
+    "avg_skill_score": 4347.28,
+    "total_skill_score": 39125.5,
+    "top_skills": [
+      {
+        "skill": "Charged Staff (9) Spell , Attack , Buff , AoE , Lightning , Duration , Conditional",
+        "score": 6215.5,
+        "skill_tags": [
+          "aoe",
+          "attack",
+          "consume_charge",
+          "duration",
+          "lightning",
+          "spell"
+        ]
+      },
+      {
+        "skill": "Apocalypse (1) Buff , Spell , AoE , Trigger , Lightning , Cold , Fire , Duration , Conditional , Storm",
+        "score": 4739.0,
+        "skill_tags": [
+          "aoe",
+          "cold",
+          "duration",
+          "fire",
+          "lightning",
+          "spell",
+          "trigger"
+        ]
+      },
+      {
+        "skill": "Elemental Storm (1) Spell , AoE , Trigger , Lightning , Cold , Fire , Duration , Orb",
+        "score": 4739.0,
+        "skill_tags": [
+          "aoe",
+          "cold",
+          "duration",
+          "fire",
+          "lightning",
+          "spell",
+          "trigger"
+        ]
+      },
+      {
+        "skill": "Voltaic Grenade (7) Attack , AoE , Projectile , Grenade , Lightning , Duration",
+        "score": 4507.5,
+        "skill_tags": [
+          "aoe",
+          "attack",
+          "duration",
+          "lightning",
+          "projectile"
+        ]
+      },
+      {
+        "skill": "Stormblast Bolts (9) Attack , AoE , Ammunition , Projectile , Lightning , Duration",
+        "score": 4507.5,
+        "skill_tags": [
+          "aoe",
+          "attack",
+          "duration",
+          "lightning",
+          "projectile"
+        ]
+      },
+      {
+        "skill": "Shard Scavenger (8) Buff , Persistent , Physical , Lightning , Cold , Fire , Duration",
+        "score": 3928.0,
+        "skill_tags": [
+          "cold",
+          "duration",
+          "fire",
+          "lightning",
+          "physical"
+        ]
+      },
+      {
+        "skill": "Gathering Storm (13) Attack , AoE , Melee , Lightning , Duration , Channelling , Travel",
+        "score": 3908.5,
+        "skill_tags": [
+          "aoe",
+          "attack",
+          "duration",
+          "lightning"
+        ]
+      },
+      {
+        "skill": "Unbound Avatar (1) Buff , Lightning , Cold , Fire , Duration , Conditional",
+        "score": 3548.0,
+        "skill_tags": [
+          "cold",
+          "duration",
+          "fire",
+          "lightning"
+        ]
+      },
+      {
+        "skill": "Thunderstorm (5) Spell , AoE , Sustained , Lightning , Duration , Storm",
+        "score": 3032.5,
+        "skill_tags": [
+          "aoe",
+          "duration",
+          "lightning",
+          "spell"
+        ]
+      }
+    ]
+  },
+  {
+    "cluster": "lightning + cold",
+    "tags": [
+      "cold",
+      "lightning"
+    ],
+    "cluster_score": 472.05,
+    "skill_count": 9,
+    "avg_skill_score": 4241.0,
+    "total_skill_score": 38169.0,
+    "top_skills": [
+      {
+        "skill": "Elemental Invocation (8) Buff , Persistent , Trigger , Lightning , Cold , Fire , Invocation , Meta",
+        "score": 6104.0,
+        "skill_tags": [
+          "cold",
+          "fire",
+          "lightning",
+          "meta_energy",
+          "trigger"
+        ]
+      },
+      {
+        "skill": "Elemental Surge (1) Attack , AoE , Trigger , Lightning , Cold , Fire",
+        "score": 4757.0,
+        "skill_tags": [
+          "aoe",
+          "attack",
+          "cold",
+          "fire",
+          "lightning",
+          "trigger"
+        ]
+      },
+      {
+        "skill": "Apocalypse (1) Buff , Spell , AoE , Trigger , Lightning , Cold , Fire , Duration , Conditional , Storm",
+        "score": 4739.0,
+        "skill_tags": [
+          "aoe",
+          "cold",
+          "duration",
+          "fire",
+          "lightning",
+          "spell",
+          "trigger"
+        ]
+      },
+      {
+        "skill": "Elemental Storm (1) Spell , AoE , Trigger , Lightning , Cold , Fire , Duration , Orb",
+        "score": 4739.0,
+        "skill_tags": [
+          "aoe",
+          "cold",
+          "duration",
+          "fire",
+          "lightning",
+          "spell",
+          "trigger"
+        ]
+      },
+      {
+        "skill": "Elemental Expression (1) Spell , AoE , Projectile , Trigger , Lightning , Cold , Fire , Chaining",
+        "score": 4475.0,
+        "skill_tags": [
+          "aoe",
+          "cold",
+          "fire",
+          "lightning",
+          "projectile",
+          "spell",
+          "trigger"
+        ]
+      },
+      {
+        "skill": "Shard Scavenger (8) Buff , Persistent , Physical , Lightning , Cold , Fire , Duration",
+        "score": 3928.0,
+        "skill_tags": [
+          "cold",
+          "duration",
+          "fire",
+          "lightning",
+          "physical"
+        ]
+      },
+      {
+        "skill": "Unbound Avatar (1) Buff , Lightning , Cold , Fire , Duration , Conditional",
+        "score": 3548.0,
+        "skill_tags": [
+          "cold",
+          "duration",
+          "fire",
+          "lightning"
+        ]
+      },
+      {
+        "skill": "Sorcery Ward (1) Spell , Buff , Persistent , Lightning , Cold , Fire",
+        "score": 3205.0,
+        "skill_tags": [
+          "cold",
+          "fire",
+          "lightning",
+          "spell"
+        ]
+      },
+      {
+        "skill": "Trinity (14) Buff , Persistent , Lightning , Cold , Fire",
+        "score": 2674.0,
+        "skill_tags": [
+          "cold",
+          "fire",
+          "lightning"
+        ]
+      }
+    ]
+  },
+  {
+    "cluster": "lightning + fire",
+    "tags": [
+      "fire",
+      "lightning"
+    ],
+    "cluster_score": 472.05,
+    "skill_count": 9,
+    "avg_skill_score": 4241.0,
+    "total_skill_score": 38169.0,
+    "top_skills": [
+      {
+        "skill": "Elemental Invocation (8) Buff , Persistent , Trigger , Lightning , Cold , Fire , Invocation , Meta",
+        "score": 6104.0,
+        "skill_tags": [
+          "cold",
+          "fire",
+          "lightning",
+          "meta_energy",
+          "trigger"
+        ]
+      },
+      {
+        "skill": "Elemental Surge (1) Attack , AoE , Trigger , Lightning , Cold , Fire",
+        "score": 4757.0,
+        "skill_tags": [
+          "aoe",
+          "attack",
+          "cold",
+          "fire",
+          "lightning",
+          "trigger"
+        ]
+      },
+      {
+        "skill": "Apocalypse (1) Buff , Spell , AoE , Trigger , Lightning , Cold , Fire , Duration , Conditional , Storm",
+        "score": 4739.0,
+        "skill_tags": [
+          "aoe",
+          "cold",
+          "duration",
+          "fire",
+          "lightning",
+          "spell",
+          "trigger"
+        ]
+      },
+      {
+        "skill": "Elemental Storm (1) Spell , AoE , Trigger , Lightning , Cold , Fire , Duration , Orb",
+        "score": 4739.0,
+        "skill_tags": [
+          "aoe",
+          "cold",
+          "duration",
+          "fire",
+          "lightning",
+          "spell",
+          "trigger"
+        ]
+      },
+      {
+        "skill": "Elemental Expression (1) Spell , AoE , Projectile , Trigger , Lightning , Cold , Fire , Chaining",
+        "score": 4475.0,
+        "skill_tags": [
+          "aoe",
+          "cold",
+          "fire",
+          "lightning",
+          "projectile",
+          "spell",
+          "trigger"
+        ]
+      },
+      {
+        "skill": "Shard Scavenger (8) Buff , Persistent , Physical , Lightning , Cold , Fire , Duration",
+        "score": 3928.0,
+        "skill_tags": [
+          "cold",
+          "duration",
+          "fire",
+          "lightning",
+          "physical"
+        ]
+      },
+      {
+        "skill": "Unbound Avatar (1) Buff , Lightning , Cold , Fire , Duration , Conditional",
+        "score": 3548.0,
+        "skill_tags": [
+          "cold",
+          "duration",
+          "fire",
+          "lightning"
+        ]
+      },
+      {
+        "skill": "Sorcery Ward (1) Spell , Buff , Persistent , Lightning , Cold , Fire",
+        "score": 3205.0,
+        "skill_tags": [
+          "cold",
+          "fire",
+          "lightning",
+          "spell"
+        ]
+      },
+      {
+        "skill": "Trinity (14) Buff , Persistent , Lightning , Cold , Fire",
+        "score": 2674.0,
+        "skill_tags": [
+          "cold",
+          "fire",
+          "lightning"
+        ]
+      }
+    ]
+  },
+  {
+    "cluster": "meta_energy + trigger + duration",
+    "tags": [
+      "duration",
+      "meta_energy",
+      "trigger"
+    ],
+    "cluster_score": 471.48,
+    "skill_count": 2,
+    "avg_skill_score": 5829.5,
+    "total_skill_score": 11659.0,
+    "top_skills": [
+      {
+        "skill": "Pounce (3) Attack , Minion , Shapeshift , Werewolf , AoE , Melee , Slam , Trigger , Mark , Duration , Travel , Meta",
+        "score": 7262.0,
+        "skill_tags": [
+          "aoe",
+          "attack",
+          "duration",
+          "meta_energy",
+          "minion",
+          "shapeshift",
+          "trigger"
+        ]
+      },
+      {
+        "skill": "Mirage Deadeye (1) Buff , Persistent , Trigger , Duration , Meta",
+        "score": 4397.0,
+        "skill_tags": [
+          "duration",
+          "meta_energy",
+          "trigger"
+        ]
+      }
+    ]
+  },
+  {
+    "cluster": "trigger + lightning + cold",
+    "tags": [
+      "cold",
+      "lightning",
+      "trigger"
+    ],
+    "cluster_score": 468.14,
+    "skill_count": 5,
+    "avg_skill_score": 4962.8,
+    "total_skill_score": 24814.0,
+    "top_skills": [
+      {
+        "skill": "Elemental Invocation (8) Buff , Persistent , Trigger , Lightning , Cold , Fire , Invocation , Meta",
+        "score": 6104.0,
+        "skill_tags": [
+          "cold",
+          "fire",
+          "lightning",
+          "meta_energy",
+          "trigger"
+        ]
+      },
+      {
+        "skill": "Elemental Surge (1) Attack , AoE , Trigger , Lightning , Cold , Fire",
+        "score": 4757.0,
+        "skill_tags": [
+          "aoe",
+          "attack",
+          "cold",
+          "fire",
+          "lightning",
+          "trigger"
+        ]
+      },
+      {
+        "skill": "Apocalypse (1) Buff , Spell , AoE , Trigger , Lightning , Cold , Fire , Duration , Conditional , Storm",
+        "score": 4739.0,
+        "skill_tags": [
+          "aoe",
+          "cold",
+          "duration",
+          "fire",
+          "lightning",
+          "spell",
+          "trigger"
+        ]
+      },
+      {
+        "skill": "Elemental Storm (1) Spell , AoE , Trigger , Lightning , Cold , Fire , Duration , Orb",
+        "score": 4739.0,
+        "skill_tags": [
+          "aoe",
+          "cold",
+          "duration",
+          "fire",
+          "lightning",
+          "spell",
+          "trigger"
+        ]
+      },
+      {
+        "skill": "Elemental Expression (1) Spell , AoE , Projectile , Trigger , Lightning , Cold , Fire , Chaining",
+        "score": 4475.0,
+        "skill_tags": [
+          "aoe",
+          "cold",
+          "fire",
+          "lightning",
+          "projectile",
+          "spell",
+          "trigger"
+        ]
+      }
+    ]
+  },
+  {
+    "cluster": "trigger + lightning + fire",
+    "tags": [
+      "fire",
+      "lightning",
+      "trigger"
+    ],
+    "cluster_score": 468.14,
+    "skill_count": 5,
+    "avg_skill_score": 4962.8,
+    "total_skill_score": 24814.0,
+    "top_skills": [
+      {
+        "skill": "Elemental Invocation (8) Buff , Persistent , Trigger , Lightning , Cold , Fire , Invocation , Meta",
+        "score": 6104.0,
+        "skill_tags": [
+          "cold",
+          "fire",
+          "lightning",
+          "meta_energy",
+          "trigger"
+        ]
+      },
+      {
+        "skill": "Elemental Surge (1) Attack , AoE , Trigger , Lightning , Cold , Fire",
+        "score": 4757.0,
+        "skill_tags": [
+          "aoe",
+          "attack",
+          "cold",
+          "fire",
+          "lightning",
+          "trigger"
+        ]
+      },
+      {
+        "skill": "Apocalypse (1) Buff , Spell , AoE , Trigger , Lightning , Cold , Fire , Duration , Conditional , Storm",
+        "score": 4739.0,
+        "skill_tags": [
+          "aoe",
+          "cold",
+          "duration",
+          "fire",
+          "lightning",
+          "spell",
+          "trigger"
+        ]
+      },
+      {
+        "skill": "Elemental Storm (1) Spell , AoE , Trigger , Lightning , Cold , Fire , Duration , Orb",
+        "score": 4739.0,
+        "skill_tags": [
+          "aoe",
+          "cold",
+          "duration",
+          "fire",
+          "lightning",
+          "spell",
+          "trigger"
+        ]
+      },
+      {
+        "skill": "Elemental Expression (1) Spell , AoE , Projectile , Trigger , Lightning , Cold , Fire , Chaining",
+        "score": 4475.0,
+        "skill_tags": [
+          "aoe",
+          "cold",
+          "fire",
+          "lightning",
+          "projectile",
+          "spell",
+          "trigger"
+        ]
+      }
+    ]
+  },
+  {
+    "cluster": "trigger + duration",
+    "tags": [
+      "duration",
+      "trigger"
+    ],
+    "cluster_score": 466.23,
+    "skill_count": 9,
+    "avg_skill_score": 4224.67,
+    "total_skill_score": 38022.0,
+    "top_skills": [
+      {
+        "skill": "Pounce (3) Attack , Minion , Shapeshift , Werewolf , AoE , Melee , Slam , Trigger , Mark , Duration , Travel , Meta",
+        "score": 7262.0,
+        "skill_tags": [
+          "aoe",
+          "attack",
+          "duration",
+          "meta_energy",
+          "minion",
+          "shapeshift",
+          "trigger"
+        ]
+      },
+      {
+        "skill": "Apocalypse (1) Buff , Spell , AoE , Trigger , Lightning , Cold , Fire , Duration , Conditional , Storm",
+        "score": 4739.0,
+        "skill_tags": [
+          "aoe",
+          "cold",
+          "duration",
+          "fire",
+          "lightning",
+          "spell",
+          "trigger"
+        ]
+      },
+      {
+        "skill": "Elemental Storm (1) Spell , AoE , Trigger , Lightning , Cold , Fire , Duration , Orb",
+        "score": 4739.0,
+        "skill_tags": [
+          "aoe",
+          "cold",
+          "duration",
+          "fire",
+          "lightning",
+          "spell",
+          "trigger"
+        ]
+      },
+      {
+        "skill": "Lunar Blessing (13) Warcry , Attack , Shapeshift , Buff , Werewolf , AoE , Melee , Trigger , Cold , Duration",
+        "score": 4484.0,
+        "skill_tags": [
+          "aoe",
+          "attack",
+          "cold",
+          "duration",
+          "shapeshift",
+          "trigger"
+        ]
+      },
+      {
+        "skill": "Mirage Deadeye (1) Buff , Persistent , Trigger , Duration , Meta",
+        "score": 4397.0,
+        "skill_tags": [
+          "duration",
+          "meta_energy",
+          "trigger"
+        ]
+      },
+      {
+        "skill": "Walking Calamity (13) Attack , Shapeshift , Buff , Bear , AoE , Trigger , Fire , Duration , Conditional",
+        "score": 4353.0,
+        "skill_tags": [
+          "aoe",
+          "attack",
+          "duration",
+          "fire",
+          "shapeshift",
+          "trigger"
+        ]
+      },
+      {
+        "skill": "Decompose (1) Spell , AoE , Trigger , Fire , Chaos , Duration",
+        "score": 3193.0,
+        "skill_tags": [
+          "aoe",
+          "chaos",
+          "duration",
+          "fire",
+          "spell",
+          "trigger"
+        ]
+      },
+      {
+        "skill": "Void Illusion (1) Attack , Buff , Persistent , AoE , Trigger , Duration",
+        "score": 3062.0,
+        "skill_tags": [
+          "aoe",
+          "attack",
+          "duration",
+          "trigger"
+        ]
+      },
+      {
+        "skill": "Ancestral Spirits (1) Minion , Trigger , Duration",
+        "score": 1793.0,
+        "skill_tags": [
+          "duration",
+          "minion",
+          "reservation",
+          "trigger"
+        ]
+      }
+    ]
+  },
+  {
+    "cluster": "duration + cold",
+    "tags": [
+      "cold",
+      "duration"
+    ],
+    "cluster_score": 462.17,
+    "skill_count": 10,
+    "avg_skill_score": 3743.4,
+    "total_skill_score": 37434.0,
+    "top_skills": [
+      {
+        "skill": "Apocalypse (1) Buff , Spell , AoE , Trigger , Lightning , Cold , Fire , Duration , Conditional , Storm",
+        "score": 4739.0,
+        "skill_tags": [
+          "aoe",
+          "cold",
+          "duration",
+          "fire",
+          "lightning",
+          "spell",
+          "trigger"
+        ]
+      },
+      {
+        "skill": "Elemental Storm (1) Spell , AoE , Trigger , Lightning , Cold , Fire , Duration , Orb",
+        "score": 4739.0,
+        "skill_tags": [
+          "aoe",
+          "cold",
+          "duration",
+          "fire",
+          "lightning",
+          "spell",
+          "trigger"
+        ]
+      },
+      {
+        "skill": "Lunar Blessing (13) Warcry , Attack , Shapeshift , Buff , Werewolf , AoE , Melee , Trigger , Cold , Duration",
+        "score": 4484.0,
+        "skill_tags": [
+          "aoe",
+          "attack",
+          "cold",
+          "duration",
+          "shapeshift",
+          "trigger"
+        ]
+      },
+      {
+        "skill": "Glacial Bolt (7) Attack , AoE , Ammunition , Projectile , Cold , Duration",
+        "score": 4425.5,
+        "skill_tags": [
+          "aoe",
+          "attack",
+          "cold",
+          "duration",
+          "projectile"
+        ]
+      },
+      {
+        "skill": "Shard Scavenger (8) Buff , Persistent , Physical , Lightning , Cold , Fire , Duration",
+        "score": 3928.0,
+        "skill_tags": [
+          "cold",
+          "duration",
+          "fire",
+          "lightning",
+          "physical"
+        ]
+      },
+      {
+        "skill": "Frozen Locus (1) Attack , AoE , Melee , Cold , Duration",
+        "score": 3826.5,
+        "skill_tags": [
+          "aoe",
+          "attack",
+          "cold",
+          "duration"
+        ]
+      },
+      {
+        "skill": "Unbound Avatar (1) Buff , Lightning , Cold , Fire , Duration , Conditional",
+        "score": 3548.0,
+        "skill_tags": [
+          "cold",
+          "duration",
+          "fire",
+          "lightning"
+        ]
+      },
+      {
+        "skill": "Arctic Howl (5) Warcry , Shapeshift , Buff , Werewolf , AoE , Cold , Duration , Nova",
+        "score": 2957.5,
+        "skill_tags": [
+          "aoe",
+          "cold",
+          "duration",
+          "shapeshift"
+        ]
+      },
+      {
+        "skill": "Time Freeze (1) Spell , AoE , Duration",
+        "score": 2941.5,
+        "skill_tags": [
+          "aoe",
+          "cold",
+          "duration",
+          "spell"
+        ]
+      },
+      {
+        "skill": "Freezing Mark (7) Mark , Buff , Cold , Duration",
+        "score": 1845.0,
+        "skill_tags": [
+          "cold",
+          "duration"
+        ]
+      }
+    ]
+  },
+  {
+    "cluster": "meta_energy + trigger + fire",
+    "tags": [
+      "fire",
+      "meta_energy",
+      "trigger"
+    ],
+    "cluster_score": 457.05,
+    "skill_count": 2,
+    "avg_skill_score": 5441.0,
+    "total_skill_score": 10882.0,
+    "top_skills": [
+      {
+        "skill": "Elemental Invocation (8) Buff , Persistent , Trigger , Lightning , Cold , Fire , Invocation , Meta",
+        "score": 6104.0,
+        "skill_tags": [
+          "cold",
+          "fire",
+          "lightning",
+          "meta_energy",
+          "trigger"
+        ]
+      },
+      {
+        "skill": "Fire Spell on Hit (1) Buff , Persistent , Trigger , Fire , Meta",
+        "score": 4778.0,
+        "skill_tags": [
+          "fire",
+          "meta_energy",
+          "spell",
+          "trigger"
+        ]
+      }
+    ]
+  },
+  {
+    "cluster": "shapeshift + trigger + duration",
+    "tags": [
+      "duration",
+      "shapeshift",
+      "trigger"
+    ],
+    "cluster_score": 453.32,
+    "skill_count": 3,
+    "avg_skill_score": 5366.33,
+    "total_skill_score": 16099.0,
+    "top_skills": [
+      {
+        "skill": "Pounce (3) Attack , Minion , Shapeshift , Werewolf , AoE , Melee , Slam , Trigger , Mark , Duration , Travel , Meta",
+        "score": 7262.0,
+        "skill_tags": [
+          "aoe",
+          "attack",
+          "duration",
+          "meta_energy",
+          "minion",
+          "shapeshift",
+          "trigger"
+        ]
+      },
+      {
+        "skill": "Lunar Blessing (13) Warcry , Attack , Shapeshift , Buff , Werewolf , AoE , Melee , Trigger , Cold , Duration",
+        "score": 4484.0,
+        "skill_tags": [
+          "aoe",
+          "attack",
+          "cold",
+          "duration",
+          "shapeshift",
+          "trigger"
+        ]
+      },
+      {
+        "skill": "Walking Calamity (13) Attack , Shapeshift , Buff , Bear , AoE , Trigger , Fire , Duration , Conditional",
+        "score": 4353.0,
+        "skill_tags": [
+          "aoe",
+          "attack",
+          "duration",
+          "fire",
+          "shapeshift",
+          "trigger"
+        ]
+      }
+    ]
+  },
+  {
+    "cluster": "duration + lightning + cold + fire",
+    "tags": [
+      "cold",
+      "duration",
+      "fire",
+      "lightning"
+    ],
+    "cluster_score": 446.93,
+    "skill_count": 4,
+    "avg_skill_score": 4238.5,
+    "total_skill_score": 16954.0,
+    "top_skills": [
+      {
+        "skill": "Apocalypse (1) Buff , Spell , AoE , Trigger , Lightning , Cold , Fire , Duration , Conditional , Storm",
+        "score": 4739.0,
+        "skill_tags": [
+          "aoe",
+          "cold",
+          "duration",
+          "fire",
+          "lightning",
+          "spell",
+          "trigger"
+        ]
+      },
+      {
+        "skill": "Elemental Storm (1) Spell , AoE , Trigger , Lightning , Cold , Fire , Duration , Orb",
+        "score": 4739.0,
+        "skill_tags": [
+          "aoe",
+          "cold",
+          "duration",
+          "fire",
+          "lightning",
+          "spell",
+          "trigger"
+        ]
+      },
+      {
+        "skill": "Shard Scavenger (8) Buff , Persistent , Physical , Lightning , Cold , Fire , Duration",
+        "score": 3928.0,
+        "skill_tags": [
+          "cold",
+          "duration",
+          "fire",
+          "lightning",
+          "physical"
+        ]
+      },
+      {
+        "skill": "Unbound Avatar (1) Buff , Lightning , Cold , Fire , Duration , Conditional",
+        "score": 3548.0,
+        "skill_tags": [
+          "cold",
+          "duration",
+          "fire",
+          "lightning"
+        ]
+      }
+    ]
+  },
+  {
+    "cluster": "shapeshift + duration",
+    "tags": [
+      "duration",
+      "shapeshift"
+    ],
+    "cluster_score": 440.69,
+    "skill_count": 7,
+    "avg_skill_score": 4313.86,
+    "total_skill_score": 30197.0,
+    "top_skills": [
+      {
+        "skill": "Pounce (3) Attack , Minion , Shapeshift , Werewolf , AoE , Melee , Slam , Trigger , Mark , Duration , Travel , Meta",
+        "score": 7262.0,
+        "skill_tags": [
+          "aoe",
+          "attack",
+          "duration",
+          "meta_energy",
+          "minion",
+          "shapeshift",
+          "trigger"
+        ]
+      },
+      {
+        "skill": "Lunar Blessing (13) Warcry , Attack , Shapeshift , Buff , Werewolf , AoE , Melee , Trigger , Cold , Duration",
+        "score": 4484.0,
+        "skill_tags": [
+          "aoe",
+          "attack",
+          "cold",
+          "duration",
+          "shapeshift",
+          "trigger"
+        ]
+      },
+      {
+        "skill": "Walking Calamity (13) Attack , Shapeshift , Buff , Bear , AoE , Trigger , Fire , Duration , Conditional",
+        "score": 4353.0,
+        "skill_tags": [
+          "aoe",
+          "attack",
+          "duration",
+          "fire",
+          "shapeshift",
+          "trigger"
+        ]
+      },
+      {
+        "skill": "Flame Breath (13) Attack , Shapeshift , Wyvern , AoE , Sustained , Fire , Duration , Channelling , Detonator",
+        "score": 4221.5,
+        "skill_tags": [
+          "aoe",
+          "attack",
+          "duration",
+          "fire",
+          "shapeshift"
+        ]
+      },
+      {
+        "skill": "Rend (1) Attack , Shapeshift , Wyvern , AoE , Melee , Strike , Duration",
+        "score": 3459.5,
+        "skill_tags": [
+          "aoe",
+          "attack",
+          "duration",
+          "shapeshift"
+        ]
+      },
+      {
+        "skill": "Fury of the Mountain (5) Attack , Shapeshift , Bear , AoE , Melee , Slam , Sustained , Duration , Channelling",
+        "score": 3459.5,
+        "skill_tags": [
+          "aoe",
+          "attack",
+          "duration",
+          "shapeshift"
+        ]
+      },
+      {
+        "skill": "Arctic Howl (5) Warcry , Shapeshift , Buff , Werewolf , AoE , Cold , Duration , Nova",
+        "score": 2957.5,
+        "skill_tags": [
+          "aoe",
+          "cold",
+          "duration",
+          "shapeshift"
+        ]
+      }
+    ]
+  },
+  {
+    "cluster": "trigger + duration + cold + fire",
+    "tags": [
+      "cold",
+      "duration",
+      "fire",
+      "trigger"
+    ],
+    "cluster_score": 431.95,
+    "skill_count": 2,
+    "avg_skill_score": 4739.0,
+    "total_skill_score": 9478.0,
+    "top_skills": [
+      {
+        "skill": "Apocalypse (1) Buff , Spell , AoE , Trigger , Lightning , Cold , Fire , Duration , Conditional , Storm",
+        "score": 4739.0,
+        "skill_tags": [
+          "aoe",
+          "cold",
+          "duration",
+          "fire",
+          "lightning",
+          "spell",
+          "trigger"
+        ]
+      },
+      {
+        "skill": "Elemental Storm (1) Spell , AoE , Trigger , Lightning , Cold , Fire , Duration , Orb",
+        "score": 4739.0,
+        "skill_tags": [
+          "aoe",
+          "cold",
+          "duration",
+          "fire",
+          "lightning",
+          "spell",
+          "trigger"
+        ]
+      }
+    ]
+  },
+  {
+    "cluster": "trigger + duration + lightning + cold",
+    "tags": [
+      "cold",
+      "duration",
+      "lightning",
+      "trigger"
+    ],
+    "cluster_score": 431.95,
+    "skill_count": 2,
+    "avg_skill_score": 4739.0,
+    "total_skill_score": 9478.0,
+    "top_skills": [
+      {
+        "skill": "Apocalypse (1) Buff , Spell , AoE , Trigger , Lightning , Cold , Fire , Duration , Conditional , Storm",
+        "score": 4739.0,
+        "skill_tags": [
+          "aoe",
+          "cold",
+          "duration",
+          "fire",
+          "lightning",
+          "spell",
+          "trigger"
+        ]
+      },
+      {
+        "skill": "Elemental Storm (1) Spell , AoE , Trigger , Lightning , Cold , Fire , Duration , Orb",
+        "score": 4739.0,
+        "skill_tags": [
+          "aoe",
+          "cold",
+          "duration",
+          "fire",
+          "lightning",
+          "spell",
+          "trigger"
+        ]
+      }
+    ]
+  },
+  {
+    "cluster": "trigger + duration + lightning + fire",
+    "tags": [
+      "duration",
+      "fire",
+      "lightning",
+      "trigger"
+    ],
+    "cluster_score": 431.95,
+    "skill_count": 2,
+    "avg_skill_score": 4739.0,
+    "total_skill_score": 9478.0,
+    "top_skills": [
+      {
+        "skill": "Apocalypse (1) Buff , Spell , AoE , Trigger , Lightning , Cold , Fire , Duration , Conditional , Storm",
+        "score": 4739.0,
+        "skill_tags": [
+          "aoe",
+          "cold",
+          "duration",
+          "fire",
+          "lightning",
+          "spell",
+          "trigger"
+        ]
+      },
+      {
+        "skill": "Elemental Storm (1) Spell , AoE , Trigger , Lightning , Cold , Fire , Duration , Orb",
+        "score": 4739.0,
+        "skill_tags": [
+          "aoe",
+          "cold",
+          "duration",
+          "fire",
+          "lightning",
+          "spell",
+          "trigger"
+        ]
+      }
+    ]
+  },
+  {
+    "cluster": "projectile + lightning",
+    "tags": [
+      "lightning",
+      "projectile"
+    ],
+    "cluster_score": 428.61,
+    "skill_count": 8,
+    "avg_skill_score": 3872.25,
+    "total_skill_score": 30978.0,
+    "top_skills": [
+      {
+        "skill": "Voltaic Grenade (7) Attack , AoE , Projectile , Grenade , Lightning , Duration",
+        "score": 4507.5,
+        "skill_tags": [
+          "aoe",
+          "attack",
+          "duration",
+          "lightning",
+          "projectile"
+        ]
+      },
+      {
+        "skill": "Stormblast Bolts (9) Attack , AoE , Ammunition , Projectile , Lightning , Duration",
+        "score": 4507.5,
+        "skill_tags": [
+          "aoe",
+          "attack",
+          "duration",
+          "lightning",
+          "projectile"
+        ]
+      },
+      {
+        "skill": "Elemental Expression (1) Spell , AoE , Projectile , Trigger , Lightning , Cold , Fire , Chaining",
+        "score": 4475.0,
+        "skill_tags": [
+          "aoe",
+          "cold",
+          "fire",
+          "lightning",
+          "projectile",
+          "spell",
+          "trigger"
+        ]
+      },
+      {
+        "skill": "Fulminating Concoction (1) Attack , AoE , Projectile , Lightning",
+        "score": 3603.5,
+        "skill_tags": [
+          "aoe",
+          "attack",
+          "lightning",
+          "projectile"
+        ]
+      },
+      {
+        "skill": "Falling Thunder (1) Attack , AoE , Melee , Slam , Projectile , Lightning",
+        "score": 3603.5,
+        "skill_tags": [
+          "aoe",
+          "attack",
+          "lightning",
+          "projectile"
+        ]
+      },
+      {
+        "skill": "Shockburst Rounds (11) Attack , AoE , Ammunition , Projectile , Lightning , Payoff",
+        "score": 3603.5,
+        "skill_tags": [
+          "aoe",
+          "attack",
+          "lightning",
+          "projectile"
+        ]
+      },
+      {
+        "skill": "Plasma Blast (13) Attack , AoE , Ammunition , Projectile , Lightning , Channelling",
+        "score": 3603.5,
+        "skill_tags": [
+          "aoe",
+          "attack",
+          "lightning",
+          "projectile"
+        ]
+      },
+      {
+        "skill": "Galvanic Shards (5) Attack , Ammunition , Projectile , Lightning , Chaining , Merging",
+        "score": 3074.0,
+        "skill_tags": [
+          "attack",
+          "lightning",
+          "projectile"
+        ]
+      }
+    ]
+  },
+  {
+    "cluster": "trigger + lightning",
+    "tags": [
+      "lightning",
+      "trigger"
+    ],
+    "cluster_score": 428.14,
+    "skill_count": 5,
+    "avg_skill_score": 4962.8,
+    "total_skill_score": 24814.0,
+    "top_skills": [
+      {
+        "skill": "Elemental Invocation (8) Buff , Persistent , Trigger , Lightning , Cold , Fire , Invocation , Meta",
+        "score": 6104.0,
+        "skill_tags": [
+          "cold",
+          "fire",
+          "lightning",
+          "meta_energy",
+          "trigger"
+        ]
+      },
+      {
+        "skill": "Elemental Surge (1) Attack , AoE , Trigger , Lightning , Cold , Fire",
+        "score": 4757.0,
+        "skill_tags": [
+          "aoe",
+          "attack",
+          "cold",
+          "fire",
+          "lightning",
+          "trigger"
+        ]
+      },
+      {
+        "skill": "Apocalypse (1) Buff , Spell , AoE , Trigger , Lightning , Cold , Fire , Duration , Conditional , Storm",
+        "score": 4739.0,
+        "skill_tags": [
+          "aoe",
+          "cold",
+          "duration",
+          "fire",
+          "lightning",
+          "spell",
+          "trigger"
+        ]
+      },
+      {
+        "skill": "Elemental Storm (1) Spell , AoE , Trigger , Lightning , Cold , Fire , Duration , Orb",
+        "score": 4739.0,
+        "skill_tags": [
+          "aoe",
+          "cold",
+          "duration",
+          "fire",
+          "lightning",
+          "spell",
+          "trigger"
+        ]
+      },
+      {
+        "skill": "Elemental Expression (1) Spell , AoE , Projectile , Trigger , Lightning , Cold , Fire , Chaining",
+        "score": 4475.0,
+        "skill_tags": [
+          "aoe",
+          "cold",
+          "fire",
+          "lightning",
+          "projectile",
+          "spell",
+          "trigger"
+        ]
+      }
+    ]
+  },
+  {
+    "cluster": "meta_energy + shapeshift",
+    "tags": [
+      "meta_energy",
+      "shapeshift"
+    ],
+    "cluster_score": 424.07,
+    "skill_count": 2,
+    "avg_skill_score": 5381.5,
+    "total_skill_score": 10763.0,
+    "top_skills": [
+      {
+        "skill": "Pounce (3) Attack , Minion , Shapeshift , Werewolf , AoE , Melee , Slam , Trigger , Mark , Duration , Travel , Meta",
+        "score": 7262.0,
+        "skill_tags": [
+          "aoe",
+          "attack",
+          "duration",
+          "meta_energy",
+          "minion",
+          "shapeshift",
+          "trigger"
+        ]
+      },
+      {
+        "skill": "Ferocious Roar (7) Warcry , Shapeshift , Bear , AoE , Nova , Meta",
+        "score": 3501.0,
+        "skill_tags": [
+          "aoe",
+          "meta_energy",
+          "shapeshift"
+        ]
+      }
+    ]
+  },
+  {
+    "cluster": "shapeshift + trigger",
+    "tags": [
+      "shapeshift",
+      "trigger"
+    ],
+    "cluster_score": 423.74,
+    "skill_count": 4,
+    "avg_skill_score": 5074.75,
+    "total_skill_score": 20299.0,
+    "top_skills": [
+      {
+        "skill": "Pounce (3) Attack , Minion , Shapeshift , Werewolf , AoE , Melee , Slam , Trigger , Mark , Duration , Travel , Meta",
+        "score": 7262.0,
+        "skill_tags": [
+          "aoe",
+          "attack",
+          "duration",
+          "meta_energy",
+          "minion",
+          "shapeshift",
+          "trigger"
+        ]
+      },
+      {
+        "skill": "Lunar Blessing (13) Warcry , Attack , Shapeshift , Buff , Werewolf , AoE , Melee , Trigger , Cold , Duration",
+        "score": 4484.0,
+        "skill_tags": [
+          "aoe",
+          "attack",
+          "cold",
+          "duration",
+          "shapeshift",
+          "trigger"
+        ]
+      },
+      {
+        "skill": "Walking Calamity (13) Attack , Shapeshift , Buff , Bear , AoE , Trigger , Fire , Duration , Conditional",
+        "score": 4353.0,
+        "skill_tags": [
+          "aoe",
+          "attack",
+          "duration",
+          "fire",
+          "shapeshift",
+          "trigger"
+        ]
+      },
+      {
+        "skill": "Shred (1) Attack , Shapeshift , Werewolf , AoE , Melee , Strike , Projectile , Trigger , Cold , Payoff",
+        "score": 4200.0,
+        "skill_tags": [
+          "aoe",
+          "attack",
+          "cold",
+          "projectile",
+          "shapeshift",
+          "trigger"
+        ]
+      }
+    ]
+  },
+  {
+    "cluster": "meta_energy + fire",
+    "tags": [
+      "fire",
+      "meta_energy"
+    ],
+    "cluster_score": 417.05,
+    "skill_count": 2,
+    "avg_skill_score": 5441.0,
+    "total_skill_score": 10882.0,
+    "top_skills": [
+      {
+        "skill": "Elemental Invocation (8) Buff , Persistent , Trigger , Lightning , Cold , Fire , Invocation , Meta",
+        "score": 6104.0,
+        "skill_tags": [
+          "cold",
+          "fire",
+          "lightning",
+          "meta_energy",
+          "trigger"
+        ]
+      },
+      {
+        "skill": "Fire Spell on Hit (1) Buff , Persistent , Trigger , Fire , Meta",
+        "score": 4778.0,
+        "skill_tags": [
+          "fire",
+          "meta_energy",
+          "spell",
+          "trigger"
+        ]
+      }
+    ]
+  },
+  {
+    "cluster": "meta_energy + duration",
+    "tags": [
+      "duration",
+      "meta_energy"
+    ],
+    "cluster_score": 415.15,
+    "skill_count": 4,
+    "avg_skill_score": 4703.0,
+    "total_skill_score": 18812.0,
+    "top_skills": [
+      {
+        "skill": "Pounce (3) Attack , Minion , Shapeshift , Werewolf , AoE , Melee , Slam , Trigger , Mark , Duration , Travel , Meta",
+        "score": 7262.0,
+        "skill_tags": [
+          "aoe",
+          "attack",
+          "duration",
+          "meta_energy",
+          "minion",
+          "shapeshift",
+          "trigger"
+        ]
+      },
+      {
+        "skill": "Mirage Deadeye (1) Buff , Persistent , Trigger , Duration , Meta",
+        "score": 4397.0,
+        "skill_tags": [
+          "duration",
+          "meta_energy",
+          "trigger"
+        ]
+      },
+      {
+        "skill": "Spell Totem (7) Spell , Totem , Duration , Conditional , Meta",
+        "score": 3836.5,
+        "skill_tags": [
+          "duration",
+          "meta_energy",
+          "spell"
+        ]
+      },
+      {
+        "skill": "Mortar Cannon (11) Totem , Grenade , Duration , Meta",
+        "score": 3316.5,
+        "skill_tags": [
+          "duration",
+          "meta_energy"
+        ]
+      }
+    ]
+  },
+  {
+    "cluster": "projectile + cold",
+    "tags": [
+      "cold",
+      "projectile"
+    ],
+    "cluster_score": 409.7,
+    "skill_count": 7,
+    "avg_skill_score": 3894.07,
+    "total_skill_score": 27258.5,
+    "top_skills": [
+      {
+        "skill": "Elemental Expression (1) Spell , AoE , Projectile , Trigger , Lightning , Cold , Fire , Chaining",
+        "score": 4475.0,
+        "skill_tags": [
+          "aoe",
+          "cold",
+          "fire",
+          "lightning",
+          "projectile",
+          "spell",
+          "trigger"
+        ]
+      },
+      {
+        "skill": "Glacial Bolt (7) Attack , AoE , Ammunition , Projectile , Cold , Duration",
+        "score": 4425.5,
+        "skill_tags": [
+          "aoe",
+          "attack",
+          "cold",
+          "duration",
+          "projectile"
+        ]
+      },
+      {
+        "skill": "Shred (1) Attack , Shapeshift , Werewolf , AoE , Melee , Strike , Projectile , Trigger , Cold , Payoff",
+        "score": 4200.0,
+        "skill_tags": [
+          "aoe",
+          "attack",
+          "cold",
+          "projectile",
+          "shapeshift",
+          "trigger"
+        ]
+      },
+      {
+        "skill": "Shattering Concoction (1) Attack , AoE , Projectile , Cold",
+        "score": 3539.5,
+        "skill_tags": [
+          "aoe",
+          "attack",
+          "cold",
+          "projectile"
+        ]
+      },
+      {
+        "skill": "Permafrost Bolts (1) Attack , AoE , Ammunition , Projectile , Cold , Merging",
+        "score": 3539.5,
+        "skill_tags": [
+          "aoe",
+          "attack",
+          "cold",
+          "projectile"
+        ]
+      },
+      {
+        "skill": "Ice Shards (5) Attack , AoE , Ammunition , Projectile , Sustained , Cold , Hazard",
+        "score": 3539.5,
+        "skill_tags": [
+          "aoe",
+          "attack",
+          "cold",
+          "projectile"
+        ]
+      },
+      {
+        "skill": "Hailstorm Rounds (11) Attack , AoE , Ammunition , Projectile , Sustained , Cold",
+        "score": 3539.5,
+        "skill_tags": [
+          "aoe",
+          "attack",
+          "cold",
+          "projectile"
+        ]
+      }
+    ]
+  },
+  {
+    "cluster": "trigger + duration + fire",
+    "tags": [
+      "duration",
+      "fire",
+      "trigger"
+    ],
+    "cluster_score": 407.8,
+    "skill_count": 4,
+    "avg_skill_score": 4256.0,
+    "total_skill_score": 17024.0,
+    "top_skills": [
+      {
+        "skill": "Apocalypse (1) Buff , Spell , AoE , Trigger , Lightning , Cold , Fire , Duration , Conditional , Storm",
+        "score": 4739.0,
+        "skill_tags": [
+          "aoe",
+          "cold",
+          "duration",
+          "fire",
+          "lightning",
+          "spell",
+          "trigger"
+        ]
+      },
+      {
+        "skill": "Elemental Storm (1) Spell , AoE , Trigger , Lightning , Cold , Fire , Duration , Orb",
+        "score": 4739.0,
+        "skill_tags": [
+          "aoe",
+          "cold",
+          "duration",
+          "fire",
+          "lightning",
+          "spell",
+          "trigger"
+        ]
+      },
+      {
+        "skill": "Walking Calamity (13) Attack , Shapeshift , Buff , Bear , AoE , Trigger , Fire , Duration , Conditional",
+        "score": 4353.0,
+        "skill_tags": [
+          "aoe",
+          "attack",
+          "duration",
+          "fire",
+          "shapeshift",
+          "trigger"
+        ]
+      },
+      {
+        "skill": "Decompose (1) Spell , AoE , Trigger , Fire , Chaos , Duration",
+        "score": 3193.0,
+        "skill_tags": [
+          "aoe",
+          "chaos",
+          "duration",
+          "fire",
+          "spell",
+          "trigger"
+        ]
+      }
+    ]
+  },
+  {
+    "cluster": "trigger + duration + cold",
+    "tags": [
+      "cold",
+      "duration",
+      "trigger"
+    ],
+    "cluster_score": 407.7,
+    "skill_count": 3,
+    "avg_skill_score": 4654.0,
+    "total_skill_score": 13962.0,
+    "top_skills": [
+      {
+        "skill": "Apocalypse (1) Buff , Spell , AoE , Trigger , Lightning , Cold , Fire , Duration , Conditional , Storm",
+        "score": 4739.0,
+        "skill_tags": [
+          "aoe",
+          "cold",
+          "duration",
+          "fire",
+          "lightning",
+          "spell",
+          "trigger"
+        ]
+      },
+      {
+        "skill": "Elemental Storm (1) Spell , AoE , Trigger , Lightning , Cold , Fire , Duration , Orb",
+        "score": 4739.0,
+        "skill_tags": [
+          "aoe",
+          "cold",
+          "duration",
+          "fire",
+          "lightning",
+          "spell",
+          "trigger"
+        ]
+      },
+      {
+        "skill": "Lunar Blessing (13) Warcry , Attack , Shapeshift , Buff , Werewolf , AoE , Melee , Trigger , Cold , Duration",
+        "score": 4484.0,
+        "skill_tags": [
+          "aoe",
+          "attack",
+          "cold",
+          "duration",
+          "shapeshift",
+          "trigger"
+        ]
+      }
+    ]
+  },
+  {
+    "cluster": "duration + cold + fire",
+    "tags": [
+      "cold",
+      "duration",
+      "fire"
+    ],
+    "cluster_score": 406.93,
+    "skill_count": 4,
+    "avg_skill_score": 4238.5,
+    "total_skill_score": 16954.0,
+    "top_skills": [
+      {
+        "skill": "Apocalypse (1) Buff , Spell , AoE , Trigger , Lightning , Cold , Fire , Duration , Conditional , Storm",
+        "score": 4739.0,
+        "skill_tags": [
+          "aoe",
+          "cold",
+          "duration",
+          "fire",
+          "lightning",
+          "spell",
+          "trigger"
+        ]
+      },
+      {
+        "skill": "Elemental Storm (1) Spell , AoE , Trigger , Lightning , Cold , Fire , Duration , Orb",
+        "score": 4739.0,
+        "skill_tags": [
+          "aoe",
+          "cold",
+          "duration",
+          "fire",
+          "lightning",
+          "spell",
+          "trigger"
+        ]
+      },
+      {
+        "skill": "Shard Scavenger (8) Buff , Persistent , Physical , Lightning , Cold , Fire , Duration",
+        "score": 3928.0,
+        "skill_tags": [
+          "cold",
+          "duration",
+          "fire",
+          "lightning",
+          "physical"
+        ]
+      },
+      {
+        "skill": "Unbound Avatar (1) Buff , Lightning , Cold , Fire , Duration , Conditional",
+        "score": 3548.0,
+        "skill_tags": [
+          "cold",
+          "duration",
+          "fire",
+          "lightning"
+        ]
+      }
+    ]
+  },
+  {
+    "cluster": "duration + lightning + cold",
+    "tags": [
+      "cold",
+      "duration",
+      "lightning"
+    ],
+    "cluster_score": 406.93,
+    "skill_count": 4,
+    "avg_skill_score": 4238.5,
+    "total_skill_score": 16954.0,
+    "top_skills": [
+      {
+        "skill": "Apocalypse (1) Buff , Spell , AoE , Trigger , Lightning , Cold , Fire , Duration , Conditional , Storm",
+        "score": 4739.0,
+        "skill_tags": [
+          "aoe",
+          "cold",
+          "duration",
+          "fire",
+          "lightning",
+          "spell",
+          "trigger"
+        ]
+      },
+      {
+        "skill": "Elemental Storm (1) Spell , AoE , Trigger , Lightning , Cold , Fire , Duration , Orb",
+        "score": 4739.0,
+        "skill_tags": [
+          "aoe",
+          "cold",
+          "duration",
+          "fire",
+          "lightning",
+          "spell",
+          "trigger"
+        ]
+      },
+      {
+        "skill": "Shard Scavenger (8) Buff , Persistent , Physical , Lightning , Cold , Fire , Duration",
+        "score": 3928.0,
+        "skill_tags": [
+          "cold",
+          "duration",
+          "fire",
+          "lightning",
+          "physical"
+        ]
+      },
+      {
+        "skill": "Unbound Avatar (1) Buff , Lightning , Cold , Fire , Duration , Conditional",
+        "score": 3548.0,
+        "skill_tags": [
+          "cold",
+          "duration",
+          "fire",
+          "lightning"
+        ]
+      }
+    ]
+  },
+  {
+    "cluster": "duration + lightning + fire",
+    "tags": [
+      "duration",
+      "fire",
+      "lightning"
+    ],
+    "cluster_score": 406.93,
+    "skill_count": 4,
+    "avg_skill_score": 4238.5,
+    "total_skill_score": 16954.0,
+    "top_skills": [
+      {
+        "skill": "Apocalypse (1) Buff , Spell , AoE , Trigger , Lightning , Cold , Fire , Duration , Conditional , Storm",
+        "score": 4739.0,
+        "skill_tags": [
+          "aoe",
+          "cold",
+          "duration",
+          "fire",
+          "lightning",
+          "spell",
+          "trigger"
+        ]
+      },
+      {
+        "skill": "Elemental Storm (1) Spell , AoE , Trigger , Lightning , Cold , Fire , Duration , Orb",
+        "score": 4739.0,
+        "skill_tags": [
+          "aoe",
+          "cold",
+          "duration",
+          "fire",
+          "lightning",
+          "spell",
+          "trigger"
+        ]
+      },
+      {
+        "skill": "Shard Scavenger (8) Buff , Persistent , Physical , Lightning , Cold , Fire , Duration",
+        "score": 3928.0,
+        "skill_tags": [
+          "cold",
+          "duration",
+          "fire",
+          "lightning",
+          "physical"
+        ]
+      },
+      {
+        "skill": "Unbound Avatar (1) Buff , Lightning , Cold , Fire , Duration , Conditional",
+        "score": 3548.0,
+        "skill_tags": [
+          "cold",
+          "duration",
+          "fire",
+          "lightning"
+        ]
+      }
+    ]
+  },
+  {
+    "cluster": "duration + projectile + fire",
+    "tags": [
+      "duration",
+      "fire",
+      "projectile"
+    ],
+    "cluster_score": 404.15,
+    "skill_count": 5,
+    "avg_skill_score": 3883.1,
+    "total_skill_score": 19415.5,
+    "top_skills": [
+      {
+        "skill": "Gas Grenade (5) Attack , AoE , Projectile , Grenade , Fire , Chaos , Duration",
+        "score": 4534.5,
+        "skill_tags": [
+          "aoe",
+          "attack",
+          "chaos",
+          "duration",
+          "fire",
+          "projectile"
+        ]
+      },
+      {
+        "skill": "Oil Grenade (9) Attack , AoE , Projectile , Grenade , Fire , Duration",
+        "score": 4279.5,
+        "skill_tags": [
+          "aoe",
+          "attack",
+          "duration",
+          "fire",
+          "projectile"
+        ]
+      },
+      {
+        "skill": "Siege Ballista (9) Attack , Totem , AoE , Projectile , Fire , Duration , Barrageable",
+        "score": 4279.5,
+        "skill_tags": [
+          "aoe",
+          "attack",
+          "duration",
+          "fire",
+          "projectile"
+        ]
+      },
+      {
+        "skill": "Volcano (1) Spell , AoE , Projectile , Sustained , Fire , Duration , Channelling",
+        "score": 3410.5,
+        "skill_tags": [
+          "aoe",
+          "duration",
+          "fire",
+          "projectile",
+          "spell"
+        ]
+      },
+      {
+        "skill": "Ruzhan's Trap (1) Command , AoE , Projectile , Fire , Duration , Hazard",
+        "score": 2911.5,
+        "skill_tags": [
+          "aoe",
+          "duration",
+          "fire",
+          "projectile"
+        ]
+      }
+    ]
+  },
+  {
+    "cluster": "trigger + duration + lightning",
+    "tags": [
+      "duration",
+      "lightning",
+      "trigger"
+    ],
+    "cluster_score": 391.95,
+    "skill_count": 2,
+    "avg_skill_score": 4739.0,
+    "total_skill_score": 9478.0,
+    "top_skills": [
+      {
+        "skill": "Apocalypse (1) Buff , Spell , AoE , Trigger , Lightning , Cold , Fire , Duration , Conditional , Storm",
+        "score": 4739.0,
+        "skill_tags": [
+          "aoe",
+          "cold",
+          "duration",
+          "fire",
+          "lightning",
+          "spell",
+          "trigger"
+        ]
+      },
+      {
+        "skill": "Elemental Storm (1) Spell , AoE , Trigger , Lightning , Cold , Fire , Duration , Orb",
+        "score": 4739.0,
+        "skill_tags": [
+          "aoe",
+          "cold",
+          "duration",
+          "fire",
+          "lightning",
+          "spell",
+          "trigger"
+        ]
+      }
+    ]
+  },
+  {
+    "cluster": "shapeshift + trigger + cold",
+    "tags": [
+      "cold",
+      "shapeshift",
+      "trigger"
+    ],
+    "cluster_score": 387.1,
+    "skill_count": 2,
+    "avg_skill_score": 4342.0,
+    "total_skill_score": 8684.0,
+    "top_skills": [
+      {
+        "skill": "Lunar Blessing (13) Warcry , Attack , Shapeshift , Buff , Werewolf , AoE , Melee , Trigger , Cold , Duration",
+        "score": 4484.0,
+        "skill_tags": [
+          "aoe",
+          "attack",
+          "cold",
+          "duration",
+          "shapeshift",
+          "trigger"
+        ]
+      },
+      {
+        "skill": "Shred (1) Attack , Shapeshift , Werewolf , AoE , Melee , Strike , Projectile , Trigger , Cold , Payoff",
+        "score": 4200.0,
+        "skill_tags": [
+          "aoe",
+          "attack",
+          "cold",
+          "projectile",
+          "shapeshift",
+          "trigger"
+        ]
+      }
+    ]
+  },
+  {
+    "cluster": "shapeshift + duration + fire",
+    "tags": [
+      "duration",
+      "fire",
+      "shapeshift"
+    ],
+    "cluster_score": 379.36,
+    "skill_count": 2,
+    "avg_skill_score": 4287.25,
+    "total_skill_score": 8574.5,
+    "top_skills": [
+      {
+        "skill": "Walking Calamity (13) Attack , Shapeshift , Buff , Bear , AoE , Trigger , Fire , Duration , Conditional",
+        "score": 4353.0,
+        "skill_tags": [
+          "aoe",
+          "attack",
+          "duration",
+          "fire",
+          "shapeshift",
+          "trigger"
+        ]
+      },
+      {
+        "skill": "Flame Breath (13) Attack , Shapeshift , Wyvern , AoE , Sustained , Fire , Duration , Channelling , Detonator",
+        "score": 4221.5,
+        "skill_tags": [
+          "aoe",
+          "attack",
+          "duration",
+          "fire",
+          "shapeshift"
+        ]
+      }
+    ]
+  },
+  {
+    "cluster": "duration + projectile + lightning",
+    "tags": [
+      "duration",
+      "lightning",
+      "projectile"
+    ],
+    "cluster_score": 375.38,
+    "skill_count": 2,
+    "avg_skill_score": 4507.5,
+    "total_skill_score": 9015.0,
+    "top_skills": [
+      {
+        "skill": "Voltaic Grenade (7) Attack , AoE , Projectile , Grenade , Lightning , Duration",
+        "score": 4507.5,
+        "skill_tags": [
+          "aoe",
+          "attack",
+          "duration",
+          "lightning",
+          "projectile"
+        ]
+      },
+      {
+        "skill": "Stormblast Bolts (9) Attack , AoE , Ammunition , Projectile , Lightning , Duration",
+        "score": 4507.5,
+        "skill_tags": [
+          "aoe",
+          "attack",
+          "duration",
+          "lightning",
+          "projectile"
+        ]
+      }
+    ]
+  },
+  {
+    "cluster": "trigger + projectile + cold",
+    "tags": [
+      "cold",
+      "projectile",
+      "trigger"
+    ],
+    "cluster_score": 371.88,
+    "skill_count": 2,
+    "avg_skill_score": 4337.5,
+    "total_skill_score": 8675.0,
+    "top_skills": [
+      {
+        "skill": "Elemental Expression (1) Spell , AoE , Projectile , Trigger , Lightning , Cold , Fire , Chaining",
+        "score": 4475.0,
+        "skill_tags": [
+          "aoe",
+          "cold",
+          "fire",
+          "lightning",
+          "projectile",
+          "spell",
+          "trigger"
+        ]
+      },
+      {
+        "skill": "Shred (1) Attack , Shapeshift , Werewolf , AoE , Melee , Strike , Projectile , Trigger , Cold , Payoff",
+        "score": 4200.0,
+        "skill_tags": [
+          "aoe",
+          "attack",
+          "cold",
+          "projectile",
+          "shapeshift",
+          "trigger"
+        ]
+      }
+    ]
+  },
+  {
+    "cluster": "shapeshift + cold",
+    "tags": [
+      "cold",
+      "shapeshift"
+    ],
+    "cluster_score": 358.93,
+    "skill_count": 4,
+    "avg_skill_score": 3778.5,
+    "total_skill_score": 15114.0,
+    "top_skills": [
+      {
+        "skill": "Lunar Blessing (13) Warcry , Attack , Shapeshift , Buff , Werewolf , AoE , Melee , Trigger , Cold , Duration",
+        "score": 4484.0,
+        "skill_tags": [
+          "aoe",
+          "attack",
+          "cold",
+          "duration",
+          "shapeshift",
+          "trigger"
+        ]
+      },
+      {
+        "skill": "Shred (1) Attack , Shapeshift , Werewolf , AoE , Melee , Strike , Projectile , Trigger , Cold , Payoff",
+        "score": 4200.0,
+        "skill_tags": [
+          "aoe",
+          "attack",
+          "cold",
+          "projectile",
+          "shapeshift",
+          "trigger"
+        ]
+      },
+      {
+        "skill": "Lunar Assault (1) Attack , Shapeshift , Werewolf , AoE , Melee , Strike , Cold",
+        "score": 3472.5,
+        "skill_tags": [
+          "aoe",
+          "attack",
+          "cold",
+          "shapeshift"
+        ]
+      },
+      {
+        "skill": "Arctic Howl (5) Warcry , Shapeshift , Buff , Werewolf , AoE , Cold , Duration , Nova",
+        "score": 2957.5,
+        "skill_tags": [
+          "aoe",
+          "cold",
+          "duration",
+          "shapeshift"
+        ]
+      }
+    ]
+  },
+  {
+    "cluster": "shapeshift + fire",
+    "tags": [
+      "fire",
+      "shapeshift"
+    ],
+    "cluster_score": 358.03,
+    "skill_count": 3,
+    "avg_skill_score": 4160.67,
+    "total_skill_score": 12482.0,
+    "top_skills": [
+      {
+        "skill": "Walking Calamity (13) Attack , Shapeshift , Buff , Bear , AoE , Trigger , Fire , Duration , Conditional",
+        "score": 4353.0,
+        "skill_tags": [
+          "aoe",
+          "attack",
+          "duration",
+          "fire",
+          "shapeshift",
+          "trigger"
+        ]
+      },
+      {
+        "skill": "Flame Breath (13) Attack , Shapeshift , Wyvern , AoE , Sustained , Fire , Duration , Channelling , Detonator",
+        "score": 4221.5,
+        "skill_tags": [
+          "aoe",
+          "attack",
+          "duration",
+          "fire",
+          "shapeshift"
+        ]
+      },
+      {
+        "skill": "Rolling Magma (3) Attack , Shapeshift , Wyvern , AoE , Projectile , Fire , Detonator",
+        "score": 3907.5,
+        "skill_tags": [
+          "aoe",
+          "attack",
+          "fire",
+          "projectile",
+          "shapeshift"
+        ]
+      }
+    ]
+  },
+  {
+    "cluster": "shapeshift + duration + cold",
+    "tags": [
+      "cold",
+      "duration",
+      "shapeshift"
+    ],
+    "cluster_score": 351.04,
+    "skill_count": 2,
+    "avg_skill_score": 3720.75,
+    "total_skill_score": 7441.5,
+    "top_skills": [
+      {
+        "skill": "Lunar Blessing (13) Warcry , Attack , Shapeshift , Buff , Werewolf , AoE , Melee , Trigger , Cold , Duration",
+        "score": 4484.0,
+        "skill_tags": [
+          "aoe",
+          "attack",
+          "cold",
+          "duration",
+          "shapeshift",
+          "trigger"
+        ]
+      },
+      {
+        "skill": "Arctic Howl (5) Warcry , Shapeshift , Buff , Werewolf , AoE , Cold , Duration , Nova",
+        "score": 2957.5,
+        "skill_tags": [
+          "aoe",
+          "cold",
+          "duration",
+          "shapeshift"
+        ]
+      }
+    ]
+  },
+  {
+    "cluster": "shapeshift + projectile",
+    "tags": [
+      "projectile",
+      "shapeshift"
+    ],
+    "cluster_score": 332.4,
+    "skill_count": 3,
+    "avg_skill_score": 3748.0,
+    "total_skill_score": 11244.0,
+    "top_skills": [
+      {
+        "skill": "Shred (1) Attack , Shapeshift , Werewolf , AoE , Melee , Strike , Projectile , Trigger , Cold , Payoff",
+        "score": 4200.0,
+        "skill_tags": [
+          "aoe",
+          "attack",
+          "cold",
+          "projectile",
+          "shapeshift",
+          "trigger"
+        ]
+      },
+      {
+        "skill": "Rolling Magma (3) Attack , Shapeshift , Wyvern , AoE , Projectile , Fire , Detonator",
+        "score": 3907.5,
+        "skill_tags": [
+          "aoe",
+          "attack",
+          "fire",
+          "projectile",
+          "shapeshift"
+        ]
+      },
+      {
+        "skill": "Oil Barrage (9) Attack , Shapeshift , Wyvern , AoE , Projectile , Sustained , Channelling",
+        "score": 3136.5,
+        "skill_tags": [
+          "aoe",
+          "attack",
+          "projectile",
+          "shapeshift"
+        ]
+      }
+    ]
+  },
+  {
+    "cluster": "trigger + projectile",
+    "tags": [
+      "projectile",
+      "trigger"
+    ],
+    "cluster_score": 331.88,
+    "skill_count": 2,
+    "avg_skill_score": 4337.5,
+    "total_skill_score": 8675.0,
+    "top_skills": [
+      {
+        "skill": "Elemental Expression (1) Spell , AoE , Projectile , Trigger , Lightning , Cold , Fire , Chaining",
+        "score": 4475.0,
+        "skill_tags": [
+          "aoe",
+          "cold",
+          "fire",
+          "lightning",
+          "projectile",
+          "spell",
+          "trigger"
+        ]
+      },
+      {
+        "skill": "Shred (1) Attack , Shapeshift , Werewolf , AoE , Melee , Strike , Projectile , Trigger , Cold , Payoff",
+        "score": 4200.0,
+        "skill_tags": [
+          "aoe",
+          "attack",
+          "cold",
+          "projectile",
+          "shapeshift",
+          "trigger"
+        ]
+      }
+    ]
+  }
+]

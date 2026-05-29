@@ -1,0 +1,432 @@
+[
+  {
+    "source": "aoe",
+    "target": "attack",
+    "weight": 87
+  },
+  {
+    "source": "aoe",
+    "target": "duration",
+    "weight": 40
+  },
+  {
+    "source": "attack",
+    "target": "projectile",
+    "weight": 36
+  },
+  {
+    "source": "aoe",
+    "target": "projectile",
+    "weight": 35
+  },
+  {
+    "source": "aoe",
+    "target": "cold",
+    "weight": 23
+  },
+  {
+    "source": "attack",
+    "target": "duration",
+    "weight": 22
+  },
+  {
+    "source": "aoe",
+    "target": "fire",
+    "weight": 22
+  },
+  {
+    "source": "aoe",
+    "target": "shapeshift",
+    "weight": 20
+  },
+  {
+    "source": "attack",
+    "target": "shapeshift",
+    "weight": 18
+  },
+  {
+    "source": "attack",
+    "target": "cold",
+    "weight": 17
+  },
+  {
+    "source": "aoe",
+    "target": "lightning",
+    "weight": 16
+  },
+  {
+    "source": "duration",
+    "target": "spell",
+    "weight": 16
+  },
+  {
+    "source": "aoe",
+    "target": "spell",
+    "weight": 15
+  },
+  {
+    "source": "attack",
+    "target": "fire",
+    "weight": 15
+  },
+  {
+    "source": "fire",
+    "target": "projectile",
+    "weight": 14
+  },
+  {
+    "source": "aoe",
+    "target": "physical",
+    "weight": 14
+  },
+  {
+    "source": "aoe",
+    "target": "trigger",
+    "weight": 13
+  },
+  {
+    "source": "attack",
+    "target": "lightning",
+    "weight": 13
+  },
+  {
+    "source": "duration",
+    "target": "fire",
+    "weight": 12
+  },
+  {
+    "source": "duration",
+    "target": "physical",
+    "weight": 12
+  },
+  {
+    "source": "duration",
+    "target": "projectile",
+    "weight": 11
+  },
+  {
+    "source": "cold",
+    "target": "fire",
+    "weight": 10
+  },
+  {
+    "source": "fire",
+    "target": "trigger",
+    "weight": 10
+  },
+  {
+    "source": "cold",
+    "target": "duration",
+    "weight": 10
+  },
+  {
+    "source": "attack",
+    "target": "physical",
+    "weight": 10
+  },
+  {
+    "source": "attack",
+    "target": "trigger",
+    "weight": 9
+  },
+  {
+    "source": "duration",
+    "target": "trigger",
+    "weight": 9
+  },
+  {
+    "source": "duration",
+    "target": "lightning",
+    "weight": 9
+  },
+  {
+    "source": "cold",
+    "target": "lightning",
+    "weight": 9
+  },
+  {
+    "source": "cold",
+    "target": "trigger",
+    "weight": 9
+  },
+  {
+    "source": "fire",
+    "target": "lightning",
+    "weight": 9
+  },
+  {
+    "source": "meta_energy",
+    "target": "trigger",
+    "weight": 8
+  },
+  {
+    "source": "lightning",
+    "target": "projectile",
+    "weight": 8
+  },
+  {
+    "source": "duration",
+    "target": "shapeshift",
+    "weight": 7
+  },
+  {
+    "source": "fire",
+    "target": "spell",
+    "weight": 7
+  },
+  {
+    "source": "cold",
+    "target": "projectile",
+    "weight": 7
+  },
+  {
+    "source": "lightning",
+    "target": "spell",
+    "weight": 6
+  },
+  {
+    "source": "lightning",
+    "target": "trigger",
+    "weight": 5
+  },
+  {
+    "source": "spell",
+    "target": "trigger",
+    "weight": 5
+  },
+  {
+    "source": "cold",
+    "target": "spell",
+    "weight": 5
+  },
+  {
+    "source": "physical",
+    "target": "projectile",
+    "weight": 5
+  },
+  {
+    "source": "physical",
+    "target": "spell",
+    "weight": 5
+  },
+  {
+    "source": "aoe",
+    "target": "meta_energy",
+    "weight": 4
+  },
+  {
+    "source": "duration",
+    "target": "meta_energy",
+    "weight": 4
+  },
+  {
+    "source": "shapeshift",
+    "target": "trigger",
+    "weight": 4
+  },
+  {
+    "source": "cold",
+    "target": "shapeshift",
+    "weight": 4
+  },
+  {
+    "source": "duration",
+    "target": "minion",
+    "weight": 3
+  },
+  {
+    "source": "aoe",
+    "target": "chaos",
+    "weight": 3
+  },
+  {
+    "source": "chaos",
+    "target": "duration",
+    "weight": 3
+  },
+  {
+    "source": "fire",
+    "target": "shapeshift",
+    "weight": 3
+  },
+  {
+    "source": "projectile",
+    "target": "shapeshift",
+    "weight": 3
+  },
+  {
+    "source": "fire",
+    "target": "minion",
+    "weight": 3
+  },
+  {
+    "source": "attack",
+    "target": "meta_energy",
+    "weight": 2
+  },
+  {
+    "source": "meta_energy",
+    "target": "shapeshift",
+    "weight": 2
+  },
+  {
+    "source": "minion",
+    "target": "shapeshift",
+    "weight": 2
+  },
+  {
+    "source": "minion",
+    "target": "trigger",
+    "weight": 2
+  },
+  {
+    "source": "fire",
+    "target": "meta_energy",
+    "weight": 2
+  },
+  {
+    "source": "meta_energy",
+    "target": "spell",
+    "weight": 2
+  },
+  {
+    "source": "attack",
+    "target": "chaos",
+    "weight": 2
+  },
+  {
+    "source": "chaos",
+    "target": "fire",
+    "weight": 2
+  },
+  {
+    "source": "projectile",
+    "target": "spell",
+    "weight": 2
+  },
+  {
+    "source": "projectile",
+    "target": "trigger",
+    "weight": 2
+  },
+  {
+    "source": "minion",
+    "target": "physical",
+    "weight": 2
+  },
+  {
+    "source": "aoe",
+    "target": "minion",
+    "weight": 1
+  },
+  {
+    "source": "attack",
+    "target": "minion",
+    "weight": 1
+  },
+  {
+    "source": "meta_energy",
+    "target": "minion",
+    "weight": 1
+  },
+  {
+    "source": "aoe",
+    "target": "consume_charge",
+    "weight": 1
+  },
+  {
+    "source": "attack",
+    "target": "consume_charge",
+    "weight": 1
+  },
+  {
+    "source": "attack",
+    "target": "spell",
+    "weight": 1
+  },
+  {
+    "source": "consume_charge",
+    "target": "duration",
+    "weight": 1
+  },
+  {
+    "source": "consume_charge",
+    "target": "lightning",
+    "weight": 1
+  },
+  {
+    "source": "consume_charge",
+    "target": "spell",
+    "weight": 1
+  },
+  {
+    "source": "cold",
+    "target": "meta_energy",
+    "weight": 1
+  },
+  {
+    "source": "lightning",
+    "target": "meta_energy",
+    "weight": 1
+  },
+  {
+    "source": "chaos",
+    "target": "meta_energy",
+    "weight": 1
+  },
+  {
+    "source": "chaos",
+    "target": "projectile",
+    "weight": 1
+  },
+  {
+    "source": "cold",
+    "target": "physical",
+    "weight": 1
+  },
+  {
+    "source": "fire",
+    "target": "physical",
+    "weight": 1
+  },
+  {
+    "source": "lightning",
+    "target": "physical",
+    "weight": 1
+  },
+  {
+    "source": "chaos",
+    "target": "spell",
+    "weight": 1
+  },
+  {
+    "source": "chaos",
+    "target": "trigger",
+    "weight": 1
+  },
+  {
+    "source": "duration",
+    "target": "reservation",
+    "weight": 1
+  },
+  {
+    "source": "minion",
+    "target": "reservation",
+    "weight": 1
+  },
+  {
+    "source": "reservation",
+    "target": "trigger",
+    "weight": 1
+  },
+  {
+    "source": "physical",
+    "target": "shapeshift",
+    "weight": 1
+  },
+  {
+    "source": "cold",
+    "target": "minion",
+    "weight": 1
+  }
+]

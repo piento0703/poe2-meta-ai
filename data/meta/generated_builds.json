@@ -1,0 +1,7545 @@
+[
+  {
+    "build_name": "불씨 일제 사격 투사체 발동 번개 연쇄 빌드",
+    "main_skill": "불씨 일제 사격",
+    "archetype_label_en": "Projectile Trigger Lightning Chain",
+    "archetype_label_ko": "투사체 발동 번개 연쇄",
+    "archetypes": [
+      "projectile",
+      "trigger",
+      "lightning",
+      "chain"
+    ],
+    "main_scaling": [
+      "elemental_damage",
+      "crit",
+      "projectile_count",
+      "chain_count"
+    ],
+    "recommended_supports": [
+      "마름쇠",
+      "화산 분출",
+      "분화구",
+      "얼어붙은 악의",
+      "충전된 징표",
+      "정전기 감전"
+    ],
+    "passive_direction": [],
+    "recommended_uniques": [
+      {
+        "name": "황혼의 감시",
+        "canonical_name": "Dusk Vigil",
+        "base_type": "Ashen Staff",
+        "score": 22.0,
+        "role": "engine",
+        "matched_tags": [
+          "fire",
+          "trigger"
+        ],
+        "matched_tags_ko": [
+          "화염",
+          "발동"
+        ],
+        "unique_tags": [
+          "fire",
+          "gain_as_extra",
+          "life",
+          "mana",
+          "trigger"
+        ],
+        "unique_tags_ko": [
+          "화염",
+          "추가 피해 획득",
+          "생명력",
+          "마나",
+          "발동"
+        ]
+      },
+      {
+        "name": "세케마의 결의",
+        "canonical_name": "Sekhema's Resolve",
+        "base_type": "Ring",
+        "score": 22.0,
+        "role": "engine",
+        "matched_tags": [
+          "fire",
+          "projectile"
+        ],
+        "matched_tags_ko": [
+          "화염",
+          "투사체"
+        ],
+        "unique_tags": [
+          "chain",
+          "chaos",
+          "charge",
+          "cold",
+          "conversion",
+          "crit",
+          "duration",
+          "extra_projectile",
+          "fire",
+          "fork",
+          "gain_as_extra",
+          "life",
+          "lightning",
+          "mana",
+          "meta_energy",
+          "minion",
+          "pierce",
+          "projectile",
+          "spirit"
+        ],
+        "unique_tags_ko": [
+          "연쇄",
+          "카오스",
+          "충전",
+          "냉기",
+          "전환",
+          "치명타",
+          "지속시간",
+          "추가 투사체",
+          "화염",
+          "갈라짐",
+          "추가 피해 획득",
+          "생명력",
+          "번개",
+          "마나",
+          "메타 에너지",
+          "소환수",
+          "관통",
+          "투사체",
+          "정신력"
+        ]
+      },
+      {
+        "name": "이중 시야",
+        "canonical_name": "Double Vision",
+        "base_type": "Dyad Crossbow",
+        "score": 20.0,
+        "role": "engine",
+        "matched_tags": [
+          "fire",
+          "trigger"
+        ],
+        "matched_tags_ko": [
+          "화염",
+          "발동"
+        ],
+        "unique_tags": [
+          "cold",
+          "crit",
+          "fire",
+          "trigger"
+        ],
+        "unique_tags_ko": [
+          "냉기",
+          "치명타",
+          "화염",
+          "발동"
+        ]
+      },
+      {
+        "name": "질식의 진노",
+        "canonical_name": "Asphyxia's Wrath",
+        "base_type": "Broadhead Quiver",
+        "score": 19.0,
+        "role": "engine",
+        "matched_tags": [
+          "fire",
+          "projectile"
+        ],
+        "matched_tags_ko": [
+          "화염",
+          "투사체"
+        ],
+        "unique_tags": [
+          "cold",
+          "fire",
+          "gain_as_extra",
+          "mana",
+          "pierce",
+          "projectile"
+        ],
+        "unique_tags_ko": [
+          "냉기",
+          "화염",
+          "추가 피해 획득",
+          "마나",
+          "관통",
+          "투사체"
+        ]
+      },
+      {
+        "name": "붕괴하는 지평선",
+        "canonical_name": "Collapsing Horizon",
+        "base_type": "Wyrm Quarterstaff",
+        "score": 16.0,
+        "role": "engine",
+        "matched_tags": [
+          "trigger"
+        ],
+        "matched_tags_ko": [
+          "발동"
+        ],
+        "unique_tags": [
+          "crit",
+          "trigger"
+        ],
+        "unique_tags_ko": [
+          "치명타",
+          "발동"
+        ]
+      }
+    ],
+    "build_score": 795.0,
+    "candidate_count": 52,
+    "support_count": 40,
+    "passive_count": 0
+  },
+  {
+    "build_name": "선대의 함성 투사체 발동 번개 연쇄 빌드",
+    "main_skill": "선대의 함성",
+    "archetype_label_en": "Projectile Trigger Lightning Chain",
+    "archetype_label_ko": "투사체 발동 번개 연쇄",
+    "archetypes": [
+      "projectile",
+      "trigger",
+      "lightning",
+      "chain"
+    ],
+    "main_scaling": [
+      "elemental_damage",
+      "crit",
+      "projectile_count",
+      "chain_count"
+    ],
+    "recommended_supports": [
+      "화산 분출",
+      "마름쇠",
+      "분화구",
+      "몽상가의 종소리",
+      "독 포자",
+      "얼어붙은 악의"
+    ],
+    "passive_direction": [],
+    "recommended_uniques": [
+      {
+        "name": "황혼의 감시",
+        "canonical_name": "Dusk Vigil",
+        "base_type": "Ashen Staff",
+        "score": 22.0,
+        "role": "engine",
+        "matched_tags": [
+          "fire",
+          "trigger"
+        ],
+        "matched_tags_ko": [
+          "화염",
+          "발동"
+        ],
+        "unique_tags": [
+          "fire",
+          "gain_as_extra",
+          "life",
+          "mana",
+          "trigger"
+        ],
+        "unique_tags_ko": [
+          "화염",
+          "추가 피해 획득",
+          "생명력",
+          "마나",
+          "발동"
+        ]
+      },
+      {
+        "name": "세케마의 결의",
+        "canonical_name": "Sekhema's Resolve",
+        "base_type": "Ring",
+        "score": 22.0,
+        "role": "engine",
+        "matched_tags": [
+          "fire",
+          "projectile"
+        ],
+        "matched_tags_ko": [
+          "화염",
+          "투사체"
+        ],
+        "unique_tags": [
+          "chain",
+          "chaos",
+          "charge",
+          "cold",
+          "conversion",
+          "crit",
+          "duration",
+          "extra_projectile",
+          "fire",
+          "fork",
+          "gain_as_extra",
+          "life",
+          "lightning",
+          "mana",
+          "meta_energy",
+          "minion",
+          "pierce",
+          "projectile",
+          "spirit"
+        ],
+        "unique_tags_ko": [
+          "연쇄",
+          "카오스",
+          "충전",
+          "냉기",
+          "전환",
+          "치명타",
+          "지속시간",
+          "추가 투사체",
+          "화염",
+          "갈라짐",
+          "추가 피해 획득",
+          "생명력",
+          "번개",
+          "마나",
+          "메타 에너지",
+          "소환수",
+          "관통",
+          "투사체",
+          "정신력"
+        ]
+      },
+      {
+        "name": "이중 시야",
+        "canonical_name": "Double Vision",
+        "base_type": "Dyad Crossbow",
+        "score": 20.0,
+        "role": "engine",
+        "matched_tags": [
+          "fire",
+          "trigger"
+        ],
+        "matched_tags_ko": [
+          "화염",
+          "발동"
+        ],
+        "unique_tags": [
+          "cold",
+          "crit",
+          "fire",
+          "trigger"
+        ],
+        "unique_tags_ko": [
+          "냉기",
+          "치명타",
+          "화염",
+          "발동"
+        ]
+      },
+      {
+        "name": "질식의 진노",
+        "canonical_name": "Asphyxia's Wrath",
+        "base_type": "Broadhead Quiver",
+        "score": 19.0,
+        "role": "engine",
+        "matched_tags": [
+          "fire",
+          "projectile"
+        ],
+        "matched_tags_ko": [
+          "화염",
+          "투사체"
+        ],
+        "unique_tags": [
+          "cold",
+          "fire",
+          "gain_as_extra",
+          "mana",
+          "pierce",
+          "projectile"
+        ],
+        "unique_tags_ko": [
+          "냉기",
+          "화염",
+          "추가 피해 획득",
+          "마나",
+          "관통",
+          "투사체"
+        ]
+      },
+      {
+        "name": "붕괴하는 지평선",
+        "canonical_name": "Collapsing Horizon",
+        "base_type": "Wyrm Quarterstaff",
+        "score": 16.0,
+        "role": "engine",
+        "matched_tags": [
+          "trigger"
+        ],
+        "matched_tags_ko": [
+          "발동"
+        ],
+        "unique_tags": [
+          "crit",
+          "trigger"
+        ],
+        "unique_tags_ko": [
+          "치명타",
+          "발동"
+        ]
+      }
+    ],
+    "build_score": 753.0,
+    "candidate_count": 45,
+    "support_count": 45,
+    "passive_count": 0
+  },
+  {
+    "build_name": "원소 표현 투사체 발동 번개 냉기 빌드",
+    "main_skill": "원소 표현",
+    "archetype_label_en": "Projectile Trigger Lightning Cold",
+    "archetype_label_ko": "투사체 발동 번개 냉기",
+    "archetypes": [
+      "projectile",
+      "trigger",
+      "lightning",
+      "cold"
+    ],
+    "main_scaling": [
+      "elemental_damage",
+      "crit",
+      "projectile_count",
+      "chain_count"
+    ],
+    "recommended_supports": [
+      "세차게 흐르는 전류",
+      "화산 분출",
+      "하욕시의 뇌전",
+      "원소 방출",
+      "촉진시키는 원소",
+      "얼어붙은 악의"
+    ],
+    "passive_direction": [],
+    "recommended_uniques": [
+      {
+        "name": "세케마의 결의",
+        "canonical_name": "Sekhema's Resolve",
+        "base_type": "Ring",
+        "score": 27.0,
+        "role": "engine",
+        "matched_tags": [
+          "chain",
+          "lightning",
+          "projectile"
+        ],
+        "matched_tags_ko": [
+          "연쇄",
+          "번개",
+          "투사체"
+        ],
+        "unique_tags": [
+          "chain",
+          "chaos",
+          "charge",
+          "cold",
+          "conversion",
+          "crit",
+          "duration",
+          "extra_projectile",
+          "fire",
+          "fork",
+          "gain_as_extra",
+          "life",
+          "lightning",
+          "mana",
+          "meta_energy",
+          "minion",
+          "pierce",
+          "projectile",
+          "spirit"
+        ],
+        "unique_tags_ko": [
+          "연쇄",
+          "카오스",
+          "충전",
+          "냉기",
+          "전환",
+          "치명타",
+          "지속시간",
+          "추가 투사체",
+          "화염",
+          "갈라짐",
+          "추가 피해 획득",
+          "생명력",
+          "번개",
+          "마나",
+          "메타 에너지",
+          "소환수",
+          "관통",
+          "투사체",
+          "정신력"
+        ]
+      },
+      {
+        "name": "이중 시야",
+        "canonical_name": "Double Vision",
+        "base_type": "Dyad Crossbow",
+        "score": 24.0,
+        "role": "engine",
+        "matched_tags": [
+          "cold",
+          "fire",
+          "trigger"
+        ],
+        "matched_tags_ko": [
+          "냉기",
+          "화염",
+          "발동"
+        ],
+        "unique_tags": [
+          "cold",
+          "crit",
+          "fire",
+          "trigger"
+        ],
+        "unique_tags_ko": [
+          "냉기",
+          "치명타",
+          "화염",
+          "발동"
+        ]
+      },
+      {
+        "name": "황혼의 감시",
+        "canonical_name": "Dusk Vigil",
+        "base_type": "Ashen Staff",
+        "score": 22.0,
+        "role": "engine",
+        "matched_tags": [
+          "fire",
+          "trigger"
+        ],
+        "matched_tags_ko": [
+          "화염",
+          "발동"
+        ],
+        "unique_tags": [
+          "fire",
+          "gain_as_extra",
+          "life",
+          "mana",
+          "trigger"
+        ],
+        "unique_tags_ko": [
+          "화염",
+          "추가 피해 획득",
+          "생명력",
+          "마나",
+          "발동"
+        ]
+      },
+      {
+        "name": "폭풍의 합창",
+        "canonical_name": "Choir of the Storm",
+        "base_type": "Jade Amulet",
+        "score": 20.0,
+        "role": "engine",
+        "matched_tags": [
+          "lightning",
+          "trigger"
+        ],
+        "matched_tags_ko": [
+          "번개",
+          "발동"
+        ],
+        "unique_tags": [
+          "crit",
+          "lightning",
+          "trigger"
+        ],
+        "unique_tags_ko": [
+          "치명타",
+          "번개",
+          "발동"
+        ]
+      },
+      {
+        "name": "뱀구덩이",
+        "canonical_name": "Snakepit",
+        "base_type": "Pearl Ring",
+        "score": 20.0,
+        "role": "engine",
+        "matched_tags": [
+          "chain",
+          "projectile"
+        ],
+        "matched_tags_ko": [
+          "연쇄",
+          "투사체"
+        ],
+        "unique_tags": [
+          "chain",
+          "fork",
+          "pierce",
+          "projectile"
+        ],
+        "unique_tags_ko": [
+          "연쇄",
+          "갈라짐",
+          "관통",
+          "투사체"
+        ]
+      }
+    ],
+    "build_score": 723.0,
+    "candidate_count": 45,
+    "support_count": 45,
+    "passive_count": 0
+  },
+  {
+    "build_name": "종말 투사체 발동 번개 연쇄 빌드",
+    "main_skill": "종말",
+    "archetype_label_en": "Projectile Trigger Lightning Chain",
+    "archetype_label_ko": "투사체 발동 번개 연쇄",
+    "archetypes": [
+      "projectile",
+      "trigger",
+      "lightning",
+      "chain"
+    ],
+    "main_scaling": [
+      "elemental_damage",
+      "crit",
+      "projectile_count",
+      "chain_count"
+    ],
+    "recommended_supports": [
+      "분화구",
+      "하욕시의 뇌전",
+      "원소 방출",
+      "촉진시키는 원소",
+      "정전기 감전",
+      "충전된 징표"
+    ],
+    "passive_direction": [],
+    "recommended_uniques": [
+      {
+        "name": "이중 시야",
+        "canonical_name": "Double Vision",
+        "base_type": "Dyad Crossbow",
+        "score": 24.0,
+        "role": "engine",
+        "matched_tags": [
+          "cold",
+          "fire",
+          "trigger"
+        ],
+        "matched_tags_ko": [
+          "냉기",
+          "화염",
+          "발동"
+        ],
+        "unique_tags": [
+          "cold",
+          "crit",
+          "fire",
+          "trigger"
+        ],
+        "unique_tags_ko": [
+          "냉기",
+          "치명타",
+          "화염",
+          "발동"
+        ]
+      },
+      {
+        "name": "세케마의 결의",
+        "canonical_name": "Sekhema's Resolve",
+        "base_type": "Ring",
+        "score": 24.0,
+        "role": "engine",
+        "matched_tags": [
+          "cold",
+          "fire",
+          "lightning"
+        ],
+        "matched_tags_ko": [
+          "냉기",
+          "화염",
+          "번개"
+        ],
+        "unique_tags": [
+          "chain",
+          "chaos",
+          "charge",
+          "cold",
+          "conversion",
+          "crit",
+          "duration",
+          "extra_projectile",
+          "fire",
+          "fork",
+          "gain_as_extra",
+          "life",
+          "lightning",
+          "mana",
+          "meta_energy",
+          "minion",
+          "pierce",
+          "projectile",
+          "spirit"
+        ],
+        "unique_tags_ko": [
+          "연쇄",
+          "카오스",
+          "충전",
+          "냉기",
+          "전환",
+          "치명타",
+          "지속시간",
+          "추가 투사체",
+          "화염",
+          "갈라짐",
+          "추가 피해 획득",
+          "생명력",
+          "번개",
+          "마나",
+          "메타 에너지",
+          "소환수",
+          "관통",
+          "투사체",
+          "정신력"
+        ]
+      },
+      {
+        "name": "황혼의 감시",
+        "canonical_name": "Dusk Vigil",
+        "base_type": "Ashen Staff",
+        "score": 22.0,
+        "role": "engine",
+        "matched_tags": [
+          "fire",
+          "trigger"
+        ],
+        "matched_tags_ko": [
+          "화염",
+          "발동"
+        ],
+        "unique_tags": [
+          "fire",
+          "gain_as_extra",
+          "life",
+          "mana",
+          "trigger"
+        ],
+        "unique_tags_ko": [
+          "화염",
+          "추가 피해 획득",
+          "생명력",
+          "마나",
+          "발동"
+        ]
+      },
+      {
+        "name": "폭풍의 합창",
+        "canonical_name": "Choir of the Storm",
+        "base_type": "Jade Amulet",
+        "score": 20.0,
+        "role": "engine",
+        "matched_tags": [
+          "lightning",
+          "trigger"
+        ],
+        "matched_tags_ko": [
+          "번개",
+          "발동"
+        ],
+        "unique_tags": [
+          "crit",
+          "lightning",
+          "trigger"
+        ],
+        "unique_tags_ko": [
+          "치명타",
+          "번개",
+          "발동"
+        ]
+      },
+      {
+        "name": "대지속박",
+        "canonical_name": "Earthbound",
+        "base_type": "Voltaic Staff",
+        "score": 17.0,
+        "role": "engine",
+        "matched_tags": [
+          "lightning",
+          "trigger"
+        ],
+        "matched_tags_ko": [
+          "번개",
+          "발동"
+        ],
+        "unique_tags": [
+          "lightning",
+          "mana",
+          "trigger"
+        ],
+        "unique_tags_ko": [
+          "번개",
+          "마나",
+          "발동"
+        ]
+      }
+    ],
+    "build_score": 680.0,
+    "candidate_count": 39,
+    "support_count": 39,
+    "passive_count": 0
+  },
+  {
+    "build_name": "원소 폭풍 투사체 발동 번개 연쇄 빌드",
+    "main_skill": "원소 폭풍",
+    "archetype_label_en": "Projectile Trigger Lightning Chain",
+    "archetype_label_ko": "투사체 발동 번개 연쇄",
+    "archetypes": [
+      "projectile",
+      "trigger",
+      "lightning",
+      "chain"
+    ],
+    "main_scaling": [
+      "elemental_damage",
+      "crit",
+      "projectile_count",
+      "chain_count"
+    ],
+    "recommended_supports": [
+      "분화구",
+      "하욕시의 뇌전",
+      "원소 방출",
+      "촉진시키는 원소",
+      "정전기 감전",
+      "충전된 징표"
+    ],
+    "passive_direction": [],
+    "recommended_uniques": [
+      {
+        "name": "이중 시야",
+        "canonical_name": "Double Vision",
+        "base_type": "Dyad Crossbow",
+        "score": 24.0,
+        "role": "engine",
+        "matched_tags": [
+          "cold",
+          "fire",
+          "trigger"
+        ],
+        "matched_tags_ko": [
+          "냉기",
+          "화염",
+          "발동"
+        ],
+        "unique_tags": [
+          "cold",
+          "crit",
+          "fire",
+          "trigger"
+        ],
+        "unique_tags_ko": [
+          "냉기",
+          "치명타",
+          "화염",
+          "발동"
+        ]
+      },
+      {
+        "name": "세케마의 결의",
+        "canonical_name": "Sekhema's Resolve",
+        "base_type": "Ring",
+        "score": 24.0,
+        "role": "engine",
+        "matched_tags": [
+          "cold",
+          "fire",
+          "lightning"
+        ],
+        "matched_tags_ko": [
+          "냉기",
+          "화염",
+          "번개"
+        ],
+        "unique_tags": [
+          "chain",
+          "chaos",
+          "charge",
+          "cold",
+          "conversion",
+          "crit",
+          "duration",
+          "extra_projectile",
+          "fire",
+          "fork",
+          "gain_as_extra",
+          "life",
+          "lightning",
+          "mana",
+          "meta_energy",
+          "minion",
+          "pierce",
+          "projectile",
+          "spirit"
+        ],
+        "unique_tags_ko": [
+          "연쇄",
+          "카오스",
+          "충전",
+          "냉기",
+          "전환",
+          "치명타",
+          "지속시간",
+          "추가 투사체",
+          "화염",
+          "갈라짐",
+          "추가 피해 획득",
+          "생명력",
+          "번개",
+          "마나",
+          "메타 에너지",
+          "소환수",
+          "관통",
+          "투사체",
+          "정신력"
+        ]
+      },
+      {
+        "name": "황혼의 감시",
+        "canonical_name": "Dusk Vigil",
+        "base_type": "Ashen Staff",
+        "score": 22.0,
+        "role": "engine",
+        "matched_tags": [
+          "fire",
+          "trigger"
+        ],
+        "matched_tags_ko": [
+          "화염",
+          "발동"
+        ],
+        "unique_tags": [
+          "fire",
+          "gain_as_extra",
+          "life",
+          "mana",
+          "trigger"
+        ],
+        "unique_tags_ko": [
+          "화염",
+          "추가 피해 획득",
+          "생명력",
+          "마나",
+          "발동"
+        ]
+      },
+      {
+        "name": "폭풍의 합창",
+        "canonical_name": "Choir of the Storm",
+        "base_type": "Jade Amulet",
+        "score": 20.0,
+        "role": "engine",
+        "matched_tags": [
+          "lightning",
+          "trigger"
+        ],
+        "matched_tags_ko": [
+          "번개",
+          "발동"
+        ],
+        "unique_tags": [
+          "crit",
+          "lightning",
+          "trigger"
+        ],
+        "unique_tags_ko": [
+          "치명타",
+          "번개",
+          "발동"
+        ]
+      },
+      {
+        "name": "대지속박",
+        "canonical_name": "Earthbound",
+        "base_type": "Voltaic Staff",
+        "score": 17.0,
+        "role": "engine",
+        "matched_tags": [
+          "lightning",
+          "trigger"
+        ],
+        "matched_tags_ko": [
+          "번개",
+          "발동"
+        ],
+        "unique_tags": [
+          "lightning",
+          "mana",
+          "trigger"
+        ],
+        "unique_tags_ko": [
+          "번개",
+          "마나",
+          "발동"
+        ]
+      }
+    ],
+    "build_score": 679.0,
+    "candidate_count": 39,
+    "support_count": 39,
+    "passive_count": 0
+  },
+  {
+    "build_name": "부패 효과 범위 발동 번개 화염 빌드",
+    "main_skill": "부패",
+    "archetype_label_en": "Aoe Trigger Lightning Fire",
+    "archetype_label_ko": "효과 범위 발동 번개 화염",
+    "archetypes": [
+      "aoe",
+      "trigger",
+      "lightning",
+      "fire"
+    ],
+    "main_scaling": [
+      "elemental_damage",
+      "crit",
+      "duration"
+    ],
+    "recommended_supports": [
+      "분화구",
+      "독 포자",
+      "충전된 징표",
+      "하욕시의 뇌전",
+      "정전기 감전",
+      "몽상가의 종소리"
+    ],
+    "passive_direction": [],
+    "recommended_uniques": [
+      {
+        "name": "황혼의 감시",
+        "canonical_name": "Dusk Vigil",
+        "base_type": "Ashen Staff",
+        "score": 22.0,
+        "role": "engine",
+        "matched_tags": [
+          "fire",
+          "trigger"
+        ],
+        "matched_tags_ko": [
+          "화염",
+          "발동"
+        ],
+        "unique_tags": [
+          "fire",
+          "gain_as_extra",
+          "life",
+          "mana",
+          "trigger"
+        ],
+        "unique_tags_ko": [
+          "화염",
+          "추가 피해 획득",
+          "생명력",
+          "마나",
+          "발동"
+        ]
+      },
+      {
+        "name": "이중 시야",
+        "canonical_name": "Double Vision",
+        "base_type": "Dyad Crossbow",
+        "score": 20.0,
+        "role": "engine",
+        "matched_tags": [
+          "fire",
+          "trigger"
+        ],
+        "matched_tags_ko": [
+          "화염",
+          "발동"
+        ],
+        "unique_tags": [
+          "cold",
+          "crit",
+          "fire",
+          "trigger"
+        ],
+        "unique_tags_ko": [
+          "냉기",
+          "치명타",
+          "화염",
+          "발동"
+        ]
+      },
+      {
+        "name": "어둠살대",
+        "canonical_name": "Murkshaft",
+        "base_type": "Toxic Quiver",
+        "score": 20.0,
+        "role": "engine",
+        "matched_tags": [
+          "chaos",
+          "duration",
+          "trigger"
+        ],
+        "matched_tags_ko": [
+          "카오스",
+          "지속시간",
+          "발동"
+        ],
+        "unique_tags": [
+          "chaos",
+          "duration",
+          "mana",
+          "trigger"
+        ],
+        "unique_tags_ko": [
+          "카오스",
+          "지속시간",
+          "마나",
+          "발동"
+        ]
+      },
+      {
+        "name": "분노의 첨탑",
+        "canonical_name": "Spire of Ire",
+        "base_type": "Helix Spear",
+        "score": 17.0,
+        "role": "engine",
+        "matched_tags": [
+          "chaos",
+          "trigger"
+        ],
+        "matched_tags_ko": [
+          "카오스",
+          "발동"
+        ],
+        "unique_tags": [
+          "chaos",
+          "charge",
+          "life",
+          "trigger"
+        ],
+        "unique_tags_ko": [
+          "카오스",
+          "충전",
+          "생명력",
+          "발동"
+        ]
+      },
+      {
+        "name": "붕괴하는 지평선",
+        "canonical_name": "Collapsing Horizon",
+        "base_type": "Wyrm Quarterstaff",
+        "score": 16.0,
+        "role": "engine",
+        "matched_tags": [
+          "trigger"
+        ],
+        "matched_tags_ko": [
+          "발동"
+        ],
+        "unique_tags": [
+          "crit",
+          "trigger"
+        ],
+        "unique_tags_ko": [
+          "치명타",
+          "발동"
+        ]
+      }
+    ],
+    "build_score": 677.0,
+    "candidate_count": 47,
+    "support_count": 38,
+    "passive_count": 0
+  },
+  {
+    "build_name": "연발 사격 가능 얼음촉 화살 투사체 발동 번개 냉기 빌드",
+    "main_skill": "연발 사격 가능 얼음촉 화살",
+    "archetype_label_en": "Projectile Trigger Lightning Cold",
+    "archetype_label_ko": "투사체 발동 번개 냉기",
+    "archetypes": [
+      "projectile",
+      "trigger",
+      "lightning",
+      "cold"
+    ],
+    "main_scaling": [
+      "elemental_damage",
+      "crit",
+      "projectile_count",
+      "chain_count"
+    ],
+    "recommended_supports": [
+      "마름쇠",
+      "얼어붙은 악의",
+      "화산 분출",
+      "독 포자",
+      "분화구",
+      "몽상가의 종소리"
+    ],
+    "passive_direction": [],
+    "recommended_uniques": [
+      {
+        "name": "이중 시야",
+        "canonical_name": "Double Vision",
+        "base_type": "Dyad Crossbow",
+        "score": 20.0,
+        "role": "engine",
+        "matched_tags": [
+          "cold",
+          "trigger"
+        ],
+        "matched_tags_ko": [
+          "냉기",
+          "발동"
+        ],
+        "unique_tags": [
+          "cold",
+          "crit",
+          "fire",
+          "trigger"
+        ],
+        "unique_tags_ko": [
+          "냉기",
+          "치명타",
+          "화염",
+          "발동"
+        ]
+      },
+      {
+        "name": "세케마의 결의",
+        "canonical_name": "Sekhema's Resolve",
+        "base_type": "Ring",
+        "score": 17.0,
+        "role": "engine",
+        "matched_tags": [
+          "cold",
+          "projectile"
+        ],
+        "matched_tags_ko": [
+          "냉기",
+          "투사체"
+        ],
+        "unique_tags": [
+          "chain",
+          "chaos",
+          "charge",
+          "cold",
+          "conversion",
+          "crit",
+          "duration",
+          "extra_projectile",
+          "fire",
+          "fork",
+          "gain_as_extra",
+          "life",
+          "lightning",
+          "mana",
+          "meta_energy",
+          "minion",
+          "pierce",
+          "projectile",
+          "spirit"
+        ],
+        "unique_tags_ko": [
+          "연쇄",
+          "카오스",
+          "충전",
+          "냉기",
+          "전환",
+          "치명타",
+          "지속시간",
+          "추가 투사체",
+          "화염",
+          "갈라짐",
+          "추가 피해 획득",
+          "생명력",
+          "번개",
+          "마나",
+          "메타 에너지",
+          "소환수",
+          "관통",
+          "투사체",
+          "정신력"
+        ]
+      },
+      {
+        "name": "붕괴하는 지평선",
+        "canonical_name": "Collapsing Horizon",
+        "base_type": "Wyrm Quarterstaff",
+        "score": 16.0,
+        "role": "engine",
+        "matched_tags": [
+          "trigger"
+        ],
+        "matched_tags_ko": [
+          "발동"
+        ],
+        "unique_tags": [
+          "crit",
+          "trigger"
+        ],
+        "unique_tags_ko": [
+          "치명타",
+          "발동"
+        ]
+      },
+      {
+        "name": "어둠살대",
+        "canonical_name": "Murkshaft",
+        "base_type": "Toxic Quiver",
+        "score": 16.0,
+        "role": "engine",
+        "matched_tags": [
+          "duration",
+          "trigger"
+        ],
+        "matched_tags_ko": [
+          "지속시간",
+          "발동"
+        ],
+        "unique_tags": [
+          "chaos",
+          "duration",
+          "mana",
+          "trigger"
+        ],
+        "unique_tags_ko": [
+          "카오스",
+          "지속시간",
+          "마나",
+          "발동"
+        ]
+      },
+      {
+        "name": "폭풍의 합창",
+        "canonical_name": "Choir of the Storm",
+        "base_type": "Jade Amulet",
+        "score": 16.0,
+        "role": "engine",
+        "matched_tags": [
+          "trigger"
+        ],
+        "matched_tags_ko": [
+          "발동"
+        ],
+        "unique_tags": [
+          "crit",
+          "lightning",
+          "trigger"
+        ],
+        "unique_tags_ko": [
+          "치명타",
+          "번개",
+          "발동"
+        ]
+      }
+    ],
+    "build_score": 673.0,
+    "candidate_count": 45,
+    "support_count": 45,
+    "passive_count": 0
+  },
+  {
+    "build_name": "마름쇠의 발자취 투사체 발동 번개 연쇄 빌드",
+    "main_skill": "마름쇠의 발자취",
+    "archetype_label_en": "Projectile Trigger Lightning Chain",
+    "archetype_label_ko": "투사체 발동 번개 연쇄",
+    "archetypes": [
+      "projectile",
+      "trigger",
+      "lightning",
+      "chain"
+    ],
+    "main_scaling": [
+      "elemental_damage",
+      "crit",
+      "projectile_count",
+      "chain_count"
+    ],
+    "recommended_supports": [
+      "마름쇠",
+      "독 포자",
+      "화산 분출",
+      "분화구",
+      "몽상가의 종소리",
+      "얼어붙은 악의"
+    ],
+    "passive_direction": [],
+    "recommended_uniques": [
+      {
+        "name": "붕괴하는 지평선",
+        "canonical_name": "Collapsing Horizon",
+        "base_type": "Wyrm Quarterstaff",
+        "score": 16.0,
+        "role": "engine",
+        "matched_tags": [
+          "trigger"
+        ],
+        "matched_tags_ko": [
+          "발동"
+        ],
+        "unique_tags": [
+          "crit",
+          "trigger"
+        ],
+        "unique_tags_ko": [
+          "치명타",
+          "발동"
+        ]
+      },
+      {
+        "name": "이중 시야",
+        "canonical_name": "Double Vision",
+        "base_type": "Dyad Crossbow",
+        "score": 16.0,
+        "role": "engine",
+        "matched_tags": [
+          "trigger"
+        ],
+        "matched_tags_ko": [
+          "발동"
+        ],
+        "unique_tags": [
+          "cold",
+          "crit",
+          "fire",
+          "trigger"
+        ],
+        "unique_tags_ko": [
+          "냉기",
+          "치명타",
+          "화염",
+          "발동"
+        ]
+      },
+      {
+        "name": "어둠살대",
+        "canonical_name": "Murkshaft",
+        "base_type": "Toxic Quiver",
+        "score": 16.0,
+        "role": "engine",
+        "matched_tags": [
+          "duration",
+          "trigger"
+        ],
+        "matched_tags_ko": [
+          "지속시간",
+          "발동"
+        ],
+        "unique_tags": [
+          "chaos",
+          "duration",
+          "mana",
+          "trigger"
+        ],
+        "unique_tags_ko": [
+          "카오스",
+          "지속시간",
+          "마나",
+          "발동"
+        ]
+      },
+      {
+        "name": "폭풍의 합창",
+        "canonical_name": "Choir of the Storm",
+        "base_type": "Jade Amulet",
+        "score": 16.0,
+        "role": "engine",
+        "matched_tags": [
+          "trigger"
+        ],
+        "matched_tags_ko": [
+          "발동"
+        ],
+        "unique_tags": [
+          "crit",
+          "lightning",
+          "trigger"
+        ],
+        "unique_tags_ko": [
+          "치명타",
+          "번개",
+          "발동"
+        ]
+      },
+      {
+        "name": "세케마의 결의",
+        "canonical_name": "Sekhema's Resolve",
+        "base_type": "Ring",
+        "score": 16.0,
+        "role": "engine",
+        "matched_tags": [
+          "duration",
+          "projectile"
+        ],
+        "matched_tags_ko": [
+          "지속시간",
+          "투사체"
+        ],
+        "unique_tags": [
+          "chain",
+          "chaos",
+          "charge",
+          "cold",
+          "conversion",
+          "crit",
+          "duration",
+          "extra_projectile",
+          "fire",
+          "fork",
+          "gain_as_extra",
+          "life",
+          "lightning",
+          "mana",
+          "meta_energy",
+          "minion",
+          "pierce",
+          "projectile",
+          "spirit"
+        ],
+        "unique_tags_ko": [
+          "연쇄",
+          "카오스",
+          "충전",
+          "냉기",
+          "전환",
+          "치명타",
+          "지속시간",
+          "추가 투사체",
+          "화염",
+          "갈라짐",
+          "추가 피해 획득",
+          "생명력",
+          "번개",
+          "마나",
+          "메타 에너지",
+          "소환수",
+          "관통",
+          "투사체",
+          "정신력"
+        ]
+      }
+    ],
+    "build_score": 660.0,
+    "candidate_count": 42,
+    "support_count": 42,
+    "passive_count": 0
+  },
+  {
+    "build_name": "원소 쇄도 투사체 발동 번개 연쇄 빌드",
+    "main_skill": "원소 쇄도",
+    "archetype_label_en": "Projectile Trigger Lightning Chain",
+    "archetype_label_ko": "투사체 발동 번개 연쇄",
+    "archetypes": [
+      "projectile",
+      "trigger",
+      "lightning",
+      "chain"
+    ],
+    "main_scaling": [
+      "elemental_damage",
+      "crit",
+      "projectile_count",
+      "chain_count"
+    ],
+    "recommended_supports": [
+      "하욕시의 뇌전",
+      "원소 방출",
+      "촉진시키는 원소",
+      "방어구 폭발",
+      "분화구",
+      "불난 집 부채질"
+    ],
+    "passive_direction": [],
+    "recommended_uniques": [
+      {
+        "name": "이중 시야",
+        "canonical_name": "Double Vision",
+        "base_type": "Dyad Crossbow",
+        "score": 24.0,
+        "role": "engine",
+        "matched_tags": [
+          "cold",
+          "fire",
+          "trigger"
+        ],
+        "matched_tags_ko": [
+          "냉기",
+          "화염",
+          "발동"
+        ],
+        "unique_tags": [
+          "cold",
+          "crit",
+          "fire",
+          "trigger"
+        ],
+        "unique_tags_ko": [
+          "냉기",
+          "치명타",
+          "화염",
+          "발동"
+        ]
+      },
+      {
+        "name": "세케마의 결의",
+        "canonical_name": "Sekhema's Resolve",
+        "base_type": "Ring",
+        "score": 24.0,
+        "role": "engine",
+        "matched_tags": [
+          "cold",
+          "fire",
+          "lightning"
+        ],
+        "matched_tags_ko": [
+          "냉기",
+          "화염",
+          "번개"
+        ],
+        "unique_tags": [
+          "chain",
+          "chaos",
+          "charge",
+          "cold",
+          "conversion",
+          "crit",
+          "duration",
+          "extra_projectile",
+          "fire",
+          "fork",
+          "gain_as_extra",
+          "life",
+          "lightning",
+          "mana",
+          "meta_energy",
+          "minion",
+          "pierce",
+          "projectile",
+          "spirit"
+        ],
+        "unique_tags_ko": [
+          "연쇄",
+          "카오스",
+          "충전",
+          "냉기",
+          "전환",
+          "치명타",
+          "지속시간",
+          "추가 투사체",
+          "화염",
+          "갈라짐",
+          "추가 피해 획득",
+          "생명력",
+          "번개",
+          "마나",
+          "메타 에너지",
+          "소환수",
+          "관통",
+          "투사체",
+          "정신력"
+        ]
+      },
+      {
+        "name": "황혼의 감시",
+        "canonical_name": "Dusk Vigil",
+        "base_type": "Ashen Staff",
+        "score": 22.0,
+        "role": "engine",
+        "matched_tags": [
+          "fire",
+          "trigger"
+        ],
+        "matched_tags_ko": [
+          "화염",
+          "발동"
+        ],
+        "unique_tags": [
+          "fire",
+          "gain_as_extra",
+          "life",
+          "mana",
+          "trigger"
+        ],
+        "unique_tags_ko": [
+          "화염",
+          "추가 피해 획득",
+          "생명력",
+          "마나",
+          "발동"
+        ]
+      },
+      {
+        "name": "폭풍의 합창",
+        "canonical_name": "Choir of the Storm",
+        "base_type": "Jade Amulet",
+        "score": 20.0,
+        "role": "engine",
+        "matched_tags": [
+          "lightning",
+          "trigger"
+        ],
+        "matched_tags_ko": [
+          "번개",
+          "발동"
+        ],
+        "unique_tags": [
+          "crit",
+          "lightning",
+          "trigger"
+        ],
+        "unique_tags_ko": [
+          "치명타",
+          "번개",
+          "발동"
+        ]
+      },
+      {
+        "name": "대지속박",
+        "canonical_name": "Earthbound",
+        "base_type": "Voltaic Staff",
+        "score": 17.0,
+        "role": "engine",
+        "matched_tags": [
+          "lightning",
+          "trigger"
+        ],
+        "matched_tags_ko": [
+          "번개",
+          "발동"
+        ],
+        "unique_tags": [
+          "lightning",
+          "mana",
+          "trigger"
+        ],
+        "unique_tags_ko": [
+          "번개",
+          "마나",
+          "발동"
+        ]
+      }
+    ],
+    "build_score": 587.0,
+    "candidate_count": 37,
+    "support_count": 37,
+    "passive_count": 0
+  },
+  {
+    "build_name": "보강하는 함성 번개 효과 범위 발동 화염 빌드",
+    "main_skill": "보강하는 함성",
+    "archetype_label_en": "Lightning Aoe Trigger Fire",
+    "archetype_label_ko": "번개 효과 범위 발동 화염",
+    "archetypes": [
+      "lightning",
+      "aoe",
+      "trigger",
+      "fire"
+    ],
+    "main_scaling": [
+      "elemental_damage",
+      "crit",
+      "duration"
+    ],
+    "recommended_supports": [
+      "분화구",
+      "몽상가의 종소리",
+      "독 포자",
+      "마름쇠",
+      "충전된 징표",
+      "정전기 감전"
+    ],
+    "passive_direction": [],
+    "recommended_uniques": [
+      {
+        "name": "붕괴하는 지평선",
+        "canonical_name": "Collapsing Horizon",
+        "base_type": "Wyrm Quarterstaff",
+        "score": 16.0,
+        "role": "engine",
+        "matched_tags": [
+          "trigger"
+        ],
+        "matched_tags_ko": [
+          "발동"
+        ],
+        "unique_tags": [
+          "crit",
+          "trigger"
+        ],
+        "unique_tags_ko": [
+          "치명타",
+          "발동"
+        ]
+      },
+      {
+        "name": "이중 시야",
+        "canonical_name": "Double Vision",
+        "base_type": "Dyad Crossbow",
+        "score": 16.0,
+        "role": "engine",
+        "matched_tags": [
+          "trigger"
+        ],
+        "matched_tags_ko": [
+          "발동"
+        ],
+        "unique_tags": [
+          "cold",
+          "crit",
+          "fire",
+          "trigger"
+        ],
+        "unique_tags_ko": [
+          "냉기",
+          "치명타",
+          "화염",
+          "발동"
+        ]
+      },
+      {
+        "name": "어둠살대",
+        "canonical_name": "Murkshaft",
+        "base_type": "Toxic Quiver",
+        "score": 16.0,
+        "role": "engine",
+        "matched_tags": [
+          "duration",
+          "trigger"
+        ],
+        "matched_tags_ko": [
+          "지속시간",
+          "발동"
+        ],
+        "unique_tags": [
+          "chaos",
+          "duration",
+          "mana",
+          "trigger"
+        ],
+        "unique_tags_ko": [
+          "카오스",
+          "지속시간",
+          "마나",
+          "발동"
+        ]
+      },
+      {
+        "name": "폭풍의 합창",
+        "canonical_name": "Choir of the Storm",
+        "base_type": "Jade Amulet",
+        "score": 16.0,
+        "role": "engine",
+        "matched_tags": [
+          "trigger"
+        ],
+        "matched_tags_ko": [
+          "발동"
+        ],
+        "unique_tags": [
+          "crit",
+          "lightning",
+          "trigger"
+        ],
+        "unique_tags_ko": [
+          "치명타",
+          "번개",
+          "발동"
+        ]
+      },
+      {
+        "name": "분노의 첨탑",
+        "canonical_name": "Spire of Ire",
+        "base_type": "Helix Spear",
+        "score": 13.0,
+        "role": "engine",
+        "matched_tags": [
+          "trigger"
+        ],
+        "matched_tags_ko": [
+          "발동"
+        ],
+        "unique_tags": [
+          "chaos",
+          "charge",
+          "life",
+          "trigger"
+        ],
+        "unique_tags_ko": [
+          "카오스",
+          "충전",
+          "생명력",
+          "발동"
+        ]
+      }
+    ],
+    "build_score": 584.0,
+    "candidate_count": 41,
+    "support_count": 41,
+    "passive_count": 0
+  },
+  {
+    "build_name": "피사냥개의 징표 번개 효과 범위 발동 화염 빌드",
+    "main_skill": "피사냥개의 징표",
+    "archetype_label_en": "Lightning Aoe Trigger Fire",
+    "archetype_label_ko": "번개 효과 범위 발동 화염",
+    "archetypes": [
+      "lightning",
+      "aoe",
+      "trigger",
+      "fire"
+    ],
+    "main_scaling": [
+      "elemental_damage",
+      "crit",
+      "duration"
+    ],
+    "recommended_supports": [
+      "독 포자",
+      "분화구",
+      "몽상가의 종소리",
+      "마름쇠",
+      "충전된 징표",
+      "정전기 감전"
+    ],
+    "passive_direction": [],
+    "recommended_uniques": [
+      {
+        "name": "붕괴하는 지평선",
+        "canonical_name": "Collapsing Horizon",
+        "base_type": "Wyrm Quarterstaff",
+        "score": 16.0,
+        "role": "engine",
+        "matched_tags": [
+          "trigger"
+        ],
+        "matched_tags_ko": [
+          "발동"
+        ],
+        "unique_tags": [
+          "crit",
+          "trigger"
+        ],
+        "unique_tags_ko": [
+          "치명타",
+          "발동"
+        ]
+      },
+      {
+        "name": "이중 시야",
+        "canonical_name": "Double Vision",
+        "base_type": "Dyad Crossbow",
+        "score": 16.0,
+        "role": "engine",
+        "matched_tags": [
+          "trigger"
+        ],
+        "matched_tags_ko": [
+          "발동"
+        ],
+        "unique_tags": [
+          "cold",
+          "crit",
+          "fire",
+          "trigger"
+        ],
+        "unique_tags_ko": [
+          "냉기",
+          "치명타",
+          "화염",
+          "발동"
+        ]
+      },
+      {
+        "name": "어둠살대",
+        "canonical_name": "Murkshaft",
+        "base_type": "Toxic Quiver",
+        "score": 16.0,
+        "role": "engine",
+        "matched_tags": [
+          "duration",
+          "trigger"
+        ],
+        "matched_tags_ko": [
+          "지속시간",
+          "발동"
+        ],
+        "unique_tags": [
+          "chaos",
+          "duration",
+          "mana",
+          "trigger"
+        ],
+        "unique_tags_ko": [
+          "카오스",
+          "지속시간",
+          "마나",
+          "발동"
+        ]
+      },
+      {
+        "name": "폭풍의 합창",
+        "canonical_name": "Choir of the Storm",
+        "base_type": "Jade Amulet",
+        "score": 16.0,
+        "role": "engine",
+        "matched_tags": [
+          "trigger"
+        ],
+        "matched_tags_ko": [
+          "발동"
+        ],
+        "unique_tags": [
+          "crit",
+          "lightning",
+          "trigger"
+        ],
+        "unique_tags_ko": [
+          "치명타",
+          "번개",
+          "발동"
+        ]
+      },
+      {
+        "name": "분노의 첨탑",
+        "canonical_name": "Spire of Ire",
+        "base_type": "Helix Spear",
+        "score": 13.0,
+        "role": "engine",
+        "matched_tags": [
+          "trigger"
+        ],
+        "matched_tags_ko": [
+          "발동"
+        ],
+        "unique_tags": [
+          "chaos",
+          "charge",
+          "life",
+          "trigger"
+        ],
+        "unique_tags_ko": [
+          "카오스",
+          "충전",
+          "생명력",
+          "발동"
+        ]
+      }
+    ],
+    "build_score": 576.0,
+    "candidate_count": 41,
+    "support_count": 41,
+    "passive_count": 0
+  },
+  {
+    "build_name": "지옥불 함성 효과 범위 발동 번개 화염 빌드",
+    "main_skill": "지옥불 함성",
+    "archetype_label_en": "Aoe Trigger Lightning Fire",
+    "archetype_label_ko": "효과 범위 발동 번개 화염",
+    "archetypes": [
+      "aoe",
+      "trigger",
+      "lightning",
+      "fire"
+    ],
+    "main_scaling": [
+      "elemental_damage",
+      "duration"
+    ],
+    "recommended_supports": [
+      "분화구",
+      "몽상가의 종소리",
+      "마름쇠",
+      "독 포자",
+      "충전된 징표",
+      "정전기 감전"
+    ],
+    "passive_direction": [],
+    "recommended_uniques": [
+      {
+        "name": "황혼의 감시",
+        "canonical_name": "Dusk Vigil",
+        "base_type": "Ashen Staff",
+        "score": 22.0,
+        "role": "engine",
+        "matched_tags": [
+          "fire",
+          "trigger"
+        ],
+        "matched_tags_ko": [
+          "화염",
+          "발동"
+        ],
+        "unique_tags": [
+          "fire",
+          "gain_as_extra",
+          "life",
+          "mana",
+          "trigger"
+        ],
+        "unique_tags_ko": [
+          "화염",
+          "추가 피해 획득",
+          "생명력",
+          "마나",
+          "발동"
+        ]
+      },
+      {
+        "name": "이중 시야",
+        "canonical_name": "Double Vision",
+        "base_type": "Dyad Crossbow",
+        "score": 20.0,
+        "role": "engine",
+        "matched_tags": [
+          "fire",
+          "trigger"
+        ],
+        "matched_tags_ko": [
+          "화염",
+          "발동"
+        ],
+        "unique_tags": [
+          "cold",
+          "crit",
+          "fire",
+          "trigger"
+        ],
+        "unique_tags_ko": [
+          "냉기",
+          "치명타",
+          "화염",
+          "발동"
+        ]
+      },
+      {
+        "name": "붕괴하는 지평선",
+        "canonical_name": "Collapsing Horizon",
+        "base_type": "Wyrm Quarterstaff",
+        "score": 16.0,
+        "role": "engine",
+        "matched_tags": [
+          "trigger"
+        ],
+        "matched_tags_ko": [
+          "발동"
+        ],
+        "unique_tags": [
+          "crit",
+          "trigger"
+        ],
+        "unique_tags_ko": [
+          "치명타",
+          "발동"
+        ]
+      },
+      {
+        "name": "어둠살대",
+        "canonical_name": "Murkshaft",
+        "base_type": "Toxic Quiver",
+        "score": 16.0,
+        "role": "engine",
+        "matched_tags": [
+          "duration",
+          "trigger"
+        ],
+        "matched_tags_ko": [
+          "지속시간",
+          "발동"
+        ],
+        "unique_tags": [
+          "chaos",
+          "duration",
+          "mana",
+          "trigger"
+        ],
+        "unique_tags_ko": [
+          "카오스",
+          "지속시간",
+          "마나",
+          "발동"
+        ]
+      },
+      {
+        "name": "폭풍의 합창",
+        "canonical_name": "Choir of the Storm",
+        "base_type": "Jade Amulet",
+        "score": 16.0,
+        "role": "engine",
+        "matched_tags": [
+          "trigger"
+        ],
+        "matched_tags_ko": [
+          "발동"
+        ],
+        "unique_tags": [
+          "crit",
+          "lightning",
+          "trigger"
+        ],
+        "unique_tags_ko": [
+          "치명타",
+          "번개",
+          "발동"
+        ]
+      }
+    ],
+    "build_score": 564.0,
+    "candidate_count": 38,
+    "support_count": 38,
+    "passive_count": 0
+  },
+  {
+    "build_name": "공허 환상 번개 효과 범위 발동 화염 빌드",
+    "main_skill": "공허 환상",
+    "archetype_label_en": "Lightning Aoe Trigger Fire",
+    "archetype_label_ko": "번개 효과 범위 발동 화염",
+    "archetypes": [
+      "lightning",
+      "aoe",
+      "trigger",
+      "fire"
+    ],
+    "main_scaling": [
+      "elemental_damage",
+      "crit",
+      "duration"
+    ],
+    "recommended_supports": [
+      "독 포자",
+      "분화구",
+      "몽상가의 종소리",
+      "마름쇠",
+      "충전된 징표",
+      "정전기 감전"
+    ],
+    "passive_direction": [],
+    "recommended_uniques": [
+      {
+        "name": "붕괴하는 지평선",
+        "canonical_name": "Collapsing Horizon",
+        "base_type": "Wyrm Quarterstaff",
+        "score": 16.0,
+        "role": "engine",
+        "matched_tags": [
+          "trigger"
+        ],
+        "matched_tags_ko": [
+          "발동"
+        ],
+        "unique_tags": [
+          "crit",
+          "trigger"
+        ],
+        "unique_tags_ko": [
+          "치명타",
+          "발동"
+        ]
+      },
+      {
+        "name": "이중 시야",
+        "canonical_name": "Double Vision",
+        "base_type": "Dyad Crossbow",
+        "score": 16.0,
+        "role": "engine",
+        "matched_tags": [
+          "trigger"
+        ],
+        "matched_tags_ko": [
+          "발동"
+        ],
+        "unique_tags": [
+          "cold",
+          "crit",
+          "fire",
+          "trigger"
+        ],
+        "unique_tags_ko": [
+          "냉기",
+          "치명타",
+          "화염",
+          "발동"
+        ]
+      },
+      {
+        "name": "어둠살대",
+        "canonical_name": "Murkshaft",
+        "base_type": "Toxic Quiver",
+        "score": 16.0,
+        "role": "engine",
+        "matched_tags": [
+          "duration",
+          "trigger"
+        ],
+        "matched_tags_ko": [
+          "지속시간",
+          "발동"
+        ],
+        "unique_tags": [
+          "chaos",
+          "duration",
+          "mana",
+          "trigger"
+        ],
+        "unique_tags_ko": [
+          "카오스",
+          "지속시간",
+          "마나",
+          "발동"
+        ]
+      },
+      {
+        "name": "폭풍의 합창",
+        "canonical_name": "Choir of the Storm",
+        "base_type": "Jade Amulet",
+        "score": 16.0,
+        "role": "engine",
+        "matched_tags": [
+          "trigger"
+        ],
+        "matched_tags_ko": [
+          "발동"
+        ],
+        "unique_tags": [
+          "crit",
+          "lightning",
+          "trigger"
+        ],
+        "unique_tags_ko": [
+          "치명타",
+          "번개",
+          "발동"
+        ]
+      },
+      {
+        "name": "분노의 첨탑",
+        "canonical_name": "Spire of Ire",
+        "base_type": "Helix Spear",
+        "score": 13.0,
+        "role": "engine",
+        "matched_tags": [
+          "trigger"
+        ],
+        "matched_tags_ko": [
+          "발동"
+        ],
+        "unique_tags": [
+          "chaos",
+          "charge",
+          "life",
+          "trigger"
+        ],
+        "unique_tags_ko": [
+          "카오스",
+          "충전",
+          "생명력",
+          "발동"
+        ]
+      }
+    ],
+    "build_score": 535.0,
+    "candidate_count": 40,
+    "support_count": 40,
+    "passive_count": 0
+  },
+  {
+    "build_name": "무기 담금질 효과 범위 발동 화염 냉기 빌드",
+    "main_skill": "무기 담금질",
+    "archetype_label_en": "Aoe Trigger Fire Cold",
+    "archetype_label_ko": "효과 범위 발동 화염 냉기",
+    "archetypes": [
+      "aoe",
+      "trigger",
+      "fire",
+      "cold"
+    ],
+    "main_scaling": [
+      "elemental_damage",
+      "crit"
+    ],
+    "recommended_supports": [
+      "분화구",
+      "화산 분출",
+      "방어구 폭발",
+      "불난 집 부채질",
+      "불난 집 부채질 II",
+      "하욕시의 뇌전"
+    ],
+    "passive_direction": [],
+    "recommended_uniques": [
+      {
+        "name": "황혼의 감시",
+        "canonical_name": "Dusk Vigil",
+        "base_type": "Ashen Staff",
+        "score": 22.0,
+        "role": "engine",
+        "matched_tags": [
+          "fire",
+          "trigger"
+        ],
+        "matched_tags_ko": [
+          "화염",
+          "발동"
+        ],
+        "unique_tags": [
+          "fire",
+          "gain_as_extra",
+          "life",
+          "mana",
+          "trigger"
+        ],
+        "unique_tags_ko": [
+          "화염",
+          "추가 피해 획득",
+          "생명력",
+          "마나",
+          "발동"
+        ]
+      },
+      {
+        "name": "이중 시야",
+        "canonical_name": "Double Vision",
+        "base_type": "Dyad Crossbow",
+        "score": 20.0,
+        "role": "engine",
+        "matched_tags": [
+          "fire",
+          "trigger"
+        ],
+        "matched_tags_ko": [
+          "화염",
+          "발동"
+        ],
+        "unique_tags": [
+          "cold",
+          "crit",
+          "fire",
+          "trigger"
+        ],
+        "unique_tags_ko": [
+          "냉기",
+          "치명타",
+          "화염",
+          "발동"
+        ]
+      },
+      {
+        "name": "붕괴하는 지평선",
+        "canonical_name": "Collapsing Horizon",
+        "base_type": "Wyrm Quarterstaff",
+        "score": 16.0,
+        "role": "engine",
+        "matched_tags": [
+          "trigger"
+        ],
+        "matched_tags_ko": [
+          "발동"
+        ],
+        "unique_tags": [
+          "crit",
+          "trigger"
+        ],
+        "unique_tags_ko": [
+          "치명타",
+          "발동"
+        ]
+      },
+      {
+        "name": "폭풍의 합창",
+        "canonical_name": "Choir of the Storm",
+        "base_type": "Jade Amulet",
+        "score": 16.0,
+        "role": "engine",
+        "matched_tags": [
+          "trigger"
+        ],
+        "matched_tags_ko": [
+          "발동"
+        ],
+        "unique_tags": [
+          "crit",
+          "lightning",
+          "trigger"
+        ],
+        "unique_tags_ko": [
+          "치명타",
+          "번개",
+          "발동"
+        ]
+      },
+      {
+        "name": "분노의 첨탑",
+        "canonical_name": "Spire of Ire",
+        "base_type": "Helix Spear",
+        "score": 13.0,
+        "role": "engine",
+        "matched_tags": [
+          "trigger"
+        ],
+        "matched_tags_ko": [
+          "발동"
+        ],
+        "unique_tags": [
+          "chaos",
+          "charge",
+          "life",
+          "trigger"
+        ],
+        "unique_tags_ko": [
+          "카오스",
+          "충전",
+          "생명력",
+          "발동"
+        ]
+      }
+    ],
+    "build_score": 500.0,
+    "candidate_count": 34,
+    "support_count": 34,
+    "passive_count": 0
+  },
+  {
+    "build_name": "전용 탈출 사격 투사체 발동 번개 냉기 빌드",
+    "main_skill": "전용 탈출 사격",
+    "archetype_label_en": "Projectile Trigger Lightning Cold",
+    "archetype_label_ko": "투사체 발동 번개 냉기",
+    "archetypes": [
+      "projectile",
+      "trigger",
+      "lightning",
+      "cold"
+    ],
+    "main_scaling": [
+      "elemental_damage",
+      "crit",
+      "projectile_count",
+      "chain_count"
+    ],
+    "recommended_supports": [
+      "얼어붙은 악의",
+      "화산 분출",
+      "마름쇠",
+      "세차게 흐르는 전류",
+      "하욕시의 뇌전",
+      "엄습하는 오한"
+    ],
+    "passive_direction": [],
+    "recommended_uniques": [
+      {
+        "name": "이중 시야",
+        "canonical_name": "Double Vision",
+        "base_type": "Dyad Crossbow",
+        "score": 20.0,
+        "role": "engine",
+        "matched_tags": [
+          "cold",
+          "trigger"
+        ],
+        "matched_tags_ko": [
+          "냉기",
+          "발동"
+        ],
+        "unique_tags": [
+          "cold",
+          "crit",
+          "fire",
+          "trigger"
+        ],
+        "unique_tags_ko": [
+          "냉기",
+          "치명타",
+          "화염",
+          "발동"
+        ]
+      },
+      {
+        "name": "세케마의 결의",
+        "canonical_name": "Sekhema's Resolve",
+        "base_type": "Ring",
+        "score": 17.0,
+        "role": "engine",
+        "matched_tags": [
+          "cold",
+          "projectile"
+        ],
+        "matched_tags_ko": [
+          "냉기",
+          "투사체"
+        ],
+        "unique_tags": [
+          "chain",
+          "chaos",
+          "charge",
+          "cold",
+          "conversion",
+          "crit",
+          "duration",
+          "extra_projectile",
+          "fire",
+          "fork",
+          "gain_as_extra",
+          "life",
+          "lightning",
+          "mana",
+          "meta_energy",
+          "minion",
+          "pierce",
+          "projectile",
+          "spirit"
+        ],
+        "unique_tags_ko": [
+          "연쇄",
+          "카오스",
+          "충전",
+          "냉기",
+          "전환",
+          "치명타",
+          "지속시간",
+          "추가 투사체",
+          "화염",
+          "갈라짐",
+          "추가 피해 획득",
+          "생명력",
+          "번개",
+          "마나",
+          "메타 에너지",
+          "소환수",
+          "관통",
+          "투사체",
+          "정신력"
+        ]
+      },
+      {
+        "name": "붕괴하는 지평선",
+        "canonical_name": "Collapsing Horizon",
+        "base_type": "Wyrm Quarterstaff",
+        "score": 16.0,
+        "role": "engine",
+        "matched_tags": [
+          "trigger"
+        ],
+        "matched_tags_ko": [
+          "발동"
+        ],
+        "unique_tags": [
+          "crit",
+          "trigger"
+        ],
+        "unique_tags_ko": [
+          "치명타",
+          "발동"
+        ]
+      },
+      {
+        "name": "폭풍의 합창",
+        "canonical_name": "Choir of the Storm",
+        "base_type": "Jade Amulet",
+        "score": 16.0,
+        "role": "engine",
+        "matched_tags": [
+          "trigger"
+        ],
+        "matched_tags_ko": [
+          "발동"
+        ],
+        "unique_tags": [
+          "crit",
+          "lightning",
+          "trigger"
+        ],
+        "unique_tags_ko": [
+          "치명타",
+          "번개",
+          "발동"
+        ]
+      },
+      {
+        "name": "질식의 진노",
+        "canonical_name": "Asphyxia's Wrath",
+        "base_type": "Broadhead Quiver",
+        "score": 14.0,
+        "role": "engine",
+        "matched_tags": [
+          "cold",
+          "projectile"
+        ],
+        "matched_tags_ko": [
+          "냉기",
+          "투사체"
+        ],
+        "unique_tags": [
+          "cold",
+          "fire",
+          "gain_as_extra",
+          "mana",
+          "pierce",
+          "projectile"
+        ],
+        "unique_tags_ko": [
+          "냉기",
+          "화염",
+          "추가 피해 획득",
+          "마나",
+          "관통",
+          "투사체"
+        ]
+      }
+    ],
+    "build_score": 499.0,
+    "candidate_count": 36,
+    "support_count": 36,
+    "passive_count": 0
+  },
+  {
+    "build_name": "폭발 마그마 장벽 효과 범위 발동 화염 근접 빌드",
+    "main_skill": "폭발 마그마 장벽",
+    "archetype_label_en": "Aoe Trigger Fire Melee",
+    "archetype_label_ko": "효과 범위 발동 화염 근접",
+    "archetypes": [
+      "aoe",
+      "trigger",
+      "fire",
+      "melee"
+    ],
+    "main_scaling": [
+      "elemental_damage"
+    ],
+    "recommended_supports": [
+      "분화구",
+      "화산 분출",
+      "방어구 폭발",
+      "불난 집 부채질",
+      "불난 집 부채질 II",
+      "하욕시의 뇌전"
+    ],
+    "passive_direction": [],
+    "recommended_uniques": [
+      {
+        "name": "황혼의 감시",
+        "canonical_name": "Dusk Vigil",
+        "base_type": "Ashen Staff",
+        "score": 22.0,
+        "role": "engine",
+        "matched_tags": [
+          "fire",
+          "trigger"
+        ],
+        "matched_tags_ko": [
+          "화염",
+          "발동"
+        ],
+        "unique_tags": [
+          "fire",
+          "gain_as_extra",
+          "life",
+          "mana",
+          "trigger"
+        ],
+        "unique_tags_ko": [
+          "화염",
+          "추가 피해 획득",
+          "생명력",
+          "마나",
+          "발동"
+        ]
+      },
+      {
+        "name": "이중 시야",
+        "canonical_name": "Double Vision",
+        "base_type": "Dyad Crossbow",
+        "score": 20.0,
+        "role": "engine",
+        "matched_tags": [
+          "fire",
+          "trigger"
+        ],
+        "matched_tags_ko": [
+          "화염",
+          "발동"
+        ],
+        "unique_tags": [
+          "cold",
+          "crit",
+          "fire",
+          "trigger"
+        ],
+        "unique_tags_ko": [
+          "냉기",
+          "치명타",
+          "화염",
+          "발동"
+        ]
+      },
+      {
+        "name": "붕괴하는 지평선",
+        "canonical_name": "Collapsing Horizon",
+        "base_type": "Wyrm Quarterstaff",
+        "score": 16.0,
+        "role": "engine",
+        "matched_tags": [
+          "trigger"
+        ],
+        "matched_tags_ko": [
+          "발동"
+        ],
+        "unique_tags": [
+          "crit",
+          "trigger"
+        ],
+        "unique_tags_ko": [
+          "치명타",
+          "발동"
+        ]
+      },
+      {
+        "name": "폭풍의 합창",
+        "canonical_name": "Choir of the Storm",
+        "base_type": "Jade Amulet",
+        "score": 16.0,
+        "role": "engine",
+        "matched_tags": [
+          "trigger"
+        ],
+        "matched_tags_ko": [
+          "발동"
+        ],
+        "unique_tags": [
+          "crit",
+          "lightning",
+          "trigger"
+        ],
+        "unique_tags_ko": [
+          "치명타",
+          "번개",
+          "발동"
+        ]
+      },
+      {
+        "name": "분노의 첨탑",
+        "canonical_name": "Spire of Ire",
+        "base_type": "Helix Spear",
+        "score": 13.0,
+        "role": "engine",
+        "matched_tags": [
+          "trigger"
+        ],
+        "matched_tags_ko": [
+          "발동"
+        ],
+        "unique_tags": [
+          "chaos",
+          "charge",
+          "life",
+          "trigger"
+        ],
+        "unique_tags_ko": [
+          "카오스",
+          "충전",
+          "생명력",
+          "발동"
+        ]
+      }
+    ],
+    "build_score": 499.0,
+    "candidate_count": 34,
+    "support_count": 34,
+    "passive_count": 0
+  },
+  {
+    "build_name": "전기불꽃 투사체 발동 번개 냉기 빌드",
+    "main_skill": "전기불꽃",
+    "archetype_label_en": "Projectile Trigger Lightning Cold",
+    "archetype_label_ko": "투사체 발동 번개 냉기",
+    "archetypes": [
+      "projectile",
+      "trigger",
+      "lightning",
+      "cold"
+    ],
+    "main_scaling": [
+      "elemental_damage",
+      "crit",
+      "projectile_count",
+      "chain_count"
+    ],
+    "recommended_supports": [
+      "마름쇠",
+      "세차게 흐르는 전류",
+      "얼어붙은 악의",
+      "정전기 감전",
+      "살아 있는 번개",
+      "살아 있는 번개 II"
+    ],
+    "passive_direction": [],
+    "recommended_uniques": [
+      {
+        "name": "세케마의 결의",
+        "canonical_name": "Sekhema's Resolve",
+        "base_type": "Ring",
+        "score": 21.0,
+        "role": "engine",
+        "matched_tags": [
+          "lightning",
+          "projectile"
+        ],
+        "matched_tags_ko": [
+          "번개",
+          "투사체"
+        ],
+        "unique_tags": [
+          "chain",
+          "chaos",
+          "charge",
+          "cold",
+          "conversion",
+          "crit",
+          "duration",
+          "extra_projectile",
+          "fire",
+          "fork",
+          "gain_as_extra",
+          "life",
+          "lightning",
+          "mana",
+          "meta_energy",
+          "minion",
+          "pierce",
+          "projectile",
+          "spirit"
+        ],
+        "unique_tags_ko": [
+          "연쇄",
+          "카오스",
+          "충전",
+          "냉기",
+          "전환",
+          "치명타",
+          "지속시간",
+          "추가 투사체",
+          "화염",
+          "갈라짐",
+          "추가 피해 획득",
+          "생명력",
+          "번개",
+          "마나",
+          "메타 에너지",
+          "소환수",
+          "관통",
+          "투사체",
+          "정신력"
+        ]
+      },
+      {
+        "name": "폭풍의 합창",
+        "canonical_name": "Choir of the Storm",
+        "base_type": "Jade Amulet",
+        "score": 20.0,
+        "role": "engine",
+        "matched_tags": [
+          "lightning",
+          "trigger"
+        ],
+        "matched_tags_ko": [
+          "번개",
+          "발동"
+        ],
+        "unique_tags": [
+          "crit",
+          "lightning",
+          "trigger"
+        ],
+        "unique_tags_ko": [
+          "치명타",
+          "번개",
+          "발동"
+        ]
+      },
+      {
+        "name": "이중 시야",
+        "canonical_name": "Double Vision",
+        "base_type": "Dyad Crossbow",
+        "score": 20.0,
+        "role": "engine",
+        "matched_tags": [
+          "cold",
+          "trigger"
+        ],
+        "matched_tags_ko": [
+          "냉기",
+          "발동"
+        ],
+        "unique_tags": [
+          "cold",
+          "crit",
+          "fire",
+          "trigger"
+        ],
+        "unique_tags_ko": [
+          "냉기",
+          "치명타",
+          "화염",
+          "발동"
+        ]
+      },
+      {
+        "name": "대지속박",
+        "canonical_name": "Earthbound",
+        "base_type": "Voltaic Staff",
+        "score": 17.0,
+        "role": "engine",
+        "matched_tags": [
+          "lightning",
+          "trigger"
+        ],
+        "matched_tags_ko": [
+          "번개",
+          "발동"
+        ],
+        "unique_tags": [
+          "lightning",
+          "mana",
+          "trigger"
+        ],
+        "unique_tags_ko": [
+          "번개",
+          "마나",
+          "발동"
+        ]
+      },
+      {
+        "name": "붕괴하는 지평선",
+        "canonical_name": "Collapsing Horizon",
+        "base_type": "Wyrm Quarterstaff",
+        "score": 16.0,
+        "role": "engine",
+        "matched_tags": [
+          "trigger"
+        ],
+        "matched_tags_ko": [
+          "발동"
+        ],
+        "unique_tags": [
+          "crit",
+          "trigger"
+        ],
+        "unique_tags_ko": [
+          "치명타",
+          "발동"
+        ]
+      }
+    ],
+    "build_score": 464.0,
+    "candidate_count": 26,
+    "support_count": 21,
+    "passive_count": 0
+  },
+  {
+    "build_name": "격파 장법 효과 범위 근접 발동 냉기 빌드",
+    "main_skill": "격파 장법",
+    "archetype_label_en": "Aoe Melee Trigger Cold",
+    "archetype_label_ko": "효과 범위 근접 발동 냉기",
+    "archetypes": [
+      "aoe",
+      "melee",
+      "trigger",
+      "cold"
+    ],
+    "main_scaling": [
+      "elemental_damage"
+    ],
+    "recommended_supports": [
+      "화산 분출",
+      "분화구",
+      "가시 격발",
+      "가시나무 강타",
+      "몽상가의 종소리",
+      "얼어붙은 악의"
+    ],
+    "passive_direction": [],
+    "recommended_uniques": [],
+    "build_score": 420.0,
+    "candidate_count": 35,
+    "support_count": 35,
+    "passive_count": 0
+  },
+  {
+    "build_name": "메타 낙뢰 번개 효과 범위 발동 빌드",
+    "main_skill": "메타 낙뢰",
+    "archetype_label_en": "Lightning Aoe Trigger",
+    "archetype_label_ko": "번개 효과 범위 발동",
+    "archetypes": [
+      "lightning",
+      "aoe",
+      "trigger"
+    ],
+    "main_scaling": [
+      "elemental_damage"
+    ],
+    "recommended_supports": [
+      "하욕시의 뇌전",
+      "원소 방출",
+      "전자기력",
+      "정전기 감전",
+      "촉진시키는 원소",
+      "충전된 징표"
+    ],
+    "passive_direction": [],
+    "recommended_uniques": [],
+    "build_score": 417.0,
+    "candidate_count": 37,
+    "support_count": 37,
+    "passive_count": 0
+  },
+  {
+    "build_name": "폭발 바람의 무희 효과 범위 발동 근접 번개 빌드",
+    "main_skill": "폭발 바람의 무희",
+    "archetype_label_en": "Aoe Trigger Melee Lightning",
+    "archetype_label_ko": "효과 범위 발동 근접 번개",
+    "archetypes": [
+      "aoe",
+      "trigger",
+      "melee",
+      "lightning"
+    ],
+    "main_scaling": [
+      "elemental_damage"
+    ],
+    "recommended_supports": [
+      "분화구",
+      "화산 분출",
+      "가시 격발",
+      "가시나무 강타",
+      "몽상가의 종소리",
+      "치명적인 투지"
+    ],
+    "passive_direction": [],
+    "recommended_uniques": [],
+    "build_score": 398.0,
+    "candidate_count": 34,
+    "support_count": 34,
+    "passive_count": 0
+  },
+  {
+    "build_name": "원소 상태 이상 시 시전 투사체 발동 번개 연쇄 빌드",
+    "main_skill": "원소 상태 이상 시 시전",
+    "archetype_label_en": "Projectile Trigger Lightning Chain",
+    "archetype_label_ko": "투사체 발동 번개 연쇄",
+    "archetypes": [
+      "projectile",
+      "trigger",
+      "lightning",
+      "chain"
+    ],
+    "main_scaling": [
+      "elemental_damage",
+      "crit",
+      "projectile_count",
+      "chain_count"
+    ],
+    "recommended_supports": [
+      "하욕시의 뇌전",
+      "원소 방출",
+      "촉진시키는 원소",
+      "방어구 폭발",
+      "분화구",
+      "불난 집 부채질"
+    ],
+    "passive_direction": [],
+    "recommended_uniques": [
+      {
+        "name": "이중 시야",
+        "canonical_name": "Double Vision",
+        "base_type": "Dyad Crossbow",
+        "score": 24.0,
+        "role": "engine",
+        "matched_tags": [
+          "cold",
+          "fire",
+          "trigger"
+        ],
+        "matched_tags_ko": [
+          "냉기",
+          "화염",
+          "발동"
+        ],
+        "unique_tags": [
+          "cold",
+          "crit",
+          "fire",
+          "trigger"
+        ],
+        "unique_tags_ko": [
+          "냉기",
+          "치명타",
+          "화염",
+          "발동"
+        ]
+      },
+      {
+        "name": "세케마의 결의",
+        "canonical_name": "Sekhema's Resolve",
+        "base_type": "Ring",
+        "score": 24.0,
+        "role": "engine",
+        "matched_tags": [
+          "cold",
+          "fire",
+          "lightning"
+        ],
+        "matched_tags_ko": [
+          "냉기",
+          "화염",
+          "번개"
+        ],
+        "unique_tags": [
+          "chain",
+          "chaos",
+          "charge",
+          "cold",
+          "conversion",
+          "crit",
+          "duration",
+          "extra_projectile",
+          "fire",
+          "fork",
+          "gain_as_extra",
+          "life",
+          "lightning",
+          "mana",
+          "meta_energy",
+          "minion",
+          "pierce",
+          "projectile",
+          "spirit"
+        ],
+        "unique_tags_ko": [
+          "연쇄",
+          "카오스",
+          "충전",
+          "냉기",
+          "전환",
+          "치명타",
+          "지속시간",
+          "추가 투사체",
+          "화염",
+          "갈라짐",
+          "추가 피해 획득",
+          "생명력",
+          "번개",
+          "마나",
+          "메타 에너지",
+          "소환수",
+          "관통",
+          "투사체",
+          "정신력"
+        ]
+      },
+      {
+        "name": "황혼의 감시",
+        "canonical_name": "Dusk Vigil",
+        "base_type": "Ashen Staff",
+        "score": 22.0,
+        "role": "engine",
+        "matched_tags": [
+          "fire",
+          "trigger"
+        ],
+        "matched_tags_ko": [
+          "화염",
+          "발동"
+        ],
+        "unique_tags": [
+          "fire",
+          "gain_as_extra",
+          "life",
+          "mana",
+          "trigger"
+        ],
+        "unique_tags_ko": [
+          "화염",
+          "추가 피해 획득",
+          "생명력",
+          "마나",
+          "발동"
+        ]
+      },
+      {
+        "name": "폭풍의 합창",
+        "canonical_name": "Choir of the Storm",
+        "base_type": "Jade Amulet",
+        "score": 20.0,
+        "role": "engine",
+        "matched_tags": [
+          "lightning",
+          "trigger"
+        ],
+        "matched_tags_ko": [
+          "번개",
+          "발동"
+        ],
+        "unique_tags": [
+          "crit",
+          "lightning",
+          "trigger"
+        ],
+        "unique_tags_ko": [
+          "치명타",
+          "번개",
+          "발동"
+        ]
+      },
+      {
+        "name": "대지속박",
+        "canonical_name": "Earthbound",
+        "base_type": "Voltaic Staff",
+        "score": 17.0,
+        "role": "engine",
+        "matched_tags": [
+          "lightning",
+          "trigger"
+        ],
+        "matched_tags_ko": [
+          "번개",
+          "발동"
+        ],
+        "unique_tags": [
+          "lightning",
+          "mana",
+          "trigger"
+        ],
+        "unique_tags_ko": [
+          "번개",
+          "마나",
+          "발동"
+        ]
+      }
+    ],
+    "build_score": 369.0,
+    "candidate_count": 19,
+    "support_count": 19,
+    "passive_count": 0
+  },
+  {
+    "build_name": "조건부 원소 기원 투사체 발동 번개 연쇄 빌드",
+    "main_skill": "조건부 원소 기원",
+    "archetype_label_en": "Projectile Trigger Lightning Chain",
+    "archetype_label_ko": "투사체 발동 번개 연쇄",
+    "archetypes": [
+      "projectile",
+      "trigger",
+      "lightning",
+      "chain"
+    ],
+    "main_scaling": [
+      "elemental_damage",
+      "crit",
+      "projectile_count",
+      "chain_count"
+    ],
+    "recommended_supports": [
+      "하욕시의 뇌전",
+      "원소 방출",
+      "촉진시키는 원소",
+      "방어구 폭발",
+      "분화구",
+      "불난 집 부채질"
+    ],
+    "passive_direction": [],
+    "recommended_uniques": [
+      {
+        "name": "이중 시야",
+        "canonical_name": "Double Vision",
+        "base_type": "Dyad Crossbow",
+        "score": 24.0,
+        "role": "engine",
+        "matched_tags": [
+          "cold",
+          "fire",
+          "trigger"
+        ],
+        "matched_tags_ko": [
+          "냉기",
+          "화염",
+          "발동"
+        ],
+        "unique_tags": [
+          "cold",
+          "crit",
+          "fire",
+          "trigger"
+        ],
+        "unique_tags_ko": [
+          "냉기",
+          "치명타",
+          "화염",
+          "발동"
+        ]
+      },
+      {
+        "name": "세케마의 결의",
+        "canonical_name": "Sekhema's Resolve",
+        "base_type": "Ring",
+        "score": 24.0,
+        "role": "engine",
+        "matched_tags": [
+          "cold",
+          "fire",
+          "lightning"
+        ],
+        "matched_tags_ko": [
+          "냉기",
+          "화염",
+          "번개"
+        ],
+        "unique_tags": [
+          "chain",
+          "chaos",
+          "charge",
+          "cold",
+          "conversion",
+          "crit",
+          "duration",
+          "extra_projectile",
+          "fire",
+          "fork",
+          "gain_as_extra",
+          "life",
+          "lightning",
+          "mana",
+          "meta_energy",
+          "minion",
+          "pierce",
+          "projectile",
+          "spirit"
+        ],
+        "unique_tags_ko": [
+          "연쇄",
+          "카오스",
+          "충전",
+          "냉기",
+          "전환",
+          "치명타",
+          "지속시간",
+          "추가 투사체",
+          "화염",
+          "갈라짐",
+          "추가 피해 획득",
+          "생명력",
+          "번개",
+          "마나",
+          "메타 에너지",
+          "소환수",
+          "관통",
+          "투사체",
+          "정신력"
+        ]
+      },
+      {
+        "name": "황혼의 감시",
+        "canonical_name": "Dusk Vigil",
+        "base_type": "Ashen Staff",
+        "score": 22.0,
+        "role": "engine",
+        "matched_tags": [
+          "fire",
+          "trigger"
+        ],
+        "matched_tags_ko": [
+          "화염",
+          "발동"
+        ],
+        "unique_tags": [
+          "fire",
+          "gain_as_extra",
+          "life",
+          "mana",
+          "trigger"
+        ],
+        "unique_tags_ko": [
+          "화염",
+          "추가 피해 획득",
+          "생명력",
+          "마나",
+          "발동"
+        ]
+      },
+      {
+        "name": "폭풍의 합창",
+        "canonical_name": "Choir of the Storm",
+        "base_type": "Jade Amulet",
+        "score": 20.0,
+        "role": "engine",
+        "matched_tags": [
+          "lightning",
+          "trigger"
+        ],
+        "matched_tags_ko": [
+          "번개",
+          "발동"
+        ],
+        "unique_tags": [
+          "crit",
+          "lightning",
+          "trigger"
+        ],
+        "unique_tags_ko": [
+          "치명타",
+          "번개",
+          "발동"
+        ]
+      },
+      {
+        "name": "대지속박",
+        "canonical_name": "Earthbound",
+        "base_type": "Voltaic Staff",
+        "score": 17.0,
+        "role": "engine",
+        "matched_tags": [
+          "lightning",
+          "trigger"
+        ],
+        "matched_tags_ko": [
+          "번개",
+          "발동"
+        ],
+        "unique_tags": [
+          "lightning",
+          "mana",
+          "trigger"
+        ],
+        "unique_tags_ko": [
+          "번개",
+          "마나",
+          "발동"
+        ]
+      }
+    ],
+    "build_score": 369.0,
+    "candidate_count": 19,
+    "support_count": 19,
+    "passive_count": 0
+  },
+  {
+    "build_name": "구형 번개 투사체 번개 연쇄 효과 범위 빌드",
+    "main_skill": "구형 번개",
+    "archetype_label_en": "Projectile Lightning Chain Aoe",
+    "archetype_label_ko": "투사체 번개 연쇄 효과 범위",
+    "archetypes": [
+      "projectile",
+      "lightning",
+      "chain",
+      "aoe"
+    ],
+    "main_scaling": [
+      "elemental_damage",
+      "crit",
+      "projectile_count",
+      "chain_count"
+    ],
+    "recommended_supports": [
+      "세차게 흐르는 전류",
+      "폭풍연쇄",
+      "전압",
+      "도미누스의 장악",
+      "연쇄 I",
+      "연쇄 II"
+    ],
+    "passive_direction": [],
+    "recommended_uniques": [
+      {
+        "name": "세케마의 결의",
+        "canonical_name": "Sekhema's Resolve",
+        "base_type": "Ring",
+        "score": 27.0,
+        "role": "engine",
+        "matched_tags": [
+          "chain",
+          "lightning",
+          "projectile"
+        ],
+        "matched_tags_ko": [
+          "연쇄",
+          "번개",
+          "투사체"
+        ],
+        "unique_tags": [
+          "chain",
+          "chaos",
+          "charge",
+          "cold",
+          "conversion",
+          "crit",
+          "duration",
+          "extra_projectile",
+          "fire",
+          "fork",
+          "gain_as_extra",
+          "life",
+          "lightning",
+          "mana",
+          "meta_energy",
+          "minion",
+          "pierce",
+          "projectile",
+          "spirit"
+        ],
+        "unique_tags_ko": [
+          "연쇄",
+          "카오스",
+          "충전",
+          "냉기",
+          "전환",
+          "치명타",
+          "지속시간",
+          "추가 투사체",
+          "화염",
+          "갈라짐",
+          "추가 피해 획득",
+          "생명력",
+          "번개",
+          "마나",
+          "메타 에너지",
+          "소환수",
+          "관통",
+          "투사체",
+          "정신력"
+        ]
+      },
+      {
+        "name": "뱀구덩이",
+        "canonical_name": "Snakepit",
+        "base_type": "Pearl Ring",
+        "score": 20.0,
+        "role": "support",
+        "matched_tags": [
+          "chain",
+          "projectile"
+        ],
+        "matched_tags_ko": [
+          "연쇄",
+          "투사체"
+        ],
+        "unique_tags": [
+          "chain",
+          "fork",
+          "pierce",
+          "projectile"
+        ],
+        "unique_tags_ko": [
+          "연쇄",
+          "갈라짐",
+          "관통",
+          "투사체"
+        ]
+      },
+      {
+        "name": "Drillneck",
+        "canonical_name": "Drillneck",
+        "base_type": "Penetrating Quiver",
+        "score": 13.0,
+        "role": "support",
+        "matched_tags": [
+          "projectile"
+        ],
+        "matched_tags_ko": [
+          "투사체"
+        ],
+        "unique_tags": [
+          "crit",
+          "life",
+          "pierce",
+          "projectile"
+        ],
+        "unique_tags_ko": [
+          "치명타",
+          "생명력",
+          "관통",
+          "투사체"
+        ]
+      },
+      {
+        "name": "Tyranny's Grip",
+        "canonical_name": "Tyranny's Grip",
+        "base_type": "Ironhead Spear",
+        "score": 10.0,
+        "role": "support",
+        "matched_tags": [
+          "projectile"
+        ],
+        "matched_tags_ko": [
+          "투사체"
+        ],
+        "unique_tags": [
+          "projectile"
+        ],
+        "unique_tags_ko": [
+          "투사체"
+        ]
+      },
+      {
+        "name": "Chainsting",
+        "canonical_name": "Chainsting",
+        "base_type": "Hunting Spear",
+        "score": 10.0,
+        "role": "support",
+        "matched_tags": [
+          "projectile"
+        ],
+        "matched_tags_ko": [
+          "투사체"
+        ],
+        "unique_tags": [
+          "projectile"
+        ],
+        "unique_tags_ko": [
+          "투사체"
+        ]
+      }
+    ],
+    "build_score": 349.0,
+    "candidate_count": 16,
+    "support_count": 16,
+    "passive_count": 0
+  },
+  {
+    "build_name": "청산 감전연쇄 화살 투사체 번개 연쇄 효과 범위 빌드",
+    "main_skill": "청산 감전연쇄 화살",
+    "archetype_label_en": "Projectile Lightning Chain Aoe",
+    "archetype_label_ko": "투사체 번개 연쇄 효과 범위",
+    "archetypes": [
+      "projectile",
+      "lightning",
+      "chain",
+      "aoe"
+    ],
+    "main_scaling": [
+      "elemental_damage",
+      "crit",
+      "projectile_count",
+      "chain_count"
+    ],
+    "recommended_supports": [
+      "전압",
+      "폭풍연쇄",
+      "세차게 흐르는 전류",
+      "도미누스의 장악",
+      "연쇄 I",
+      "연쇄 II"
+    ],
+    "passive_direction": [],
+    "recommended_uniques": [
+      {
+        "name": "세케마의 결의",
+        "canonical_name": "Sekhema's Resolve",
+        "base_type": "Ring",
+        "score": 27.0,
+        "role": "engine",
+        "matched_tags": [
+          "chain",
+          "lightning",
+          "projectile"
+        ],
+        "matched_tags_ko": [
+          "연쇄",
+          "번개",
+          "투사체"
+        ],
+        "unique_tags": [
+          "chain",
+          "chaos",
+          "charge",
+          "cold",
+          "conversion",
+          "crit",
+          "duration",
+          "extra_projectile",
+          "fire",
+          "fork",
+          "gain_as_extra",
+          "life",
+          "lightning",
+          "mana",
+          "meta_energy",
+          "minion",
+          "pierce",
+          "projectile",
+          "spirit"
+        ],
+        "unique_tags_ko": [
+          "연쇄",
+          "카오스",
+          "충전",
+          "냉기",
+          "전환",
+          "치명타",
+          "지속시간",
+          "추가 투사체",
+          "화염",
+          "갈라짐",
+          "추가 피해 획득",
+          "생명력",
+          "번개",
+          "마나",
+          "메타 에너지",
+          "소환수",
+          "관통",
+          "투사체",
+          "정신력"
+        ]
+      },
+      {
+        "name": "뱀구덩이",
+        "canonical_name": "Snakepit",
+        "base_type": "Pearl Ring",
+        "score": 20.0,
+        "role": "support",
+        "matched_tags": [
+          "chain",
+          "projectile"
+        ],
+        "matched_tags_ko": [
+          "연쇄",
+          "투사체"
+        ],
+        "unique_tags": [
+          "chain",
+          "fork",
+          "pierce",
+          "projectile"
+        ],
+        "unique_tags_ko": [
+          "연쇄",
+          "갈라짐",
+          "관통",
+          "투사체"
+        ]
+      },
+      {
+        "name": "Drillneck",
+        "canonical_name": "Drillneck",
+        "base_type": "Penetrating Quiver",
+        "score": 13.0,
+        "role": "support",
+        "matched_tags": [
+          "projectile"
+        ],
+        "matched_tags_ko": [
+          "투사체"
+        ],
+        "unique_tags": [
+          "crit",
+          "life",
+          "pierce",
+          "projectile"
+        ],
+        "unique_tags_ko": [
+          "치명타",
+          "생명력",
+          "관통",
+          "투사체"
+        ]
+      },
+      {
+        "name": "Tyranny's Grip",
+        "canonical_name": "Tyranny's Grip",
+        "base_type": "Ironhead Spear",
+        "score": 10.0,
+        "role": "support",
+        "matched_tags": [
+          "projectile"
+        ],
+        "matched_tags_ko": [
+          "투사체"
+        ],
+        "unique_tags": [
+          "projectile"
+        ],
+        "unique_tags_ko": [
+          "투사체"
+        ]
+      },
+      {
+        "name": "Chainsting",
+        "canonical_name": "Chainsting",
+        "base_type": "Hunting Spear",
+        "score": 10.0,
+        "role": "support",
+        "matched_tags": [
+          "projectile"
+        ],
+        "matched_tags_ko": [
+          "투사체"
+        ],
+        "unique_tags": [
+          "projectile"
+        ],
+        "unique_tags_ko": [
+          "투사체"
+        ]
+      }
+    ],
+    "build_score": 310.0,
+    "candidate_count": 12,
+    "support_count": 12,
+    "passive_count": 0
+  },
+  {
+    "build_name": "화산 균열 투사체 발동 번개 연쇄 빌드",
+    "main_skill": "화산 균열",
+    "archetype_label_en": "Projectile Trigger Lightning Chain",
+    "archetype_label_ko": "투사체 발동 번개 연쇄",
+    "archetypes": [
+      "projectile",
+      "trigger",
+      "lightning",
+      "chain"
+    ],
+    "main_scaling": [
+      "elemental_damage",
+      "crit",
+      "projectile_count",
+      "chain_count"
+    ],
+    "recommended_supports": [
+      "분화구",
+      "요철 지대 I",
+      "요철 지대 II",
+      "몽상가의 종소리",
+      "화산 분출",
+      "삭망"
+    ],
+    "passive_direction": [],
+    "recommended_uniques": [
+      {
+        "name": "세케마의 결의",
+        "canonical_name": "Sekhema's Resolve",
+        "base_type": "Ring",
+        "score": 12.0,
+        "role": "engine",
+        "matched_tags": [
+          "duration",
+          "fire"
+        ],
+        "matched_tags_ko": [
+          "지속시간",
+          "화염"
+        ],
+        "unique_tags": [
+          "chain",
+          "chaos",
+          "charge",
+          "cold",
+          "conversion",
+          "crit",
+          "duration",
+          "extra_projectile",
+          "fire",
+          "fork",
+          "gain_as_extra",
+          "life",
+          "lightning",
+          "mana",
+          "meta_energy",
+          "minion",
+          "pierce",
+          "projectile",
+          "spirit"
+        ],
+        "unique_tags_ko": [
+          "연쇄",
+          "카오스",
+          "충전",
+          "냉기",
+          "전환",
+          "치명타",
+          "지속시간",
+          "추가 투사체",
+          "화염",
+          "갈라짐",
+          "추가 피해 획득",
+          "생명력",
+          "번개",
+          "마나",
+          "메타 에너지",
+          "소환수",
+          "관통",
+          "투사체",
+          "정신력"
+        ]
+      },
+      {
+        "name": "황혼의 감시",
+        "canonical_name": "Dusk Vigil",
+        "base_type": "Ashen Staff",
+        "score": 9.0,
+        "role": "engine",
+        "matched_tags": [
+          "fire"
+        ],
+        "matched_tags_ko": [
+          "화염"
+        ],
+        "unique_tags": [
+          "fire",
+          "gain_as_extra",
+          "life",
+          "mana",
+          "trigger"
+        ],
+        "unique_tags_ko": [
+          "화염",
+          "추가 피해 획득",
+          "생명력",
+          "마나",
+          "발동"
+        ]
+      },
+      {
+        "name": "Sacred Flame",
+        "canonical_name": "Sacred Flame",
+        "base_type": "Shrine Sceptre",
+        "score": 9.0,
+        "role": "scaling",
+        "matched_tags": [
+          "fire"
+        ],
+        "matched_tags_ko": [
+          "화염"
+        ],
+        "unique_tags": [
+          "fire",
+          "gain_as_extra",
+          "life"
+        ],
+        "unique_tags_ko": [
+          "화염",
+          "추가 피해 획득",
+          "생명력"
+        ]
+      },
+      {
+        "name": "Guiding Palm of the Heart",
+        "canonical_name": "Guiding Palm of the Heart",
+        "base_type": "Shrine Sceptre",
+        "score": 9.0,
+        "role": "scaling",
+        "matched_tags": [
+          "fire"
+        ],
+        "matched_tags_ko": [
+          "화염"
+        ],
+        "unique_tags": [
+          "fire",
+          "gain_as_extra",
+          "life"
+        ],
+        "unique_tags_ko": [
+          "화염",
+          "추가 피해 획득",
+          "생명력"
+        ]
+      },
+      {
+        "name": "Heatshiver",
+        "canonical_name": "Heatshiver",
+        "base_type": "Velvet Cap",
+        "score": 9.0,
+        "role": "scaling",
+        "matched_tags": [
+          "fire"
+        ],
+        "matched_tags_ko": [
+          "화염"
+        ],
+        "unique_tags": [
+          "cold",
+          "fire",
+          "gain_as_extra",
+          "mana"
+        ],
+        "unique_tags_ko": [
+          "냉기",
+          "화염",
+          "추가 피해 획득",
+          "마나"
+        ]
+      }
+    ],
+    "build_score": 309.0,
+    "candidate_count": 15,
+    "support_count": 15,
+    "passive_count": 0
+  },
+  {
+    "build_name": "대장간 망치 투사체 발동 번개 연쇄 빌드",
+    "main_skill": "대장간 망치",
+    "archetype_label_en": "Projectile Trigger Lightning Chain",
+    "archetype_label_ko": "투사체 발동 번개 연쇄",
+    "archetypes": [
+      "projectile",
+      "trigger",
+      "lightning",
+      "chain"
+    ],
+    "main_scaling": [
+      "elemental_damage",
+      "crit",
+      "projectile_count",
+      "chain_count"
+    ],
+    "recommended_supports": [
+      "분화구",
+      "요철 지대 I",
+      "요철 지대 II",
+      "몽상가의 종소리",
+      "화산 분출",
+      "삭망"
+    ],
+    "passive_direction": [],
+    "recommended_uniques": [
+      {
+        "name": "세케마의 결의",
+        "canonical_name": "Sekhema's Resolve",
+        "base_type": "Ring",
+        "score": 12.0,
+        "role": "engine",
+        "matched_tags": [
+          "duration",
+          "fire"
+        ],
+        "matched_tags_ko": [
+          "지속시간",
+          "화염"
+        ],
+        "unique_tags": [
+          "chain",
+          "chaos",
+          "charge",
+          "cold",
+          "conversion",
+          "crit",
+          "duration",
+          "extra_projectile",
+          "fire",
+          "fork",
+          "gain_as_extra",
+          "life",
+          "lightning",
+          "mana",
+          "meta_energy",
+          "minion",
+          "pierce",
+          "projectile",
+          "spirit"
+        ],
+        "unique_tags_ko": [
+          "연쇄",
+          "카오스",
+          "충전",
+          "냉기",
+          "전환",
+          "치명타",
+          "지속시간",
+          "추가 투사체",
+          "화염",
+          "갈라짐",
+          "추가 피해 획득",
+          "생명력",
+          "번개",
+          "마나",
+          "메타 에너지",
+          "소환수",
+          "관통",
+          "투사체",
+          "정신력"
+        ]
+      },
+      {
+        "name": "황혼의 감시",
+        "canonical_name": "Dusk Vigil",
+        "base_type": "Ashen Staff",
+        "score": 9.0,
+        "role": "engine",
+        "matched_tags": [
+          "fire"
+        ],
+        "matched_tags_ko": [
+          "화염"
+        ],
+        "unique_tags": [
+          "fire",
+          "gain_as_extra",
+          "life",
+          "mana",
+          "trigger"
+        ],
+        "unique_tags_ko": [
+          "화염",
+          "추가 피해 획득",
+          "생명력",
+          "마나",
+          "발동"
+        ]
+      },
+      {
+        "name": "Sacred Flame",
+        "canonical_name": "Sacred Flame",
+        "base_type": "Shrine Sceptre",
+        "score": 9.0,
+        "role": "scaling",
+        "matched_tags": [
+          "fire"
+        ],
+        "matched_tags_ko": [
+          "화염"
+        ],
+        "unique_tags": [
+          "fire",
+          "gain_as_extra",
+          "life"
+        ],
+        "unique_tags_ko": [
+          "화염",
+          "추가 피해 획득",
+          "생명력"
+        ]
+      },
+      {
+        "name": "Guiding Palm of the Heart",
+        "canonical_name": "Guiding Palm of the Heart",
+        "base_type": "Shrine Sceptre",
+        "score": 9.0,
+        "role": "scaling",
+        "matched_tags": [
+          "fire"
+        ],
+        "matched_tags_ko": [
+          "화염"
+        ],
+        "unique_tags": [
+          "fire",
+          "gain_as_extra",
+          "life"
+        ],
+        "unique_tags_ko": [
+          "화염",
+          "추가 피해 획득",
+          "생명력"
+        ]
+      },
+      {
+        "name": "Heatshiver",
+        "canonical_name": "Heatshiver",
+        "base_type": "Velvet Cap",
+        "score": 9.0,
+        "role": "scaling",
+        "matched_tags": [
+          "fire"
+        ],
+        "matched_tags_ko": [
+          "화염"
+        ],
+        "unique_tags": [
+          "cold",
+          "fire",
+          "gain_as_extra",
+          "mana"
+        ],
+        "unique_tags_ko": [
+          "냉기",
+          "화염",
+          "추가 피해 획득",
+          "마나"
+        ]
+      }
+    ],
+    "build_score": 309.0,
+    "candidate_count": 15,
+    "support_count": 15,
+    "passive_count": 0
+  },
+  {
+    "build_name": "연발 사격 가능 번개 화살 투사체 연쇄 효과 범위 소환수 빌드",
+    "main_skill": "연발 사격 가능 번개 화살",
+    "archetype_label_en": "Projectile Chain Aoe Minion",
+    "archetype_label_ko": "투사체 연쇄 효과 범위 소환수",
+    "archetypes": [
+      "projectile",
+      "chain",
+      "aoe",
+      "minion"
+    ],
+    "main_scaling": [
+      "elemental_damage",
+      "crit",
+      "projectile_count",
+      "chain_count"
+    ],
+    "recommended_supports": [
+      "전압",
+      "폭풍연쇄",
+      "세차게 흐르는 전류",
+      "도미누스의 장악",
+      "연쇄 I",
+      "연쇄 II"
+    ],
+    "passive_direction": [],
+    "recommended_uniques": [
+      {
+        "name": "세케마의 결의",
+        "canonical_name": "Sekhema's Resolve",
+        "base_type": "Ring",
+        "score": 27.0,
+        "role": "engine",
+        "matched_tags": [
+          "chain",
+          "lightning",
+          "projectile"
+        ],
+        "matched_tags_ko": [
+          "연쇄",
+          "번개",
+          "투사체"
+        ],
+        "unique_tags": [
+          "chain",
+          "chaos",
+          "charge",
+          "cold",
+          "conversion",
+          "crit",
+          "duration",
+          "extra_projectile",
+          "fire",
+          "fork",
+          "gain_as_extra",
+          "life",
+          "lightning",
+          "mana",
+          "meta_energy",
+          "minion",
+          "pierce",
+          "projectile",
+          "spirit"
+        ],
+        "unique_tags_ko": [
+          "연쇄",
+          "카오스",
+          "충전",
+          "냉기",
+          "전환",
+          "치명타",
+          "지속시간",
+          "추가 투사체",
+          "화염",
+          "갈라짐",
+          "추가 피해 획득",
+          "생명력",
+          "번개",
+          "마나",
+          "메타 에너지",
+          "소환수",
+          "관통",
+          "투사체",
+          "정신력"
+        ]
+      },
+      {
+        "name": "뱀구덩이",
+        "canonical_name": "Snakepit",
+        "base_type": "Pearl Ring",
+        "score": 20.0,
+        "role": "enable",
+        "matched_tags": [
+          "chain",
+          "projectile"
+        ],
+        "matched_tags_ko": [
+          "연쇄",
+          "투사체"
+        ],
+        "unique_tags": [
+          "chain",
+          "fork",
+          "pierce",
+          "projectile"
+        ],
+        "unique_tags_ko": [
+          "연쇄",
+          "갈라짐",
+          "관통",
+          "투사체"
+        ]
+      },
+      {
+        "name": "Drillneck",
+        "canonical_name": "Drillneck",
+        "base_type": "Penetrating Quiver",
+        "score": 13.0,
+        "role": "enable",
+        "matched_tags": [
+          "projectile"
+        ],
+        "matched_tags_ko": [
+          "투사체"
+        ],
+        "unique_tags": [
+          "crit",
+          "life",
+          "pierce",
+          "projectile"
+        ],
+        "unique_tags_ko": [
+          "치명타",
+          "생명력",
+          "관통",
+          "투사체"
+        ]
+      },
+      {
+        "name": "Tyranny's Grip",
+        "canonical_name": "Tyranny's Grip",
+        "base_type": "Ironhead Spear",
+        "score": 10.0,
+        "role": "enable",
+        "matched_tags": [
+          "projectile"
+        ],
+        "matched_tags_ko": [
+          "투사체"
+        ],
+        "unique_tags": [
+          "projectile"
+        ],
+        "unique_tags_ko": [
+          "투사체"
+        ]
+      },
+      {
+        "name": "Chainsting",
+        "canonical_name": "Chainsting",
+        "base_type": "Hunting Spear",
+        "score": 10.0,
+        "role": "enable",
+        "matched_tags": [
+          "projectile"
+        ],
+        "matched_tags_ko": [
+          "투사체"
+        ],
+        "unique_tags": [
+          "projectile"
+        ],
+        "unique_tags_ko": [
+          "투사체"
+        ]
+      }
+    ],
+    "build_score": 282.0,
+    "candidate_count": 10,
+    "support_count": 10,
+    "passive_count": 0
+  },
+  {
+    "build_name": "지속시간 연쇄 번개 투사체 연쇄 소환수 번개 빌드",
+    "main_skill": "지속시간 연쇄 번개",
+    "archetype_label_en": "Projectile Chain Minion Lightning",
+    "archetype_label_ko": "투사체 연쇄 소환수 번개",
+    "archetypes": [
+      "projectile",
+      "chain",
+      "minion",
+      "lightning"
+    ],
+    "main_scaling": [
+      "elemental_damage",
+      "crit",
+      "projectile_count",
+      "chain_count"
+    ],
+    "recommended_supports": [
+      "세차게 흐르는 전류",
+      "폭풍연쇄",
+      "전압",
+      "도미누스의 장악",
+      "연쇄 I",
+      "연쇄 II"
+    ],
+    "passive_direction": [],
+    "recommended_uniques": [
+      {
+        "name": "세케마의 결의",
+        "canonical_name": "Sekhema's Resolve",
+        "base_type": "Ring",
+        "score": 27.0,
+        "role": "engine",
+        "matched_tags": [
+          "chain",
+          "lightning",
+          "projectile"
+        ],
+        "matched_tags_ko": [
+          "연쇄",
+          "번개",
+          "투사체"
+        ],
+        "unique_tags": [
+          "chain",
+          "chaos",
+          "charge",
+          "cold",
+          "conversion",
+          "crit",
+          "duration",
+          "extra_projectile",
+          "fire",
+          "fork",
+          "gain_as_extra",
+          "life",
+          "lightning",
+          "mana",
+          "meta_energy",
+          "minion",
+          "pierce",
+          "projectile",
+          "spirit"
+        ],
+        "unique_tags_ko": [
+          "연쇄",
+          "카오스",
+          "충전",
+          "냉기",
+          "전환",
+          "치명타",
+          "지속시간",
+          "추가 투사체",
+          "화염",
+          "갈라짐",
+          "추가 피해 획득",
+          "생명력",
+          "번개",
+          "마나",
+          "메타 에너지",
+          "소환수",
+          "관통",
+          "투사체",
+          "정신력"
+        ]
+      },
+      {
+        "name": "뱀구덩이",
+        "canonical_name": "Snakepit",
+        "base_type": "Pearl Ring",
+        "score": 20.0,
+        "role": "support",
+        "matched_tags": [
+          "chain",
+          "projectile"
+        ],
+        "matched_tags_ko": [
+          "연쇄",
+          "투사체"
+        ],
+        "unique_tags": [
+          "chain",
+          "fork",
+          "pierce",
+          "projectile"
+        ],
+        "unique_tags_ko": [
+          "연쇄",
+          "갈라짐",
+          "관통",
+          "투사체"
+        ]
+      },
+      {
+        "name": "Drillneck",
+        "canonical_name": "Drillneck",
+        "base_type": "Penetrating Quiver",
+        "score": 13.0,
+        "role": "support",
+        "matched_tags": [
+          "projectile"
+        ],
+        "matched_tags_ko": [
+          "투사체"
+        ],
+        "unique_tags": [
+          "crit",
+          "life",
+          "pierce",
+          "projectile"
+        ],
+        "unique_tags_ko": [
+          "치명타",
+          "생명력",
+          "관통",
+          "투사체"
+        ]
+      },
+      {
+        "name": "Tyranny's Grip",
+        "canonical_name": "Tyranny's Grip",
+        "base_type": "Ironhead Spear",
+        "score": 10.0,
+        "role": "support",
+        "matched_tags": [
+          "projectile"
+        ],
+        "matched_tags_ko": [
+          "투사체"
+        ],
+        "unique_tags": [
+          "projectile"
+        ],
+        "unique_tags_ko": [
+          "투사체"
+        ]
+      },
+      {
+        "name": "Chainsting",
+        "canonical_name": "Chainsting",
+        "base_type": "Hunting Spear",
+        "score": 10.0,
+        "role": "support",
+        "matched_tags": [
+          "projectile"
+        ],
+        "matched_tags_ko": [
+          "투사체"
+        ],
+        "unique_tags": [
+          "projectile"
+        ],
+        "unique_tags_ko": [
+          "투사체"
+        ]
+      }
+    ],
+    "build_score": 266.0,
+    "candidate_count": 7,
+    "support_count": 7,
+    "passive_count": 0
+  },
+  {
+    "build_name": "집중 유지 충격 파편 투사체 연쇄 소환수 번개 빌드",
+    "main_skill": "집중 유지 충격 파편",
+    "archetype_label_en": "Projectile Chain Minion Lightning",
+    "archetype_label_ko": "투사체 연쇄 소환수 번개",
+    "archetypes": [
+      "projectile",
+      "chain",
+      "minion",
+      "lightning"
+    ],
+    "main_scaling": [
+      "elemental_damage",
+      "crit",
+      "projectile_count",
+      "chain_count"
+    ],
+    "recommended_supports": [
+      "전압",
+      "폭풍연쇄",
+      "세차게 흐르는 전류",
+      "도미누스의 장악",
+      "연쇄 I",
+      "연쇄 II"
+    ],
+    "passive_direction": [],
+    "recommended_uniques": [
+      {
+        "name": "세케마의 결의",
+        "canonical_name": "Sekhema's Resolve",
+        "base_type": "Ring",
+        "score": 27.0,
+        "role": "engine",
+        "matched_tags": [
+          "chain",
+          "lightning",
+          "projectile"
+        ],
+        "matched_tags_ko": [
+          "연쇄",
+          "번개",
+          "투사체"
+        ],
+        "unique_tags": [
+          "chain",
+          "chaos",
+          "charge",
+          "cold",
+          "conversion",
+          "crit",
+          "duration",
+          "extra_projectile",
+          "fire",
+          "fork",
+          "gain_as_extra",
+          "life",
+          "lightning",
+          "mana",
+          "meta_energy",
+          "minion",
+          "pierce",
+          "projectile",
+          "spirit"
+        ],
+        "unique_tags_ko": [
+          "연쇄",
+          "카오스",
+          "충전",
+          "냉기",
+          "전환",
+          "치명타",
+          "지속시간",
+          "추가 투사체",
+          "화염",
+          "갈라짐",
+          "추가 피해 획득",
+          "생명력",
+          "번개",
+          "마나",
+          "메타 에너지",
+          "소환수",
+          "관통",
+          "투사체",
+          "정신력"
+        ]
+      },
+      {
+        "name": "뱀구덩이",
+        "canonical_name": "Snakepit",
+        "base_type": "Pearl Ring",
+        "score": 20.0,
+        "role": "support",
+        "matched_tags": [
+          "chain",
+          "projectile"
+        ],
+        "matched_tags_ko": [
+          "연쇄",
+          "투사체"
+        ],
+        "unique_tags": [
+          "chain",
+          "fork",
+          "pierce",
+          "projectile"
+        ],
+        "unique_tags_ko": [
+          "연쇄",
+          "갈라짐",
+          "관통",
+          "투사체"
+        ]
+      },
+      {
+        "name": "Drillneck",
+        "canonical_name": "Drillneck",
+        "base_type": "Penetrating Quiver",
+        "score": 13.0,
+        "role": "support",
+        "matched_tags": [
+          "projectile"
+        ],
+        "matched_tags_ko": [
+          "투사체"
+        ],
+        "unique_tags": [
+          "crit",
+          "life",
+          "pierce",
+          "projectile"
+        ],
+        "unique_tags_ko": [
+          "치명타",
+          "생명력",
+          "관통",
+          "투사체"
+        ]
+      },
+      {
+        "name": "Tyranny's Grip",
+        "canonical_name": "Tyranny's Grip",
+        "base_type": "Ironhead Spear",
+        "score": 10.0,
+        "role": "support",
+        "matched_tags": [
+          "projectile"
+        ],
+        "matched_tags_ko": [
+          "투사체"
+        ],
+        "unique_tags": [
+          "projectile"
+        ],
+        "unique_tags_ko": [
+          "투사체"
+        ]
+      },
+      {
+        "name": "Chainsting",
+        "canonical_name": "Chainsting",
+        "base_type": "Hunting Spear",
+        "score": 10.0,
+        "role": "support",
+        "matched_tags": [
+          "projectile"
+        ],
+        "matched_tags_ko": [
+          "투사체"
+        ],
+        "unique_tags": [
+          "projectile"
+        ],
+        "unique_tags_ko": [
+          "투사체"
+        ]
+      }
+    ],
+    "build_score": 266.0,
+    "candidate_count": 7,
+    "support_count": 7,
+    "passive_count": 0
+  },
+  {
+    "build_name": "선대의 혼백 번개 소환수 발동 화염 빌드",
+    "main_skill": "선대의 혼백",
+    "archetype_label_en": "Lightning Minion Trigger Fire",
+    "archetype_label_ko": "번개 소환수 발동 화염",
+    "archetypes": [
+      "lightning",
+      "minion",
+      "trigger",
+      "fire"
+    ],
+    "main_scaling": [
+      "elemental_damage",
+      "crit",
+      "duration",
+      "minion_damage"
+    ],
+    "recommended_supports": [
+      "달리는 돌 I",
+      "달리는 돌 II",
+      "살아 있는 번개",
+      "살아 있는 번개 II",
+      "분화구",
+      "몽상가의 종소리"
+    ],
+    "passive_direction": [],
+    "recommended_uniques": [
+      {
+        "name": "붕괴하는 지평선",
+        "canonical_name": "Collapsing Horizon",
+        "base_type": "Wyrm Quarterstaff",
+        "score": 16.0,
+        "role": "engine",
+        "matched_tags": [
+          "trigger"
+        ],
+        "matched_tags_ko": [
+          "발동"
+        ],
+        "unique_tags": [
+          "crit",
+          "trigger"
+        ],
+        "unique_tags_ko": [
+          "치명타",
+          "발동"
+        ]
+      },
+      {
+        "name": "이중 시야",
+        "canonical_name": "Double Vision",
+        "base_type": "Dyad Crossbow",
+        "score": 16.0,
+        "role": "engine",
+        "matched_tags": [
+          "trigger"
+        ],
+        "matched_tags_ko": [
+          "발동"
+        ],
+        "unique_tags": [
+          "cold",
+          "crit",
+          "fire",
+          "trigger"
+        ],
+        "unique_tags_ko": [
+          "냉기",
+          "치명타",
+          "화염",
+          "발동"
+        ]
+      },
+      {
+        "name": "어둠살대",
+        "canonical_name": "Murkshaft",
+        "base_type": "Toxic Quiver",
+        "score": 16.0,
+        "role": "engine",
+        "matched_tags": [
+          "duration",
+          "trigger"
+        ],
+        "matched_tags_ko": [
+          "지속시간",
+          "발동"
+        ],
+        "unique_tags": [
+          "chaos",
+          "duration",
+          "mana",
+          "trigger"
+        ],
+        "unique_tags_ko": [
+          "카오스",
+          "지속시간",
+          "마나",
+          "발동"
+        ]
+      },
+      {
+        "name": "폭풍의 합창",
+        "canonical_name": "Choir of the Storm",
+        "base_type": "Jade Amulet",
+        "score": 16.0,
+        "role": "engine",
+        "matched_tags": [
+          "trigger"
+        ],
+        "matched_tags_ko": [
+          "발동"
+        ],
+        "unique_tags": [
+          "crit",
+          "lightning",
+          "trigger"
+        ],
+        "unique_tags_ko": [
+          "치명타",
+          "번개",
+          "발동"
+        ]
+      },
+      {
+        "name": "분노의 첨탑",
+        "canonical_name": "Spire of Ire",
+        "base_type": "Helix Spear",
+        "score": 13.0,
+        "role": "engine",
+        "matched_tags": [
+          "trigger"
+        ],
+        "matched_tags_ko": [
+          "발동"
+        ],
+        "unique_tags": [
+          "chaos",
+          "charge",
+          "life",
+          "trigger"
+        ],
+        "unique_tags_ko": [
+          "카오스",
+          "충전",
+          "생명력",
+          "발동"
+        ]
+      }
+    ],
+    "build_score": 256.0,
+    "candidate_count": 10,
+    "support_count": 10,
+    "passive_count": 0
+  },
+  {
+    "build_name": "기폭 장치 원소 약화 투사체 번개 연쇄 효과 범위 빌드",
+    "main_skill": "기폭 장치 원소 약화",
+    "archetype_label_en": "Projectile Lightning Chain Aoe",
+    "archetype_label_ko": "투사체 번개 연쇄 효과 범위",
+    "archetypes": [
+      "projectile",
+      "lightning",
+      "chain",
+      "aoe"
+    ],
+    "main_scaling": [
+      "elemental_damage",
+      "crit",
+      "projectile_count",
+      "chain_count"
+    ],
+    "recommended_supports": [
+      "하욕시의 뇌전",
+      "원소 방출",
+      "촉진시키는 원소",
+      "정전기 감전",
+      "분화구",
+      "충전된 징표"
+    ],
+    "passive_direction": [],
+    "recommended_uniques": [
+      {
+        "name": "세케마의 결의",
+        "canonical_name": "Sekhema's Resolve",
+        "base_type": "Ring",
+        "score": 21.0,
+        "role": "engine",
+        "matched_tags": [
+          "cold",
+          "fire",
+          "lightning"
+        ],
+        "matched_tags_ko": [
+          "냉기",
+          "화염",
+          "번개"
+        ],
+        "unique_tags": [
+          "chain",
+          "chaos",
+          "charge",
+          "cold",
+          "conversion",
+          "crit",
+          "duration",
+          "extra_projectile",
+          "fire",
+          "fork",
+          "gain_as_extra",
+          "life",
+          "lightning",
+          "mana",
+          "meta_energy",
+          "minion",
+          "pierce",
+          "projectile",
+          "spirit"
+        ],
+        "unique_tags_ko": [
+          "연쇄",
+          "카오스",
+          "충전",
+          "냉기",
+          "전환",
+          "치명타",
+          "지속시간",
+          "추가 투사체",
+          "화염",
+          "갈라짐",
+          "추가 피해 획득",
+          "생명력",
+          "번개",
+          "마나",
+          "메타 에너지",
+          "소환수",
+          "관통",
+          "투사체",
+          "정신력"
+        ]
+      },
+      {
+        "name": "Painter's Servant",
+        "canonical_name": "Painter's Servant",
+        "base_type": "Torn Gloves",
+        "score": 17.0,
+        "role": "scaling",
+        "matched_tags": [
+          "cold",
+          "fire",
+          "lightning"
+        ],
+        "matched_tags_ko": [
+          "냉기",
+          "화염",
+          "번개"
+        ],
+        "unique_tags": [
+          "cold",
+          "conversion",
+          "fire",
+          "gain_as_extra",
+          "lightning"
+        ],
+        "unique_tags_ko": [
+          "냉기",
+          "전환",
+          "화염",
+          "추가 피해 획득",
+          "번개"
+        ]
+      },
+      {
+        "name": "Heatshiver",
+        "canonical_name": "Heatshiver",
+        "base_type": "Velvet Cap",
+        "score": 13.0,
+        "role": "scaling",
+        "matched_tags": [
+          "cold",
+          "fire"
+        ],
+        "matched_tags_ko": [
+          "냉기",
+          "화염"
+        ],
+        "unique_tags": [
+          "cold",
+          "fire",
+          "gain_as_extra",
+          "mana"
+        ],
+        "unique_tags_ko": [
+          "냉기",
+          "화염",
+          "추가 피해 획득",
+          "마나"
+        ]
+      },
+      {
+        "name": "질식의 진노",
+        "canonical_name": "Asphyxia's Wrath",
+        "base_type": "Broadhead Quiver",
+        "score": 13.0,
+        "role": "scaling",
+        "matched_tags": [
+          "cold",
+          "fire"
+        ],
+        "matched_tags_ko": [
+          "냉기",
+          "화염"
+        ],
+        "unique_tags": [
+          "cold",
+          "fire",
+          "gain_as_extra",
+          "mana",
+          "pierce",
+          "projectile"
+        ],
+        "unique_tags_ko": [
+          "냉기",
+          "화염",
+          "추가 피해 획득",
+          "마나",
+          "관통",
+          "투사체"
+        ]
+      },
+      {
+        "name": "Queen of the Forest",
+        "canonical_name": "Queen of the Forest",
+        "base_type": "Smuggler Coat",
+        "score": 12.0,
+        "role": "support",
+        "matched_tags": [
+          "cold",
+          "fire",
+          "lightning"
+        ],
+        "matched_tags_ko": [
+          "냉기",
+          "화염",
+          "번개"
+        ],
+        "unique_tags": [
+          "chaos",
+          "cold",
+          "duration",
+          "fire",
+          "life",
+          "lightning",
+          "spirit"
+        ],
+        "unique_tags_ko": [
+          "카오스",
+          "냉기",
+          "지속시간",
+          "화염",
+          "생명력",
+          "번개",
+          "정신력"
+        ]
+      }
+    ],
+    "build_score": 247.0,
+    "candidate_count": 9,
+    "support_count": 9,
+    "passive_count": 0
+  },
+  {
+    "build_name": "돌발 투사체 번개 연쇄 효과 범위 빌드",
+    "main_skill": "돌발",
+    "archetype_label_en": "Projectile Lightning Chain Aoe",
+    "archetype_label_ko": "투사체 번개 연쇄 효과 범위",
+    "archetypes": [
+      "projectile",
+      "lightning",
+      "chain",
+      "aoe"
+    ],
+    "main_scaling": [
+      "elemental_damage",
+      "crit",
+      "projectile_count",
+      "chain_count"
+    ],
+    "recommended_supports": [
+      "원소 방출",
+      "하욕시의 뇌전",
+      "촉진시키는 원소",
+      "전자기력",
+      "방어구 폭발",
+      "불타는 죽음"
+    ],
+    "passive_direction": [],
+    "recommended_uniques": [
+      {
+        "name": "세케마의 결의",
+        "canonical_name": "Sekhema's Resolve",
+        "base_type": "Ring",
+        "score": 21.0,
+        "role": "engine",
+        "matched_tags": [
+          "cold",
+          "fire",
+          "lightning"
+        ],
+        "matched_tags_ko": [
+          "냉기",
+          "화염",
+          "번개"
+        ],
+        "unique_tags": [
+          "chain",
+          "chaos",
+          "charge",
+          "cold",
+          "conversion",
+          "crit",
+          "duration",
+          "extra_projectile",
+          "fire",
+          "fork",
+          "gain_as_extra",
+          "life",
+          "lightning",
+          "mana",
+          "meta_energy",
+          "minion",
+          "pierce",
+          "projectile",
+          "spirit"
+        ],
+        "unique_tags_ko": [
+          "연쇄",
+          "카오스",
+          "충전",
+          "냉기",
+          "전환",
+          "치명타",
+          "지속시간",
+          "추가 투사체",
+          "화염",
+          "갈라짐",
+          "추가 피해 획득",
+          "생명력",
+          "번개",
+          "마나",
+          "메타 에너지",
+          "소환수",
+          "관통",
+          "투사체",
+          "정신력"
+        ]
+      },
+      {
+        "name": "Painter's Servant",
+        "canonical_name": "Painter's Servant",
+        "base_type": "Torn Gloves",
+        "score": 17.0,
+        "role": "scaling",
+        "matched_tags": [
+          "cold",
+          "fire",
+          "lightning"
+        ],
+        "matched_tags_ko": [
+          "냉기",
+          "화염",
+          "번개"
+        ],
+        "unique_tags": [
+          "cold",
+          "conversion",
+          "fire",
+          "gain_as_extra",
+          "lightning"
+        ],
+        "unique_tags_ko": [
+          "냉기",
+          "전환",
+          "화염",
+          "추가 피해 획득",
+          "번개"
+        ]
+      },
+      {
+        "name": "Heatshiver",
+        "canonical_name": "Heatshiver",
+        "base_type": "Velvet Cap",
+        "score": 13.0,
+        "role": "scaling",
+        "matched_tags": [
+          "cold",
+          "fire"
+        ],
+        "matched_tags_ko": [
+          "냉기",
+          "화염"
+        ],
+        "unique_tags": [
+          "cold",
+          "fire",
+          "gain_as_extra",
+          "mana"
+        ],
+        "unique_tags_ko": [
+          "냉기",
+          "화염",
+          "추가 피해 획득",
+          "마나"
+        ]
+      },
+      {
+        "name": "질식의 진노",
+        "canonical_name": "Asphyxia's Wrath",
+        "base_type": "Broadhead Quiver",
+        "score": 13.0,
+        "role": "scaling",
+        "matched_tags": [
+          "cold",
+          "fire"
+        ],
+        "matched_tags_ko": [
+          "냉기",
+          "화염"
+        ],
+        "unique_tags": [
+          "cold",
+          "fire",
+          "gain_as_extra",
+          "mana",
+          "pierce",
+          "projectile"
+        ],
+        "unique_tags_ko": [
+          "냉기",
+          "화염",
+          "추가 피해 획득",
+          "마나",
+          "관통",
+          "투사체"
+        ]
+      },
+      {
+        "name": "Queen of the Forest",
+        "canonical_name": "Queen of the Forest",
+        "base_type": "Smuggler Coat",
+        "score": 12.0,
+        "role": "support",
+        "matched_tags": [
+          "cold",
+          "fire",
+          "lightning"
+        ],
+        "matched_tags_ko": [
+          "냉기",
+          "화염",
+          "번개"
+        ],
+        "unique_tags": [
+          "chaos",
+          "cold",
+          "duration",
+          "fire",
+          "life",
+          "lightning",
+          "spirit"
+        ],
+        "unique_tags_ko": [
+          "카오스",
+          "냉기",
+          "지속시간",
+          "화염",
+          "생명력",
+          "번개",
+          "정신력"
+        ]
+      }
+    ],
+    "build_score": 242.0,
+    "candidate_count": 9,
+    "support_count": 9,
+    "passive_count": 0
+  },
+  {
+    "build_name": "연발 사격 가능 피뢰침 번개 효과 범위 투사체 지속시간 빌드",
+    "main_skill": "연발 사격 가능 피뢰침",
+    "archetype_label_en": "Lightning Aoe Projectile Duration",
+    "archetype_label_ko": "번개 효과 범위 투사체 지속시간",
+    "archetypes": [
+      "lightning",
+      "aoe",
+      "projectile",
+      "duration"
+    ],
+    "main_scaling": [
+      "elemental_damage",
+      "duration",
+      "chain_count"
+    ],
+    "recommended_supports": [
+      "마름쇠",
+      "정전기 감전",
+      "화산 분출",
+      "전압",
+      "분화구",
+      "요철 지대 I"
+    ],
+    "passive_direction": [],
+    "recommended_uniques": [],
+    "build_score": 229.0,
+    "candidate_count": 15,
+    "support_count": 15,
+    "passive_count": 0
+  },
+  {
+    "build_name": "폭풍의 창 번개 효과 범위 투사체 지속시간 빌드",
+    "main_skill": "폭풍의 창",
+    "archetype_label_en": "Lightning Aoe Projectile Duration",
+    "archetype_label_ko": "번개 효과 범위 투사체 지속시간",
+    "archetypes": [
+      "lightning",
+      "aoe",
+      "projectile",
+      "duration"
+    ],
+    "main_scaling": [
+      "elemental_damage",
+      "duration",
+      "chain_count"
+    ],
+    "recommended_supports": [
+      "마름쇠",
+      "정전기 감전",
+      "화산 분출",
+      "전압",
+      "분화구",
+      "요철 지대 I"
+    ],
+    "passive_direction": [],
+    "recommended_uniques": [],
+    "build_score": 229.0,
+    "candidate_count": 15,
+    "support_count": 15,
+    "passive_count": 0
+  },
+  {
+    "build_name": "연발 사격 가능 폭풍 소환사 화살 번개 효과 범위 투사체 지속시간 빌드",
+    "main_skill": "연발 사격 가능 폭풍 소환사 화살",
+    "archetype_label_en": "Lightning Aoe Projectile Duration",
+    "archetype_label_ko": "번개 효과 범위 투사체 지속시간",
+    "archetypes": [
+      "lightning",
+      "aoe",
+      "projectile",
+      "duration"
+    ],
+    "main_scaling": [
+      "elemental_damage",
+      "duration",
+      "chain_count"
+    ],
+    "recommended_supports": [
+      "마름쇠",
+      "화산 분출",
+      "전압",
+      "정전기 감전",
+      "분화구",
+      "요철 지대 I"
+    ],
+    "passive_direction": [],
+    "recommended_uniques": [],
+    "build_score": 228.0,
+    "candidate_count": 15,
+    "support_count": 15,
+    "passive_count": 0
+  },
+  {
+    "build_name": "전기 처형의 화살 번개 효과 범위 투사체 지속시간 빌드",
+    "main_skill": "전기 처형의 화살",
+    "archetype_label_en": "Lightning Aoe Projectile Duration",
+    "archetype_label_ko": "번개 효과 범위 투사체 지속시간",
+    "archetypes": [
+      "lightning",
+      "aoe",
+      "projectile",
+      "duration"
+    ],
+    "main_scaling": [
+      "elemental_damage",
+      "duration",
+      "chain_count"
+    ],
+    "recommended_supports": [
+      "마름쇠",
+      "화산 분출",
+      "전압",
+      "정전기 감전",
+      "분화구",
+      "요철 지대 I"
+    ],
+    "passive_direction": [],
+    "recommended_uniques": [],
+    "build_score": 228.0,
+    "candidate_count": 15,
+    "support_count": 15,
+    "passive_count": 0
+  },
+  {
+    "build_name": "전도성 유탄 번개 효과 범위 투사체 지속시간 빌드",
+    "main_skill": "전도성 유탄",
+    "archetype_label_en": "Lightning Aoe Projectile Duration",
+    "archetype_label_ko": "번개 효과 범위 투사체 지속시간",
+    "archetypes": [
+      "lightning",
+      "aoe",
+      "projectile",
+      "duration"
+    ],
+    "main_scaling": [
+      "elemental_damage",
+      "duration",
+      "chain_count"
+    ],
+    "recommended_supports": [
+      "마름쇠",
+      "화산 분출",
+      "전압",
+      "정전기 감전",
+      "분화구",
+      "요철 지대 I"
+    ],
+    "passive_direction": [],
+    "recommended_uniques": [],
+    "build_score": 228.0,
+    "candidate_count": 15,
+    "support_count": 15,
+    "passive_count": 0
+  },
+  {
+    "build_name": "연발 사격 가능 태풍 파열 볼트 번개 효과 범위 투사체 지속시간 빌드",
+    "main_skill": "연발 사격 가능 태풍 파열 볼트",
+    "archetype_label_en": "Lightning Aoe Projectile Duration",
+    "archetype_label_ko": "번개 효과 범위 투사체 지속시간",
+    "archetypes": [
+      "lightning",
+      "aoe",
+      "projectile",
+      "duration"
+    ],
+    "main_scaling": [
+      "elemental_damage",
+      "duration",
+      "chain_count"
+    ],
+    "recommended_supports": [
+      "마름쇠",
+      "화산 분출",
+      "전압",
+      "정전기 감전",
+      "분화구",
+      "요철 지대 I"
+    ],
+    "passive_direction": [],
+    "recommended_uniques": [],
+    "build_score": 228.0,
+    "candidate_count": 15,
+    "support_count": 15,
+    "passive_count": 0
+  },
+  {
+    "build_name": "맹독성 영역 투사체 발동 연쇄 효과 범위 빌드",
+    "main_skill": "맹독성 영역",
+    "archetype_label_en": "Projectile Trigger Chain Aoe",
+    "archetype_label_ko": "투사체 발동 연쇄 효과 범위",
+    "archetypes": [
+      "projectile",
+      "trigger",
+      "chain",
+      "aoe"
+    ],
+    "main_scaling": [
+      "elemental_damage",
+      "crit",
+      "projectile_count",
+      "chain_count"
+    ],
+    "recommended_supports": [
+      "독 포자",
+      "분화구",
+      "요철 지대 I",
+      "요철 지대 II",
+      "몽상가의 종소리",
+      "마름쇠"
+    ],
+    "passive_direction": [],
+    "recommended_uniques": [
+      {
+        "name": "Palm of the Dreamer",
+        "canonical_name": "Palm of the Dreamer",
+        "base_type": "Shrine Sceptre",
+        "score": 7.0,
+        "role": "scaling",
+        "matched_tags": [
+          "chaos",
+          "duration"
+        ],
+        "matched_tags_ko": [
+          "카오스",
+          "지속시간"
+        ],
+        "unique_tags": [
+          "chaos",
+          "duration",
+          "gain_as_extra",
+          "minion"
+        ],
+        "unique_tags_ko": [
+          "카오스",
+          "지속시간",
+          "추가 피해 획득",
+          "소환수"
+        ]
+      },
+      {
+        "name": "Queen of the Forest",
+        "canonical_name": "Queen of the Forest",
+        "base_type": "Smuggler Coat",
+        "score": 7.0,
+        "role": "support",
+        "matched_tags": [
+          "chaos",
+          "duration"
+        ],
+        "matched_tags_ko": [
+          "카오스",
+          "지속시간"
+        ],
+        "unique_tags": [
+          "chaos",
+          "cold",
+          "duration",
+          "fire",
+          "life",
+          "lightning",
+          "spirit"
+        ],
+        "unique_tags_ko": [
+          "카오스",
+          "냉기",
+          "지속시간",
+          "화염",
+          "생명력",
+          "번개",
+          "정신력"
+        ]
+      },
+      {
+        "name": "Couture of Crimson",
+        "canonical_name": "Couture of Crimson",
+        "base_type": "Gilded Vestments",
+        "score": 7.0,
+        "role": "support",
+        "matched_tags": [
+          "chaos",
+          "duration"
+        ],
+        "matched_tags_ko": [
+          "카오스",
+          "지속시간"
+        ],
+        "unique_tags": [
+          "chaos",
+          "duration",
+          "life",
+          "spirit"
+        ],
+        "unique_tags_ko": [
+          "카오스",
+          "지속시간",
+          "생명력",
+          "정신력"
+        ]
+      },
+      {
+        "name": "Zerphi's Serape",
+        "canonical_name": "Zerphi's Serape",
+        "base_type": "Scalper's Jacket",
+        "score": 7.0,
+        "role": "support",
+        "matched_tags": [
+          "chaos",
+          "duration"
+        ],
+        "matched_tags_ko": [
+          "카오스",
+          "지속시간"
+        ],
+        "unique_tags": [
+          "chaos",
+          "duration",
+          "fire",
+          "life",
+          "mana"
+        ],
+        "unique_tags_ko": [
+          "카오스",
+          "지속시간",
+          "화염",
+          "생명력",
+          "마나"
+        ]
+      },
+      {
+        "name": "Chernobog's Pillar",
+        "canonical_name": "Chernobog's Pillar",
+        "base_type": "Blacksteel Tower Shield",
+        "score": 7.0,
+        "role": "support",
+        "matched_tags": [
+          "chaos",
+          "duration"
+        ],
+        "matched_tags_ko": [
+          "카오스",
+          "지속시간"
+        ],
+        "unique_tags": [
+          "chaos",
+          "cold",
+          "duration",
+          "fire",
+          "life",
+          "mana"
+        ],
+        "unique_tags_ko": [
+          "카오스",
+          "냉기",
+          "지속시간",
+          "화염",
+          "생명력",
+          "마나"
+        ]
+      }
+    ],
+    "build_score": 227.0,
+    "candidate_count": 8,
+    "support_count": 8,
+    "passive_count": 0
+  },
+  {
+    "build_name": "가스 화살 투사체 효과 범위 화염 카오스 빌드",
+    "main_skill": "가스 화살",
+    "archetype_label_en": "Projectile Aoe Fire Chaos",
+    "archetype_label_ko": "투사체 효과 범위 화염 카오스",
+    "archetypes": [
+      "projectile",
+      "aoe",
+      "fire",
+      "chaos"
+    ],
+    "main_scaling": [
+      "elemental_damage",
+      "duration",
+      "crit"
+    ],
+    "recommended_supports": [
+      "마름쇠",
+      "화산 분출",
+      "분화구",
+      "독 포자",
+      "요철 지대 I",
+      "요철 지대 II"
+    ],
+    "passive_direction": [],
+    "recommended_uniques": [],
+    "build_score": 222.0,
+    "candidate_count": 14,
+    "support_count": 14,
+    "passive_count": 0
+  },
+  {
+    "build_name": "가스 유탄 투사체 효과 범위 화염 카오스 빌드",
+    "main_skill": "가스 유탄",
+    "archetype_label_en": "Projectile Aoe Fire Chaos",
+    "archetype_label_ko": "투사체 효과 범위 화염 카오스",
+    "archetypes": [
+      "projectile",
+      "aoe",
+      "fire",
+      "chaos"
+    ],
+    "main_scaling": [
+      "elemental_damage",
+      "duration",
+      "crit"
+    ],
+    "recommended_supports": [
+      "마름쇠",
+      "화산 분출",
+      "분화구",
+      "독 포자",
+      "요철 지대 I",
+      "요철 지대 II"
+    ],
+    "passive_direction": [],
+    "recommended_uniques": [],
+    "build_score": 222.0,
+    "candidate_count": 14,
+    "support_count": 14,
+    "passive_count": 0
+  },
+  {
+    "build_name": "기폭 장치 충격 장법 효과 범위 근접 투사체 지속시간 빌드",
+    "main_skill": "기폭 장치 충격 장법",
+    "archetype_label_en": "Aoe Melee Projectile Duration",
+    "archetype_label_ko": "효과 범위 근접 투사체 지속시간",
+    "archetypes": [
+      "aoe",
+      "melee",
+      "projectile",
+      "duration"
+    ],
+    "main_scaling": [
+      "duration"
+    ],
+    "recommended_supports": [
+      "마름쇠",
+      "화산 분출",
+      "독 포자",
+      "분화구",
+      "요철 지대 I",
+      "요철 지대 II"
+    ],
+    "passive_direction": [],
+    "recommended_uniques": [],
+    "build_score": 215.0,
+    "candidate_count": 12,
+    "support_count": 12,
+    "passive_count": 0
+  },
+  {
+    "build_name": "물리 충전 지팡이 번개 효과 범위 지속시간 빌드",
+    "main_skill": "물리 충전 지팡이",
+    "archetype_label_en": "Lightning Aoe Duration",
+    "archetype_label_ko": "번개 효과 범위 지속시간",
+    "archetypes": [
+      "lightning",
+      "aoe",
+      "duration"
+    ],
+    "main_scaling": [
+      "elemental_damage",
+      "duration"
+    ],
+    "recommended_supports": [
+      "정전기 감전",
+      "독 포자",
+      "분화구",
+      "요철 지대 I",
+      "요철 지대 II",
+      "몽상가의 종소리"
+    ],
+    "passive_direction": [],
+    "recommended_uniques": [],
+    "build_score": 213.0,
+    "candidate_count": 15,
+    "support_count": 15,
+    "passive_count": 0
+  },
+  {
+    "build_name": "폭발 창 투사체 효과 범위 화염 지속시간 빌드",
+    "main_skill": "폭발 창",
+    "archetype_label_en": "Projectile Aoe Fire Duration",
+    "archetype_label_ko": "투사체 효과 범위 화염 지속시간",
+    "archetypes": [
+      "projectile",
+      "aoe",
+      "fire",
+      "duration"
+    ],
+    "main_scaling": [
+      "elemental_damage",
+      "duration",
+      "crit"
+    ],
+    "recommended_supports": [
+      "마름쇠",
+      "화산 분출",
+      "분화구",
+      "요철 지대 I",
+      "요철 지대 II",
+      "몽상가의 종소리"
+    ],
+    "passive_direction": [],
+    "recommended_uniques": [],
+    "build_score": 212.0,
+    "candidate_count": 13,
+    "support_count": 13,
+    "passive_count": 0
+  },
+  {
+    "build_name": "집중 유지 기름 유탄 투사체 효과 범위 화염 지속시간 빌드",
+    "main_skill": "집중 유지 기름 유탄",
+    "archetype_label_en": "Projectile Aoe Fire Duration",
+    "archetype_label_ko": "투사체 효과 범위 화염 지속시간",
+    "archetypes": [
+      "projectile",
+      "aoe",
+      "fire",
+      "duration"
+    ],
+    "main_scaling": [
+      "elemental_damage",
+      "duration",
+      "crit"
+    ],
+    "recommended_supports": [
+      "마름쇠",
+      "화산 분출",
+      "분화구",
+      "요철 지대 I",
+      "요철 지대 II",
+      "몽상가의 종소리"
+    ],
+    "passive_direction": [],
+    "recommended_uniques": [],
+    "build_score": 212.0,
+    "candidate_count": 13,
+    "support_count": 13,
+    "passive_count": 0
+  },
+  {
+    "build_name": "공성 쇠뇌 투사체 효과 범위 화염 지속시간 빌드",
+    "main_skill": "공성 쇠뇌",
+    "archetype_label_en": "Projectile Aoe Fire Duration",
+    "archetype_label_ko": "투사체 효과 범위 화염 지속시간",
+    "archetypes": [
+      "projectile",
+      "aoe",
+      "fire",
+      "duration"
+    ],
+    "main_scaling": [
+      "elemental_damage",
+      "duration",
+      "crit"
+    ],
+    "recommended_supports": [
+      "마름쇠",
+      "화산 분출",
+      "분화구",
+      "요철 지대 I",
+      "요철 지대 II",
+      "몽상가의 종소리"
+    ],
+    "passive_direction": [],
+    "recommended_uniques": [],
+    "build_score": 212.0,
+    "candidate_count": 13,
+    "support_count": 13,
+    "passive_count": 0
+  },
+  {
+    "build_name": "신기루 궁수 발동 번개 지속시간 빌드",
+    "main_skill": "신기루 궁수",
+    "archetype_label_en": "Trigger Lightning Duration",
+    "archetype_label_ko": "발동 번개 지속시간",
+    "archetypes": [
+      "trigger",
+      "lightning",
+      "duration"
+    ],
+    "main_scaling": [
+      "duration",
+      "elemental_damage"
+    ],
+    "recommended_supports": [
+      "독 포자",
+      "분화구",
+      "달리는 돌 I",
+      "달리는 돌 II",
+      "몽상가의 종소리",
+      "마름쇠"
+    ],
+    "passive_direction": [],
+    "recommended_uniques": [],
+    "build_score": 209.0,
+    "candidate_count": 10,
+    "support_count": 10,
+    "passive_count": 0
+  },
+  {
+    "build_name": "신기루 명사수 발동 번개 지속시간 빌드",
+    "main_skill": "신기루 명사수",
+    "archetype_label_en": "Trigger Lightning Duration",
+    "archetype_label_ko": "발동 번개 지속시간",
+    "archetypes": [
+      "trigger",
+      "lightning",
+      "duration"
+    ],
+    "main_scaling": [
+      "duration",
+      "elemental_damage"
+    ],
+    "recommended_supports": [
+      "독 포자",
+      "분화구",
+      "달리는 돌 I",
+      "달리는 돌 II",
+      "몽상가의 종소리",
+      "마름쇠"
+    ],
+    "passive_direction": [],
+    "recommended_uniques": [],
+    "build_score": 209.0,
+    "candidate_count": 10,
+    "support_count": 10,
+    "passive_count": 0
+  },
+  {
+    "build_name": "연발 사격 가능 빙하 창 냉기 효과 범위 투사체 지속시간 빌드",
+    "main_skill": "연발 사격 가능 빙하 창",
+    "archetype_label_en": "Cold Aoe Projectile Duration",
+    "archetype_label_ko": "냉기 효과 범위 투사체 지속시간",
+    "archetypes": [
+      "cold",
+      "aoe",
+      "projectile",
+      "duration"
+    ],
+    "main_scaling": [
+      "elemental_damage",
+      "duration"
+    ],
+    "recommended_supports": [
+      "마름쇠",
+      "얼어붙은 악의",
+      "화산 분출",
+      "분화구",
+      "요철 지대 I",
+      "요철 지대 II"
+    ],
+    "passive_direction": [],
+    "recommended_uniques": [],
+    "build_score": 203.0,
+    "candidate_count": 12,
+    "support_count": 12,
+    "passive_count": 0
+  },
+  {
+    "build_name": "빙하 볼트 냉기 효과 범위 투사체 지속시간 빌드",
+    "main_skill": "빙하 볼트",
+    "archetype_label_en": "Cold Aoe Projectile Duration",
+    "archetype_label_ko": "냉기 효과 범위 투사체 지속시간",
+    "archetypes": [
+      "cold",
+      "aoe",
+      "projectile",
+      "duration"
+    ],
+    "main_scaling": [
+      "elemental_damage",
+      "duration"
+    ],
+    "recommended_supports": [
+      "마름쇠",
+      "얼어붙은 악의",
+      "화산 분출",
+      "분화구",
+      "요철 지대 I",
+      "요철 지대 II"
+    ],
+    "passive_direction": [],
+    "recommended_uniques": [],
+    "build_score": 203.0,
+    "candidate_count": 12,
+    "support_count": 12,
+    "passive_count": 0
+  },
+  {
+    "build_name": "점화 시 시전 화염 발동 빌드",
+    "main_skill": "점화 시 시전",
+    "archetype_label_en": "Fire Trigger",
+    "archetype_label_ko": "화염 발동",
+    "archetypes": [
+      "fire",
+      "trigger"
+    ],
+    "main_scaling": [
+      "elemental_damage"
+    ],
+    "recommended_supports": [
+      "방어구 폭발",
+      "분화구",
+      "불난 집 부채질",
+      "화산 분출",
+      "불난 집 부채질 II",
+      "하욕시의 뇌전"
+    ],
+    "passive_direction": [],
+    "recommended_uniques": [],
+    "build_score": 200.0,
+    "candidate_count": 12,
+    "support_count": 12,
+    "passive_count": 0
+  },
+  {
+    "build_name": "명중 시 화염 주문 발동 화염 빌드",
+    "main_skill": "명중 시 화염 주문",
+    "archetype_label_en": "Trigger Fire",
+    "archetype_label_ko": "발동 화염",
+    "archetypes": [
+      "trigger",
+      "fire"
+    ],
+    "main_scaling": [
+      "elemental_damage"
+    ],
+    "recommended_supports": [
+      "방어구 폭발",
+      "분화구",
+      "불난 집 부채질",
+      "화산 분출",
+      "불난 집 부채질 II",
+      "하욕시의 뇌전"
+    ],
+    "passive_direction": [],
+    "recommended_uniques": [],
+    "build_score": 200.0,
+    "candidate_count": 12,
+    "support_count": 12,
+    "passive_count": 0
+  },
+  {
+    "build_name": "합쳐짐 화산 투사체 효과 범위 화염 지속시간 빌드",
+    "main_skill": "합쳐짐 화산",
+    "archetype_label_en": "Projectile Aoe Fire Duration",
+    "archetype_label_ko": "투사체 효과 범위 화염 지속시간",
+    "archetypes": [
+      "projectile",
+      "aoe",
+      "fire",
+      "duration"
+    ],
+    "main_scaling": [
+      "elemental_damage",
+      "duration"
+    ],
+    "recommended_supports": [
+      "마름쇠",
+      "화산 분출",
+      "분화구",
+      "정전기 감전",
+      "충전된 징표",
+      "화염관통"
+    ],
+    "passive_direction": [],
+    "recommended_uniques": [],
+    "build_score": 196.0,
+    "candidate_count": 12,
+    "support_count": 12,
+    "passive_count": 0
+  },
+  {
+    "build_name": "번개 충격장 번개 효과 범위 연쇄 지속시간 빌드",
+    "main_skill": "번개 충격장",
+    "archetype_label_en": "Lightning Aoe Chain Duration",
+    "archetype_label_ko": "번개 효과 범위 연쇄 지속시간",
+    "archetypes": [
+      "lightning",
+      "aoe",
+      "chain",
+      "duration"
+    ],
+    "main_scaling": [
+      "elemental_damage",
+      "chain_count",
+      "duration"
+    ],
+    "recommended_supports": [
+      "정전기 감전",
+      "세차게 흐르는 전류",
+      "폭풍연쇄",
+      "전압",
+      "충전된 징표",
+      "전자기력"
+    ],
+    "passive_direction": [],
+    "recommended_uniques": [],
+    "build_score": 195.0,
+    "candidate_count": 10,
+    "support_count": 10,
+    "passive_count": 0
+  },
+  {
+    "build_name": "몰려드는 폭풍 번개 효과 범위 지속시간 근접 빌드",
+    "main_skill": "몰려드는 폭풍",
+    "archetype_label_en": "Lightning Aoe Duration Melee",
+    "archetype_label_ko": "번개 효과 범위 지속시간 근접",
+    "archetypes": [
+      "lightning",
+      "aoe",
+      "duration",
+      "melee"
+    ],
+    "main_scaling": [
+      "elemental_damage",
+      "duration"
+    ],
+    "recommended_supports": [
+      "분화구",
+      "요철 지대 I",
+      "요철 지대 II",
+      "몽상가의 종소리",
+      "정전기 감전",
+      "자극"
+    ],
+    "passive_direction": [],
+    "recommended_uniques": [],
+    "build_score": 195.0,
+    "candidate_count": 11,
+    "support_count": 11,
+    "passive_count": 0
+  },
+  {
+    "build_name": "감전 파열 탄환 번개 효과 범위 투사체 연쇄 빌드",
+    "main_skill": "감전 파열 탄환",
+    "archetype_label_en": "Lightning Aoe Projectile Chain",
+    "archetype_label_ko": "번개 효과 범위 투사체 연쇄",
+    "archetypes": [
+      "lightning",
+      "aoe",
+      "projectile",
+      "chain"
+    ],
+    "main_scaling": [
+      "elemental_damage",
+      "chain_count"
+    ],
+    "recommended_supports": [
+      "화산 분출",
+      "전압",
+      "마름쇠",
+      "폭풍연쇄",
+      "얼어붙은 악의",
+      "세차게 흐르는 전류"
+    ],
+    "passive_direction": [],
+    "recommended_uniques": [],
+    "build_score": 188.0,
+    "candidate_count": 8,
+    "support_count": 8,
+    "passive_count": 0
+  },
+  {
+    "build_name": "폭풍 보주 번개 효과 범위 연쇄 지속시간 빌드",
+    "main_skill": "폭풍 보주",
+    "archetype_label_en": "Lightning Aoe Chain Duration",
+    "archetype_label_ko": "번개 효과 범위 연쇄 지속시간",
+    "archetypes": [
+      "lightning",
+      "aoe",
+      "chain",
+      "duration"
+    ],
+    "main_scaling": [
+      "elemental_damage",
+      "chain_count",
+      "duration"
+    ],
+    "recommended_supports": [
+      "정전기 감전",
+      "세차게 흐르는 전류",
+      "폭풍연쇄",
+      "전압",
+      "충전된 징표",
+      "전자기력"
+    ],
+    "passive_direction": [],
+    "recommended_uniques": [],
+    "build_score": 187.0,
+    "candidate_count": 9,
+    "support_count": 9,
+    "passive_count": 0
+  },
+  {
+    "build_name": "신속한 공격 효과 범위 근접 지속시간 빌드",
+    "main_skill": "신속한 공격",
+    "archetype_label_en": "Aoe Melee Duration",
+    "archetype_label_ko": "효과 범위 근접 지속시간",
+    "archetypes": [
+      "aoe",
+      "melee",
+      "duration"
+    ],
+    "main_scaling": [
+      "duration"
+    ],
+    "recommended_supports": [
+      "분화구",
+      "요철 지대 I",
+      "요철 지대 II",
+      "몽상가의 종소리",
+      "독 포자",
+      "뜯기"
+    ],
+    "passive_direction": [],
+    "recommended_uniques": [],
+    "build_score": 186.0,
+    "candidate_count": 11,
+    "support_count": 11,
+    "passive_count": 0
+  },
+  {
+    "build_name": "합쳐짐 얼어붙은 궤적 효과 범위 냉기 지속시간 근접 빌드",
+    "main_skill": "합쳐짐 얼어붙은 궤적",
+    "archetype_label_en": "Aoe Cold Duration Melee",
+    "archetype_label_ko": "효과 범위 냉기 지속시간 근접",
+    "archetypes": [
+      "aoe",
+      "cold",
+      "duration",
+      "melee"
+    ],
+    "main_scaling": [
+      "elemental_damage",
+      "duration"
+    ],
+    "recommended_supports": [
+      "분화구",
+      "요철 지대 I",
+      "요철 지대 II",
+      "몽상가의 종소리",
+      "마름쇠",
+      "독 포자"
+    ],
+    "passive_direction": [],
+    "recommended_uniques": [],
+    "build_score": 185.0,
+    "candidate_count": 10,
+    "support_count": 10,
+    "passive_count": 0
+  },
+  {
+    "build_name": "뜀틀 충격 효과 범위 근접 지속시간 빌드",
+    "main_skill": "뜀틀 충격",
+    "archetype_label_en": "Aoe Melee Duration",
+    "archetype_label_ko": "효과 범위 근접 지속시간",
+    "archetypes": [
+      "aoe",
+      "melee",
+      "duration"
+    ],
+    "main_scaling": [
+      "duration"
+    ],
+    "recommended_supports": [
+      "요철 지대 I",
+      "요철 지대 II",
+      "분화구",
+      "가시나무 강타",
+      "몽상가의 종소리",
+      "독 포자"
+    ],
+    "passive_direction": [],
+    "recommended_uniques": [],
+    "build_score": 176.0,
+    "candidate_count": 9,
+    "support_count": 9,
+    "passive_count": 0
+  },
+  {
+    "build_name": "창의 지대 효과 범위 지속시간 근접 번개 빌드",
+    "main_skill": "창의 지대",
+    "archetype_label_en": "Aoe Duration Melee Lightning",
+    "archetype_label_ko": "효과 범위 지속시간 근접 번개",
+    "archetypes": [
+      "aoe",
+      "duration",
+      "melee",
+      "lightning"
+    ],
+    "main_scaling": [
+      "duration"
+    ],
+    "recommended_supports": [
+      "분화구",
+      "요철 지대 I",
+      "요철 지대 II",
+      "몽상가의 종소리",
+      "마름쇠",
+      "독 포자"
+    ],
+    "passive_direction": [],
+    "recommended_uniques": [],
+    "build_score": 175.0,
+    "candidate_count": 9,
+    "support_count": 9,
+    "passive_count": 0
+  },
+  {
+    "build_name": "강타 포대 쇠뇌 효과 범위 투사체 지속시간 번개 빌드",
+    "main_skill": "강타 포대 쇠뇌",
+    "archetype_label_en": "Aoe Projectile Duration Lightning",
+    "archetype_label_ko": "효과 범위 투사체 지속시간 번개",
+    "archetypes": [
+      "aoe",
+      "projectile",
+      "duration",
+      "lightning"
+    ],
+    "main_scaling": [
+      "duration"
+    ],
+    "recommended_supports": [
+      "마름쇠",
+      "화산 분출",
+      "분화구",
+      "요철 지대 I",
+      "요철 지대 II",
+      "몽상가의 종소리"
+    ],
+    "passive_direction": [],
+    "recommended_uniques": [],
+    "build_score": 173.0,
+    "candidate_count": 9,
+    "support_count": 9,
+    "passive_count": 0
+  },
+  {
+    "build_name": "번개 창 효과 범위 투사체 번개 연쇄 빌드",
+    "main_skill": "번개 창",
+    "archetype_label_en": "Aoe Projectile Lightning Chain",
+    "archetype_label_ko": "효과 범위 투사체 번개 연쇄",
+    "archetypes": [
+      "aoe",
+      "projectile",
+      "lightning",
+      "chain"
+    ],
+    "main_scaling": [
+      "elemental_damage",
+      "chain_count"
+    ],
+    "recommended_supports": [
+      "화산 분출",
+      "전압",
+      "마름쇠",
+      "폭풍연쇄",
+      "얼어붙은 악의",
+      "세차게 흐르는 전류"
+    ],
+    "passive_direction": [],
+    "recommended_uniques": [],
+    "build_score": 172.0,
+    "candidate_count": 6,
+    "support_count": 6,
+    "passive_count": 0
+  },
+  {
+    "build_name": "바람 자성 포화 효과 범위 투사체 번개 연쇄 빌드",
+    "main_skill": "바람 자성 포화",
+    "archetype_label_en": "Aoe Projectile Lightning Chain",
+    "archetype_label_ko": "효과 범위 투사체 번개 연쇄",
+    "archetypes": [
+      "aoe",
+      "projectile",
+      "lightning",
+      "chain"
+    ],
+    "main_scaling": [
+      "elemental_damage",
+      "chain_count"
+    ],
+    "recommended_supports": [
+      "화산 분출",
+      "전압",
+      "마름쇠",
+      "폭풍연쇄",
+      "얼어붙은 악의",
+      "세차게 흐르는 전류"
+    ],
+    "passive_direction": [],
+    "recommended_uniques": [],
+    "build_score": 172.0,
+    "candidate_count": 6,
+    "support_count": 6,
+    "passive_count": 0
+  },
+  {
+    "build_name": "전격의 혼합물 효과 범위 투사체 번개 연쇄 빌드",
+    "main_skill": "전격의 혼합물",
+    "archetype_label_en": "Aoe Projectile Lightning Chain",
+    "archetype_label_ko": "효과 범위 투사체 번개 연쇄",
+    "archetypes": [
+      "aoe",
+      "projectile",
+      "lightning",
+      "chain"
+    ],
+    "main_scaling": [
+      "elemental_damage",
+      "chain_count"
+    ],
+    "recommended_supports": [
+      "화산 분출",
+      "전압",
+      "마름쇠",
+      "폭풍연쇄",
+      "얼어붙은 악의",
+      "세차게 흐르는 전류"
+    ],
+    "passive_direction": [],
+    "recommended_uniques": [],
+    "build_score": 172.0,
+    "candidate_count": 6,
+    "support_count": 6,
+    "passive_count": 0
+  },
+  {
+    "build_name": "전용 플라스마 폭발 효과 범위 투사체 번개 연쇄 빌드",
+    "main_skill": "전용 플라스마 폭발",
+    "archetype_label_en": "Aoe Projectile Lightning Chain",
+    "archetype_label_ko": "효과 범위 투사체 번개 연쇄",
+    "archetypes": [
+      "aoe",
+      "projectile",
+      "lightning",
+      "chain"
+    ],
+    "main_scaling": [
+      "elemental_damage",
+      "chain_count"
+    ],
+    "recommended_supports": [
+      "화산 분출",
+      "전압",
+      "마름쇠",
+      "폭풍연쇄",
+      "얼어붙은 악의",
+      "세차게 흐르는 전류"
+    ],
+    "passive_direction": [],
+    "recommended_uniques": [],
+    "build_score": 172.0,
+    "candidate_count": 6,
+    "support_count": 6,
+    "passive_count": 0
+  },
+  {
+    "build_name": "전용 충격파 토템 효과 범위 근접 지속시간 토템 빌드",
+    "main_skill": "전용 충격파 토템",
+    "archetype_label_en": "Aoe Melee Duration Totem",
+    "archetype_label_ko": "효과 범위 근접 지속시간 토템",
+    "archetypes": [
+      "aoe",
+      "melee",
+      "duration",
+      "totem"
+    ],
+    "main_scaling": [
+      "duration"
+    ],
+    "recommended_supports": [
+      "요철 지대 I",
+      "요철 지대 II",
+      "분화구",
+      "몽상가의 종소리",
+      "가시나무 강타",
+      "마름쇠"
+    ],
+    "passive_direction": [],
+    "recommended_uniques": [],
+    "build_score": 171.0,
+    "candidate_count": 8,
+    "support_count": 8,
+    "passive_count": 0
+  },
+  {
+    "build_name": "기폭 장치 떨어지는 천둥 효과 범위 근접 투사체 번개 빌드",
+    "main_skill": "기폭 장치 떨어지는 천둥",
+    "archetype_label_en": "Aoe Melee Projectile Lightning",
+    "archetype_label_ko": "효과 범위 근접 투사체 번개",
+    "archetypes": [
+      "aoe",
+      "melee",
+      "projectile",
+      "lightning"
+    ],
+    "main_scaling": [
+      "elemental_damage",
+      "chain_count"
+    ],
+    "recommended_supports": [
+      "화산 분출",
+      "전압",
+      "마름쇠",
+      "요철 지대 I",
+      "가시나무 강타",
+      "요철 지대 II"
+    ],
+    "passive_direction": [],
+    "recommended_uniques": [],
+    "build_score": 171.0,
+    "candidate_count": 9,
+    "support_count": 9,
+    "passive_count": 0
+  },
+  {
+    "build_name": "청산 방패의 벽 효과 범위 지속시간 근접 빌드",
+    "main_skill": "청산 방패의 벽",
+    "archetype_label_en": "Aoe Duration Melee",
+    "archetype_label_ko": "효과 범위 지속시간 근접",
+    "archetypes": [
+      "aoe",
+      "duration",
+      "melee"
+    ],
+    "main_scaling": [
+      "duration"
+    ],
+    "recommended_supports": [
+      "분화구",
+      "요철 지대 I",
+      "요철 지대 II",
+      "몽상가의 종소리",
+      "독 포자",
+      "뜯기"
+    ],
+    "passive_direction": [],
+    "recommended_uniques": [],
+    "build_score": 170.0,
+    "candidate_count": 9,
+    "support_count": 9,
+    "passive_count": 0
+  },
+  {
+    "build_name": "이동 전용 원소 작렬 효과 범위 번개 화염 냉기 빌드",
+    "main_skill": "이동 전용 원소 작렬",
+    "archetype_label_en": "Aoe Lightning Fire Cold",
+    "archetype_label_ko": "효과 범위 번개 화염 냉기",
+    "archetypes": [
+      "aoe",
+      "lightning",
+      "fire",
+      "cold"
+    ],
+    "main_scaling": [
+      "elemental_damage"
+    ],
+    "recommended_supports": [
+      "하욕시의 뇌전",
+      "원소 방출",
+      "촉진시키는 원소",
+      "분화구",
+      "화산 분출",
+      "방어구 폭발"
+    ],
+    "passive_direction": [],
+    "recommended_uniques": [],
+    "build_score": 168.0,
+    "candidate_count": 8,
+    "support_count": 8,
+    "passive_count": 0
+  },
+  {
+    "build_name": "연발 사격 가능 독 폭발 화살 효과 범위 투사체 카오스 지속시간 빌드",
+    "main_skill": "연발 사격 가능 독 폭발 화살",
+    "archetype_label_en": "Aoe Projectile Chaos Duration",
+    "archetype_label_ko": "효과 범위 투사체 카오스 지속시간",
+    "archetypes": [
+      "aoe",
+      "projectile",
+      "chaos",
+      "duration"
+    ],
+    "main_scaling": [
+      "duration"
+    ],
+    "recommended_supports": [
+      "마름쇠",
+      "독 포자",
+      "화산 분출",
+      "분화구",
+      "요철 지대 I",
+      "요철 지대 II"
+    ],
+    "passive_direction": [],
+    "recommended_uniques": [],
+    "build_score": 167.0,
+    "candidate_count": 8,
+    "support_count": 8,
+    "passive_count": 0
+  },
+  {
+    "build_name": "연발 사격 가능 덩굴 화살 효과 범위 투사체 카오스 지속시간 빌드",
+    "main_skill": "연발 사격 가능 덩굴 화살",
+    "archetype_label_en": "Aoe Projectile Chaos Duration",
+    "archetype_label_ko": "효과 범위 투사체 카오스 지속시간",
+    "archetypes": [
+      "aoe",
+      "projectile",
+      "chaos",
+      "duration"
+    ],
+    "main_scaling": [
+      "duration"
+    ],
+    "recommended_supports": [
+      "마름쇠",
+      "독 포자",
+      "화산 분출",
+      "분화구",
+      "요철 지대 I",
+      "요철 지대 II"
+    ],
+    "passive_direction": [],
+    "recommended_uniques": [],
+    "build_score": 167.0,
+    "candidate_count": 8,
+    "support_count": 8,
+    "passive_count": 0
+  },
+  {
+    "build_name": "바람 폭풍의 종 효과 범위 지속시간 근접 번개 빌드",
+    "main_skill": "바람 폭풍의 종",
+    "archetype_label_en": "Aoe Duration Melee Lightning",
+    "archetype_label_ko": "효과 범위 지속시간 근접 번개",
+    "archetypes": [
+      "aoe",
+      "duration",
+      "melee",
+      "lightning"
+    ],
+    "main_scaling": [
+      "duration"
+    ],
+    "recommended_supports": [
+      "분화구",
+      "요철 지대 I",
+      "요철 지대 II",
+      "몽상가의 종소리",
+      "마름쇠",
+      "독 포자"
+    ],
+    "passive_direction": [],
+    "recommended_uniques": [],
+    "build_score": 166.0,
+    "candidate_count": 8,
+    "support_count": 8,
+    "passive_count": 0
+  },
+  {
+    "build_name": "연발 사격 가능 회오리 사격 효과 범위 투사체 지속시간 빌드",
+    "main_skill": "연발 사격 가능 회오리 사격",
+    "archetype_label_en": "Aoe Projectile Duration",
+    "archetype_label_ko": "효과 범위 투사체 지속시간",
+    "archetypes": [
+      "aoe",
+      "projectile",
+      "duration"
+    ],
+    "main_scaling": [
+      "duration"
+    ],
+    "recommended_supports": [
+      "마름쇠",
+      "독 포자",
+      "화산 분출",
+      "분화구",
+      "요철 지대 I",
+      "요철 지대 II"
+    ],
+    "passive_direction": [],
+    "recommended_uniques": [],
+    "build_score": 165.0,
+    "candidate_count": 9,
+    "support_count": 9,
+    "passive_count": 0
+  },
+  {
+    "build_name": "지진 효과 범위 근접 지속시간 빌드",
+    "main_skill": "지진",
+    "archetype_label_en": "Aoe Melee Duration",
+    "archetype_label_ko": "효과 범위 근접 지속시간",
+    "archetypes": [
+      "aoe",
+      "melee",
+      "duration"
+    ],
+    "main_scaling": [
+      "duration"
+    ],
+    "recommended_supports": [
+      "요철 지대 I",
+      "요철 지대 II",
+      "분화구",
+      "몽상가의 종소리",
+      "가시나무 강타",
+      "마름쇠"
+    ],
+    "passive_direction": [],
+    "recommended_uniques": [],
+    "build_score": 161.0,
+    "candidate_count": 8,
+    "support_count": 8,
+    "passive_count": 0
+  },
+  {
+    "build_name": "지면 분쇄 효과 범위 근접 지속시간 빌드",
+    "main_skill": "지면 분쇄",
+    "archetype_label_en": "Aoe Melee Duration",
+    "archetype_label_ko": "효과 범위 근접 지속시간",
+    "archetypes": [
+      "aoe",
+      "melee",
+      "duration"
+    ],
+    "main_scaling": [
+      "duration"
+    ],
+    "recommended_supports": [
+      "요철 지대 I",
+      "요철 지대 II",
+      "분화구",
+      "몽상가의 종소리",
+      "가시나무 강타",
+      "마름쇠"
+    ],
+    "passive_direction": [],
+    "recommended_uniques": [],
+    "build_score": 161.0,
+    "candidate_count": 8,
+    "support_count": 8,
+    "passive_count": 0
+  },
+  {
+    "build_name": "폭발 산산조각 효과 범위 근접 지속시간 빌드",
+    "main_skill": "폭발 산산조각",
+    "archetype_label_en": "Aoe Melee Duration",
+    "archetype_label_ko": "효과 범위 근접 지속시간",
+    "archetypes": [
+      "aoe",
+      "melee",
+      "duration"
+    ],
+    "main_scaling": [
+      "duration"
+    ],
+    "recommended_supports": [
+      "요철 지대 I",
+      "요철 지대 II",
+      "분화구",
+      "몽상가의 종소리",
+      "가시나무 강타",
+      "마름쇠"
+    ],
+    "passive_direction": [],
+    "recommended_uniques": [],
+    "build_score": 161.0,
+    "candidate_count": 8,
+    "support_count": 8,
+    "passive_count": 0
+  },
+  {
+    "build_name": "폭발 쇄도 효과 범위 근접 지속시간 빌드",
+    "main_skill": "폭발 쇄도",
+    "archetype_label_en": "Aoe Melee Duration",
+    "archetype_label_ko": "효과 범위 근접 지속시간",
+    "archetypes": [
+      "aoe",
+      "melee",
+      "duration"
+    ],
+    "main_scaling": [
+      "duration"
+    ],
+    "recommended_supports": [
+      "요철 지대 I",
+      "요철 지대 II",
+      "분화구",
+      "몽상가의 종소리",
+      "가시나무 강타",
+      "마름쇠"
+    ],
+    "passive_direction": [],
+    "recommended_uniques": [],
+    "build_score": 161.0,
+    "candidate_count": 8,
+    "support_count": 8,
+    "passive_count": 0
+  },
+  {
+    "build_name": "신들의 망치 효과 범위 근접 지속시간 빌드",
+    "main_skill": "신들의 망치",
+    "archetype_label_en": "Aoe Melee Duration",
+    "archetype_label_ko": "효과 범위 근접 지속시간",
+    "archetypes": [
+      "aoe",
+      "melee",
+      "duration"
+    ],
+    "main_scaling": [
+      "duration"
+    ],
+    "recommended_supports": [
+      "요철 지대 I",
+      "요철 지대 II",
+      "분화구",
+      "몽상가의 종소리",
+      "가시나무 강타",
+      "마름쇠"
+    ],
+    "passive_direction": [],
+    "recommended_uniques": [],
+    "build_score": 161.0,
+    "candidate_count": 8,
+    "support_count": 8,
+    "passive_count": 0
+  },
+  {
+    "build_name": "조건부 선대의 전사 토템 효과 범위 지속시간 근접 토템 빌드",
+    "main_skill": "조건부 선대의 전사 토템",
+    "archetype_label_en": "Aoe Duration Melee Totem",
+    "archetype_label_ko": "효과 범위 지속시간 근접 토템",
+    "archetypes": [
+      "aoe",
+      "duration",
+      "melee",
+      "totem"
+    ],
+    "main_scaling": [
+      "duration"
+    ],
+    "recommended_supports": [
+      "분화구",
+      "요철 지대 I",
+      "요철 지대 II",
+      "몽상가의 종소리",
+      "마름쇠",
+      "독 포자"
+    ],
+    "passive_direction": [],
+    "recommended_uniques": [],
+    "build_score": 158.0,
+    "candidate_count": 7,
+    "support_count": 7,
+    "passive_count": 0
+  },
+  {
+    "build_name": "인화성 효과 범위 화염 지속시간 번개 빌드",
+    "main_skill": "인화성",
+    "archetype_label_en": "Aoe Fire Duration Lightning",
+    "archetype_label_ko": "효과 범위 화염 지속시간 번개",
+    "archetypes": [
+      "aoe",
+      "fire",
+      "duration",
+      "lightning"
+    ],
+    "main_scaling": [
+      "elemental_damage",
+      "duration"
+    ],
+    "recommended_supports": [
+      "분화구",
+      "하욕시의 뇌전",
+      "충전된 징표",
+      "정전기 감전",
+      "불타는 죽음",
+      "마나 섬광"
+    ],
+    "passive_direction": [],
+    "recommended_uniques": [],
+    "build_score": 158.0,
+    "candidate_count": 8,
+    "support_count": 8,
+    "passive_count": 0
+  },
+  {
+    "build_name": "태양의 보주 효과 범위 화염 지속시간 번개 빌드",
+    "main_skill": "태양의 보주",
+    "archetype_label_en": "Aoe Fire Duration Lightning",
+    "archetype_label_ko": "효과 범위 화염 지속시간 번개",
+    "archetypes": [
+      "aoe",
+      "fire",
+      "duration",
+      "lightning"
+    ],
+    "main_scaling": [
+      "elemental_damage",
+      "duration"
+    ],
+    "recommended_supports": [
+      "분화구",
+      "정전기 감전",
+      "충전된 징표",
+      "하욕시의 뇌전",
+      "불타는 죽음",
+      "마나 섬광"
+    ],
+    "passive_direction": [],
+    "recommended_uniques": [],
+    "build_score": 157.0,
+    "candidate_count": 8,
+    "support_count": 8,
+    "passive_count": 0
+  },
+  {
+    "build_name": "소각 효과 범위 화염 지속시간 번개 빌드",
+    "main_skill": "소각",
+    "archetype_label_en": "Aoe Fire Duration Lightning",
+    "archetype_label_ko": "효과 범위 화염 지속시간 번개",
+    "archetypes": [
+      "aoe",
+      "fire",
+      "duration",
+      "lightning"
+    ],
+    "main_scaling": [
+      "elemental_damage",
+      "duration"
+    ],
+    "recommended_supports": [
+      "분화구",
+      "정전기 감전",
+      "충전된 징표",
+      "하욕시의 뇌전",
+      "불타는 죽음",
+      "마나 섬광"
+    ],
+    "passive_direction": [],
+    "recommended_uniques": [],
+    "build_score": 157.0,
+    "candidate_count": 8,
+    "support_count": 8,
+    "passive_count": 0
+  },
+  {
+    "build_name": "화염 폭풍 효과 범위 화염 지속시간 번개 빌드",
+    "main_skill": "화염 폭풍",
+    "archetype_label_en": "Aoe Fire Duration Lightning",
+    "archetype_label_ko": "효과 범위 화염 지속시간 번개",
+    "archetypes": [
+      "aoe",
+      "fire",
+      "duration",
+      "lightning"
+    ],
+    "main_scaling": [
+      "elemental_damage",
+      "duration"
+    ],
+    "recommended_supports": [
+      "분화구",
+      "정전기 감전",
+      "충전된 징표",
+      "하욕시의 뇌전",
+      "불타는 죽음",
+      "마나 섬광"
+    ],
+    "passive_direction": [],
+    "recommended_uniques": [],
+    "build_score": 157.0,
+    "candidate_count": 8,
+    "support_count": 8,
+    "passive_count": 0
+  },
+  {
+    "build_name": "화염 벽 효과 범위 화염 지속시간 번개 빌드",
+    "main_skill": "화염 벽",
+    "archetype_label_en": "Aoe Fire Duration Lightning",
+    "archetype_label_ko": "효과 범위 화염 지속시간 번개",
+    "archetypes": [
+      "aoe",
+      "fire",
+      "duration",
+      "lightning"
+    ],
+    "main_scaling": [
+      "elemental_damage",
+      "duration"
+    ],
+    "recommended_supports": [
+      "분화구",
+      "충전된 징표",
+      "정전기 감전",
+      "하욕시의 뇌전",
+      "불타는 죽음",
+      "마나 섬광"
+    ],
+    "passive_direction": [],
+    "recommended_uniques": [],
+    "build_score": 156.0,
+    "candidate_count": 8,
+    "support_count": 8,
+    "passive_count": 0
+  },
+  {
+    "build_name": "살아있는 폭탄 효과 범위 화염 지속시간 번개 빌드",
+    "main_skill": "살아있는 폭탄",
+    "archetype_label_en": "Aoe Fire Duration Lightning",
+    "archetype_label_ko": "효과 범위 화염 지속시간 번개",
+    "archetypes": [
+      "aoe",
+      "fire",
+      "duration",
+      "lightning"
+    ],
+    "main_scaling": [
+      "elemental_damage",
+      "duration"
+    ],
+    "recommended_supports": [
+      "분화구",
+      "충전된 징표",
+      "정전기 감전",
+      "하욕시의 뇌전",
+      "불타는 죽음",
+      "마나 섬광"
+    ],
+    "passive_direction": [],
+    "recommended_uniques": [],
+    "build_score": 156.0,
+    "candidate_count": 8,
+    "support_count": 8,
+    "passive_count": 0
+  },
+  {
+    "build_name": "연발 사격 가능 돌개바람 효과 범위 투사체 지속시간 빌드",
+    "main_skill": "연발 사격 가능 돌개바람",
+    "archetype_label_en": "Aoe Projectile Duration",
+    "archetype_label_ko": "효과 범위 투사체 지속시간",
+    "archetypes": [
+      "aoe",
+      "projectile",
+      "duration"
+    ],
+    "main_scaling": [
+      "duration"
+    ],
+    "recommended_supports": [
+      "마름쇠",
+      "화산 분출",
+      "분화구",
+      "요철 지대 I",
+      "요철 지대 II",
+      "몽상가의 종소리"
+    ],
+    "passive_direction": [],
+    "recommended_uniques": [],
+    "build_score": 155.0,
+    "candidate_count": 8,
+    "support_count": 8,
+    "passive_count": 0
+  },
+  {
+    "build_name": "바람 와류 기병창 효과 범위 투사체 지속시간 빌드",
+    "main_skill": "바람 와류 기병창",
+    "archetype_label_en": "Aoe Projectile Duration",
+    "archetype_label_ko": "효과 범위 투사체 지속시간",
+    "archetypes": [
+      "aoe",
+      "projectile",
+      "duration"
+    ],
+    "main_scaling": [
+      "duration"
+    ],
+    "recommended_supports": [
+      "마름쇠",
+      "화산 분출",
+      "분화구",
+      "요철 지대 I",
+      "요철 지대 II",
+      "몽상가의 종소리"
+    ],
+    "passive_direction": [],
+    "recommended_uniques": [],
+    "build_score": 155.0,
+    "candidate_count": 8,
+    "support_count": 8,
+    "passive_count": 0
+  },
+  {
+    "build_name": "폭발 화염 화살 투사체 효과 범위 화염 빌드",
+    "main_skill": "폭발 화염 화살",
+    "archetype_label_en": "Projectile Aoe Fire",
+    "archetype_label_ko": "투사체 효과 범위 화염",
+    "archetypes": [
+      "projectile",
+      "aoe",
+      "fire"
+    ],
+    "main_scaling": [
+      "elemental_damage"
+    ],
+    "recommended_supports": [
+      "화산 분출",
+      "화염관통",
+      "얼어붙은 악의",
+      "마름쇠",
+      "하욕시의 뇌전",
+      "불타는 죽음"
+    ],
+    "passive_direction": [],
+    "recommended_uniques": [],
+    "build_score": 153.0,
+    "candidate_count": 9,
+    "support_count": 9,
+    "passive_count": 0
+  },
+  {
+    "build_name": "화염구 투사체 효과 범위 화염 빌드",
+    "main_skill": "화염구",
+    "archetype_label_en": "Projectile Aoe Fire",
+    "archetype_label_ko": "투사체 효과 범위 화염",
+    "archetypes": [
+      "projectile",
+      "aoe",
+      "fire"
+    ],
+    "main_scaling": [
+      "elemental_damage"
+    ],
+    "recommended_supports": [
+      "화산 분출",
+      "화염관통",
+      "얼어붙은 악의",
+      "마름쇠",
+      "하욕시의 뇌전",
+      "불타는 죽음"
+    ],
+    "passive_direction": [],
+    "recommended_uniques": [],
+    "build_score": 153.0,
+    "candidate_count": 9,
+    "support_count": 9,
+    "passive_count": 0
+  },
+  {
+    "build_name": "녹아내린 폭발 투사체 효과 범위 화염 빌드",
+    "main_skill": "녹아내린 폭발",
+    "archetype_label_en": "Projectile Aoe Fire",
+    "archetype_label_ko": "투사체 효과 범위 화염",
+    "archetypes": [
+      "projectile",
+      "aoe",
+      "fire"
+    ],
+    "main_scaling": [
+      "elemental_damage"
+    ],
+    "recommended_supports": [
+      "화산 분출",
+      "마름쇠",
+      "화염관통",
+      "방어구 폭발",
+      "분화구",
+      "불난 집 부채질"
+    ],
+    "passive_direction": [],
+    "recommended_uniques": [],
+    "build_score": 149.0,
+    "candidate_count": 8,
+    "support_count": 8,
+    "passive_count": 0
+  },
+  {
+    "build_name": "폭발 화살 투사체 효과 범위 화염 빌드",
+    "main_skill": "폭발 화살",
+    "archetype_label_en": "Projectile Aoe Fire",
+    "archetype_label_ko": "투사체 효과 범위 화염",
+    "archetypes": [
+      "projectile",
+      "aoe",
+      "fire"
+    ],
+    "main_scaling": [
+      "elemental_damage"
+    ],
+    "recommended_supports": [
+      "화산 분출",
+      "마름쇠",
+      "화염관통",
+      "방어구 폭발",
+      "분화구",
+      "불난 집 부채질"
+    ],
+    "passive_direction": [],
+    "recommended_uniques": [],
+    "build_score": 149.0,
+    "candidate_count": 8,
+    "support_count": 8,
+    "passive_count": 0
+  },
+  {
+    "build_name": "솔라리스의 창 투사체 효과 범위 화염 빌드",
+    "main_skill": "솔라리스의 창",
+    "archetype_label_en": "Projectile Aoe Fire",
+    "archetype_label_ko": "투사체 효과 범위 화염",
+    "archetypes": [
+      "projectile",
+      "aoe",
+      "fire"
+    ],
+    "main_scaling": [
+      "elemental_damage"
+    ],
+    "recommended_supports": [
+      "화산 분출",
+      "마름쇠",
+      "화염관통",
+      "방어구 폭발",
+      "분화구",
+      "불난 집 부채질"
+    ],
+    "passive_direction": [],
+    "recommended_uniques": [],
+    "build_score": 149.0,
+    "candidate_count": 8,
+    "support_count": 8,
+    "passive_count": 0
+  },
+  {
+    "build_name": "폭발성 혼합물 투사체 효과 범위 화염 빌드",
+    "main_skill": "폭발성 혼합물",
+    "archetype_label_en": "Projectile Aoe Fire",
+    "archetype_label_ko": "투사체 효과 범위 화염",
+    "archetypes": [
+      "projectile",
+      "aoe",
+      "fire"
+    ],
+    "main_scaling": [
+      "elemental_damage"
+    ],
+    "recommended_supports": [
+      "화산 분출",
+      "마름쇠",
+      "화염관통",
+      "방어구 폭발",
+      "분화구",
+      "불난 집 부채질"
+    ],
+    "passive_direction": [],
+    "recommended_uniques": [],
+    "build_score": 149.0,
+    "candidate_count": 8,
+    "support_count": 8,
+    "passive_count": 0
+  },
+  {
+    "build_name": "폭발 유탄 투사체 효과 범위 화염 빌드",
+    "main_skill": "폭발 유탄",
+    "archetype_label_en": "Projectile Aoe Fire",
+    "archetype_label_ko": "투사체 효과 범위 화염",
+    "archetypes": [
+      "projectile",
+      "aoe",
+      "fire"
+    ],
+    "main_scaling": [
+      "elemental_damage"
+    ],
+    "recommended_supports": [
+      "화산 분출",
+      "마름쇠",
+      "화염관통",
+      "방어구 폭발",
+      "분화구",
+      "불난 집 부채질"
+    ],
+    "passive_direction": [],
+    "recommended_uniques": [],
+    "build_score": 149.0,
+    "candidate_count": 8,
+    "support_count": 8,
+    "passive_count": 0
+  },
+  {
+    "build_name": "소이 사격 투사체 효과 범위 화염 빌드",
+    "main_skill": "소이 사격",
+    "archetype_label_en": "Projectile Aoe Fire",
+    "archetype_label_ko": "투사체 효과 범위 화염",
+    "archetypes": [
+      "projectile",
+      "aoe",
+      "fire"
+    ],
+    "main_scaling": [
+      "elemental_damage"
+    ],
+    "recommended_supports": [
+      "화산 분출",
+      "마름쇠",
+      "화염관통",
+      "방어구 폭발",
+      "분화구",
+      "불난 집 부채질"
+    ],
+    "passive_direction": [],
+    "recommended_uniques": [],
+    "build_score": 149.0,
+    "candidate_count": 8,
+    "support_count": 8,
+    "passive_count": 0
+  },
+  {
+    "build_name": "폭발성 사격 투사체 효과 범위 화염 빌드",
+    "main_skill": "폭발성 사격",
+    "archetype_label_en": "Projectile Aoe Fire",
+    "archetype_label_ko": "투사체 효과 범위 화염",
+    "archetypes": [
+      "projectile",
+      "aoe",
+      "fire"
+    ],
+    "main_scaling": [
+      "elemental_damage"
+    ],
+    "recommended_supports": [
+      "화산 분출",
+      "마름쇠",
+      "화염관통",
+      "방어구 폭발",
+      "분화구",
+      "불난 집 부채질"
+    ],
+    "passive_direction": [],
+    "recommended_uniques": [],
+    "build_score": 149.0,
+    "candidate_count": 8,
+    "support_count": 8,
+    "passive_count": 0
+  },
+  {
+    "build_name": "집속 유탄 투사체 효과 범위 화염 빌드",
+    "main_skill": "집속 유탄",
+    "archetype_label_en": "Projectile Aoe Fire",
+    "archetype_label_ko": "투사체 효과 범위 화염",
+    "archetypes": [
+      "projectile",
+      "aoe",
+      "fire"
+    ],
+    "main_scaling": [
+      "elemental_damage"
+    ],
+    "recommended_supports": [
+      "화산 분출",
+      "마름쇠",
+      "화염관통",
+      "방어구 폭발",
+      "분화구",
+      "불난 집 부채질"
+    ],
+    "passive_direction": [],
+    "recommended_uniques": [],
+    "build_score": 149.0,
+    "candidate_count": 8,
+    "support_count": 8,
+    "passive_count": 0
+  },
+  {
+    "build_name": "어둠의 제웅 효과 범위 투사체 카오스 지속시간 빌드",
+    "main_skill": "어둠의 제웅",
+    "archetype_label_en": "Aoe Projectile Chaos Duration",
+    "archetype_label_ko": "효과 범위 투사체 카오스 지속시간",
+    "archetypes": [
+      "aoe",
+      "projectile",
+      "chaos",
+      "duration"
+    ],
+    "main_scaling": [
+      "duration"
+    ],
+    "recommended_supports": [
+      "마름쇠",
+      "독 포자",
+      "충전된 징표",
+      "정전기 감전",
+      "화산 분출",
+      "얼어붙은 악의"
+    ],
+    "passive_direction": [],
+    "recommended_uniques": [],
+    "build_score": 143.0,
+    "candidate_count": 6,
+    "support_count": 6,
+    "passive_count": 0
+  },
+  {
+    "build_name": "서리 화살침 냉기 효과 범위 투사체 빌드",
+    "main_skill": "서리 화살침",
+    "archetype_label_en": "Cold Aoe Projectile",
+    "archetype_label_ko": "냉기 효과 범위 투사체",
+    "archetypes": [
+      "cold",
+      "aoe",
+      "projectile"
+    ],
+    "main_scaling": [
+      "elemental_damage"
+    ],
+    "recommended_supports": [
+      "얼어붙은 악의",
+      "원소 방출",
+      "화산 분출",
+      "마름쇠",
+      "동결갈래",
+      "하욕시의 뇌전"
+    ],
+    "passive_direction": [],
+    "recommended_uniques": [],
+    "build_score": 139.0,
+    "candidate_count": 7,
+    "support_count": 7,
+    "passive_count": 0
+  }
+]

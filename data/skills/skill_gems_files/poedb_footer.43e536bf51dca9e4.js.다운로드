@@ -1,0 +1,38 @@
+$(function () {
+  $('[data-bs-toggle="tooltip"]').tooltip({ html: true });
+  $('[data-bs-toggle="popover"]').popover();
+
+  if ($.fn.tablesorter) {
+    $("table").tablesorter();
+  }
+  // Create the tooltips only when document ready
+  tippy_hover('.page [data-hover]');
+  if ($.fn.scrollToTop) {
+    $("#toTop").scrollToTop();
+  }
+
+  playerOgg();
+  itemHeaderClick();
+  itemDescriptionClick();
+  fa_search();
+  js_modal_btn();
+  changeCardQuery();
+  fixAdPlacement();
+  fixAdLeftPlacement();
+  detectHostValid();
+  clickXyzSortable();
+  clickSetTheme();
+  autoChangeTab();
+  triggerTableSearch();
+  loadAutoComplete();
+  ajaxLoadTabs();
+  loadDataMarkdown();
+  lightbox_panel();
+  run_countdown();
+  monsterEffectLevel();
+  rowEnlarge();
+  loadWebp();
+
+  localize();
+  filterLanguageContent();
+});

@@ -1,0 +1,2046 @@
+[
+  {
+    "name": "PoE2 DB",
+    "url": "https://poe2db.tw/us/"
+  },
+  {
+    "name": "Lineage Supports",
+    "url": "https://poe2db.tw/us/Lineage_Supports"
+  },
+  {
+    "name": "Keywords",
+    "url": "https://poe2db.tw/us/Keywords"
+  },
+  {
+    "name": "Crafting",
+    "url": "https://poe2db.tw/us/Crafting"
+  },
+  {
+    "name": "Liquid Emotions",
+    "url": "https://poe2db.tw/us/Liquid_Emotions"
+  },
+  {
+    "name": "Passive Skill Tree",
+    "url": "https://poe2db.tw/us/passive-skill-tree/"
+  },
+  {
+    "name": "Waystones",
+    "url": "https://poe2db.tw/us/Waystones"
+  },
+  {
+    "name": "Endgame",
+    "url": "https://poe2db.tw/us/Endgame"
+  },
+  {
+    "name": "Atlas Skill Tree",
+    "url": "https://poe2db.tw/us/atlas-skill-tree/"
+  },
+  {
+    "name": "Economy",
+    "url": "https://poe2db.tw/us/Economy"
+  },
+  {
+    "name": "Patreon",
+    "url": "https://poe2db.tw/us/patreon"
+  },
+  {
+    "name": "Herald of Ash",
+    "url": "https://poe2db.tw/us/Herald_of_Ash"
+  },
+  {
+    "name": "Buff",
+    "url": "https://poe2db.tw/us/Buffs"
+  },
+  {
+    "name": "Fire",
+    "url": "https://poe2db.tw/us/Fire_Damage"
+  },
+  {
+    "name": "Boneshatter",
+    "url": "https://poe2db.tw/us/Boneshatter"
+  },
+  {
+    "name": "Attack",
+    "url": "https://poe2db.tw/us/Attacks"
+  },
+  {
+    "name": "Melee",
+    "url": "https://poe2db.tw/us/Melee"
+  },
+  {
+    "name": "Strike",
+    "url": "https://poe2db.tw/us/Strike"
+  },
+  {
+    "name": "Earthquake",
+    "url": "https://poe2db.tw/us/Earthquake"
+  },
+  {
+    "name": "Slam",
+    "url": "https://poe2db.tw/us/Slams"
+  },
+  {
+    "name": "Rolling Slam",
+    "url": "https://poe2db.tw/us/Rolling_Slam"
+  },
+  {
+    "name": "Armour Breaker",
+    "url": "https://poe2db.tw/us/Armour_Breaker"
+  },
+  {
+    "name": "Physical",
+    "url": "https://poe2db.tw/us/Physical_Damage"
+  },
+  {
+    "name": "Infernal Cry",
+    "url": "https://poe2db.tw/us/Infernal_Cry"
+  },
+  {
+    "name": "Warcry",
+    "url": "https://poe2db.tw/us/Warcries"
+  },
+  {
+    "name": "Shield Charge",
+    "url": "https://poe2db.tw/us/Shield_Charge"
+  },
+  {
+    "name": "Channelling",
+    "url": "https://poe2db.tw/us/Channelling"
+  },
+  {
+    "name": "Shockwave Totem",
+    "url": "https://poe2db.tw/us/Shockwave_Totem"
+  },
+  {
+    "name": "Totem",
+    "url": "https://poe2db.tw/us/Totems"
+  },
+  {
+    "name": "Iron Ward",
+    "url": "https://poe2db.tw/us/Iron_Ward"
+  },
+  {
+    "name": "Magma Barrier",
+    "url": "https://poe2db.tw/us/Magma_Barrier"
+  },
+  {
+    "name": "Scavenged Plating",
+    "url": "https://poe2db.tw/us/Scavenged_Plating"
+  },
+  {
+    "name": "Molten Blast",
+    "url": "https://poe2db.tw/us/Molten_Blast"
+  },
+  {
+    "name": "Projectile",
+    "url": "https://poe2db.tw/us/Projectile"
+  },
+  {
+    "name": "Perfect Strike",
+    "url": "https://poe2db.tw/us/Perfect_Strike"
+  },
+  {
+    "name": "Resonating Shield",
+    "url": "https://poe2db.tw/us/Resonating_Shield"
+  },
+  {
+    "name": "Earthshatter",
+    "url": "https://poe2db.tw/us/Earthshatter"
+  },
+  {
+    "name": "Leap Slam",
+    "url": "https://poe2db.tw/us/Leap_Slam"
+  },
+  {
+    "name": "Shield Wall",
+    "url": "https://poe2db.tw/us/Shield_Wall"
+  },
+  {
+    "name": "Volcanic Fissure",
+    "url": "https://poe2db.tw/us/Volcanic_Fissure"
+  },
+  {
+    "name": "Overwhelming Presence",
+    "url": "https://poe2db.tw/us/Overwhelming_Presence"
+  },
+  {
+    "name": "Aura",
+    "url": "https://poe2db.tw/us/Auras"
+  },
+  {
+    "name": "Time of Need",
+    "url": "https://poe2db.tw/us/Time_of_Need"
+  },
+  {
+    "name": "Forge Hammer",
+    "url": "https://poe2db.tw/us/Forge_Hammer"
+  },
+  {
+    "name": "Fortifying Cry",
+    "url": "https://poe2db.tw/us/Fortifying_Cry"
+  },
+  {
+    "name": "Sunder",
+    "url": "https://poe2db.tw/us/Sunder"
+  },
+  {
+    "name": "Seismic Cry",
+    "url": "https://poe2db.tw/us/Seismic_Cry"
+  },
+  {
+    "name": "Stampede",
+    "url": "https://poe2db.tw/us/Stampede"
+  },
+  {
+    "name": "Supercharged Slam",
+    "url": "https://poe2db.tw/us/Supercharged_Slam"
+  },
+  {
+    "name": "Ancestral Cry",
+    "url": "https://poe2db.tw/us/Ancestral_Cry"
+  },
+  {
+    "name": "Conditional",
+    "url": "https://poe2db.tw/us/Conditional_Usage"
+  },
+  {
+    "name": "Ancestral Warrior Totem",
+    "url": "https://poe2db.tw/us/Ancestral_Warrior_Totem"
+  },
+  {
+    "name": "Hammer of the Gods",
+    "url": "https://poe2db.tw/us/Hammer_of_the_Gods"
+  },
+  {
+    "name": "Berserk",
+    "url": "https://poe2db.tw/us/Berserk"
+  },
+  {
+    "name": "Eternal Rage",
+    "url": "https://poe2db.tw/us/Eternal_Rage"
+  },
+  {
+    "name": "Companion: {0}",
+    "url": "https://poe2db.tw/us/Companion%3A_%7B0%7D"
+  },
+  {
+    "name": "Minion",
+    "url": "https://poe2db.tw/us/Minions"
+  },
+  {
+    "name": "Companion",
+    "url": "https://poe2db.tw/us/Companions"
+  },
+  {
+    "name": "Herald of Thunder",
+    "url": "https://poe2db.tw/us/Herald_of_Thunder"
+  },
+  {
+    "name": "Lightning",
+    "url": "https://poe2db.tw/us/Lightning_Damage"
+  },
+  {
+    "name": "Disengage",
+    "url": "https://poe2db.tw/us/Disengage"
+  },
+  {
+    "name": "Escape Shot",
+    "url": "https://poe2db.tw/us/Escape_Shot"
+  },
+  {
+    "name": "Cold",
+    "url": "https://poe2db.tw/us/Cold_Damage"
+  },
+  {
+    "name": "Explosive Spear",
+    "url": "https://poe2db.tw/us/Explosive_Spear"
+  },
+  {
+    "name": "Lightning Arrow",
+    "url": "https://poe2db.tw/us/Lightning_Arrow"
+  },
+  {
+    "name": "Chaining",
+    "url": "https://poe2db.tw/us/Chain"
+  },
+  {
+    "name": "Lightning Rod",
+    "url": "https://poe2db.tw/us/Lightning_Rod"
+  },
+  {
+    "name": "Poisonburst Arrow",
+    "url": "https://poe2db.tw/us/Poisonburst_Arrow"
+  },
+  {
+    "name": "Chaos",
+    "url": "https://poe2db.tw/us/Chaos_Damage"
+  },
+  {
+    "name": "Twister",
+    "url": "https://poe2db.tw/us/Twister"
+  },
+  {
+    "name": "Whirling Slash",
+    "url": "https://poe2db.tw/us/Whirling_Slash"
+  },
+  {
+    "name": "Cull The Weak",
+    "url": "https://poe2db.tw/us/Cull_The_Weak"
+  },
+  {
+    "name": "Fangs of Frost",
+    "url": "https://poe2db.tw/us/Fangs_of_Frost"
+  },
+  {
+    "name": "Freezing Salvo",
+    "url": "https://poe2db.tw/us/Freezing_Salvo"
+  },
+  {
+    "name": "Lightning Spear",
+    "url": "https://poe2db.tw/us/Lightning_Spear"
+  },
+  {
+    "name": "Rake",
+    "url": "https://poe2db.tw/us/Rake"
+  },
+  {
+    "name": "Snipe",
+    "url": "https://poe2db.tw/us/Snipe"
+  },
+  {
+    "name": "Stormcaller Arrow",
+    "url": "https://poe2db.tw/us/Stormcaller_Arrow"
+  },
+  {
+    "name": "Vine Arrow",
+    "url": "https://poe2db.tw/us/Vine_Arrow"
+  },
+  {
+    "name": "Plague Bearer",
+    "url": "https://poe2db.tw/us/Plague_Bearer"
+  },
+  {
+    "name": "Wind Dancer",
+    "url": "https://poe2db.tw/us/Wind_Dancer"
+  },
+  {
+    "name": "Barrage",
+    "url": "https://poe2db.tw/us/Barrage"
+  },
+  {
+    "name": "Spell",
+    "url": "https://poe2db.tw/us/Spells"
+  },
+  {
+    "name": "Electrocuting Arrow",
+    "url": "https://poe2db.tw/us/Electrocuting_Arrow"
+  },
+  {
+    "name": "Ice-Tipped Arrows",
+    "url": "https://poe2db.tw/us/Ice-Tipped_Arrows"
+  },
+  {
+    "name": "Rapid Assault",
+    "url": "https://poe2db.tw/us/Rapid_Assault"
+  },
+  {
+    "name": "Spearfield",
+    "url": "https://poe2db.tw/us/Spearfield"
+  },
+  {
+    "name": "Hazard",
+    "url": "https://poe2db.tw/us/Hazards"
+  },
+  {
+    "name": "Storm Lance",
+    "url": "https://poe2db.tw/us/Storm_Lance"
+  },
+  {
+    "name": "Toxic Growth",
+    "url": "https://poe2db.tw/us/Toxic_Growth"
+  },
+  {
+    "name": "Blood Hunt",
+    "url": "https://poe2db.tw/us/Blood_Hunt"
+  },
+  {
+    "name": "Gas Arrow",
+    "url": "https://poe2db.tw/us/Gas_Arrow"
+  },
+  {
+    "name": "Glacial Lance",
+    "url": "https://poe2db.tw/us/Glacial_Lance"
+  },
+  {
+    "name": "Primal Strikes",
+    "url": "https://poe2db.tw/us/Primal_Strikes"
+  },
+  {
+    "name": "Sniper's Mark",
+    "url": "https://poe2db.tw/us/Snipers_Mark"
+  },
+  {
+    "name": "Mark",
+    "url": "https://poe2db.tw/us/Mark"
+  },
+  {
+    "name": "Voltaic Mark",
+    "url": "https://poe2db.tw/us/Voltaic_Mark"
+  },
+  {
+    "name": "Combat Frenzy",
+    "url": "https://poe2db.tw/us/Combat_Frenzy"
+  },
+  {
+    "name": "Herald of Plague",
+    "url": "https://poe2db.tw/us/Herald_of_Plague"
+  },
+  {
+    "name": "Mirage Archer",
+    "url": "https://poe2db.tw/us/Mirage_Archer"
+  },
+  {
+    "name": "Trail of Caltrops",
+    "url": "https://poe2db.tw/us/Trail_of_Caltrops"
+  },
+  {
+    "name": "Bloodhound's Mark",
+    "url": "https://poe2db.tw/us/Bloodhounds_Mark"
+  },
+  {
+    "name": "Detonating Arrow",
+    "url": "https://poe2db.tw/us/Detonating_Arrow"
+  },
+  {
+    "name": "Ice Shot",
+    "url": "https://poe2db.tw/us/Ice_Shot"
+  },
+  {
+    "name": "Rain of Arrows",
+    "url": "https://poe2db.tw/us/Rain_of_Arrows"
+  },
+  {
+    "name": "Tame Beast",
+    "url": "https://poe2db.tw/us/Tame_Beast"
+  },
+  {
+    "name": "Thunderous Leap",
+    "url": "https://poe2db.tw/us/Thunderous_Leap"
+  },
+  {
+    "name": "Elemental Sundering",
+    "url": "https://poe2db.tw/us/Elemental_Sundering"
+  },
+  {
+    "name": "Shockchain Arrow",
+    "url": "https://poe2db.tw/us/Shockchain_Arrow"
+  },
+  {
+    "name": "Tornado Shot",
+    "url": "https://poe2db.tw/us/Tornado_Shot"
+  },
+  {
+    "name": "Whirlwind Lance",
+    "url": "https://poe2db.tw/us/Whirlwind_Lance"
+  },
+  {
+    "name": "Magnetic Salvo",
+    "url": "https://poe2db.tw/us/Magnetic_Salvo"
+  },
+  {
+    "name": "Spear of Solaris",
+    "url": "https://poe2db.tw/us/Spear_of_Solaris"
+  },
+  {
+    "name": "Spiral Volley",
+    "url": "https://poe2db.tw/us/Spiral_Volley"
+  },
+  {
+    "name": "Toxic Domain",
+    "url": "https://poe2db.tw/us/Toxic_Domain"
+  },
+  {
+    "name": "Wind Serpent's Fury",
+    "url": "https://poe2db.tw/us/Wind_Serpents_Fury"
+  },
+  {
+    "name": "Alchemist's Boon",
+    "url": "https://poe2db.tw/us/Alchemists_Boon"
+  },
+  {
+    "name": "Rhoa Mount",
+    "url": "https://poe2db.tw/us/Rhoa_Mount"
+  },
+  {
+    "name": "Bone Blast",
+    "url": "https://poe2db.tw/us/Bone_Blast"
+  },
+  {
+    "name": "Cast on Freeze",
+    "url": "https://poe2db.tw/us/Cast_on_Freeze"
+  },
+  {
+    "name": "Cast on Ignite",
+    "url": "https://poe2db.tw/us/Cast_on_Ignite"
+  },
+  {
+    "name": "Cast on Shock",
+    "url": "https://poe2db.tw/us/Cast_on_Shock"
+  },
+  {
+    "name": "Chaos Bolt",
+    "url": "https://poe2db.tw/us/Chaos_Bolt"
+  },
+  {
+    "name": "Conductivity",
+    "url": "https://poe2db.tw/us/Conductivity"
+  },
+  {
+    "name": "Curse",
+    "url": "https://poe2db.tw/us/Curses"
+  },
+  {
+    "name": "Decompose",
+    "url": "https://poe2db.tw/us/Decompose"
+  },
+  {
+    "name": "[DNT] Crushing Earth",
+    "url": "https://poe2db.tw/us/DNT_Crushing_Earth"
+  },
+  {
+    "name": "Dark Pact",
+    "url": "https://poe2db.tw/us/Dark_Pact"
+  },
+  {
+    "name": "Discipline",
+    "url": "https://poe2db.tw/us/Discipline"
+  },
+  {
+    "name": "Enervating Nova",
+    "url": "https://poe2db.tw/us/Enervating_Nova"
+  },
+  {
+    "name": "Exsanguinate",
+    "url": "https://poe2db.tw/us/Exsanguinate"
+  },
+  {
+    "name": "Feast of Flesh",
+    "url": "https://poe2db.tw/us/Feast_of_Flesh"
+  },
+  {
+    "name": "Firebolt",
+    "url": "https://poe2db.tw/us/Firebolt"
+  },
+  {
+    "name": "Flammability",
+    "url": "https://poe2db.tw/us/Flammability"
+  },
+  {
+    "name": "Freezing Shards",
+    "url": "https://poe2db.tw/us/Freezing_Shards"
+  },
+  {
+    "name": "Fulmination",
+    "url": "https://poe2db.tw/us/Fulmination"
+  },
+  {
+    "name": "Galvanic Field",
+    "url": "https://poe2db.tw/us/Galvanic_Field"
+  },
+  {
+    "name": "Heart of Ice",
+    "url": "https://poe2db.tw/us/Heart_of_Ice"
+  },
+  {
+    "name": "Hypothermia",
+    "url": "https://poe2db.tw/us/Hypothermia"
+  },
+  {
+    "name": "Impurity",
+    "url": "https://poe2db.tw/us/Impurity"
+  },
+  {
+    "name": "Lightning Bolt",
+    "url": "https://poe2db.tw/us/Lightning_Bolt"
+  },
+  {
+    "name": "Malice",
+    "url": "https://poe2db.tw/us/Malice"
+  },
+  {
+    "name": "Mana Drain",
+    "url": "https://poe2db.tw/us/Mana_Drain"
+  },
+  {
+    "name": "Mirror of Refraction",
+    "url": "https://poe2db.tw/us/Mirror_of_Refraction"
+  },
+  {
+    "name": "Power Siphon",
+    "url": "https://poe2db.tw/us/Power_Siphon"
+  },
+  {
+    "name": "Purity of Fire",
+    "url": "https://poe2db.tw/us/Purity_of_Fire"
+  },
+  {
+    "name": "Purity of Ice",
+    "url": "https://poe2db.tw/us/Purity_of_Ice"
+  },
+  {
+    "name": "Purity of Lightning",
+    "url": "https://poe2db.tw/us/Purity_of_Lightning"
+  },
+  {
+    "name": "Reap",
+    "url": "https://poe2db.tw/us/Reap"
+  },
+  {
+    "name": "Sigil of Power",
+    "url": "https://poe2db.tw/us/Sigil_of_Power"
+  },
+  {
+    "name": "Skeletal Sniper",
+    "url": "https://poe2db.tw/us/Skeletal_Sniper"
+  },
+  {
+    "name": "Skeletal Warrior",
+    "url": "https://poe2db.tw/us/Skeletal_Warrior"
+  },
+  {
+    "name": "Solar Orb",
+    "url": "https://poe2db.tw/us/Solar_Orb"
+  },
+  {
+    "name": "Soulrend",
+    "url": "https://poe2db.tw/us/Soulrend"
+  },
+  {
+    "name": "Spellslinger",
+    "url": "https://poe2db.tw/us/Spellslinger"
+  },
+  {
+    "name": "Invocation",
+    "url": "https://poe2db.tw/us/Invocation"
+  },
+  {
+    "name": "Ember Fusillade",
+    "url": "https://poe2db.tw/us/Ember_Fusillade"
+  },
+  {
+    "name": "Spark",
+    "url": "https://poe2db.tw/us/Spark"
+  },
+  {
+    "name": "Withering Presence",
+    "url": "https://poe2db.tw/us/Withering_Presence"
+  },
+  {
+    "name": "Unleash",
+    "url": "https://poe2db.tw/us/Unleash"
+  },
+  {
+    "name": "Volatile Dead",
+    "url": "https://poe2db.tw/us/Volatile_Dead"
+  },
+  {
+    "name": "Wither",
+    "url": "https://poe2db.tw/us/Wither"
+  },
+  {
+    "name": "Contagion",
+    "url": "https://poe2db.tw/us/Contagion"
+  },
+  {
+    "name": "Flame Wall",
+    "url": "https://poe2db.tw/us/Flame_Wall"
+  },
+  {
+    "name": "Frost Bomb",
+    "url": "https://poe2db.tw/us/Frost_Bomb"
+  },
+  {
+    "name": "Remnant",
+    "url": "https://poe2db.tw/us/Remnants"
+  },
+  {
+    "name": "Ice Nova",
+    "url": "https://poe2db.tw/us/Ice_Nova"
+  },
+  {
+    "name": "Unearth",
+    "url": "https://poe2db.tw/us/Unearth"
+  },
+  {
+    "name": "Bone Cage",
+    "url": "https://poe2db.tw/us/Bone_Cage"
+  },
+  {
+    "name": "Enfeeble",
+    "url": "https://poe2db.tw/us/Enfeeble"
+  },
+  {
+    "name": "Essence Drain",
+    "url": "https://poe2db.tw/us/Essence_Drain"
+  },
+  {
+    "name": "Fireball",
+    "url": "https://poe2db.tw/us/Fireball"
+  },
+  {
+    "name": "Frost Darts",
+    "url": "https://poe2db.tw/us/Frost_Darts"
+  },
+  {
+    "name": "Living Bomb",
+    "url": "https://poe2db.tw/us/Living_Bomb"
+  },
+  {
+    "name": "Orb of Storms",
+    "url": "https://poe2db.tw/us/Orb_of_Storms"
+  },
+  {
+    "name": "Skeletal Arsonist",
+    "url": "https://poe2db.tw/us/Skeletal_Arsonist"
+  },
+  {
+    "name": "Arctic Armour",
+    "url": "https://poe2db.tw/us/Arctic_Armour"
+  },
+  {
+    "name": "Convalescence",
+    "url": "https://poe2db.tw/us/Convalescence"
+  },
+  {
+    "name": "Grim Feast",
+    "url": "https://poe2db.tw/us/Grim_Feast"
+  },
+  {
+    "name": "Mana Remnants",
+    "url": "https://poe2db.tw/us/Mana_Remnants"
+  },
+  {
+    "name": "Raging Spirits",
+    "url": "https://poe2db.tw/us/Raging_Spirits"
+  },
+  {
+    "name": "Ravenous Swarm",
+    "url": "https://poe2db.tw/us/Ravenous_Swarm"
+  },
+  {
+    "name": "Bonestorm",
+    "url": "https://poe2db.tw/us/Bonestorm"
+  },
+  {
+    "name": "Frostbolt",
+    "url": "https://poe2db.tw/us/Frostbolt"
+  },
+  {
+    "name": "Pain Offering",
+    "url": "https://poe2db.tw/us/Pain_Offering"
+  },
+  {
+    "name": "Raise Zombie",
+    "url": "https://poe2db.tw/us/Raise_Zombie"
+  },
+  {
+    "name": "Skeletal Frost Mage",
+    "url": "https://poe2db.tw/us/Skeletal_Frost_Mage"
+  },
+  {
+    "name": "Snap",
+    "url": "https://poe2db.tw/us/Snap"
+  },
+  {
+    "name": "Bind Spectre",
+    "url": "https://poe2db.tw/us/Bind_Spectre"
+  },
+  {
+    "name": "Detonate Dead",
+    "url": "https://poe2db.tw/us/Detonate_Dead"
+  },
+  {
+    "name": "Elemental Weakness",
+    "url": "https://poe2db.tw/us/Elemental_Weakness"
+  },
+  {
+    "name": "Mana Tempest",
+    "url": "https://poe2db.tw/us/Mana_Tempest"
+  },
+  {
+    "name": "Profane Ritual",
+    "url": "https://poe2db.tw/us/Profane_Ritual"
+  },
+  {
+    "name": "Temporal Chains",
+    "url": "https://poe2db.tw/us/Temporal_Chains"
+  },
+  {
+    "name": "Vulnerability",
+    "url": "https://poe2db.tw/us/Vulnerability"
+  },
+  {
+    "name": "Blasphemy",
+    "url": "https://poe2db.tw/us/Blasphemy"
+  },
+  {
+    "name": "Blink",
+    "url": "https://poe2db.tw/us/Blink"
+  },
+  {
+    "name": "Cast on Minion Death",
+    "url": "https://poe2db.tw/us/Cast_on_Minion_Death"
+  },
+  {
+    "name": "Siphon Elements",
+    "url": "https://poe2db.tw/us/Siphon_Elements"
+  },
+  {
+    "name": "Dark Effigy",
+    "url": "https://poe2db.tw/us/Dark_Effigy"
+  },
+  {
+    "name": "Despair",
+    "url": "https://poe2db.tw/us/Despair"
+  },
+  {
+    "name": "Frost Wall",
+    "url": "https://poe2db.tw/us/Frost_Wall"
+  },
+  {
+    "name": "Incinerate",
+    "url": "https://poe2db.tw/us/Incinerate"
+  },
+  {
+    "name": "Lightning Warp",
+    "url": "https://poe2db.tw/us/Lightning_Warp"
+  },
+  {
+    "name": "Skeletal Reaver",
+    "url": "https://poe2db.tw/us/Skeletal_Reaver"
+  },
+  {
+    "name": "Ball Lightning",
+    "url": "https://poe2db.tw/us/Ball_Lightning"
+  },
+  {
+    "name": "Bone Offering",
+    "url": "https://poe2db.tw/us/Bone_Offering"
+  },
+  {
+    "name": "Comet",
+    "url": "https://poe2db.tw/us/Comet"
+  },
+  {
+    "name": "Firestorm",
+    "url": "https://poe2db.tw/us/Firestorm"
+  },
+  {
+    "name": "Hexblast",
+    "url": "https://poe2db.tw/us/Hexblast"
+  },
+  {
+    "name": "Skeletal Storm Mage",
+    "url": "https://poe2db.tw/us/Skeletal_Storm_Mage"
+  },
+  {
+    "name": "Eye of Winter",
+    "url": "https://poe2db.tw/us/Eye_of_Winter"
+  },
+  {
+    "name": "Flameblast",
+    "url": "https://poe2db.tw/us/Flameblast"
+  },
+  {
+    "name": "Lightning Conduit",
+    "url": "https://poe2db.tw/us/Lightning_Conduit"
+  },
+  {
+    "name": "Skeletal Brute",
+    "url": "https://poe2db.tw/us/Skeletal_Brute"
+  },
+  {
+    "name": "Skeletal Cleric",
+    "url": "https://poe2db.tw/us/Skeletal_Cleric"
+  },
+  {
+    "name": "Soul Offering",
+    "url": "https://poe2db.tw/us/Soul_Offering"
+  },
+  {
+    "name": "Archmage",
+    "url": "https://poe2db.tw/us/Archmage"
+  },
+  {
+    "name": "Cast on Critical",
+    "url": "https://poe2db.tw/us/Cast_on_Critical"
+  },
+  {
+    "name": "Cast on Elemental Ailment",
+    "url": "https://poe2db.tw/us/Cast_on_Elemental_Ailment"
+  },
+  {
+    "name": "Elemental Conflux",
+    "url": "https://poe2db.tw/us/Elemental_Conflux"
+  },
+  {
+    "name": "Sacrifice",
+    "url": "https://poe2db.tw/us/Sacrifice"
+  },
+  {
+    "name": "Ancestral Spirits",
+    "url": "https://poe2db.tw/us/Ancestral_Spirits"
+  },
+  {
+    "name": "Apocalypse",
+    "url": "https://poe2db.tw/us/Apocalypse"
+  },
+  {
+    "name": "Align Fate",
+    "url": "https://poe2db.tw/us/Align_Fate"
+  },
+  {
+    "name": "Bleeding Concoction",
+    "url": "https://poe2db.tw/us/Bleeding_Concoction"
+  },
+  {
+    "name": "Ruzhan's Trap",
+    "url": "https://poe2db.tw/us/Ruzhans_Trap"
+  },
+  {
+    "name": "Command",
+    "url": "https://poe2db.tw/us/Minion_Commands"
+  },
+  {
+    "name": "Ruzhan's Fury",
+    "url": "https://poe2db.tw/us/Ruzhans_Fury"
+  },
+  {
+    "name": "Ruzhan's Reckoning",
+    "url": "https://poe2db.tw/us/Ruzhans_Reckoning"
+  },
+  {
+    "name": "Kelari's Deception",
+    "url": "https://poe2db.tw/us/Kelaris_Deception"
+  },
+  {
+    "name": "Kelari's Judgment",
+    "url": "https://poe2db.tw/us/Kelaris_Judgment"
+  },
+  {
+    "name": "Navira's Well",
+    "url": "https://poe2db.tw/us/Naviras_Well"
+  },
+  {
+    "name": "Navira's Fracturing",
+    "url": "https://poe2db.tw/us/Naviras_Fracturing"
+  },
+  {
+    "name": "Navira's Oasis",
+    "url": "https://poe2db.tw/us/Naviras_Oasis"
+  },
+  {
+    "name": "Kelari's Malediction",
+    "url": "https://poe2db.tw/us/Kelaris_Malediction"
+  },
+  {
+    "name": "Elemental Expression",
+    "url": "https://poe2db.tw/us/Elemental_Expression"
+  },
+  {
+    "name": "Elemental Storm",
+    "url": "https://poe2db.tw/us/Elemental_Storm"
+  },
+  {
+    "name": "Encase in Jade",
+    "url": "https://poe2db.tw/us/Encase_in_Jade"
+  },
+  {
+    "name": "Explosive Concoction",
+    "url": "https://poe2db.tw/us/Explosive_Concoction"
+  },
+  {
+    "name": "Fulminating Concoction",
+    "url": "https://poe2db.tw/us/Fulminating_Concoction"
+  },
+  {
+    "name": "Life Remnants",
+    "url": "https://poe2db.tw/us/Life_Remnants"
+  },
+  {
+    "name": "Meditate",
+    "url": "https://poe2db.tw/us/Meditate"
+  },
+  {
+    "name": "Moment of Vulnerability",
+    "url": "https://poe2db.tw/us/Moment_of_Vulnerability"
+  },
+  {
+    "name": "Acidic Concoction",
+    "url": "https://poe2db.tw/us/Acidic_Concoction"
+  },
+  {
+    "name": "Shattering Concoction",
+    "url": "https://poe2db.tw/us/Shattering_Concoction"
+  },
+  {
+    "name": "Ruzhan, the Blazing Sword",
+    "url": "https://poe2db.tw/us/Ruzhan%2C_the_Blazing_Sword"
+  },
+  {
+    "name": "Summon Infernal Hound",
+    "url": "https://poe2db.tw/us/Summon_Infernal_Hound"
+  },
+  {
+    "name": "Kelari, the Tainted Sands",
+    "url": "https://poe2db.tw/us/Kelari%2C_the_Tainted_Sands"
+  },
+  {
+    "name": "Navira, the Last Mirage",
+    "url": "https://poe2db.tw/us/Navira%2C_the_Last_Mirage"
+  },
+  {
+    "name": "Elemental Surge",
+    "url": "https://poe2db.tw/us/Elemental_Surge"
+  },
+  {
+    "name": "Unbound Avatar",
+    "url": "https://poe2db.tw/us/Unbound_Avatar"
+  },
+  {
+    "name": "Maul",
+    "url": "https://poe2db.tw/us/Maul"
+  },
+  {
+    "name": "Shapeshift",
+    "url": "https://poe2db.tw/us/Shapeshifting"
+  },
+  {
+    "name": "Bear",
+    "url": "https://poe2db.tw/us/Bear_Form"
+  },
+  {
+    "name": "Blood Boil",
+    "url": "https://poe2db.tw/us/Blood_Boil"
+  },
+  {
+    "name": "Fire Spell on Hit",
+    "url": "https://poe2db.tw/us/Fire_Spell_on_Hit"
+  },
+  {
+    "name": "Cast on Block",
+    "url": "https://poe2db.tw/us/Cast_on_Block"
+  },
+  {
+    "name": "Demon Form",
+    "url": "https://poe2db.tw/us/Demon_Form"
+  },
+  {
+    "name": "Inevitable Agony",
+    "url": "https://poe2db.tw/us/Inevitable_Agony"
+  },
+  {
+    "name": "Into the Breach",
+    "url": "https://poe2db.tw/us/Into_the_Breach"
+  },
+  {
+    "name": "Manifest Weapon",
+    "url": "https://poe2db.tw/us/Manifest_Weapon"
+  },
+  {
+    "name": "Called Shots",
+    "url": "https://poe2db.tw/us/Called_Shots"
+  },
+  {
+    "name": "Mirage Deadeye",
+    "url": "https://poe2db.tw/us/Mirage_Deadeye"
+  },
+  {
+    "name": "Parry",
+    "url": "https://poe2db.tw/us/Parry"
+  },
+  {
+    "name": "Axe Slash",
+    "url": "https://poe2db.tw/us/Axe_Slash"
+  },
+  {
+    "name": "Mace Strike",
+    "url": "https://poe2db.tw/us/Mace_Strike"
+  },
+  {
+    "name": "Sword Slash",
+    "url": "https://poe2db.tw/us/Sword_Slash"
+  },
+  {
+    "name": "Bow Shot",
+    "url": "https://poe2db.tw/us/Bow_Shot"
+  },
+  {
+    "name": "Claw Stab",
+    "url": "https://poe2db.tw/us/Claw_Stab"
+  },
+  {
+    "name": "Crossbow Shot",
+    "url": "https://poe2db.tw/us/Crossbow_Shot"
+  },
+  {
+    "name": "Dagger Stab",
+    "url": "https://poe2db.tw/us/Dagger_Stab"
+  },
+  {
+    "name": "Flail Strike",
+    "url": "https://poe2db.tw/us/Flail_Strike"
+  },
+  {
+    "name": "Quarterstaff Strike",
+    "url": "https://poe2db.tw/us/Quarterstaff_Strike"
+  },
+  {
+    "name": "Spear Stab",
+    "url": "https://poe2db.tw/us/Spear_Stab"
+  },
+  {
+    "name": "Spear Throw",
+    "url": "https://poe2db.tw/us/Spear_Throw"
+  },
+  {
+    "name": "Punch",
+    "url": "https://poe2db.tw/us/Punch"
+  },
+  {
+    "name": "Ritual Sacrifice",
+    "url": "https://poe2db.tw/us/Ritual_Sacrifice"
+  },
+  {
+    "name": "Raise Shield",
+    "url": "https://poe2db.tw/us/Raise_Shield"
+  },
+  {
+    "name": "Sorcery Ward",
+    "url": "https://poe2db.tw/us/Sorcery_Ward"
+  },
+  {
+    "name": "Consecrate",
+    "url": "https://poe2db.tw/us/Consecrate"
+  },
+  {
+    "name": "Supporting Fire",
+    "url": "https://poe2db.tw/us/Supporting_Fire"
+  },
+  {
+    "name": "Temper Weapon",
+    "url": "https://poe2db.tw/us/Temper_Weapon"
+  },
+  {
+    "name": "Temporal Rift",
+    "url": "https://poe2db.tw/us/Temporal_Rift"
+  },
+  {
+    "name": "Time Freeze",
+    "url": "https://poe2db.tw/us/Time_Freeze"
+  },
+  {
+    "name": "Time Snap",
+    "url": "https://poe2db.tw/us/Time_Snap"
+  },
+  {
+    "name": "Herald of Ice",
+    "url": "https://poe2db.tw/us/Herald_of_Ice"
+  },
+  {
+    "name": "Void Illusion",
+    "url": "https://poe2db.tw/us/Void_Illusion"
+  },
+  {
+    "name": "Shred",
+    "url": "https://poe2db.tw/us/Shred"
+  },
+  {
+    "name": "Werewolf",
+    "url": "https://poe2db.tw/us/Werewolf_Form"
+  },
+  {
+    "name": "Rend",
+    "url": "https://poe2db.tw/us/Rend"
+  },
+  {
+    "name": "Wyvern",
+    "url": "https://poe2db.tw/us/Wyvern_Form"
+  },
+  {
+    "name": "Armour Piercing Rounds",
+    "url": "https://poe2db.tw/us/Armour_Piercing_Rounds"
+  },
+  {
+    "name": "Entangle",
+    "url": "https://poe2db.tw/us/Entangle"
+  },
+  {
+    "name": "Explosive Grenade",
+    "url": "https://poe2db.tw/us/Explosive_Grenade"
+  },
+  {
+    "name": "Falling Thunder",
+    "url": "https://poe2db.tw/us/Falling_Thunder"
+  },
+  {
+    "name": "Fragmentation Rounds",
+    "url": "https://poe2db.tw/us/Fragmentation_Rounds"
+  },
+  {
+    "name": "Merging",
+    "url": "https://poe2db.tw/us/Merging"
+  },
+  {
+    "name": "Frozen Locus",
+    "url": "https://poe2db.tw/us/Frozen_Locus"
+  },
+  {
+    "name": "Furious Slam",
+    "url": "https://poe2db.tw/us/Furious_Slam"
+  },
+  {
+    "name": "Glacial Cascade",
+    "url": "https://poe2db.tw/us/Glacial_Cascade"
+  },
+  {
+    "name": "Killing Palm",
+    "url": "https://poe2db.tw/us/Killing_Palm"
+  },
+  {
+    "name": "Lunar Assault",
+    "url": "https://poe2db.tw/us/Lunar_Assault"
+  },
+  {
+    "name": "Permafrost Bolts",
+    "url": "https://poe2db.tw/us/Permafrost_Bolts"
+  },
+  {
+    "name": "Volcano",
+    "url": "https://poe2db.tw/us/Volcano"
+  },
+  {
+    "name": "Flash Grenade",
+    "url": "https://poe2db.tw/us/Flash_Grenade"
+  },
+  {
+    "name": "High Velocity Rounds",
+    "url": "https://poe2db.tw/us/High_Velocity_Rounds"
+  },
+  {
+    "name": "Incendiary Shot",
+    "url": "https://poe2db.tw/us/Incendiary_Shot"
+  },
+  {
+    "name": "Rolling Magma",
+    "url": "https://poe2db.tw/us/Rolling_Magma"
+  },
+  {
+    "name": "Staggering Palm",
+    "url": "https://poe2db.tw/us/Staggering_Palm"
+  },
+  {
+    "name": "Tempest Bell",
+    "url": "https://poe2db.tw/us/Tempest_Bell"
+  },
+  {
+    "name": "Wind Blast",
+    "url": "https://poe2db.tw/us/Wind_Blast"
+  },
+  {
+    "name": "Wing Blast",
+    "url": "https://poe2db.tw/us/Wing_Blast"
+  },
+  {
+    "name": "Pounce",
+    "url": "https://poe2db.tw/us/Pounce"
+  },
+  {
+    "name": "Attrition",
+    "url": "https://poe2db.tw/us/Attrition"
+  },
+  {
+    "name": "Briarpatch",
+    "url": "https://poe2db.tw/us/Briarpatch"
+  },
+  {
+    "name": "Ghost Dance",
+    "url": "https://poe2db.tw/us/Ghost_Dance"
+  },
+  {
+    "name": "Herald of Blood",
+    "url": "https://poe2db.tw/us/Herald_of_Blood"
+  },
+  {
+    "name": "Savage Fury",
+    "url": "https://poe2db.tw/us/Savage_Fury"
+  },
+  {
+    "name": "War Banner",
+    "url": "https://poe2db.tw/us/War_Banner"
+  },
+  {
+    "name": "Fury of the Mountain",
+    "url": "https://poe2db.tw/us/Fury_of_the_Mountain"
+  },
+  {
+    "name": "Galvanic Shards",
+    "url": "https://poe2db.tw/us/Galvanic_Shards"
+  },
+  {
+    "name": "Ice Shards",
+    "url": "https://poe2db.tw/us/Ice_Shards"
+  },
+  {
+    "name": "Ice Strike",
+    "url": "https://poe2db.tw/us/Ice_Strike"
+  },
+  {
+    "name": "Rapid Shot",
+    "url": "https://poe2db.tw/us/Rapid_Shot"
+  },
+  {
+    "name": "Tempest Flurry",
+    "url": "https://poe2db.tw/us/Tempest_Flurry"
+  },
+  {
+    "name": "Thunderstorm",
+    "url": "https://poe2db.tw/us/Thunderstorm"
+  },
+  {
+    "name": "Gas Grenade",
+    "url": "https://poe2db.tw/us/Gas_Grenade"
+  },
+  {
+    "name": "Vaulting Impact",
+    "url": "https://poe2db.tw/us/Vaulting_Impact"
+  },
+  {
+    "name": "Arctic Howl",
+    "url": "https://poe2db.tw/us/Arctic_Howl"
+  },
+  {
+    "name": "Devour",
+    "url": "https://poe2db.tw/us/Devour"
+  },
+  {
+    "name": "Artillery Ballista",
+    "url": "https://poe2db.tw/us/Artillery_Ballista"
+  },
+  {
+    "name": "Explosive Shot",
+    "url": "https://poe2db.tw/us/Explosive_Shot"
+  },
+  {
+    "name": "Ferocious Roar",
+    "url": "https://poe2db.tw/us/Ferocious_Roar"
+  },
+  {
+    "name": "Freezing Mark",
+    "url": "https://poe2db.tw/us/Freezing_Mark"
+  },
+  {
+    "name": "Glacial Bolt",
+    "url": "https://poe2db.tw/us/Glacial_Bolt"
+  },
+  {
+    "name": "Spell Totem",
+    "url": "https://poe2db.tw/us/Spell_Totem"
+  },
+  {
+    "name": "Voltaic Grenade",
+    "url": "https://poe2db.tw/us/Voltaic_Grenade"
+  },
+  {
+    "name": "Siphoning Strike",
+    "url": "https://poe2db.tw/us/Siphoning_Strike"
+  },
+  {
+    "name": "Storm Wave",
+    "url": "https://poe2db.tw/us/Storm_Wave"
+  },
+  {
+    "name": "Wave of Frost",
+    "url": "https://poe2db.tw/us/Wave_of_Frost"
+  },
+  {
+    "name": "Cross Slash",
+    "url": "https://poe2db.tw/us/Cross_Slash"
+  },
+  {
+    "name": "Barkskin",
+    "url": "https://poe2db.tw/us/Barkskin"
+  },
+  {
+    "name": "Barrier Invocation",
+    "url": "https://poe2db.tw/us/Barrier_Invocation"
+  },
+  {
+    "name": "Defiance Banner",
+    "url": "https://poe2db.tw/us/Defiance_Banner"
+  },
+  {
+    "name": "Elemental Invocation",
+    "url": "https://poe2db.tw/us/Elemental_Invocation"
+  },
+  {
+    "name": "Lingering Illusion",
+    "url": "https://poe2db.tw/us/Lingering_Illusion"
+  },
+  {
+    "name": "Shard Scavenger",
+    "url": "https://poe2db.tw/us/Shard_Scavenger"
+  },
+  {
+    "name": "Wolf Pack",
+    "url": "https://poe2db.tw/us/Wolf_Pack"
+  },
+  {
+    "name": "Charged Staff",
+    "url": "https://poe2db.tw/us/Charged_Staff"
+  },
+  {
+    "name": "Hand of Chayula",
+    "url": "https://poe2db.tw/us/Hand_of_Chayula"
+  },
+  {
+    "name": "Mantra of Destruction",
+    "url": "https://poe2db.tw/us/Mantra_of_Destruction"
+  },
+  {
+    "name": "Oil Barrage",
+    "url": "https://poe2db.tw/us/Oil_Barrage"
+  },
+  {
+    "name": "Oil Grenade",
+    "url": "https://poe2db.tw/us/Oil_Grenade"
+  },
+  {
+    "name": "Siege Ballista",
+    "url": "https://poe2db.tw/us/Siege_Ballista"
+  },
+  {
+    "name": "Stormblast Bolts",
+    "url": "https://poe2db.tw/us/Stormblast_Bolts"
+  },
+  {
+    "name": "Thrashing Vines",
+    "url": "https://poe2db.tw/us/Thrashing_Vines"
+  },
+  {
+    "name": "Rampage",
+    "url": "https://poe2db.tw/us/Rampage"
+  },
+  {
+    "name": "Emergency Reload",
+    "url": "https://poe2db.tw/us/Emergency_Reload"
+  },
+  {
+    "name": "Hailstorm Rounds",
+    "url": "https://poe2db.tw/us/Hailstorm_Rounds"
+  },
+  {
+    "name": "Mortar Cannon",
+    "url": "https://poe2db.tw/us/Mortar_Cannon"
+  },
+  {
+    "name": "Shattering Palm",
+    "url": "https://poe2db.tw/us/Shattering_Palm"
+  },
+  {
+    "name": "Shockburst Rounds",
+    "url": "https://poe2db.tw/us/Shockburst_Rounds"
+  },
+  {
+    "name": "Tornado",
+    "url": "https://poe2db.tw/us/Tornado"
+  },
+  {
+    "name": "Whirling Assault",
+    "url": "https://poe2db.tw/us/Whirling_Assault"
+  },
+  {
+    "name": "Cluster Grenade",
+    "url": "https://poe2db.tw/us/Cluster_Grenade"
+  },
+  {
+    "name": "Flicker Strike",
+    "url": "https://poe2db.tw/us/Flicker_Strike"
+  },
+  {
+    "name": "Gathering Storm",
+    "url": "https://poe2db.tw/us/Gathering_Storm"
+  },
+  {
+    "name": "Plasma Blast",
+    "url": "https://poe2db.tw/us/Plasma_Blast"
+  },
+  {
+    "name": "Siege Cascade",
+    "url": "https://poe2db.tw/us/Siege_Cascade"
+  },
+  {
+    "name": "Walking Calamity",
+    "url": "https://poe2db.tw/us/Walking_Calamity"
+  },
+  {
+    "name": "Lunar Blessing",
+    "url": "https://poe2db.tw/us/Lunar_Blessing"
+  },
+  {
+    "name": "Flame Breath",
+    "url": "https://poe2db.tw/us/Flame_Breath"
+  },
+  {
+    "name": "Cast on Dodge",
+    "url": "https://poe2db.tw/us/Cast_on_Dodge"
+  },
+  {
+    "name": "Charge Regulation",
+    "url": "https://poe2db.tw/us/Charge_Regulation"
+  },
+  {
+    "name": "Dread Banner",
+    "url": "https://poe2db.tw/us/Dread_Banner"
+  },
+  {
+    "name": "Feral Invocation",
+    "url": "https://poe2db.tw/us/Feral_Invocation"
+  },
+  {
+    "name": "Reaper's Invocation",
+    "url": "https://poe2db.tw/us/Reapers_Invocation"
+  },
+  {
+    "name": "Trinity",
+    "url": "https://poe2db.tw/us/Trinity"
+  },
+  {
+    "name": "Knocking Back",
+    "url": "https://poe2db.tw/us/Knockback"
+  },
+  {
+    "name": "Shield",
+    "url": "https://poe2db.tw/us/Shields"
+  },
+  {
+    "name": "Block",
+    "url": "https://poe2db.tw/us/Block"
+  },
+  {
+    "name": "Armour",
+    "url": "https://poe2db.tw/us/Armour"
+  },
+  {
+    "name": "Jagged Ground",
+    "url": "https://poe2db.tw/us/Jagged_Ground"
+  },
+  {
+    "name": "Overkill",
+    "url": "https://poe2db.tw/us/Overkill"
+  },
+  {
+    "name": "Ignites",
+    "url": "https://poe2db.tw/us/Ignite"
+  },
+  {
+    "name": "Endurance Charge",
+    "url": "https://poe2db.tw/us/Charges"
+  },
+  {
+    "name": "Aftershock",
+    "url": "https://poe2db.tw/us/Aftershocks"
+  },
+  {
+    "name": "Fully Broken Armour",
+    "url": "https://poe2db.tw/us/Armour_Break"
+  },
+  {
+    "name": "Sundered Armour",
+    "url": "https://poe2db.tw/us/Sundered_Armour"
+  },
+  {
+    "name": "Heavy Stunning",
+    "url": "https://poe2db.tw/us/Heavy_Stun"
+  },
+  {
+    "name": "Primed for Stun",
+    "url": "https://poe2db.tw/us/Primed_for_Stun"
+  },
+  {
+    "name": "Molten Fissure",
+    "url": "https://poe2db.tw/us/Molten_Fissures"
+  },
+  {
+    "name": "Stun",
+    "url": "https://poe2db.tw/us/Stun"
+  },
+  {
+    "name": "Mace",
+    "url": "https://poe2db.tw/us/Maces"
+  },
+  {
+    "name": "Perfect Timing",
+    "url": "https://poe2db.tw/us/Perfect_Timing"
+  },
+  {
+    "name": "Block Chance",
+    "url": "https://poe2db.tw/us/Chance_to_Block"
+  },
+  {
+    "name": "Thorns",
+    "url": "https://poe2db.tw/us/Thorns"
+  },
+  {
+    "name": "Glory",
+    "url": "https://poe2db.tw/us/Glory"
+  },
+  {
+    "name": "Guard",
+    "url": "https://poe2db.tw/us/Guard"
+  },
+  {
+    "name": "Elemental Ailments",
+    "url": "https://poe2db.tw/us/Elemental_Ailments"
+  },
+  {
+    "name": "Presence",
+    "url": "https://poe2db.tw/us/Presence"
+  },
+  {
+    "name": "Rage",
+    "url": "https://poe2db.tw/us/Rage"
+  },
+  {
+    "name": "Ancestrally Boosted",
+    "url": "https://poe2db.tw/us/Ancestral_Boost"
+  },
+  {
+    "name": "Critical Hit",
+    "url": "https://poe2db.tw/us/Critical_Hits"
+  },
+  {
+    "name": "Activates",
+    "url": "https://poe2db.tw/us/Activating_Marks"
+  },
+  {
+    "name": "Consuming",
+    "url": "https://poe2db.tw/us/Effect_Consumption"
+  },
+  {
+    "name": "Spear",
+    "url": "https://poe2db.tw/us/Spears"
+  },
+  {
+    "name": "Shocked",
+    "url": "https://poe2db.tw/us/Shock"
+  },
+  {
+    "name": "Hits",
+    "url": "https://poe2db.tw/us/Hit_Damage"
+  },
+  {
+    "name": "Poison",
+    "url": "https://poe2db.tw/us/Poison"
+  },
+  {
+    "name": "Bleeding",
+    "url": "https://poe2db.tw/us/Bleeding"
+  },
+  {
+    "name": "Maiming",
+    "url": "https://poe2db.tw/us/Maim"
+  },
+  {
+    "name": "Parried Debuff",
+    "url": "https://poe2db.tw/us/Parried"
+  },
+  {
+    "name": "Blood Loss",
+    "url": "https://poe2db.tw/us/Blood_Loss"
+  },
+  {
+    "name": "Whirlwind",
+    "url": "https://poe2db.tw/us/Whirlwinds"
+  },
+  {
+    "name": "Slowing",
+    "url": "https://poe2db.tw/us/Slow"
+  },
+  {
+    "name": "Blinding",
+    "url": "https://poe2db.tw/us/Blind"
+  },
+  {
+    "name": "Piercing",
+    "url": "https://poe2db.tw/us/Pierce"
+  },
+  {
+    "name": "Chill",
+    "url": "https://poe2db.tw/us/Chill"
+  },
+  {
+    "name": "Freeze",
+    "url": "https://poe2db.tw/us/Freeze"
+  },
+  {
+    "name": "Ice Fragments",
+    "url": "https://poe2db.tw/us/Ice_Fragments"
+  },
+  {
+    "name": "Detonate",
+    "url": "https://poe2db.tw/us/Detonation_Time"
+  },
+  {
+    "name": "Electrocution.",
+    "url": "https://poe2db.tw/us/Electrocution"
+  },
+  {
+    "name": "Heavy Stun",
+    "url": "https://poe2db.tw/us/Player_Heavy_Stun"
+  },
+  {
+    "name": "Elemental Ground Surfaces",
+    "url": "https://poe2db.tw/us/Elemental_Ground_Surfaces"
+  },
+  {
+    "name": "Ignited Ground",
+    "url": "https://poe2db.tw/us/Ignited_Ground"
+  },
+  {
+    "name": "Evasion",
+    "url": "https://poe2db.tw/us/Evasion"
+  },
+  {
+    "name": "Lightning Ailments",
+    "url": "https://poe2db.tw/us/Lightning_Ailments"
+  },
+  {
+    "name": "Hindering",
+    "url": "https://poe2db.tw/us/Hinder"
+  },
+  {
+    "name": "Crossbow",
+    "url": "https://poe2db.tw/us/Crossbows"
+  },
+  {
+    "name": "Flask",
+    "url": "https://poe2db.tw/us/Flasks"
+  },
+  {
+    "name": "Allies",
+    "url": "https://poe2db.tw/us/Allies"
+  },
+  {
+    "name": "Elemental",
+    "url": "https://poe2db.tw/us/Elemental_Damage_Types"
+  },
+  {
+    "name": "Exposure",
+    "url": "https://poe2db.tw/us/Exposure"
+  },
+  {
+    "name": "Culling",
+    "url": "https://poe2db.tw/us/Culling_Strike"
+  },
+  {
+    "name": "Rarity",
+    "url": "https://poe2db.tw/us/Rarity"
+  },
+  {
+    "name": "Debuff",
+    "url": "https://poe2db.tw/us/Debuffs"
+  },
+  {
+    "name": "Chilled Ground",
+    "url": "https://poe2db.tw/us/Chilled_Ground"
+  },
+  {
+    "name": "Beast",
+    "url": "https://poe2db.tw/us/Monster_Category"
+  },
+  {
+    "name": "Reviving",
+    "url": "https://poe2db.tw/us/Reviving_Minions"
+  },
+  {
+    "name": "Shocked Ground",
+    "url": "https://poe2db.tw/us/Shocked_Ground"
+  },
+  {
+    "name": "Corpses",
+    "url": "https://poe2db.tw/us/Corpses"
+  },
+  {
+    "name": "Convert",
+    "url": "https://poe2db.tw/us/Damage_Conversion"
+  },
+  {
+    "name": "Infusion",
+    "url": "https://poe2db.tw/us/Elemental_Infusions"
+  },
+  {
+    "name": "Ice Crystals",
+    "url": "https://poe2db.tw/us/Ice_Crystals"
+  },
+  {
+    "name": "Resistance",
+    "url": "https://poe2db.tw/us/Resistances"
+  },
+  {
+    "name": "Total",
+    "url": "https://poe2db.tw/us/Stat_Totals"
+  },
+  {
+    "name": "Energy Shield",
+    "url": "https://poe2db.tw/us/Energy_Shield"
+  },
+  {
+    "name": "Withers",
+    "url": "https://poe2db.tw/us/Withered"
+  },
+  {
+    "name": "Intimidates",
+    "url": "https://poe2db.tw/us/Intimidate"
+  },
+  {
+    "name": "Critical Weakness",
+    "url": "https://poe2db.tw/us/Critical_Weakness"
+  },
+  {
+    "name": "Type",
+    "url": "https://poe2db.tw/us/Damage_Types"
+  },
+  {
+    "name": "Energy",
+    "url": "https://poe2db.tw/us/Energy"
+  },
+  {
+    "name": "Impales",
+    "url": "https://poe2db.tw/us/Impale"
+  },
+  {
+    "name": "Pinning",
+    "url": "https://poe2db.tw/us/Pinned"
+  },
+  {
+    "name": "Frozen",
+    "url": "https://poe2db.tw/us/Frozen"
+  },
+  {
+    "name": "Overflow",
+    "url": "https://poe2db.tw/us/Overflow"
+  },
+  {
+    "name": "Burning",
+    "url": "https://poe2db.tw/us/Burning"
+  },
+  {
+    "name": "Killed",
+    "url": "https://poe2db.tw/us/Minion_Death_and_Killing_Minions"
+  },
+  {
+    "name": "Leech",
+    "url": "https://poe2db.tw/us/Mana_Leech"
+  },
+  {
+    "name": "Recharging",
+    "url": "https://poe2db.tw/us/Energy_Shield_Recharge"
+  },
+  {
+    "name": "Quarterstaff",
+    "url": "https://poe2db.tw/us/Quarterstaves"
+  },
+  {
+    "name": "Shattering",
+    "url": "https://poe2db.tw/us/Shatter"
+  },
+  {
+    "name": "Ballista",
+    "url": "https://poe2db.tw/us/Ballista_Totems"
+  },
+  {
+    "name": "Dazed",
+    "url": "https://poe2db.tw/us/Daze"
+  },
+  {
+    "name": "Primed for Freeze",
+    "url": "https://poe2db.tw/us/Primed_for_Freeze"
+  },
+  {
+    "name": "Consecrated Ground",
+    "url": "https://poe2db.tw/us/Consecrated_Ground"
+  },
+  {
+    "name": "ground",
+    "url": "https://poe2db.tw/us/Oil_Ground"
+  },
+  {
+    "name": "Final Strike",
+    "url": "https://poe2db.tw/us/Final_Strike"
+  },
+  {
+    "name": "Combo",
+    "url": "https://poe2db.tw/us/Combo"
+  },
+  {
+    "name": "Light Stunned",
+    "url": "https://poe2db.tw/us/Light_Stun"
+  },
+  {
+    "name": "Riven Armour",
+    "url": "https://poe2db.tw/us/Riven_Armour"
+  },
+  {
+    "name": "Heat",
+    "url": "https://poe2db.tw/us/Heat"
+  },
+  {
+    "name": "Unarmed",
+    "url": "https://poe2db.tw/us/Unarmed"
+  },
+  {
+    "name": "Aggravating Bleeding",
+    "url": "https://poe2db.tw/us/Aggravated_Bleeding"
+  },
+  {
+    "name": "Broken Stance",
+    "url": "https://poe2db.tw/us/Broken_Stance"
+  },
+  {
+    "name": "Purple Flames of Chayula",
+    "url": "https://poe2db.tw/us/Purple_Flame_of_Chayula"
+  },
+  {
+    "name": "Strength",
+    "url": "https://poe2db.tw/us/Strength"
+  },
+  {
+    "name": "Dexterity",
+    "url": "https://poe2db.tw/us/Dexterity"
+  },
+  {
+    "name": "Intelligence",
+    "url": "https://poe2db.tw/us/Intelligence"
+  },
+  {
+    "name": "Accuracy",
+    "url": "https://poe2db.tw/us/Accuracy"
+  },
+  {
+    "name": "Elemental Ailment Threshold",
+    "url": "https://poe2db.tw/us/Elemental_Ailment_Threshold"
+  },
+  {
+    "name": "Maximum Elemental Resistances",
+    "url": "https://poe2db.tw/us/Maximum_Resistances"
+  },
+  {
+    "name": "Unbound Fury",
+    "url": "https://poe2db.tw/us/Unbound_Fury"
+  },
+  {
+    "name": "Jade",
+    "url": "https://poe2db.tw/us/Jade"
+  },
+  {
+    "name": "Weapon Set",
+    "url": "https://poe2db.tw/us/Weapon_Sets"
+  },
+  {
+    "name": "Electrocution",
+    "url": "https://poe2db.tw/us/Primed_for_Electrocution"
+  },
+  {
+    "name": "Immobilisation",
+    "url": "https://poe2db.tw/us/Immobilised"
+  },
+  {
+    "name": "Flames of Chayula",
+    "url": "https://poe2db.tw/us/Flame_of_Chayula"
+  },
+  {
+    "name": "Corrupted Blood",
+    "url": "https://poe2db.tw/us/Corrupted_Blood"
+  },
+  {
+    "name": "Buckler",
+    "url": "https://poe2db.tw/us/Bucklers"
+  },
+  {
+    "name": "Resonance",
+    "url": "https://poe2db.tw/us/Resonance"
+  },
+  {
+    "name": "Surges",
+    "url": "https://poe2db.tw/us/Elemental_Surges"
+  },
+  {
+    "name": "Martial Weapon",
+    "url": "https://poe2db.tw/us/Martial_Weapons"
+  },
+  {
+    "name": "Gaining",
+    "url": "https://poe2db.tw/us/Damage_Gained_as_extra_X"
+  },
+  {
+    "name": "Cooldown Recovery Rate",
+    "url": "https://poe2db.tw/us/Cooldown_Recovery_Rate"
+  },
+  {
+    "name": "Thorny Ground",
+    "url": "https://poe2db.tw/us/Thorny_Ground"
+  },
+  {
+    "name": "Onslaught",
+    "url": "https://poe2db.tw/us/Onslaught"
+  },
+  {
+    "name": "Equipped Armour Items",
+    "url": "https://poe2db.tw/us/Equippable_Armours"
+  },
+  {
+    "name": "Occult",
+    "url": "https://poe2db.tw/us/Witch"
+  },
+  {
+    "name": "Mace",
+    "url": "https://poe2db.tw/us/Warrior"
+  },
+  {
+    "name": "Elemental",
+    "url": "https://poe2db.tw/us/Sorceress"
+  },
+  {
+    "name": "Spear",
+    "url": "https://poe2db.tw/us/Huntress"
+  },
+  {
+    "name": "Crossbow",
+    "url": "https://poe2db.tw/us/Mercenary"
+  },
+  {
+    "name": "Quarterstaff",
+    "url": "https://poe2db.tw/us/Monk"
+  },
+  {
+    "name": "Primal",
+    "url": "https://poe2db.tw/us/Druid"
+  },
+  {
+    "name": "GGG Tracker",
+    "url": "https://poe2db.tw/us/news"
+  },
+  {
+    "name": "Concurrent Players",
+    "url": "https://poe2db.tw/us/League#ConcurrentPlayers"
+  },
+  {
+    "name": "Privacy",
+    "url": "https://poe2db.tw/us/privacy"
+  },
+  {
+    "name": "Disclaimers",
+    "url": "https://poe2db.tw/us/General_disclaimer"
+  }
+]

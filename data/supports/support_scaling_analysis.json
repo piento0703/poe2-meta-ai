@@ -1,0 +1,1205 @@
+[
+  {
+    "name": "세차게 흐르는 전류",
+    "tier": 1,
+    "tags": [
+      "보조",
+      "주문",
+      "투사체",
+      "발동",
+      "번개",
+      "연쇄"
+    ],
+    "scaling_tags": [
+      "chain",
+      "trigger"
+    ],
+    "scaling_score": 14
+  },
+  {
+    "name": "몽상가의 종소리",
+    "tier": 1,
+    "tags": [
+      "보조",
+      "혈통",
+      "공격",
+      "효과 범위",
+      "근접",
+      "발동",
+      "지속시간"
+    ],
+    "scaling_tags": [
+      "duration_scaling",
+      "trigger"
+    ],
+    "scaling_score": 12
+  },
+  {
+    "name": "달리는 돌 I",
+    "tier": 2,
+    "tags": [
+      "보조",
+      "소환수",
+      "발동",
+      "물리",
+      "지속시간"
+    ],
+    "scaling_tags": [
+      "duration_scaling",
+      "trigger"
+    ],
+    "scaling_score": 12
+  },
+  {
+    "name": "분화구",
+    "tier": 2,
+    "tags": [
+      "보조",
+      "공격",
+      "효과 범위",
+      "근접",
+      "발동",
+      "화염",
+      "지속시간"
+    ],
+    "scaling_tags": [
+      "duration_scaling",
+      "trigger"
+    ],
+    "scaling_score": 12
+  },
+  {
+    "name": "살아 있는 번개",
+    "tier": 2,
+    "tags": [
+      "보조",
+      "소환수",
+      "발동",
+      "번개",
+      "지속시간"
+    ],
+    "scaling_tags": [
+      "duration_scaling",
+      "trigger"
+    ],
+    "scaling_score": 12
+  },
+  {
+    "name": "독 포자",
+    "tier": 3,
+    "tags": [
+      "보조",
+      "공격",
+      "버프",
+      "효과 범위",
+      "발동",
+      "물리",
+      "카오스",
+      "지속시간",
+      "식물"
+    ],
+    "scaling_tags": [
+      "duration_scaling",
+      "trigger"
+    ],
+    "scaling_score": 12
+  },
+  {
+    "name": "마름쇠",
+    "tier": 3,
+    "tags": [
+      "보조",
+      "공격",
+      "효과 범위",
+      "투사체",
+      "발동",
+      "지속시간",
+      "위해 요소"
+    ],
+    "scaling_tags": [
+      "duration_scaling",
+      "trigger"
+    ],
+    "scaling_score": 12
+  },
+  {
+    "name": "정전기 감전",
+    "tier": 3,
+    "tags": [
+      "보조",
+      "주문",
+      "효과 범위",
+      "발동",
+      "지속형",
+      "번개",
+      "지속시간"
+    ],
+    "scaling_tags": [
+      "duration_scaling",
+      "trigger"
+    ],
+    "scaling_score": 12
+  },
+  {
+    "name": "달리는 돌 II",
+    "tier": 4,
+    "tags": [
+      "보조",
+      "소환수",
+      "발동",
+      "물리",
+      "지속시간"
+    ],
+    "scaling_tags": [
+      "duration_scaling",
+      "trigger"
+    ],
+    "scaling_score": 12
+  },
+  {
+    "name": "살아 있는 번개 II",
+    "tier": 4,
+    "tags": [
+      "보조",
+      "소환수",
+      "발동",
+      "번개",
+      "지속시간"
+    ],
+    "scaling_tags": [
+      "duration_scaling",
+      "trigger"
+    ],
+    "scaling_score": 12
+  },
+  {
+    "name": "충전된 징표",
+    "tier": 5,
+    "tags": [
+      "보조",
+      "주문",
+      "효과 범위",
+      "발동",
+      "징표",
+      "지속시간"
+    ],
+    "scaling_tags": [
+      "duration_scaling",
+      "trigger"
+    ],
+    "scaling_score": 12
+  },
+  {
+    "name": "구타하는 고함",
+    "tier": 1,
+    "tags": [
+      "보조",
+      "함성",
+      "효과 범위",
+      "발동",
+      "물리",
+      "청산"
+    ],
+    "scaling_tags": [
+      "trigger"
+    ],
+    "scaling_score": 8
+  },
+  {
+    "name": "도이드리의 파멸",
+    "tier": 1,
+    "tags": [
+      "보조",
+      "혈통",
+      "주문",
+      "효과 범위",
+      "발동",
+      "카오스",
+      "저주",
+      "위해 요소"
+    ],
+    "scaling_tags": [
+      "trigger"
+    ],
+    "scaling_score": 8
+  },
+  {
+    "name": "방어구 폭발",
+    "tier": 1,
+    "tags": [
+      "보조",
+      "공격",
+      "함성",
+      "효과 범위",
+      "발동",
+      "화염",
+      "청산"
+    ],
+    "scaling_tags": [
+      "trigger"
+    ],
+    "scaling_score": 8
+  },
+  {
+    "name": "앗지리의 부름",
+    "tier": 1,
+    "tags": [
+      "보조",
+      "혈통",
+      "주문",
+      "효과 범위",
+      "발동"
+    ],
+    "scaling_tags": [
+      "trigger"
+    ],
+    "scaling_score": 8
+  },
+  {
+    "name": "엄습하는 오한",
+    "tier": 1,
+    "tags": [
+      "보조",
+      "효과 범위",
+      "발동",
+      "냉기"
+    ],
+    "scaling_tags": [
+      "trigger"
+    ],
+    "scaling_score": 8
+  },
+  {
+    "name": "익스첼의 고통",
+    "tier": 1,
+    "tags": [
+      "보조",
+      "혈통",
+      "발동"
+    ],
+    "scaling_tags": [
+      "trigger"
+    ],
+    "scaling_score": 8
+  },
+  {
+    "name": "임박한 멸망",
+    "tier": 1,
+    "tags": [
+      "보조",
+      "주문",
+      "효과 범위",
+      "발동",
+      "카오스"
+    ],
+    "scaling_tags": [
+      "trigger"
+    ],
+    "scaling_score": 8
+  },
+  {
+    "name": "지바콰의 분리",
+    "tier": 1,
+    "tags": [
+      "보조",
+      "혈통",
+      "효과 범위",
+      "발동",
+      "화염"
+    ],
+    "scaling_tags": [
+      "trigger"
+    ],
+    "scaling_score": 8
+  },
+  {
+    "name": "짓밟는 지대",
+    "tier": 1,
+    "tags": [
+      "보조",
+      "공격",
+      "효과 범위",
+      "발동"
+    ],
+    "scaling_tags": [
+      "trigger"
+    ],
+    "scaling_score": 8
+  },
+  {
+    "name": "타호아의 보살핌",
+    "tier": 1,
+    "tags": [
+      "보조",
+      "혈통",
+      "토템",
+      "효과 범위",
+      "발동",
+      "물리"
+    ],
+    "scaling_tags": [
+      "trigger"
+    ],
+    "scaling_score": 8
+  },
+  {
+    "name": "하욕시의 뇌전",
+    "tier": 1,
+    "tags": [
+      "보조",
+      "혈통",
+      "주문",
+      "효과 범위",
+      "발동",
+      "물리",
+      "번개",
+      "냉기",
+      "화염",
+      "카오스",
+      "저주"
+    ],
+    "scaling_tags": [
+      "trigger"
+    ],
+    "scaling_score": 8
+  },
+  {
+    "name": "가속된 성장",
+    "tier": 2,
+    "tags": [
+      "보조",
+      "주문",
+      "효과 범위",
+      "발동",
+      "식물"
+    ],
+    "scaling_tags": [
+      "trigger"
+    ],
+    "scaling_score": 8
+  },
+  {
+    "name": "마나 섬광",
+    "tier": 2,
+    "tags": [
+      "보조",
+      "주문",
+      "효과 범위",
+      "발동",
+      "화염"
+    ],
+    "scaling_tags": [
+      "trigger"
+    ],
+    "scaling_score": 8
+  },
+  {
+    "name": "불난 집 부채질",
+    "tier": 2,
+    "tags": [
+      "보조",
+      "공격",
+      "효과 범위",
+      "발동",
+      "화염"
+    ],
+    "scaling_tags": [
+      "trigger"
+    ],
+    "scaling_score": 8
+  },
+  {
+    "name": "불타는 죽음",
+    "tier": 2,
+    "tags": [
+      "보조",
+      "주문",
+      "효과 범위",
+      "발동",
+      "화염"
+    ],
+    "scaling_tags": [
+      "trigger"
+    ],
+    "scaling_score": 8
+  },
+  {
+    "name": "뼈 파편",
+    "tier": 2,
+    "tags": [
+      "보조",
+      "효과 범위",
+      "발동",
+      "물리"
+    ],
+    "scaling_tags": [
+      "trigger"
+    ],
+    "scaling_score": 8
+  },
+  {
+    "name": "얼어붙은 악의",
+    "tier": 2,
+    "tags": [
+      "보조",
+      "효과 범위",
+      "투사체",
+      "발동",
+      "냉기"
+    ],
+    "scaling_tags": [
+      "trigger"
+    ],
+    "scaling_score": 8
+  },
+  {
+    "name": "터져 나오는 역병",
+    "tier": 2,
+    "tags": [
+      "보조",
+      "효과 범위",
+      "발동",
+      "물리",
+      "카오스"
+    ],
+    "scaling_tags": [
+      "trigger"
+    ],
+    "scaling_score": 8
+  },
+  {
+    "name": "화산 분출",
+    "tier": 2,
+    "tags": [
+      "보조",
+      "공격",
+      "효과 범위",
+      "근접",
+      "타격",
+      "투사체",
+      "발동",
+      "화염"
+    ],
+    "scaling_tags": [
+      "trigger"
+    ],
+    "scaling_score": 8
+  },
+  {
+    "name": "가시 격발",
+    "tier": 3,
+    "tags": [
+      "보조",
+      "공격",
+      "효과 범위",
+      "근접",
+      "발동",
+      "물리"
+    ],
+    "scaling_tags": [
+      "trigger"
+    ],
+    "scaling_score": 8
+  },
+  {
+    "name": "에너지 유지",
+    "tier": 3,
+    "tags": [
+      "보조",
+      "발동"
+    ],
+    "scaling_tags": [
+      "trigger"
+    ],
+    "scaling_score": 8
+  },
+  {
+    "name": "요행",
+    "tier": 3,
+    "tags": [
+      "보조",
+      "발동"
+    ],
+    "scaling_tags": [
+      "trigger"
+    ],
+    "scaling_score": 8
+  },
+  {
+    "name": "원소 방출",
+    "tier": 3,
+    "tags": [
+      "보조",
+      "주문",
+      "효과 범위",
+      "발동",
+      "번개",
+      "냉기",
+      "화염",
+      "청산"
+    ],
+    "scaling_tags": [
+      "trigger"
+    ],
+    "scaling_score": 8
+  },
+  {
+    "name": "전자기력",
+    "tier": 3,
+    "tags": [
+      "보조",
+      "주문",
+      "효과 범위",
+      "발동",
+      "지속형",
+      "번개",
+      "청산"
+    ],
+    "scaling_tags": [
+      "trigger"
+    ],
+    "scaling_score": 8
+  },
+  {
+    "name": "치명적인 투지",
+    "tier": 3,
+    "tags": [
+      "보조",
+      "공격",
+      "효과 범위",
+      "발동",
+      "물리",
+      "집중 유지",
+      "단계"
+    ],
+    "scaling_tags": [
+      "trigger"
+    ],
+    "scaling_score": 8
+  },
+  {
+    "name": "혈액수정",
+    "tier": 3,
+    "tags": [
+      "보조",
+      "공격",
+      "효과 범위",
+      "발동",
+      "물리"
+    ],
+    "scaling_tags": [
+      "trigger"
+    ],
+    "scaling_score": 8
+  },
+  {
+    "name": "불난 집 부채질 II",
+    "tier": 4,
+    "tags": [
+      "보조",
+      "공격",
+      "효과 범위",
+      "발동",
+      "화염"
+    ],
+    "scaling_tags": [
+      "trigger"
+    ],
+    "scaling_score": 8
+  },
+  {
+    "name": "용암 명문",
+    "tier": 4,
+    "tags": [
+      "보조",
+      "효과 범위",
+      "발동",
+      "화염"
+    ],
+    "scaling_tags": [
+      "trigger"
+    ],
+    "scaling_score": 8
+  },
+  {
+    "name": "가속된 성장 II",
+    "tier": 5,
+    "tags": [
+      "보조",
+      "주문",
+      "효과 범위",
+      "발동",
+      "식물"
+    ],
+    "scaling_tags": [
+      "trigger"
+    ],
+    "scaling_score": 8
+  },
+  {
+    "name": "가시나무 강타",
+    "tier": 5,
+    "tags": [
+      "보조",
+      "공격",
+      "효과 범위",
+      "근접",
+      "강타",
+      "발동",
+      "물리",
+      "위해 요소",
+      "식물"
+    ],
+    "scaling_tags": [
+      "trigger"
+    ],
+    "scaling_score": 8
+  },
+  {
+    "name": "촉진시키는 원소",
+    "tier": 5,
+    "tags": [
+      "보조",
+      "주문",
+      "효과 범위",
+      "발동",
+      "번개",
+      "냉기",
+      "화염"
+    ],
+    "scaling_tags": [
+      "trigger"
+    ],
+    "scaling_score": 8
+  },
+  {
+    "name": "도미누스의 장악",
+    "tier": 1,
+    "tags": [
+      "보조",
+      "혈통",
+      "투사체",
+      "연쇄"
+    ],
+    "scaling_tags": [
+      "chain"
+    ],
+    "scaling_score": 6
+  },
+  {
+    "name": "연쇄 I",
+    "tier": 1,
+    "tags": [
+      "보조",
+      "투사체",
+      "연쇄"
+    ],
+    "scaling_tags": [
+      "chain"
+    ],
+    "scaling_score": 6
+  },
+  {
+    "name": "폭풍연쇄",
+    "tier": 1,
+    "tags": [
+      "보조",
+      "투사체",
+      "번개",
+      "연쇄"
+    ],
+    "scaling_tags": [
+      "chain"
+    ],
+    "scaling_score": 6
+  },
+  {
+    "name": "연쇄 II",
+    "tier": 2,
+    "tags": [
+      "보조",
+      "투사체",
+      "연쇄"
+    ],
+    "scaling_tags": [
+      "chain"
+    ],
+    "scaling_score": 6
+  },
+  {
+    "name": "전압",
+    "tier": 2,
+    "tags": [
+      "보조",
+      "공격",
+      "투사체",
+      "번개",
+      "연쇄"
+    ],
+    "scaling_tags": [
+      "chain"
+    ],
+    "scaling_score": 6
+  },
+  {
+    "name": "연쇄 III",
+    "tier": 5,
+    "tags": [
+      "보조",
+      "투사체",
+      "연쇄"
+    ],
+    "scaling_tags": [
+      "chain"
+    ],
+    "scaling_score": 6
+  },
+  {
+    "name": "고통 격화 I",
+    "tier": 1,
+    "tags": [
+      "보조",
+      "지속시간"
+    ],
+    "scaling_tags": [
+      "duration_scaling"
+    ],
+    "scaling_score": 4
+  },
+  {
+    "name": "마지막 헐떡임",
+    "tier": 1,
+    "tags": [
+      "보조",
+      "소환수",
+      "유지형",
+      "지속시간"
+    ],
+    "scaling_tags": [
+      "duration_scaling"
+    ],
+    "scaling_score": 4
+  },
+  {
+    "name": "바타이르의 복수",
+    "tier": 1,
+    "tags": [
+      "보조",
+      "공격",
+      "함성",
+      "냉기",
+      "지속시간"
+    ],
+    "scaling_tags": [
+      "duration_scaling"
+    ],
+    "scaling_score": 4
+  },
+  {
+    "name": "비전 쇄도",
+    "tier": 1,
+    "tags": [
+      "보조",
+      "주문",
+      "지속시간"
+    ],
+    "scaling_tags": [
+      "duration_scaling"
+    ],
+    "scaling_score": 4
+  },
+  {
+    "name": "살인의 전율",
+    "tier": 1,
+    "tags": [
+      "보조",
+      "공격",
+      "번개",
+      "지속시간"
+    ],
+    "scaling_tags": [
+      "duration_scaling"
+    ],
+    "scaling_score": 4
+  },
+  {
+    "name": "얼음 쐐기 I",
+    "tier": 1,
+    "tags": [
+      "보조",
+      "공격",
+      "함성",
+      "냉기",
+      "지속시간"
+    ],
+    "scaling_tags": [
+      "duration_scaling"
+    ],
+    "scaling_score": 4
+  },
+  {
+    "name": "위축의 손길",
+    "tier": 1,
+    "tags": [
+      "보조",
+      "카오스",
+      "지속시간"
+    ],
+    "scaling_tags": [
+      "duration_scaling"
+    ],
+    "scaling_score": 4
+  },
+  {
+    "name": "자극",
+    "tier": 1,
+    "tags": [
+      "보조",
+      "공격",
+      "번개",
+      "지속시간"
+    ],
+    "scaling_tags": [
+      "duration_scaling"
+    ],
+    "scaling_score": 4
+  },
+  {
+    "name": "지속시간 압축 I",
+    "tier": 1,
+    "tags": [
+      "보조",
+      "지속시간"
+    ],
+    "scaling_tags": [
+      "duration_scaling"
+    ],
+    "scaling_score": 4
+  },
+  {
+    "name": "지속시간 연장 I",
+    "tier": 1,
+    "tags": [
+      "보조",
+      "지속시간"
+    ],
+    "scaling_tags": [
+      "duration_scaling"
+    ],
+    "scaling_score": 4
+  },
+  {
+    "name": "테크로드의 복수",
+    "tier": 1,
+    "tags": [
+      "보조",
+      "혈통",
+      "소환수",
+      "유지형",
+      "지속시간"
+    ],
+    "scaling_tags": [
+      "duration_scaling"
+    ],
+    "scaling_score": 4
+  },
+  {
+    "name": "파콰테의 맹약",
+    "tier": 1,
+    "tags": [
+      "보조",
+      "혈통",
+      "함성",
+      "물리",
+      "지속시간"
+    ],
+    "scaling_tags": [
+      "duration_scaling"
+    ],
+    "scaling_score": 4
+  },
+  {
+    "name": "감전 도약",
+    "tier": 2,
+    "tags": [
+      "보조",
+      "효과 범위",
+      "지속시간"
+    ],
+    "scaling_tags": [
+      "duration_scaling"
+    ],
+    "scaling_score": 4
+  },
+  {
+    "name": "격렬한 고통",
+    "tier": 2,
+    "tags": [
+      "보조",
+      "주문",
+      "지속시간"
+    ],
+    "scaling_tags": [
+      "duration_scaling"
+    ],
+    "scaling_score": 4
+  },
+  {
+    "name": "요철 지대 I",
+    "tier": 2,
+    "tags": [
+      "보조",
+      "공격",
+      "효과 범위",
+      "근접",
+      "강타",
+      "지속시간"
+    ],
+    "scaling_tags": [
+      "duration_scaling"
+    ],
+    "scaling_score": 4
+  },
+  {
+    "name": "고통 격화 II",
+    "tier": 3,
+    "tags": [
+      "보조",
+      "지속시간"
+    ],
+    "scaling_tags": [
+      "duration_scaling"
+    ],
+    "scaling_score": 4
+  },
+  {
+    "name": "뜯기",
+    "tier": 3,
+    "tags": [
+      "보조",
+      "공격",
+      "근접",
+      "물리",
+      "지속시간",
+      "잔류물"
+    ],
+    "scaling_tags": [
+      "duration_scaling"
+    ],
+    "scaling_score": 4
+  },
+  {
+    "name": "살인의 전율 II",
+    "tier": 3,
+    "tags": [
+      "보조",
+      "공격",
+      "번개",
+      "지속시간"
+    ],
+    "scaling_tags": [
+      "duration_scaling"
+    ],
+    "scaling_score": 4
+  },
+  {
+    "name": "실전 마법 I",
+    "tier": 3,
+    "tags": [
+      "보조",
+      "주문",
+      "지속시간"
+    ],
+    "scaling_tags": [
+      "duration_scaling"
+    ],
+    "scaling_score": 4
+  },
+  {
+    "name": "얼음 쐐기 II",
+    "tier": 3,
+    "tags": [
+      "보조",
+      "공격",
+      "함성",
+      "냉기",
+      "지속시간"
+    ],
+    "scaling_tags": [
+      "duration_scaling"
+    ],
+    "scaling_score": 4
+  },
+  {
+    "name": "지속시간 압축 II",
+    "tier": 3,
+    "tags": [
+      "보조",
+      "지속시간"
+    ],
+    "scaling_tags": [
+      "duration_scaling"
+    ],
+    "scaling_score": 4
+  },
+  {
+    "name": "지속시간 연장 II",
+    "tier": 3,
+    "tags": [
+      "보조",
+      "지속시간"
+    ],
+    "scaling_tags": [
+      "duration_scaling"
+    ],
+    "scaling_score": 4
+  },
+  {
+    "name": "타락시키는 비명 I",
+    "tier": 3,
+    "tags": [
+      "보조",
+      "함성",
+      "물리",
+      "지속시간"
+    ],
+    "scaling_tags": [
+      "duration_scaling"
+    ],
+    "scaling_score": 4
+  },
+  {
+    "name": "냉기 노출",
+    "tier": 4,
+    "tags": [
+      "보조",
+      "냉기",
+      "지속시간"
+    ],
+    "scaling_tags": [
+      "duration_scaling"
+    ],
+    "scaling_score": 4
+  },
+  {
+    "name": "노출의 함성",
+    "tier": 4,
+    "tags": [
+      "보조",
+      "함성",
+      "지속시간"
+    ],
+    "scaling_tags": [
+      "duration_scaling"
+    ],
+    "scaling_score": 4
+  },
+  {
+    "name": "번개 노출",
+    "tier": 4,
+    "tags": [
+      "보조",
+      "번개",
+      "지속시간"
+    ],
+    "scaling_tags": [
+      "duration_scaling"
+    ],
+    "scaling_score": 4
+  },
+  {
+    "name": "타오르는 치명타",
+    "tier": 4,
+    "tags": [
+      "보조",
+      "공격",
+      "화염",
+      "지속시간"
+    ],
+    "scaling_tags": [
+      "duration_scaling"
+    ],
+    "scaling_score": 4
+  },
+  {
+    "name": "화염 노출",
+    "tier": 4,
+    "tags": [
+      "보조",
+      "화염",
+      "지속시간"
+    ],
+    "scaling_tags": [
+      "duration_scaling"
+    ],
+    "scaling_score": 4
+  },
+  {
+    "name": "고통 격화 III",
+    "tier": 5,
+    "tags": [
+      "보조",
+      "지속시간"
+    ],
+    "scaling_tags": [
+      "duration_scaling"
+    ],
+    "scaling_score": 4
+  },
+  {
+    "name": "상서로운 비탈",
+    "tier": 5,
+    "tags": [
+      "보조",
+      "효과 범위",
+      "지속시간"
+    ],
+    "scaling_tags": [
+      "duration_scaling"
+    ],
+    "scaling_score": 4
+  },
+  {
+    "name": "실전 마법 II",
+    "tier": 5,
+    "tags": [
+      "보조",
+      "주문",
+      "지속시간"
+    ],
+    "scaling_tags": [
+      "duration_scaling"
+    ],
+    "scaling_score": 4
+  },
+  {
+    "name": "요철 지대 II",
+    "tier": 5,
+    "tags": [
+      "보조",
+      "공격",
+      "효과 범위",
+      "근접",
+      "강타",
+      "지속시간"
+    ],
+    "scaling_tags": [
+      "duration_scaling"
+    ],
+    "scaling_score": 4
+  },
+  {
+    "name": "타락시키는 비명 II",
+    "tier": 5,
+    "tags": [
+      "보조",
+      "함성",
+      "물리",
+      "지속시간"
+    ],
+    "scaling_tags": [
+      "duration_scaling"
+    ],
+    "scaling_score": 4
+  }
+]

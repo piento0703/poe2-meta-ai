@@ -1,0 +1,151 @@
+{
+  "options": [
+    {
+      "text": "Projectiles return to you",
+      "mechanics": [
+        {
+          "id": "returning_projectile",
+          "ko": "돌아오는 투사체",
+          "weight": 2.2
+        }
+      ],
+      "mechanic_ids": [
+        "returning_projectile"
+      ],
+      "mechanic_ko": [
+        "돌아오는 투사체"
+      ],
+      "damage_types": [],
+      "broken_combos": [],
+      "semantic_score": 2.2
+    },
+    {
+      "text": "Skills fire 2 additional Projectiles",
+      "mechanics": [
+        {
+          "id": "extra_projectile",
+          "ko": "추가 투사체",
+          "weight": 1.9
+        }
+      ],
+      "mechanic_ids": [
+        "extra_projectile"
+      ],
+      "mechanic_ko": [
+        "추가 투사체"
+      ],
+      "damage_types": [
+        "fire"
+      ],
+      "broken_combos": [],
+      "semantic_score": 1.9
+    },
+    {
+      "text": "Projectiles can hit the same target multiple times",
+      "mechanics": [
+        {
+          "id": "shotgun",
+          "ko": "다중 적중",
+          "weight": 2.3
+        }
+      ],
+      "mechanic_ids": [
+        "shotgun"
+      ],
+      "mechanic_ko": [
+        "다중 적중"
+      ],
+      "damage_types": [],
+      "broken_combos": [],
+      "semantic_score": 2.3
+    },
+    {
+      "text": "Gain 30% of Physical Damage as Extra Fire Damage",
+      "mechanics": [
+        {
+          "id": "gain_as_extra",
+          "ko": "추가 피해 획득",
+          "weight": 2.0
+        }
+      ],
+      "mechanic_ids": [
+        "gain_as_extra"
+      ],
+      "mechanic_ko": [
+        "추가 피해 획득"
+      ],
+      "damage_types": [
+        "physical",
+        "fire"
+      ],
+      "broken_combos": [],
+      "semantic_score": 2.0
+    },
+    {
+      "text": "Trigger socketed spells when you deal a Critical Strike",
+      "mechanics": [
+        {
+          "id": "trigger",
+          "ko": "발동",
+          "weight": 1.8
+        },
+        {
+          "id": "crit_scaling",
+          "ko": "치명타 스케일링",
+          "weight": 1.5
+        }
+      ],
+      "mechanic_ids": [
+        "trigger",
+        "crit_scaling"
+      ],
+      "mechanic_ko": [
+        "발동",
+        "치명타 스케일링"
+      ],
+      "damage_types": [],
+      "broken_combos": [
+        {
+          "name": "Trigger Crit Engine",
+          "ko": "치명타 발동 엔진",
+          "score": 22,
+          "reason": "치명타 확률이 발동 빈도와 피해량을 동시에 밀어올릴 수 있음"
+        }
+      ],
+      "semantic_score": 25.3
+    }
+  ],
+  "all_mechanics": [
+    "crit_scaling",
+    "extra_projectile",
+    "gain_as_extra",
+    "returning_projectile",
+    "shotgun",
+    "trigger"
+  ],
+  "all_damage_types": [
+    "fire",
+    "physical"
+  ],
+  "broken_combos": [
+    {
+      "name": "Trigger Crit Engine",
+      "ko": "치명타 발동 엔진",
+      "score": 22,
+      "reason": "치명타 확률이 발동 빈도와 피해량을 동시에 밀어올릴 수 있음"
+    },
+    {
+      "name": "Projectile Return Shotgun",
+      "ko": "돌아오는 투사체 다중 적중",
+      "score": 35,
+      "reason": "돌아오는 투사체가 같은 대상을 여러 번 때릴 수 있으면 단일딜이 폭증할 수 있음"
+    },
+    {
+      "name": "Extra Projectile Shotgun",
+      "ko": "추가 투사체 다중 적중",
+      "score": 30,
+      "reason": "투사체 수 증가가 단순 광역이 아니라 단일 대상 적중 수 증가로 연결될 수 있음"
+    }
+  ],
+  "total_semantic_score": 98.7
+}

@@ -1,0 +1,2431 @@
+[
+  {
+    "skill": "재의 전령",
+    "skill_tags": [],
+    "total_score": 0,
+    "matched_passive_count": 0,
+    "top_passives": []
+  },
+  {
+    "skill": "뼈 박살",
+    "skill_tags": [],
+    "total_score": 0,
+    "matched_passive_count": 0,
+    "top_passives": []
+  },
+  {
+    "skill": "지진",
+    "skill_tags": [],
+    "total_score": 0,
+    "matched_passive_count": 0,
+    "top_passives": []
+  },
+  {
+    "skill": "몰려오는 강타",
+    "skill_tags": [],
+    "total_score": 0,
+    "matched_passive_count": 0,
+    "top_passives": []
+  },
+  {
+    "skill": "방어구 파괴자",
+    "skill_tags": [],
+    "total_score": 0,
+    "matched_passive_count": 0,
+    "top_passives": []
+  },
+  {
+    "skill": "지옥불 함성",
+    "skill_tags": [],
+    "total_score": 0,
+    "matched_passive_count": 0,
+    "top_passives": []
+  },
+  {
+    "skill": "폭발 방패 돌진",
+    "skill_tags": [],
+    "total_score": 0,
+    "matched_passive_count": 0,
+    "top_passives": []
+  },
+  {
+    "skill": "전용 충격파 토템",
+    "skill_tags": [],
+    "total_score": 0,
+    "matched_passive_count": 0,
+    "top_passives": []
+  },
+  {
+    "skill": "폭발 재의 전령",
+    "skill_tags": [],
+    "total_score": 0,
+    "matched_passive_count": 0,
+    "top_passives": []
+  },
+  {
+    "skill": "철의 수호",
+    "skill_tags": [],
+    "total_score": 0,
+    "matched_passive_count": 0,
+    "top_passives": []
+  },
+  {
+    "skill": "폭발 마그마 장벽",
+    "skill_tags": [],
+    "total_score": 0,
+    "matched_passive_count": 0,
+    "top_passives": []
+  },
+  {
+    "skill": "주운 판금",
+    "skill_tags": [],
+    "total_score": 0,
+    "matched_passive_count": 0,
+    "top_passives": []
+  },
+  {
+    "skill": "녹아내린 폭발",
+    "skill_tags": [],
+    "total_score": 0,
+    "matched_passive_count": 0,
+    "top_passives": []
+  },
+  {
+    "skill": "완벽한 타격",
+    "skill_tags": [],
+    "total_score": 0,
+    "matched_passive_count": 0,
+    "top_passives": []
+  },
+  {
+    "skill": "공명하는 방패",
+    "skill_tags": [],
+    "total_score": 0,
+    "matched_passive_count": 0,
+    "top_passives": []
+  },
+  {
+    "skill": "지면 분쇄",
+    "skill_tags": [],
+    "total_score": 0,
+    "matched_passive_count": 0,
+    "top_passives": []
+  },
+  {
+    "skill": "도약 강타",
+    "skill_tags": [],
+    "total_score": 0,
+    "matched_passive_count": 0,
+    "top_passives": []
+  },
+  {
+    "skill": "청산 방패의 벽",
+    "skill_tags": [],
+    "total_score": 0,
+    "matched_passive_count": 0,
+    "top_passives": []
+  },
+  {
+    "skill": "화산 균열",
+    "skill_tags": [],
+    "total_score": 0,
+    "matched_passive_count": 0,
+    "top_passives": []
+  },
+  {
+    "skill": "압도적인 존재감",
+    "skill_tags": [],
+    "total_score": 0,
+    "matched_passive_count": 0,
+    "top_passives": []
+  },
+  {
+    "skill": "오라 긴요한 시기",
+    "skill_tags": [],
+    "total_score": 0,
+    "matched_passive_count": 0,
+    "top_passives": []
+  },
+  {
+    "skill": "대장간 망치",
+    "skill_tags": [],
+    "total_score": 0,
+    "matched_passive_count": 0,
+    "top_passives": []
+  },
+  {
+    "skill": "보강하는 함성",
+    "skill_tags": [],
+    "total_score": 0,
+    "matched_passive_count": 0,
+    "top_passives": []
+  },
+  {
+    "skill": "폭발 산산조각",
+    "skill_tags": [],
+    "total_score": 0,
+    "matched_passive_count": 0,
+    "top_passives": []
+  },
+  {
+    "skill": "지진 함성",
+    "skill_tags": [],
+    "total_score": 0,
+    "matched_passive_count": 0,
+    "top_passives": []
+  },
+  {
+    "skill": "폭발 쇄도",
+    "skill_tags": [],
+    "total_score": 0,
+    "matched_passive_count": 0,
+    "top_passives": []
+  },
+  {
+    "skill": "전용 초과 충전 강타",
+    "skill_tags": [],
+    "total_score": 0,
+    "matched_passive_count": 0,
+    "top_passives": []
+  },
+  {
+    "skill": "선대의 함성",
+    "skill_tags": [],
+    "total_score": 0,
+    "matched_passive_count": 0,
+    "top_passives": []
+  },
+  {
+    "skill": "조건부 선대의 전사 토템",
+    "skill_tags": [],
+    "total_score": 0,
+    "matched_passive_count": 0,
+    "top_passives": []
+  },
+  {
+    "skill": "신들의 망치",
+    "skill_tags": [],
+    "total_score": 0,
+    "matched_passive_count": 0,
+    "top_passives": []
+  },
+  {
+    "skill": "광폭",
+    "skill_tags": [],
+    "total_score": 0,
+    "matched_passive_count": 0,
+    "top_passives": []
+  },
+  {
+    "skill": "영원한 격노",
+    "skill_tags": [],
+    "total_score": 0,
+    "matched_passive_count": 0,
+    "top_passives": []
+  },
+  {
+    "skill": "유지형 천둥의 전령",
+    "skill_tags": [],
+    "total_score": 0,
+    "matched_passive_count": 0,
+    "top_passives": []
+  },
+  {
+    "skill": "철수",
+    "skill_tags": [],
+    "total_score": 0,
+    "matched_passive_count": 0,
+    "top_passives": []
+  },
+  {
+    "skill": "전용 탈출 사격",
+    "skill_tags": [],
+    "total_score": 0,
+    "matched_passive_count": 0,
+    "top_passives": []
+  },
+  {
+    "skill": "폭발 창",
+    "skill_tags": [],
+    "total_score": 0,
+    "matched_passive_count": 0,
+    "top_passives": []
+  },
+  {
+    "skill": "연발 사격 가능 번개 화살",
+    "skill_tags": [],
+    "total_score": 0,
+    "matched_passive_count": 0,
+    "top_passives": []
+  },
+  {
+    "skill": "연발 사격 가능 피뢰침",
+    "skill_tags": [],
+    "total_score": 0,
+    "matched_passive_count": 0,
+    "top_passives": []
+  },
+  {
+    "skill": "연발 사격 가능 독 폭발 화살",
+    "skill_tags": [],
+    "total_score": 0,
+    "matched_passive_count": 0,
+    "top_passives": []
+  },
+  {
+    "skill": "연발 사격 가능 돌개바람",
+    "skill_tags": [],
+    "total_score": 0,
+    "matched_passive_count": 0,
+    "top_passives": []
+  },
+  {
+    "skill": "바람 소용돌이 베기",
+    "skill_tags": [],
+    "total_score": 0,
+    "matched_passive_count": 0,
+    "top_passives": []
+  },
+  {
+    "skill": "바람 약자 솎아내기",
+    "skill_tags": [],
+    "total_score": 0,
+    "matched_passive_count": 0,
+    "top_passives": []
+  },
+  {
+    "skill": "서리의 송곳니",
+    "skill_tags": [],
+    "total_score": 0,
+    "matched_passive_count": 0,
+    "top_passives": []
+  },
+  {
+    "skill": "얼어붙는 포화",
+    "skill_tags": [],
+    "total_score": 0,
+    "matched_passive_count": 0,
+    "top_passives": []
+  },
+  {
+    "skill": "번개 창",
+    "skill_tags": [],
+    "total_score": 0,
+    "matched_passive_count": 0,
+    "top_passives": []
+  },
+  {
+    "skill": "연발 사격 가능 갈퀴질",
+    "skill_tags": [],
+    "total_score": 0,
+    "matched_passive_count": 0,
+    "top_passives": []
+  },
+  {
+    "skill": "저격",
+    "skill_tags": [],
+    "total_score": 0,
+    "matched_passive_count": 0,
+    "top_passives": []
+  },
+  {
+    "skill": "연발 사격 가능 폭풍 소환사 화살",
+    "skill_tags": [],
+    "total_score": 0,
+    "matched_passive_count": 0,
+    "top_passives": []
+  },
+  {
+    "skill": "연발 사격 가능 덩굴 화살",
+    "skill_tags": [],
+    "total_score": 0,
+    "matched_passive_count": 0,
+    "top_passives": []
+  },
+  {
+    "skill": "식물 천둥의 전령",
+    "skill_tags": [],
+    "total_score": 0,
+    "matched_passive_count": 0,
+    "top_passives": []
+  },
+  {
+    "skill": "독성 운반자",
+    "skill_tags": [],
+    "total_score": 0,
+    "matched_passive_count": 0,
+    "top_passives": []
+  },
+  {
+    "skill": "폭발 바람의 무희",
+    "skill_tags": [],
+    "total_score": 0,
+    "matched_passive_count": 0,
+    "top_passives": []
+  },
+  {
+    "skill": "연발 사격",
+    "skill_tags": [],
+    "total_score": 0,
+    "matched_passive_count": 0,
+    "top_passives": []
+  },
+  {
+    "skill": "전기 처형의 화살",
+    "skill_tags": [],
+    "total_score": 0,
+    "matched_passive_count": 0,
+    "top_passives": []
+  },
+  {
+    "skill": "연발 사격 가능 얼음촉 화살",
+    "skill_tags": [],
+    "total_score": 0,
+    "matched_passive_count": 0,
+    "top_passives": []
+  },
+  {
+    "skill": "신속한 공격",
+    "skill_tags": [],
+    "total_score": 0,
+    "matched_passive_count": 0,
+    "top_passives": []
+  },
+  {
+    "skill": "창의 지대",
+    "skill_tags": [],
+    "total_score": 0,
+    "matched_passive_count": 0,
+    "top_passives": []
+  },
+  {
+    "skill": "폭풍의 창",
+    "skill_tags": [],
+    "total_score": 0,
+    "matched_passive_count": 0,
+    "top_passives": []
+  },
+  {
+    "skill": "연발 사격 가능 맹독성 종양",
+    "skill_tags": [],
+    "total_score": 0,
+    "matched_passive_count": 0,
+    "top_passives": []
+  },
+  {
+    "skill": "식물 피의 사냥",
+    "skill_tags": [],
+    "total_score": 0,
+    "matched_passive_count": 0,
+    "top_passives": []
+  },
+  {
+    "skill": "가스 화살",
+    "skill_tags": [],
+    "total_score": 0,
+    "matched_passive_count": 0,
+    "top_passives": []
+  },
+  {
+    "skill": "연발 사격 가능 빙하 창",
+    "skill_tags": [],
+    "total_score": 0,
+    "matched_passive_count": 0,
+    "top_passives": []
+  },
+  {
+    "skill": "연발 사격 가능 원시 타격",
+    "skill_tags": [],
+    "total_score": 0,
+    "matched_passive_count": 0,
+    "top_passives": []
+  },
+  {
+    "skill": "저격수의 징표",
+    "skill_tags": [],
+    "total_score": 0,
+    "matched_passive_count": 0,
+    "top_passives": []
+  },
+  {
+    "skill": "전도성 징표",
+    "skill_tags": [],
+    "total_score": 0,
+    "matched_passive_count": 0,
+    "top_passives": []
+  },
+  {
+    "skill": "전투 격분",
+    "skill_tags": [],
+    "total_score": 0,
+    "matched_passive_count": 0,
+    "top_passives": []
+  },
+  {
+    "skill": "역병의 전령",
+    "skill_tags": [],
+    "total_score": 0,
+    "matched_passive_count": 0,
+    "top_passives": []
+  },
+  {
+    "skill": "신기루 궁수",
+    "skill_tags": [],
+    "total_score": 0,
+    "matched_passive_count": 0,
+    "top_passives": []
+  },
+  {
+    "skill": "마름쇠의 발자취",
+    "skill_tags": [],
+    "total_score": 0,
+    "matched_passive_count": 0,
+    "top_passives": []
+  },
+  {
+    "skill": "피사냥개의 징표",
+    "skill_tags": [],
+    "total_score": 0,
+    "matched_passive_count": 0,
+    "top_passives": []
+  },
+  {
+    "skill": "폭발 화살",
+    "skill_tags": [],
+    "total_score": 0,
+    "matched_passive_count": 0,
+    "top_passives": []
+  },
+  {
+    "skill": "연발 사격 가능 얼음 화살",
+    "skill_tags": [],
+    "total_score": 0,
+    "matched_passive_count": 0,
+    "top_passives": []
+  },
+  {
+    "skill": "연발 사격 가능 화살비",
+    "skill_tags": [],
+    "total_score": 0,
+    "matched_passive_count": 0,
+    "top_passives": []
+  },
+  {
+    "skill": "짐승 길들이기",
+    "skill_tags": [],
+    "total_score": 0,
+    "matched_passive_count": 0,
+    "top_passives": []
+  },
+  {
+    "skill": "지속시간 천둥 같은 도약",
+    "skill_tags": [],
+    "total_score": 0,
+    "matched_passive_count": 0,
+    "top_passives": []
+  },
+  {
+    "skill": "이동 전용 원소 작렬",
+    "skill_tags": [],
+    "total_score": 0,
+    "matched_passive_count": 0,
+    "top_passives": []
+  },
+  {
+    "skill": "청산 감전연쇄 화살",
+    "skill_tags": [],
+    "total_score": 0,
+    "matched_passive_count": 0,
+    "top_passives": []
+  },
+  {
+    "skill": "연발 사격 가능 회오리 사격",
+    "skill_tags": [],
+    "total_score": 0,
+    "matched_passive_count": 0,
+    "top_passives": []
+  },
+  {
+    "skill": "바람 와류 기병창",
+    "skill_tags": [],
+    "total_score": 0,
+    "matched_passive_count": 0,
+    "top_passives": []
+  },
+  {
+    "skill": "바람 자성 포화",
+    "skill_tags": [],
+    "total_score": 0,
+    "matched_passive_count": 0,
+    "top_passives": []
+  },
+  {
+    "skill": "솔라리스의 창",
+    "skill_tags": [],
+    "total_score": 0,
+    "matched_passive_count": 0,
+    "top_passives": []
+  },
+  {
+    "skill": "나선 사격 공세",
+    "skill_tags": [],
+    "total_score": 0,
+    "matched_passive_count": 0,
+    "top_passives": []
+  },
+  {
+    "skill": "맹독성 영역",
+    "skill_tags": [],
+    "total_score": 0,
+    "matched_passive_count": 0,
+    "top_passives": []
+  },
+  {
+    "skill": "바람 독사의 광분",
+    "skill_tags": [],
+    "total_score": 0,
+    "matched_passive_count": 0,
+    "top_passives": []
+  },
+  {
+    "skill": "바람 연금술사의 은혜",
+    "skill_tags": [],
+    "total_score": 0,
+    "matched_passive_count": 0,
+    "top_passives": []
+  },
+  {
+    "skill": "오라 로아 탈것",
+    "skill_tags": [],
+    "total_score": 0,
+    "matched_passive_count": 0,
+    "top_passives": []
+  },
+  {
+    "skill": "뼈 폭발",
+    "skill_tags": [],
+    "total_score": 0,
+    "matched_passive_count": 0,
+    "top_passives": []
+  },
+  {
+    "skill": "동결 시 시전",
+    "skill_tags": [],
+    "total_score": 0,
+    "matched_passive_count": 0,
+    "top_passives": []
+  },
+  {
+    "skill": "점화 시 시전",
+    "skill_tags": [],
+    "total_score": 0,
+    "matched_passive_count": 0,
+    "top_passives": []
+  },
+  {
+    "skill": "감전 시 시전",
+    "skill_tags": [],
+    "total_score": 0,
+    "matched_passive_count": 0,
+    "top_passives": []
+  },
+  {
+    "skill": "카오스 화살",
+    "skill_tags": [],
+    "total_score": 0,
+    "matched_passive_count": 0,
+    "top_passives": []
+  },
+  {
+    "skill": "전도성",
+    "skill_tags": [],
+    "total_score": 0,
+    "matched_passive_count": 0,
+    "top_passives": []
+  },
+  {
+    "skill": "부패",
+    "skill_tags": [],
+    "total_score": 0,
+    "matched_passive_count": 0,
+    "top_passives": []
+  },
+  {
+    "skill": "Crushing Earth",
+    "skill_tags": [],
+    "total_score": 0,
+    "matched_passive_count": 0,
+    "top_passives": []
+  },
+  {
+    "skill": "어둠의 서약",
+    "skill_tags": [],
+    "total_score": 0,
+    "matched_passive_count": 0,
+    "top_passives": []
+  },
+  {
+    "skill": "폭발 단련",
+    "skill_tags": [],
+    "total_score": 0,
+    "matched_passive_count": 0,
+    "top_passives": []
+  },
+  {
+    "skill": "오라 피폐의 폭발",
+    "skill_tags": [],
+    "total_score": 0,
+    "matched_passive_count": 0,
+    "top_passives": []
+  },
+  {
+    "skill": "폭발 방혈",
+    "skill_tags": [],
+    "total_score": 0,
+    "matched_passive_count": 0,
+    "top_passives": []
+  },
+  {
+    "skill": "육체의 연회",
+    "skill_tags": [],
+    "total_score": 0,
+    "matched_passive_count": 0,
+    "top_passives": []
+  },
+  {
+    "skill": "폭발 화염 화살",
+    "skill_tags": [],
+    "total_score": 0,
+    "matched_passive_count": 0,
+    "top_passives": []
+  },
+  {
+    "skill": "인화성",
+    "skill_tags": [],
+    "total_score": 0,
+    "matched_passive_count": 0,
+    "top_passives": []
+  },
+  {
+    "skill": "동결의 파편",
+    "skill_tags": [],
+    "total_score": 0,
+    "matched_passive_count": 0,
+    "top_passives": []
+  },
+  {
+    "skill": "노호",
+    "skill_tags": [],
+    "total_score": 0,
+    "matched_passive_count": 0,
+    "top_passives": []
+  },
+  {
+    "skill": "번개 충격장",
+    "skill_tags": [],
+    "total_score": 0,
+    "matched_passive_count": 0,
+    "top_passives": []
+  },
+  {
+    "skill": "얼음의 심장",
+    "skill_tags": [],
+    "total_score": 0,
+    "matched_passive_count": 0,
+    "top_passives": []
+  },
+  {
+    "skill": "냉기 체온저하",
+    "skill_tags": [],
+    "total_score": 0,
+    "matched_passive_count": 0,
+    "top_passives": []
+  },
+  {
+    "skill": "부정함",
+    "skill_tags": [],
+    "total_score": 0,
+    "matched_passive_count": 0,
+    "top_passives": []
+  },
+  {
+    "skill": "카오스 낙뢰",
+    "skill_tags": [],
+    "total_score": 0,
+    "matched_passive_count": 0,
+    "top_passives": []
+  },
+  {
+    "skill": "적의",
+    "skill_tags": [],
+    "total_score": 0,
+    "matched_passive_count": 0,
+    "top_passives": []
+  },
+  {
+    "skill": "지속시간 마나 고갈",
+    "skill_tags": [],
+    "total_score": 0,
+    "matched_passive_count": 0,
+    "top_passives": []
+  },
+  {
+    "skill": "굴절의 거울",
+    "skill_tags": [],
+    "total_score": 0,
+    "matched_passive_count": 0,
+    "top_passives": []
+  },
+  {
+    "skill": "권능 착취",
+    "skill_tags": [],
+    "total_score": 0,
+    "matched_passive_count": 0,
+    "top_passives": []
+  },
+  {
+    "skill": "불의 순수함",
+    "skill_tags": [],
+    "total_score": 0,
+    "matched_passive_count": 0,
+    "top_passives": []
+  },
+  {
+    "skill": "화염 얼음의 순수함",
+    "skill_tags": [],
+    "total_score": 0,
+    "matched_passive_count": 0,
+    "top_passives": []
+  },
+  {
+    "skill": "냉기 번개의 순수함",
+    "skill_tags": [],
+    "total_score": 0,
+    "matched_passive_count": 0,
+    "top_passives": []
+  },
+  {
+    "skill": "번개 낫질",
+    "skill_tags": [],
+    "total_score": 0,
+    "matched_passive_count": 0,
+    "top_passives": []
+  },
+  {
+    "skill": "힘의 부적",
+    "skill_tags": [],
+    "total_score": 0,
+    "matched_passive_count": 0,
+    "top_passives": []
+  },
+  {
+    "skill": "해골 저격수",
+    "skill_tags": [],
+    "total_score": 0,
+    "matched_passive_count": 0,
+    "top_passives": []
+  },
+  {
+    "skill": "해골 전사",
+    "skill_tags": [],
+    "total_score": 0,
+    "matched_passive_count": 0,
+    "top_passives": []
+  },
+  {
+    "skill": "태양의 보주",
+    "skill_tags": [],
+    "total_score": 0,
+    "matched_passive_count": 0,
+    "top_passives": []
+  },
+  {
+    "skill": "영혼 분리",
+    "skill_tags": [],
+    "total_score": 0,
+    "matched_passive_count": 0,
+    "top_passives": []
+  },
+  {
+    "skill": "주문투척",
+    "skill_tags": [],
+    "total_score": 0,
+    "matched_passive_count": 0,
+    "top_passives": []
+  },
+  {
+    "skill": "메타 낙뢰",
+    "skill_tags": [],
+    "total_score": 0,
+    "matched_passive_count": 0,
+    "top_passives": []
+  },
+  {
+    "skill": "불씨 일제 사격",
+    "skill_tags": [],
+    "total_score": 0,
+    "matched_passive_count": 0,
+    "top_passives": []
+  },
+  {
+    "skill": "전기불꽃",
+    "skill_tags": [],
+    "total_score": 0,
+    "matched_passive_count": 0,
+    "top_passives": []
+  },
+  {
+    "skill": "고사시키는 존재",
+    "skill_tags": [],
+    "total_score": 0,
+    "matched_passive_count": 0,
+    "top_passives": []
+  },
+  {
+    "skill": "지속시간 촉발",
+    "skill_tags": [],
+    "total_score": 0,
+    "matched_passive_count": 0,
+    "top_passives": []
+  },
+  {
+    "skill": "시체 불덩이",
+    "skill_tags": [],
+    "total_score": 0,
+    "matched_passive_count": 0,
+    "top_passives": []
+  },
+  {
+    "skill": "위축",
+    "skill_tags": [],
+    "total_score": 0,
+    "matched_passive_count": 0,
+    "top_passives": []
+  },
+  {
+    "skill": "전염",
+    "skill_tags": [],
+    "total_score": 0,
+    "matched_passive_count": 0,
+    "top_passives": []
+  },
+  {
+    "skill": "화염 벽",
+    "skill_tags": [],
+    "total_score": 0,
+    "matched_passive_count": 0,
+    "top_passives": []
+  },
+  {
+    "skill": "서리 폭탄",
+    "skill_tags": [],
+    "total_score": 0,
+    "matched_passive_count": 0,
+    "top_passives": []
+  },
+  {
+    "skill": "얼음 폭발",
+    "skill_tags": [],
+    "total_score": 0,
+    "matched_passive_count": 0,
+    "top_passives": []
+  },
+  {
+    "skill": "폭발 해골 저격수",
+    "skill_tags": [],
+    "total_score": 0,
+    "matched_passive_count": 0,
+    "top_passives": []
+  },
+  {
+    "skill": "전기불꽃",
+    "skill_tags": [],
+    "total_score": 0,
+    "matched_passive_count": 0,
+    "top_passives": []
+  },
+  {
+    "skill": "발굴",
+    "skill_tags": [],
+    "total_score": 0,
+    "matched_passive_count": 0,
+    "top_passives": []
+  },
+  {
+    "skill": "뼈 창살",
+    "skill_tags": [],
+    "total_score": 0,
+    "matched_passive_count": 0,
+    "top_passives": []
+  },
+  {
+    "skill": "폭발 쇠약화",
+    "skill_tags": [],
+    "total_score": 0,
+    "matched_passive_count": 0,
+    "top_passives": []
+  },
+  {
+    "skill": "정수 흡수",
+    "skill_tags": [],
+    "total_score": 0,
+    "matched_passive_count": 0,
+    "top_passives": []
+  },
+  {
+    "skill": "화염구",
+    "skill_tags": [],
+    "total_score": 0,
+    "matched_passive_count": 0,
+    "top_passives": []
+  },
+  {
+    "skill": "서리 화살침",
+    "skill_tags": [],
+    "total_score": 0,
+    "matched_passive_count": 0,
+    "top_passives": []
+  },
+  {
+    "skill": "살아있는 폭탄",
+    "skill_tags": [],
+    "total_score": 0,
+    "matched_passive_count": 0,
+    "top_passives": []
+  },
+  {
+    "skill": "폭풍 보주",
+    "skill_tags": [],
+    "total_score": 0,
+    "matched_passive_count": 0,
+    "top_passives": []
+  },
+  {
+    "skill": "해골 방화범",
+    "skill_tags": [],
+    "total_score": 0,
+    "matched_passive_count": 0,
+    "top_passives": []
+  },
+  {
+    "skill": "기폭 장치 한기의 방어구",
+    "skill_tags": [],
+    "total_score": 0,
+    "matched_passive_count": 0,
+    "top_passives": []
+  },
+  {
+    "skill": "요양",
+    "skill_tags": [],
+    "total_score": 0,
+    "matched_passive_count": 0,
+    "top_passives": []
+  },
+  {
+    "skill": "으스스한 연회",
+    "skill_tags": [],
+    "total_score": 0,
+    "matched_passive_count": 0,
+    "top_passives": []
+  },
+  {
+    "skill": "마나 잔류물",
+    "skill_tags": [],
+    "total_score": 0,
+    "matched_passive_count": 0,
+    "top_passives": []
+  },
+  {
+    "skill": "격노의 유령",
+    "skill_tags": [],
+    "total_score": 0,
+    "matched_passive_count": 0,
+    "top_passives": []
+  },
+  {
+    "skill": "굶주린 무리",
+    "skill_tags": [],
+    "total_score": 0,
+    "matched_passive_count": 0,
+    "top_passives": []
+  },
+  {
+    "skill": "고사시키는 존재",
+    "skill_tags": [],
+    "total_score": 0,
+    "matched_passive_count": 0,
+    "top_passives": []
+  },
+  {
+    "skill": "지속시간 연쇄 번개",
+    "skill_tags": [],
+    "total_score": 0,
+    "matched_passive_count": 0,
+    "top_passives": []
+  },
+  {
+    "skill": "뼈 폭풍",
+    "skill_tags": [],
+    "total_score": 0,
+    "matched_passive_count": 0,
+    "top_passives": []
+  },
+  {
+    "skill": "불씨 일제 사격",
+    "skill_tags": [],
+    "total_score": 0,
+    "matched_passive_count": 0,
+    "top_passives": []
+  },
+  {
+    "skill": "서리 구체",
+    "skill_tags": [],
+    "total_score": 0,
+    "matched_passive_count": 0,
+    "top_passives": []
+  },
+  {
+    "skill": "고통의 공물",
+    "skill_tags": [],
+    "total_score": 0,
+    "matched_passive_count": 0,
+    "top_passives": []
+  },
+  {
+    "skill": "연발 사격 가능 좀비 소환",
+    "skill_tags": [],
+    "total_score": 0,
+    "matched_passive_count": 0,
+    "top_passives": []
+  },
+  {
+    "skill": "해골 서리 마법사",
+    "skill_tags": [],
+    "total_score": 0,
+    "matched_passive_count": 0,
+    "top_passives": []
+  },
+  {
+    "skill": "돌발",
+    "skill_tags": [],
+    "total_score": 0,
+    "matched_passive_count": 0,
+    "top_passives": []
+  },
+  {
+    "skill": "망령 속박",
+    "skill_tags": [],
+    "total_score": 0,
+    "matched_passive_count": 0,
+    "top_passives": []
+  },
+  {
+    "skill": "시체 폭발",
+    "skill_tags": [],
+    "total_score": 0,
+    "matched_passive_count": 0,
+    "top_passives": []
+  },
+  {
+    "skill": "기폭 장치 원소 약화",
+    "skill_tags": [],
+    "total_score": 0,
+    "matched_passive_count": 0,
+    "top_passives": []
+  },
+  {
+    "skill": "마나 폭풍",
+    "skill_tags": [],
+    "total_score": 0,
+    "matched_passive_count": 0,
+    "top_passives": []
+  },
+  {
+    "skill": "부정한 의식",
+    "skill_tags": [],
+    "total_score": 0,
+    "matched_passive_count": 0,
+    "top_passives": []
+  },
+  {
+    "skill": "시간의 사슬",
+    "skill_tags": [],
+    "total_score": 0,
+    "matched_passive_count": 0,
+    "top_passives": []
+  },
+  {
+    "skill": "취약성",
+    "skill_tags": [],
+    "total_score": 0,
+    "matched_passive_count": 0,
+    "top_passives": []
+  },
+  {
+    "skill": "신성 모독",
+    "skill_tags": [],
+    "total_score": 0,
+    "matched_passive_count": 0,
+    "top_passives": []
+  },
+  {
+    "skill": "메타 점멸",
+    "skill_tags": [],
+    "total_score": 0,
+    "matched_passive_count": 0,
+    "top_passives": []
+  },
+  {
+    "skill": "전용 소환수 사망 시 시전",
+    "skill_tags": [],
+    "total_score": 0,
+    "matched_passive_count": 0,
+    "top_passives": []
+  },
+  {
+    "skill": "원소 착취",
+    "skill_tags": [],
+    "total_score": 0,
+    "matched_passive_count": 0,
+    "top_passives": []
+  },
+  {
+    "skill": "어둠의 제웅",
+    "skill_tags": [],
+    "total_score": 0,
+    "matched_passive_count": 0,
+    "top_passives": []
+  },
+  {
+    "skill": "절망",
+    "skill_tags": [],
+    "total_score": 0,
+    "matched_passive_count": 0,
+    "top_passives": []
+  },
+  {
+    "skill": "서리 방벽",
+    "skill_tags": [],
+    "total_score": 0,
+    "matched_passive_count": 0,
+    "top_passives": []
+  },
+  {
+    "skill": "소각",
+    "skill_tags": [],
+    "total_score": 0,
+    "matched_passive_count": 0,
+    "top_passives": []
+  },
+  {
+    "skill": "번개 차원 이동",
+    "skill_tags": [],
+    "total_score": 0,
+    "matched_passive_count": 0,
+    "top_passives": []
+  },
+  {
+    "skill": "해골 강탈자",
+    "skill_tags": [],
+    "total_score": 0,
+    "matched_passive_count": 0,
+    "top_passives": []
+  },
+  {
+    "skill": "구형 번개",
+    "skill_tags": [],
+    "total_score": 0,
+    "matched_passive_count": 0,
+    "top_passives": []
+  },
+  {
+    "skill": "뼈 공물",
+    "skill_tags": [],
+    "total_score": 0,
+    "matched_passive_count": 0,
+    "top_passives": []
+  },
+  {
+    "skill": "혜성",
+    "skill_tags": [],
+    "total_score": 0,
+    "matched_passive_count": 0,
+    "top_passives": []
+  },
+  {
+    "skill": "화염 폭풍",
+    "skill_tags": [],
+    "total_score": 0,
+    "matched_passive_count": 0,
+    "top_passives": []
+  },
+  {
+    "skill": "사술 폭발",
+    "skill_tags": [],
+    "total_score": 0,
+    "matched_passive_count": 0,
+    "top_passives": []
+  },
+  {
+    "skill": "해골 폭풍 마법사",
+    "skill_tags": [],
+    "total_score": 0,
+    "matched_passive_count": 0,
+    "top_passives": []
+  },
+  {
+    "skill": "겨울의 눈",
+    "skill_tags": [],
+    "total_score": 0,
+    "matched_passive_count": 0,
+    "top_passives": []
+  },
+  {
+    "skill": "화염파",
+    "skill_tags": [],
+    "total_score": 0,
+    "matched_passive_count": 0,
+    "top_passives": []
+  },
+  {
+    "skill": "단계 번개 도관",
+    "skill_tags": [],
+    "total_score": 0,
+    "matched_passive_count": 0,
+    "top_passives": []
+  },
+  {
+    "skill": "해골 돌격병",
+    "skill_tags": [],
+    "total_score": 0,
+    "matched_passive_count": 0,
+    "top_passives": []
+  },
+  {
+    "skill": "해골 성직자",
+    "skill_tags": [],
+    "total_score": 0,
+    "matched_passive_count": 0,
+    "top_passives": []
+  },
+  {
+    "skill": "영혼 공물",
+    "skill_tags": [],
+    "total_score": 0,
+    "matched_passive_count": 0,
+    "top_passives": []
+  },
+  {
+    "skill": "대마법사",
+    "skill_tags": [],
+    "total_score": 0,
+    "matched_passive_count": 0,
+    "top_passives": []
+  },
+  {
+    "skill": "치명타 시 시전",
+    "skill_tags": [],
+    "total_score": 0,
+    "matched_passive_count": 0,
+    "top_passives": []
+  },
+  {
+    "skill": "원소 상태 이상 시 시전",
+    "skill_tags": [],
+    "total_score": 0,
+    "matched_passive_count": 0,
+    "top_passives": []
+  },
+  {
+    "skill": "원소 융합",
+    "skill_tags": [],
+    "total_score": 0,
+    "matched_passive_count": 0,
+    "top_passives": []
+  },
+  {
+    "skill": "희생",
+    "skill_tags": [],
+    "total_score": 0,
+    "matched_passive_count": 0,
+    "top_passives": []
+  },
+  {
+    "skill": "선대의 혼백",
+    "skill_tags": [],
+    "total_score": 0,
+    "matched_passive_count": 0,
+    "top_passives": []
+  },
+  {
+    "skill": "종말",
+    "skill_tags": [],
+    "total_score": 0,
+    "matched_passive_count": 0,
+    "top_passives": []
+  },
+  {
+    "skill": "운명 정렬",
+    "skill_tags": [],
+    "total_score": 0,
+    "matched_passive_count": 0,
+    "top_passives": []
+  },
+  {
+    "skill": "출혈의 혼합물",
+    "skill_tags": [],
+    "total_score": 0,
+    "matched_passive_count": 0,
+    "top_passives": []
+  },
+  {
+    "skill": "루잔의 덫",
+    "skill_tags": [],
+    "total_score": 0,
+    "matched_passive_count": 0,
+    "top_passives": []
+  },
+  {
+    "skill": "루잔의 광분",
+    "skill_tags": [],
+    "total_score": 0,
+    "matched_passive_count": 0,
+    "top_passives": []
+  },
+  {
+    "skill": "루잔의 선고",
+    "skill_tags": [],
+    "total_score": 0,
+    "matched_passive_count": 0,
+    "top_passives": []
+  },
+  {
+    "skill": "켈라리의 기만",
+    "skill_tags": [],
+    "total_score": 0,
+    "matched_passive_count": 0,
+    "top_passives": []
+  },
+  {
+    "skill": "켈라리의 심판",
+    "skill_tags": [],
+    "total_score": 0,
+    "matched_passive_count": 0,
+    "top_passives": []
+  },
+  {
+    "skill": "나비라의 우물",
+    "skill_tags": [],
+    "total_score": 0,
+    "matched_passive_count": 0,
+    "top_passives": []
+  },
+  {
+    "skill": "나비라의 파열",
+    "skill_tags": [],
+    "total_score": 0,
+    "matched_passive_count": 0,
+    "top_passives": []
+  },
+  {
+    "skill": "나비라의 오아시스",
+    "skill_tags": [],
+    "total_score": 0,
+    "matched_passive_count": 0,
+    "top_passives": []
+  },
+  {
+    "skill": "켈라리의 악담",
+    "skill_tags": [],
+    "total_score": 0,
+    "matched_passive_count": 0,
+    "top_passives": []
+  },
+  {
+    "skill": "원소 표현",
+    "skill_tags": [],
+    "total_score": 0,
+    "matched_passive_count": 0,
+    "top_passives": []
+  },
+  {
+    "skill": "원소 폭풍",
+    "skill_tags": [],
+    "total_score": 0,
+    "matched_passive_count": 0,
+    "top_passives": []
+  },
+  {
+    "skill": "비취에 갇힘",
+    "skill_tags": [],
+    "total_score": 0,
+    "matched_passive_count": 0,
+    "top_passives": []
+  },
+  {
+    "skill": "폭발성 혼합물",
+    "skill_tags": [],
+    "total_score": 0,
+    "matched_passive_count": 0,
+    "top_passives": []
+  },
+  {
+    "skill": "전격의 혼합물",
+    "skill_tags": [],
+    "total_score": 0,
+    "matched_passive_count": 0,
+    "top_passives": []
+  },
+  {
+    "skill": "생명 잔류물",
+    "skill_tags": [],
+    "total_score": 0,
+    "matched_passive_count": 0,
+    "top_passives": []
+  },
+  {
+    "skill": "명상",
+    "skill_tags": [],
+    "total_score": 0,
+    "matched_passive_count": 0,
+    "top_passives": []
+  },
+  {
+    "skill": "취약성의 순간",
+    "skill_tags": [],
+    "total_score": 0,
+    "matched_passive_count": 0,
+    "top_passives": []
+  },
+  {
+    "skill": "폭발 산성 혼합물",
+    "skill_tags": [],
+    "total_score": 0,
+    "matched_passive_count": 0,
+    "top_passives": []
+  },
+  {
+    "skill": "산산조각의 혼합물",
+    "skill_tags": [],
+    "total_score": 0,
+    "matched_passive_count": 0,
+    "top_passives": []
+  },
+  {
+    "skill": "불타는 검 루잔",
+    "skill_tags": [],
+    "total_score": 0,
+    "matched_passive_count": 0,
+    "top_passives": []
+  },
+  {
+    "skill": "지옥불 사냥개 소환",
+    "skill_tags": [],
+    "total_score": 0,
+    "matched_passive_count": 0,
+    "top_passives": []
+  },
+  {
+    "skill": "화염 더럽혀진 사막 켈라리",
+    "skill_tags": [],
+    "total_score": 0,
+    "matched_passive_count": 0,
+    "top_passives": []
+  },
+  {
+    "skill": "최후의 신기루 나비라",
+    "skill_tags": [],
+    "total_score": 0,
+    "matched_passive_count": 0,
+    "top_passives": []
+  },
+  {
+    "skill": "원소 쇄도",
+    "skill_tags": [],
+    "total_score": 0,
+    "matched_passive_count": 0,
+    "top_passives": []
+  },
+  {
+    "skill": "족쇄 풀린 화신",
+    "skill_tags": [],
+    "total_score": 0,
+    "matched_passive_count": 0,
+    "top_passives": []
+  },
+  {
+    "skill": "촉발",
+    "skill_tags": [],
+    "total_score": 0,
+    "matched_passive_count": 0,
+    "top_passives": []
+  },
+  {
+    "skill": "점멸",
+    "skill_tags": [],
+    "total_score": 0,
+    "matched_passive_count": 0,
+    "top_passives": []
+  },
+  {
+    "skill": "전용 피 종기",
+    "skill_tags": [],
+    "total_score": 0,
+    "matched_passive_count": 0,
+    "top_passives": []
+  },
+  {
+    "skill": "명중 시 화염 주문",
+    "skill_tags": [],
+    "total_score": 0,
+    "matched_passive_count": 0,
+    "top_passives": []
+  },
+  {
+    "skill": "막기 시 시전",
+    "skill_tags": [],
+    "total_score": 0,
+    "matched_passive_count": 0,
+    "top_passives": []
+  },
+  {
+    "skill": "부패",
+    "skill_tags": [],
+    "total_score": 0,
+    "matched_passive_count": 0,
+    "top_passives": []
+  },
+  {
+    "skill": "악마 형상",
+    "skill_tags": [],
+    "total_score": 0,
+    "matched_passive_count": 0,
+    "top_passives": []
+  },
+  {
+    "skill": "피할 수 없는 고뇌",
+    "skill_tags": [],
+    "total_score": 0,
+    "matched_passive_count": 0,
+    "top_passives": []
+  },
+  {
+    "skill": "균열 속으로",
+    "skill_tags": [],
+    "total_score": 0,
+    "matched_passive_count": 0,
+    "top_passives": []
+  },
+  {
+    "skill": "무기 현현",
+    "skill_tags": [],
+    "total_score": 0,
+    "matched_passive_count": 0,
+    "top_passives": []
+  },
+  {
+    "skill": "유지형 지정 사격",
+    "skill_tags": [],
+    "total_score": 0,
+    "matched_passive_count": 0,
+    "top_passives": []
+  },
+  {
+    "skill": "신기루 명사수",
+    "skill_tags": [],
+    "total_score": 0,
+    "matched_passive_count": 0,
+    "top_passives": []
+  },
+  {
+    "skill": "흘려보내기",
+    "skill_tags": [],
+    "total_score": 0,
+    "matched_passive_count": 0,
+    "top_passives": []
+  },
+  {
+    "skill": "도끼 베기",
+    "skill_tags": [],
+    "total_score": 0,
+    "matched_passive_count": 0,
+    "top_passives": []
+  },
+  {
+    "skill": "철퇴 타격",
+    "skill_tags": [],
+    "total_score": 0,
+    "matched_passive_count": 0,
+    "top_passives": []
+  },
+  {
+    "skill": "검 베기",
+    "skill_tags": [],
+    "total_score": 0,
+    "matched_passive_count": 0,
+    "top_passives": []
+  },
+  {
+    "skill": "활 사격",
+    "skill_tags": [],
+    "total_score": 0,
+    "matched_passive_count": 0,
+    "top_passives": []
+  },
+  {
+    "skill": "연발 사격 가능 클로 찌르기",
+    "skill_tags": [],
+    "total_score": 0,
+    "matched_passive_count": 0,
+    "top_passives": []
+  },
+  {
+    "skill": "클로 찌르기",
+    "skill_tags": [],
+    "total_score": 0,
+    "matched_passive_count": 0,
+    "top_passives": []
+  },
+  {
+    "skill": "석궁 사격",
+    "skill_tags": [],
+    "total_score": 0,
+    "matched_passive_count": 0,
+    "top_passives": []
+  },
+  {
+    "skill": "단검 찌르기",
+    "skill_tags": [],
+    "total_score": 0,
+    "matched_passive_count": 0,
+    "top_passives": []
+  },
+  {
+    "skill": "도리깨 타격",
+    "skill_tags": [],
+    "total_score": 0,
+    "matched_passive_count": 0,
+    "top_passives": []
+  },
+  {
+    "skill": "육척봉 타격",
+    "skill_tags": [],
+    "total_score": 0,
+    "matched_passive_count": 0,
+    "top_passives": []
+  },
+  {
+    "skill": "창 찌르기",
+    "skill_tags": [],
+    "total_score": 0,
+    "matched_passive_count": 0,
+    "top_passives": []
+  },
+  {
+    "skill": "창 투척",
+    "skill_tags": [],
+    "total_score": 0,
+    "matched_passive_count": 0,
+    "top_passives": []
+  },
+  {
+    "skill": "연발 사격 가능 검 베기",
+    "skill_tags": [],
+    "total_score": 0,
+    "matched_passive_count": 0,
+    "top_passives": []
+  },
+  {
+    "skill": "주먹질",
+    "skill_tags": [],
+    "total_score": 0,
+    "matched_passive_count": 0,
+    "top_passives": []
+  },
+  {
+    "skill": "의식 희생",
+    "skill_tags": [],
+    "total_score": 0,
+    "matched_passive_count": 0,
+    "top_passives": []
+  },
+  {
+    "skill": "방패 들기",
+    "skill_tags": [],
+    "total_score": 0,
+    "matched_passive_count": 0,
+    "top_passives": []
+  },
+  {
+    "skill": "마술의 수호",
+    "skill_tags": [],
+    "total_score": 0,
+    "matched_passive_count": 0,
+    "top_passives": []
+  },
+  {
+    "skill": "신성화",
+    "skill_tags": [],
+    "total_score": 0,
+    "matched_passive_count": 0,
+    "top_passives": []
+  },
+  {
+    "skill": "폭발 지원 사격",
+    "skill_tags": [],
+    "total_score": 0,
+    "matched_passive_count": 0,
+    "top_passives": []
+  },
+  {
+    "skill": "무기 담금질",
+    "skill_tags": [],
+    "total_score": 0,
+    "matched_passive_count": 0,
+    "top_passives": []
+  },
+  {
+    "skill": "시간의 균열",
+    "skill_tags": [],
+    "total_score": 0,
+    "matched_passive_count": 0,
+    "top_passives": []
+  },
+  {
+    "skill": "시간 동결",
+    "skill_tags": [],
+    "total_score": 0,
+    "matched_passive_count": 0,
+    "top_passives": []
+  },
+  {
+    "skill": "시간 단절",
+    "skill_tags": [],
+    "total_score": 0,
+    "matched_passive_count": 0,
+    "top_passives": []
+  },
+  {
+    "skill": "얼음의 전령",
+    "skill_tags": [],
+    "total_score": 0,
+    "matched_passive_count": 0,
+    "top_passives": []
+  },
+  {
+    "skill": "공허 환상",
+    "skill_tags": [],
+    "total_score": 0,
+    "matched_passive_count": 0,
+    "top_passives": []
+  },
+  {
+    "skill": "방어구 관통 탄환",
+    "skill_tags": [],
+    "total_score": 0,
+    "matched_passive_count": 0,
+    "top_passives": []
+  },
+  {
+    "skill": "얽어매기",
+    "skill_tags": [],
+    "total_score": 0,
+    "matched_passive_count": 0,
+    "top_passives": []
+  },
+  {
+    "skill": "폭발 유탄",
+    "skill_tags": [],
+    "total_score": 0,
+    "matched_passive_count": 0,
+    "top_passives": []
+  },
+  {
+    "skill": "기폭 장치 떨어지는 천둥",
+    "skill_tags": [],
+    "total_score": 0,
+    "matched_passive_count": 0,
+    "top_passives": []
+  },
+  {
+    "skill": "파편 탄환",
+    "skill_tags": [],
+    "total_score": 0,
+    "matched_passive_count": 0,
+    "top_passives": []
+  },
+  {
+    "skill": "합쳐짐 얼어붙은 궤적",
+    "skill_tags": [],
+    "total_score": 0,
+    "matched_passive_count": 0,
+    "top_passives": []
+  },
+  {
+    "skill": "분개한 강타",
+    "skill_tags": [],
+    "total_score": 0,
+    "matched_passive_count": 0,
+    "top_passives": []
+  },
+  {
+    "skill": "강타 빙하 폭포",
+    "skill_tags": [],
+    "total_score": 0,
+    "matched_passive_count": 0,
+    "top_passives": []
+  },
+  {
+    "skill": "살상 장법",
+    "skill_tags": [],
+    "total_score": 0,
+    "matched_passive_count": 0,
+    "top_passives": []
+  },
+  {
+    "skill": "달의 공격",
+    "skill_tags": [],
+    "total_score": 0,
+    "matched_passive_count": 0,
+    "top_passives": []
+  },
+  {
+    "skill": "냉기 영구 결빙 볼트",
+    "skill_tags": [],
+    "total_score": 0,
+    "matched_passive_count": 0,
+    "top_passives": []
+  },
+  {
+    "skill": "합쳐짐 화산",
+    "skill_tags": [],
+    "total_score": 0,
+    "matched_passive_count": 0,
+    "top_passives": []
+  },
+  {
+    "skill": "섬광 유탄",
+    "skill_tags": [],
+    "total_score": 0,
+    "matched_passive_count": 0,
+    "top_passives": []
+  },
+  {
+    "skill": "고속 탄환",
+    "skill_tags": [],
+    "total_score": 0,
+    "matched_passive_count": 0,
+    "top_passives": []
+  },
+  {
+    "skill": "소이 사격",
+    "skill_tags": [],
+    "total_score": 0,
+    "matched_passive_count": 0,
+    "top_passives": []
+  },
+  {
+    "skill": "합쳐짐 몰려오는 마그마",
+    "skill_tags": [],
+    "total_score": 0,
+    "matched_passive_count": 0,
+    "top_passives": []
+  },
+  {
+    "skill": "기폭 장치 충격 장법",
+    "skill_tags": [],
+    "total_score": 0,
+    "matched_passive_count": 0,
+    "top_passives": []
+  },
+  {
+    "skill": "바람 폭풍의 종",
+    "skill_tags": [],
+    "total_score": 0,
+    "matched_passive_count": 0,
+    "top_passives": []
+  },
+  {
+    "skill": "바람 폭발",
+    "skill_tags": [],
+    "total_score": 0,
+    "matched_passive_count": 0,
+    "top_passives": []
+  },
+  {
+    "skill": "바람 날개 돌풍",
+    "skill_tags": [],
+    "total_score": 0,
+    "matched_passive_count": 0,
+    "top_passives": []
+  },
+  {
+    "skill": "바람 급습",
+    "skill_tags": [],
+    "total_score": 0,
+    "matched_passive_count": 0,
+    "top_passives": []
+  },
+  {
+    "skill": "메타 소모",
+    "skill_tags": [],
+    "total_score": 0,
+    "matched_passive_count": 0,
+    "top_passives": []
+  },
+  {
+    "skill": "가시밭",
+    "skill_tags": [],
+    "total_score": 0,
+    "matched_passive_count": 0,
+    "top_passives": []
+  },
+  {
+    "skill": "혼의 춤",
+    "skill_tags": [],
+    "total_score": 0,
+    "matched_passive_count": 0,
+    "top_passives": []
+  },
+  {
+    "skill": "피의 전령",
+    "skill_tags": [],
+    "total_score": 0,
+    "matched_passive_count": 0,
+    "top_passives": []
+  },
+  {
+    "skill": "얼음의 전령",
+    "skill_tags": [],
+    "total_score": 0,
+    "matched_passive_count": 0,
+    "top_passives": []
+  },
+  {
+    "skill": "야만적인 광분",
+    "skill_tags": [],
+    "total_score": 0,
+    "matched_passive_count": 0,
+    "top_passives": []
+  },
+  {
+    "skill": "전쟁 깃발",
+    "skill_tags": [],
+    "total_score": 0,
+    "matched_passive_count": 0,
+    "top_passives": []
+  },
+  {
+    "skill": "조건부 산의 광분",
+    "skill_tags": [],
+    "total_score": 0,
+    "matched_passive_count": 0,
+    "top_passives": []
+  },
+  {
+    "skill": "집중 유지 충격 파편",
+    "skill_tags": [],
+    "total_score": 0,
+    "matched_passive_count": 0,
+    "top_passives": []
+  },
+  {
+    "skill": "합쳐짐 얼음 파편",
+    "skill_tags": [],
+    "total_score": 0,
+    "matched_passive_count": 0,
+    "top_passives": []
+  },
+  {
+    "skill": "얼음 타격",
+    "skill_tags": [],
+    "total_score": 0,
+    "matched_passive_count": 0,
+    "top_passives": []
+  },
+  {
+    "skill": "신속한 사격",
+    "skill_tags": [],
+    "total_score": 0,
+    "matched_passive_count": 0,
+    "top_passives": []
+  },
+  {
+    "skill": "폭풍의 질풍",
+    "skill_tags": [],
+    "total_score": 0,
+    "matched_passive_count": 0,
+    "top_passives": []
+  },
+  {
+    "skill": "뇌우",
+    "skill_tags": [],
+    "total_score": 0,
+    "matched_passive_count": 0,
+    "top_passives": []
+  },
+  {
+    "skill": "가스 유탄",
+    "skill_tags": [],
+    "total_score": 0,
+    "matched_passive_count": 0,
+    "top_passives": []
+  },
+  {
+    "skill": "뜀틀 충격",
+    "skill_tags": [],
+    "total_score": 0,
+    "matched_passive_count": 0,
+    "top_passives": []
+  },
+  {
+    "skill": "청산 한기의 울부짖음",
+    "skill_tags": [],
+    "total_score": 0,
+    "matched_passive_count": 0,
+    "top_passives": []
+  },
+  {
+    "skill": "폭발 포식",
+    "skill_tags": [],
+    "total_score": 0,
+    "matched_passive_count": 0,
+    "top_passives": []
+  },
+  {
+    "skill": "강타 포대 쇠뇌",
+    "skill_tags": [],
+    "total_score": 0,
+    "matched_passive_count": 0,
+    "top_passives": []
+  },
+  {
+    "skill": "폭발성 사격",
+    "skill_tags": [],
+    "total_score": 0,
+    "matched_passive_count": 0,
+    "top_passives": []
+  },
+  {
+    "skill": "기폭 장치 사나운 포효",
+    "skill_tags": [],
+    "total_score": 0,
+    "matched_passive_count": 0,
+    "top_passives": []
+  },
+  {
+    "skill": "메타 동결의 징표",
+    "skill_tags": [],
+    "total_score": 0,
+    "matched_passive_count": 0,
+    "top_passives": []
+  },
+  {
+    "skill": "빙하 볼트",
+    "skill_tags": [],
+    "total_score": 0,
+    "matched_passive_count": 0,
+    "top_passives": []
+  },
+  {
+    "skill": "주문 토템",
+    "skill_tags": [],
+    "total_score": 0,
+    "matched_passive_count": 0,
+    "top_passives": []
+  },
+  {
+    "skill": "전도성 유탄",
+    "skill_tags": [],
+    "total_score": 0,
+    "matched_passive_count": 0,
+    "top_passives": []
+  },
+  {
+    "skill": "착취 타격",
+    "skill_tags": [],
+    "total_score": 0,
+    "matched_passive_count": 0,
+    "top_passives": []
+  },
+  {
+    "skill": "폭풍 파도",
+    "skill_tags": [],
+    "total_score": 0,
+    "matched_passive_count": 0,
+    "top_passives": []
+  },
+  {
+    "skill": "서리의 파도",
+    "skill_tags": [],
+    "total_score": 0,
+    "matched_passive_count": 0,
+    "top_passives": []
+  },
+  {
+    "skill": "십자 베기",
+    "skill_tags": [],
+    "total_score": 0,
+    "matched_passive_count": 0,
+    "top_passives": []
+  },
+  {
+    "skill": "근접 껍질피부",
+    "skill_tags": [],
+    "total_score": 0,
+    "matched_passive_count": 0,
+    "top_passives": []
+  },
+  {
+    "skill": "방어 기원",
+    "skill_tags": [],
+    "total_score": 0,
+    "matched_passive_count": 0,
+    "top_passives": []
+  },
+  {
+    "skill": "메타 저항의 깃발",
+    "skill_tags": [],
+    "total_score": 0,
+    "matched_passive_count": 0,
+    "top_passives": []
+  },
+  {
+    "skill": "조건부 원소 기원",
+    "skill_tags": [],
+    "total_score": 0,
+    "matched_passive_count": 0,
+    "top_passives": []
+  },
+  {
+    "skill": "메타 지속되는 환상",
+    "skill_tags": [],
+    "total_score": 0,
+    "matched_passive_count": 0,
+    "top_passives": []
+  },
+  {
+    "skill": "파편 청소부",
+    "skill_tags": [],
+    "total_score": 0,
+    "matched_passive_count": 0,
+    "top_passives": []
+  },
+  {
+    "skill": "늑대 무리",
+    "skill_tags": [],
+    "total_score": 0,
+    "matched_passive_count": 0,
+    "top_passives": []
+  },
+  {
+    "skill": "물리 충전 지팡이",
+    "skill_tags": [],
+    "total_score": 0,
+    "matched_passive_count": 0,
+    "top_passives": []
+  },
+  {
+    "skill": "차율라의 손",
+    "skill_tags": [],
+    "total_score": 0,
+    "matched_passive_count": 0,
+    "top_passives": []
+  },
+  {
+    "skill": "파괴의 주문",
+    "skill_tags": [],
+    "total_score": 0,
+    "matched_passive_count": 0,
+    "top_passives": []
+  },
+  {
+    "skill": "기름 포화",
+    "skill_tags": [],
+    "total_score": 0,
+    "matched_passive_count": 0,
+    "top_passives": []
+  },
+  {
+    "skill": "집중 유지 기름 유탄",
+    "skill_tags": [],
+    "total_score": 0,
+    "matched_passive_count": 0,
+    "top_passives": []
+  },
+  {
+    "skill": "공성 쇠뇌",
+    "skill_tags": [],
+    "total_score": 0,
+    "matched_passive_count": 0,
+    "top_passives": []
+  },
+  {
+    "skill": "연발 사격 가능 태풍 파열 볼트",
+    "skill_tags": [],
+    "total_score": 0,
+    "matched_passive_count": 0,
+    "top_passives": []
+  },
+  {
+    "skill": "몸부림치는 덩굴",
+    "skill_tags": [],
+    "total_score": 0,
+    "matched_passive_count": 0,
+    "top_passives": []
+  },
+  {
+    "skill": "광란",
+    "skill_tags": [],
+    "total_score": 0,
+    "matched_passive_count": 0,
+    "top_passives": []
+  },
+  {
+    "skill": "이동 전용 비상 재장전",
+    "skill_tags": [],
+    "total_score": 0,
+    "matched_passive_count": 0,
+    "top_passives": []
+  },
+  {
+    "skill": "우박폭풍 탄환",
+    "skill_tags": [],
+    "total_score": 0,
+    "matched_passive_count": 0,
+    "top_passives": []
+  },
+  {
+    "skill": "박격포 대포",
+    "skill_tags": [],
+    "total_score": 0,
+    "matched_passive_count": 0,
+    "top_passives": []
+  },
+  {
+    "skill": "격파 장법",
+    "skill_tags": [],
+    "total_score": 0,
+    "matched_passive_count": 0,
+    "top_passives": []
+  },
+  {
+    "skill": "감전 파열 탄환",
+    "skill_tags": [],
+    "total_score": 0,
+    "matched_passive_count": 0,
+    "top_passives": []
+  },
+  {
+    "skill": "회오리",
+    "skill_tags": [],
+    "total_score": 0,
+    "matched_passive_count": 0,
+    "top_passives": []
+  },
+  {
+    "skill": "폭풍 선회 공격",
+    "skill_tags": [],
+    "total_score": 0,
+    "matched_passive_count": 0,
+    "top_passives": []
+  },
+  {
+    "skill": "집속 유탄",
+    "skill_tags": [],
+    "total_score": 0,
+    "matched_passive_count": 0,
+    "top_passives": []
+  },
+  {
+    "skill": "점멸 타격",
+    "skill_tags": [],
+    "total_score": 0,
+    "matched_passive_count": 0,
+    "top_passives": []
+  },
+  {
+    "skill": "몰려드는 폭풍",
+    "skill_tags": [],
+    "total_score": 0,
+    "matched_passive_count": 0,
+    "top_passives": []
+  },
+  {
+    "skill": "전용 플라스마 폭발",
+    "skill_tags": [],
+    "total_score": 0,
+    "matched_passive_count": 0,
+    "top_passives": []
+  },
+  {
+    "skill": "공성 폭포",
+    "skill_tags": [],
+    "total_score": 0,
+    "matched_passive_count": 0,
+    "top_passives": []
+  },
+  {
+    "skill": "걸어다니는 대재난",
+    "skill_tags": [],
+    "total_score": 0,
+    "matched_passive_count": 0,
+    "top_passives": []
+  },
+  {
+    "skill": "조건부 달의 축복",
+    "skill_tags": [],
+    "total_score": 0,
+    "matched_passive_count": 0,
+    "top_passives": []
+  },
+  {
+    "skill": "지속시간 화염 숨결",
+    "skill_tags": [],
+    "total_score": 0,
+    "matched_passive_count": 0,
+    "top_passives": []
+  },
+  {
+    "skill": "기폭 장치 회피 구르기 시 시전",
+    "skill_tags": [],
+    "total_score": 0,
+    "matched_passive_count": 0,
+    "top_passives": []
+  },
+  {
+    "skill": "충전 제어",
+    "skill_tags": [],
+    "total_score": 0,
+    "matched_passive_count": 0,
+    "top_passives": []
+  },
+  {
+    "skill": "공포의 깃발",
+    "skill_tags": [],
+    "total_score": 0,
+    "matched_passive_count": 0,
+    "top_passives": []
+  },
+  {
+    "skill": "조건부 야생의 기원",
+    "skill_tags": [],
+    "total_score": 0,
+    "matched_passive_count": 0,
+    "top_passives": []
+  },
+  {
+    "skill": "메타 수확자의 기원",
+    "skill_tags": [],
+    "total_score": 0,
+    "matched_passive_count": 0,
+    "top_passives": []
+  },
+  {
+    "skill": "메타 삼위일체",
+    "skill_tags": [],
+    "total_score": 0,
+    "matched_passive_count": 0,
+    "top_passives": []
+  }
+]

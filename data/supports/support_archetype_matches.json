@@ -1,0 +1,3052 @@
+{
+  "Tri-Element Trigger Duration": [
+    {
+      "name": "하욕시의 뇌전",
+      "tier": 1,
+      "score": 19,
+      "matched_tags": [
+        "발동",
+        "화염",
+        "냉기",
+        "번개",
+        "효과 범위",
+        "주문"
+      ],
+      "tags": [
+        "보조",
+        "혈통",
+        "주문",
+        "효과 범위",
+        "발동",
+        "물리",
+        "번개",
+        "냉기",
+        "화염",
+        "카오스",
+        "저주"
+      ],
+      "tags_en": [
+        "support",
+        "lineage",
+        "spell",
+        "aoe",
+        "trigger",
+        "physical",
+        "lightning",
+        "cold",
+        "fire",
+        "chaos",
+        "curse"
+      ]
+    },
+    {
+      "name": "원소 방출",
+      "tier": 3,
+      "score": 19,
+      "matched_tags": [
+        "발동",
+        "화염",
+        "냉기",
+        "번개",
+        "효과 범위",
+        "주문"
+      ],
+      "tags": [
+        "보조",
+        "주문",
+        "효과 범위",
+        "발동",
+        "번개",
+        "냉기",
+        "화염",
+        "청산"
+      ],
+      "tags_en": [
+        "support",
+        "spell",
+        "aoe",
+        "trigger",
+        "lightning",
+        "cold",
+        "fire",
+        "payoff"
+      ]
+    },
+    {
+      "name": "촉진시키는 원소",
+      "tier": 5,
+      "score": 19,
+      "matched_tags": [
+        "발동",
+        "화염",
+        "냉기",
+        "번개",
+        "효과 범위",
+        "주문"
+      ],
+      "tags": [
+        "보조",
+        "주문",
+        "효과 범위",
+        "발동",
+        "번개",
+        "냉기",
+        "화염"
+      ],
+      "tags_en": [
+        "support",
+        "spell",
+        "aoe",
+        "trigger",
+        "lightning",
+        "cold",
+        "fire"
+      ]
+    },
+    {
+      "name": "정전기 감전",
+      "tier": 3,
+      "score": 17,
+      "matched_tags": [
+        "발동",
+        "지속시간",
+        "번개",
+        "효과 범위",
+        "주문"
+      ],
+      "tags": [
+        "보조",
+        "주문",
+        "효과 범위",
+        "발동",
+        "지속형",
+        "번개",
+        "지속시간"
+      ],
+      "tags_en": [
+        "support",
+        "spell",
+        "aoe",
+        "trigger",
+        "persistent",
+        "lightning",
+        "duration"
+      ]
+    },
+    {
+      "name": "분화구",
+      "tier": 2,
+      "score": 15,
+      "matched_tags": [
+        "발동",
+        "지속시간",
+        "화염",
+        "효과 범위"
+      ],
+      "tags": [
+        "보조",
+        "공격",
+        "효과 범위",
+        "근접",
+        "발동",
+        "화염",
+        "지속시간"
+      ],
+      "tags_en": [
+        "support",
+        "attack",
+        "aoe",
+        "melee",
+        "trigger",
+        "fire",
+        "duration"
+      ]
+    },
+    {
+      "name": "충전된 징표",
+      "tier": 5,
+      "score": 14,
+      "matched_tags": [
+        "발동",
+        "지속시간",
+        "효과 범위",
+        "주문"
+      ],
+      "tags": [
+        "보조",
+        "주문",
+        "효과 범위",
+        "발동",
+        "징표",
+        "지속시간"
+      ],
+      "tags_en": [
+        "support",
+        "spell",
+        "aoe",
+        "trigger",
+        "mark",
+        "duration"
+      ]
+    },
+    {
+      "name": "마나 섬광",
+      "tier": 2,
+      "score": 13,
+      "matched_tags": [
+        "발동",
+        "화염",
+        "효과 범위",
+        "주문"
+      ],
+      "tags": [
+        "보조",
+        "주문",
+        "효과 범위",
+        "발동",
+        "화염"
+      ],
+      "tags_en": [
+        "support",
+        "spell",
+        "aoe",
+        "trigger",
+        "fire"
+      ]
+    },
+    {
+      "name": "불타는 죽음",
+      "tier": 2,
+      "score": 13,
+      "matched_tags": [
+        "발동",
+        "화염",
+        "효과 범위",
+        "주문"
+      ],
+      "tags": [
+        "보조",
+        "주문",
+        "효과 범위",
+        "발동",
+        "화염"
+      ],
+      "tags_en": [
+        "support",
+        "spell",
+        "aoe",
+        "trigger",
+        "fire"
+      ]
+    },
+    {
+      "name": "살아 있는 번개",
+      "tier": 2,
+      "score": 13,
+      "matched_tags": [
+        "발동",
+        "지속시간",
+        "번개"
+      ],
+      "tags": [
+        "보조",
+        "소환수",
+        "발동",
+        "번개",
+        "지속시간"
+      ],
+      "tags_en": [
+        "support",
+        "minion",
+        "trigger",
+        "lightning",
+        "duration"
+      ]
+    },
+    {
+      "name": "전자기력",
+      "tier": 3,
+      "score": 13,
+      "matched_tags": [
+        "발동",
+        "번개",
+        "효과 범위",
+        "주문"
+      ],
+      "tags": [
+        "보조",
+        "주문",
+        "효과 범위",
+        "발동",
+        "지속형",
+        "번개",
+        "청산"
+      ],
+      "tags_en": [
+        "support",
+        "spell",
+        "aoe",
+        "trigger",
+        "persistent",
+        "lightning",
+        "payoff"
+      ]
+    },
+    {
+      "name": "살아 있는 번개 II",
+      "tier": 4,
+      "score": 13,
+      "matched_tags": [
+        "발동",
+        "지속시간",
+        "번개"
+      ],
+      "tags": [
+        "보조",
+        "소환수",
+        "발동",
+        "번개",
+        "지속시간"
+      ],
+      "tags_en": [
+        "support",
+        "minion",
+        "trigger",
+        "lightning",
+        "duration"
+      ]
+    },
+    {
+      "name": "몽상가의 종소리",
+      "tier": 1,
+      "score": 12,
+      "matched_tags": [
+        "발동",
+        "지속시간",
+        "효과 범위"
+      ],
+      "tags": [
+        "보조",
+        "혈통",
+        "공격",
+        "효과 범위",
+        "근접",
+        "발동",
+        "지속시간"
+      ],
+      "tags_en": [
+        "support",
+        "lineage",
+        "attack",
+        "aoe",
+        "melee",
+        "trigger",
+        "duration"
+      ]
+    },
+    {
+      "name": "독 포자",
+      "tier": 3,
+      "score": 12,
+      "matched_tags": [
+        "발동",
+        "지속시간",
+        "효과 범위"
+      ],
+      "tags": [
+        "보조",
+        "공격",
+        "버프",
+        "효과 범위",
+        "발동",
+        "물리",
+        "카오스",
+        "지속시간",
+        "식물"
+      ],
+      "tags_en": [
+        "support",
+        "attack",
+        "buff",
+        "aoe",
+        "trigger",
+        "physical",
+        "chaos",
+        "duration",
+        "plant"
+      ]
+    },
+    {
+      "name": "마름쇠",
+      "tier": 3,
+      "score": 12,
+      "matched_tags": [
+        "발동",
+        "지속시간",
+        "효과 범위"
+      ],
+      "tags": [
+        "보조",
+        "공격",
+        "효과 범위",
+        "투사체",
+        "발동",
+        "지속시간",
+        "위해 요소"
+      ],
+      "tags_en": [
+        "support",
+        "attack",
+        "aoe",
+        "projectile",
+        "trigger",
+        "duration",
+        "hazard"
+      ]
+    },
+    {
+      "name": "방어구 폭발",
+      "tier": 1,
+      "score": 11,
+      "matched_tags": [
+        "발동",
+        "화염",
+        "효과 범위"
+      ],
+      "tags": [
+        "보조",
+        "공격",
+        "함성",
+        "효과 범위",
+        "발동",
+        "화염",
+        "청산"
+      ],
+      "tags_en": [
+        "support",
+        "attack",
+        "warcry",
+        "aoe",
+        "trigger",
+        "fire",
+        "payoff"
+      ]
+    },
+    {
+      "name": "세차게 흐르는 전류",
+      "tier": 1,
+      "score": 11,
+      "matched_tags": [
+        "발동",
+        "번개",
+        "주문"
+      ],
+      "tags": [
+        "보조",
+        "주문",
+        "투사체",
+        "발동",
+        "번개",
+        "연쇄"
+      ],
+      "tags_en": [
+        "support",
+        "spell",
+        "projectile",
+        "trigger",
+        "lightning",
+        "chain"
+      ]
+    },
+    {
+      "name": "엄습하는 오한",
+      "tier": 1,
+      "score": 11,
+      "matched_tags": [
+        "발동",
+        "냉기",
+        "효과 범위"
+      ],
+      "tags": [
+        "보조",
+        "효과 범위",
+        "발동",
+        "냉기"
+      ],
+      "tags_en": [
+        "support",
+        "aoe",
+        "trigger",
+        "cold"
+      ]
+    },
+    {
+      "name": "지바콰의 분리",
+      "tier": 1,
+      "score": 11,
+      "matched_tags": [
+        "발동",
+        "화염",
+        "효과 범위"
+      ],
+      "tags": [
+        "보조",
+        "혈통",
+        "효과 범위",
+        "발동",
+        "화염"
+      ],
+      "tags_en": [
+        "support",
+        "lineage",
+        "aoe",
+        "trigger",
+        "fire"
+      ]
+    },
+    {
+      "name": "불난 집 부채질",
+      "tier": 2,
+      "score": 11,
+      "matched_tags": [
+        "발동",
+        "화염",
+        "효과 범위"
+      ],
+      "tags": [
+        "보조",
+        "공격",
+        "효과 범위",
+        "발동",
+        "화염"
+      ],
+      "tags_en": [
+        "support",
+        "attack",
+        "aoe",
+        "trigger",
+        "fire"
+      ]
+    },
+    {
+      "name": "얼어붙은 악의",
+      "tier": 2,
+      "score": 11,
+      "matched_tags": [
+        "발동",
+        "냉기",
+        "효과 범위"
+      ],
+      "tags": [
+        "보조",
+        "효과 범위",
+        "투사체",
+        "발동",
+        "냉기"
+      ],
+      "tags_en": [
+        "support",
+        "aoe",
+        "projectile",
+        "trigger",
+        "cold"
+      ]
+    },
+    {
+      "name": "화산 분출",
+      "tier": 2,
+      "score": 11,
+      "matched_tags": [
+        "발동",
+        "화염",
+        "효과 범위"
+      ],
+      "tags": [
+        "보조",
+        "공격",
+        "효과 범위",
+        "근접",
+        "타격",
+        "투사체",
+        "발동",
+        "화염"
+      ],
+      "tags_en": [
+        "support",
+        "attack",
+        "aoe",
+        "melee",
+        "strike",
+        "projectile",
+        "trigger",
+        "fire"
+      ]
+    },
+    {
+      "name": "불난 집 부채질 II",
+      "tier": 4,
+      "score": 11,
+      "matched_tags": [
+        "발동",
+        "화염",
+        "효과 범위"
+      ],
+      "tags": [
+        "보조",
+        "공격",
+        "효과 범위",
+        "발동",
+        "화염"
+      ],
+      "tags_en": [
+        "support",
+        "attack",
+        "aoe",
+        "trigger",
+        "fire"
+      ]
+    },
+    {
+      "name": "용암 명문",
+      "tier": 4,
+      "score": 11,
+      "matched_tags": [
+        "발동",
+        "화염",
+        "효과 범위"
+      ],
+      "tags": [
+        "보조",
+        "효과 범위",
+        "발동",
+        "화염"
+      ],
+      "tags_en": [
+        "support",
+        "aoe",
+        "trigger",
+        "fire"
+      ]
+    },
+    {
+      "name": "도이드리의 파멸",
+      "tier": 1,
+      "score": 10,
+      "matched_tags": [
+        "발동",
+        "효과 범위",
+        "주문"
+      ],
+      "tags": [
+        "보조",
+        "혈통",
+        "주문",
+        "효과 범위",
+        "발동",
+        "카오스",
+        "저주",
+        "위해 요소"
+      ],
+      "tags_en": [
+        "support",
+        "lineage",
+        "spell",
+        "aoe",
+        "trigger",
+        "chaos",
+        "curse",
+        "hazard"
+      ]
+    },
+    {
+      "name": "앗지리의 부름",
+      "tier": 1,
+      "score": 10,
+      "matched_tags": [
+        "발동",
+        "효과 범위",
+        "주문"
+      ],
+      "tags": [
+        "보조",
+        "혈통",
+        "주문",
+        "효과 범위",
+        "발동"
+      ],
+      "tags_en": [
+        "support",
+        "lineage",
+        "spell",
+        "aoe",
+        "trigger"
+      ]
+    },
+    {
+      "name": "임박한 멸망",
+      "tier": 1,
+      "score": 10,
+      "matched_tags": [
+        "발동",
+        "효과 범위",
+        "주문"
+      ],
+      "tags": [
+        "보조",
+        "주문",
+        "효과 범위",
+        "발동",
+        "카오스"
+      ],
+      "tags_en": [
+        "support",
+        "spell",
+        "aoe",
+        "trigger",
+        "chaos"
+      ]
+    },
+    {
+      "name": "가속된 성장",
+      "tier": 2,
+      "score": 10,
+      "matched_tags": [
+        "발동",
+        "효과 범위",
+        "주문"
+      ],
+      "tags": [
+        "보조",
+        "주문",
+        "효과 범위",
+        "발동",
+        "식물"
+      ],
+      "tags_en": [
+        "support",
+        "spell",
+        "aoe",
+        "trigger",
+        "plant"
+      ]
+    },
+    {
+      "name": "달리는 돌 I",
+      "tier": 2,
+      "score": 10,
+      "matched_tags": [
+        "발동",
+        "지속시간"
+      ],
+      "tags": [
+        "보조",
+        "소환수",
+        "발동",
+        "물리",
+        "지속시간"
+      ],
+      "tags_en": [
+        "support",
+        "minion",
+        "trigger",
+        "physical",
+        "duration"
+      ]
+    },
+    {
+      "name": "달리는 돌 II",
+      "tier": 4,
+      "score": 10,
+      "matched_tags": [
+        "발동",
+        "지속시간"
+      ],
+      "tags": [
+        "보조",
+        "소환수",
+        "발동",
+        "물리",
+        "지속시간"
+      ],
+      "tags_en": [
+        "support",
+        "minion",
+        "trigger",
+        "physical",
+        "duration"
+      ]
+    },
+    {
+      "name": "가속된 성장 II",
+      "tier": 5,
+      "score": 10,
+      "matched_tags": [
+        "발동",
+        "효과 범위",
+        "주문"
+      ],
+      "tags": [
+        "보조",
+        "주문",
+        "효과 범위",
+        "발동",
+        "식물"
+      ],
+      "tags_en": [
+        "support",
+        "spell",
+        "aoe",
+        "trigger",
+        "plant"
+      ]
+    }
+  ],
+  "Projectile Duration Grenade": [
+    {
+      "name": "마름쇠",
+      "tier": 3,
+      "score": 14,
+      "matched_tags": [
+        "투사체",
+        "지속시간",
+        "효과 범위",
+        "발동"
+      ],
+      "tags": [
+        "보조",
+        "공격",
+        "효과 범위",
+        "투사체",
+        "발동",
+        "지속시간",
+        "위해 요소"
+      ],
+      "tags_en": [
+        "support",
+        "attack",
+        "aoe",
+        "projectile",
+        "trigger",
+        "duration",
+        "hazard"
+      ]
+    },
+    {
+      "name": "세차게 흐르는 전류",
+      "tier": 1,
+      "score": 11,
+      "matched_tags": [
+        "투사체",
+        "연쇄",
+        "발동"
+      ],
+      "tags": [
+        "보조",
+        "주문",
+        "투사체",
+        "발동",
+        "번개",
+        "연쇄"
+      ],
+      "tags_en": [
+        "support",
+        "spell",
+        "projectile",
+        "trigger",
+        "lightning",
+        "chain"
+      ]
+    },
+    {
+      "name": "얼어붙은 악의",
+      "tier": 2,
+      "score": 11,
+      "matched_tags": [
+        "투사체",
+        "효과 범위",
+        "발동"
+      ],
+      "tags": [
+        "보조",
+        "효과 범위",
+        "투사체",
+        "발동",
+        "냉기"
+      ],
+      "tags_en": [
+        "support",
+        "aoe",
+        "projectile",
+        "trigger",
+        "cold"
+      ]
+    },
+    {
+      "name": "화산 분출",
+      "tier": 2,
+      "score": 11,
+      "matched_tags": [
+        "투사체",
+        "효과 범위",
+        "발동"
+      ],
+      "tags": [
+        "보조",
+        "공격",
+        "효과 범위",
+        "근접",
+        "타격",
+        "투사체",
+        "발동",
+        "화염"
+      ],
+      "tags_en": [
+        "support",
+        "attack",
+        "aoe",
+        "melee",
+        "strike",
+        "projectile",
+        "trigger",
+        "fire"
+      ]
+    },
+    {
+      "name": "도미누스의 장악",
+      "tier": 1,
+      "score": 9,
+      "matched_tags": [
+        "투사체",
+        "연쇄"
+      ],
+      "tags": [
+        "보조",
+        "혈통",
+        "투사체",
+        "연쇄"
+      ],
+      "tags_en": [
+        "support",
+        "lineage",
+        "projectile",
+        "chain"
+      ]
+    },
+    {
+      "name": "몽상가의 종소리",
+      "tier": 1,
+      "score": 9,
+      "matched_tags": [
+        "지속시간",
+        "효과 범위",
+        "발동"
+      ],
+      "tags": [
+        "보조",
+        "혈통",
+        "공격",
+        "효과 범위",
+        "근접",
+        "발동",
+        "지속시간"
+      ],
+      "tags_en": [
+        "support",
+        "lineage",
+        "attack",
+        "aoe",
+        "melee",
+        "trigger",
+        "duration"
+      ]
+    },
+    {
+      "name": "폭풍연쇄",
+      "tier": 1,
+      "score": 9,
+      "matched_tags": [
+        "투사체",
+        "연쇄"
+      ],
+      "tags": [
+        "보조",
+        "투사체",
+        "번개",
+        "연쇄"
+      ],
+      "tags_en": [
+        "support",
+        "projectile",
+        "lightning",
+        "chain"
+      ]
+    },
+    {
+      "name": "분화구",
+      "tier": 2,
+      "score": 9,
+      "matched_tags": [
+        "지속시간",
+        "효과 범위",
+        "발동"
+      ],
+      "tags": [
+        "보조",
+        "공격",
+        "효과 범위",
+        "근접",
+        "발동",
+        "화염",
+        "지속시간"
+      ],
+      "tags_en": [
+        "support",
+        "attack",
+        "aoe",
+        "melee",
+        "trigger",
+        "fire",
+        "duration"
+      ]
+    },
+    {
+      "name": "전압",
+      "tier": 2,
+      "score": 9,
+      "matched_tags": [
+        "투사체",
+        "연쇄"
+      ],
+      "tags": [
+        "보조",
+        "공격",
+        "투사체",
+        "번개",
+        "연쇄"
+      ],
+      "tags_en": [
+        "support",
+        "attack",
+        "projectile",
+        "lightning",
+        "chain"
+      ]
+    },
+    {
+      "name": "독 포자",
+      "tier": 3,
+      "score": 9,
+      "matched_tags": [
+        "지속시간",
+        "효과 범위",
+        "발동"
+      ],
+      "tags": [
+        "보조",
+        "공격",
+        "버프",
+        "효과 범위",
+        "발동",
+        "물리",
+        "카오스",
+        "지속시간",
+        "식물"
+      ],
+      "tags_en": [
+        "support",
+        "attack",
+        "buff",
+        "aoe",
+        "trigger",
+        "physical",
+        "chaos",
+        "duration",
+        "plant"
+      ]
+    },
+    {
+      "name": "정전기 감전",
+      "tier": 3,
+      "score": 9,
+      "matched_tags": [
+        "지속시간",
+        "효과 범위",
+        "발동"
+      ],
+      "tags": [
+        "보조",
+        "주문",
+        "효과 범위",
+        "발동",
+        "지속형",
+        "번개",
+        "지속시간"
+      ],
+      "tags_en": [
+        "support",
+        "spell",
+        "aoe",
+        "trigger",
+        "persistent",
+        "lightning",
+        "duration"
+      ]
+    },
+    {
+      "name": "충전된 징표",
+      "tier": 5,
+      "score": 9,
+      "matched_tags": [
+        "지속시간",
+        "효과 범위",
+        "발동"
+      ],
+      "tags": [
+        "보조",
+        "주문",
+        "효과 범위",
+        "발동",
+        "징표",
+        "지속시간"
+      ],
+      "tags_en": [
+        "support",
+        "spell",
+        "aoe",
+        "trigger",
+        "mark",
+        "duration"
+      ]
+    },
+    {
+      "name": "라타의 공격",
+      "tier": 1,
+      "score": 8,
+      "matched_tags": [
+        "투사체",
+        "탄약"
+      ],
+      "tags": [
+        "보조",
+        "혈통",
+        "탄약",
+        "투사체"
+      ],
+      "tags_en": [
+        "support",
+        "lineage",
+        "ammo",
+        "projectile"
+      ]
+    },
+    {
+      "name": "아르준의 메달",
+      "tier": 1,
+      "score": 8,
+      "matched_tags": [
+        "투사체",
+        "탄약"
+      ],
+      "tags": [
+        "보조",
+        "혈통",
+        "탄약",
+        "투사체"
+      ],
+      "tags_en": [
+        "support",
+        "lineage",
+        "ammo",
+        "projectile"
+      ]
+    },
+    {
+      "name": "연쇄 I",
+      "tier": 1,
+      "score": 8,
+      "matched_tags": [
+        "투사체",
+        "연쇄"
+      ],
+      "tags": [
+        "보조",
+        "투사체",
+        "연쇄"
+      ],
+      "tags_en": [
+        "support",
+        "projectile",
+        "chain"
+      ]
+    },
+    {
+      "name": "연쇄 II",
+      "tier": 2,
+      "score": 8,
+      "matched_tags": [
+        "투사체",
+        "연쇄"
+      ],
+      "tags": [
+        "보조",
+        "투사체",
+        "연쇄"
+      ],
+      "tags_en": [
+        "support",
+        "projectile",
+        "chain"
+      ]
+    },
+    {
+      "name": "연쇄 III",
+      "tier": 5,
+      "score": 8,
+      "matched_tags": [
+        "투사체",
+        "연쇄"
+      ],
+      "tags": [
+        "보조",
+        "투사체",
+        "연쇄"
+      ],
+      "tags_en": [
+        "support",
+        "projectile",
+        "chain"
+      ]
+    },
+    {
+      "name": "더블배럴 I",
+      "tier": 1,
+      "score": 7,
+      "matched_tags": [
+        "투사체",
+        "탄약"
+      ],
+      "tags": [
+        "보조",
+        "탄약",
+        "투사체"
+      ],
+      "tags_en": [
+        "support",
+        "ammo",
+        "projectile"
+      ]
+    },
+    {
+      "name": "자동 재장전",
+      "tier": 1,
+      "score": 7,
+      "matched_tags": [
+        "투사체",
+        "탄약"
+      ],
+      "tags": [
+        "보조",
+        "탄약",
+        "투사체"
+      ],
+      "tags_en": [
+        "support",
+        "ammo",
+        "projectile"
+      ]
+    },
+    {
+      "name": "더블배럴 II",
+      "tier": 2,
+      "score": 7,
+      "matched_tags": [
+        "투사체",
+        "탄약"
+      ],
+      "tags": [
+        "보조",
+        "탄약",
+        "투사체"
+      ],
+      "tags_en": [
+        "support",
+        "ammo",
+        "projectile"
+      ]
+    },
+    {
+      "name": "요철 지대 I",
+      "tier": 2,
+      "score": 7,
+      "matched_tags": [
+        "지속시간",
+        "효과 범위"
+      ],
+      "tags": [
+        "보조",
+        "공격",
+        "효과 범위",
+        "근접",
+        "강타",
+        "지속시간"
+      ],
+      "tags_en": [
+        "support",
+        "attack",
+        "aoe",
+        "melee",
+        "slam",
+        "duration"
+      ]
+    },
+    {
+      "name": "탄약 보존 I",
+      "tier": 2,
+      "score": 7,
+      "matched_tags": [
+        "투사체",
+        "탄약"
+      ],
+      "tags": [
+        "보조",
+        "탄약",
+        "투사체"
+      ],
+      "tags_en": [
+        "support",
+        "ammo",
+        "projectile"
+      ]
+    },
+    {
+      "name": "유선형 탄환",
+      "tier": 3,
+      "score": 7,
+      "matched_tags": [
+        "투사체",
+        "탄약"
+      ],
+      "tags": [
+        "보조",
+        "탄약",
+        "투사체"
+      ],
+      "tags_en": [
+        "support",
+        "ammo",
+        "projectile"
+      ]
+    },
+    {
+      "name": "가뿐한 재장전",
+      "tier": 4,
+      "score": 7,
+      "matched_tags": [
+        "투사체",
+        "탄약"
+      ],
+      "tags": [
+        "보조",
+        "탄약",
+        "투사체"
+      ],
+      "tags_en": [
+        "support",
+        "ammo",
+        "projectile"
+      ]
+    },
+    {
+      "name": "탄약 보존 II",
+      "tier": 4,
+      "score": 7,
+      "matched_tags": [
+        "투사체",
+        "탄약"
+      ],
+      "tags": [
+        "보조",
+        "탄약",
+        "투사체"
+      ],
+      "tags_en": [
+        "support",
+        "ammo",
+        "projectile"
+      ]
+    },
+    {
+      "name": "더블배럴 III",
+      "tier": 5,
+      "score": 7,
+      "matched_tags": [
+        "투사체",
+        "탄약"
+      ],
+      "tags": [
+        "보조",
+        "탄약",
+        "투사체"
+      ],
+      "tags_en": [
+        "support",
+        "ammo",
+        "projectile"
+      ]
+    },
+    {
+      "name": "요철 지대 II",
+      "tier": 5,
+      "score": 7,
+      "matched_tags": [
+        "지속시간",
+        "효과 범위"
+      ],
+      "tags": [
+        "보조",
+        "공격",
+        "효과 범위",
+        "근접",
+        "강타",
+        "지속시간"
+      ],
+      "tags_en": [
+        "support",
+        "attack",
+        "aoe",
+        "melee",
+        "slam",
+        "duration"
+      ]
+    },
+    {
+      "name": "탄약 보존 III",
+      "tier": 5,
+      "score": 7,
+      "matched_tags": [
+        "투사체",
+        "탄약"
+      ],
+      "tags": [
+        "보조",
+        "탄약",
+        "투사체"
+      ],
+      "tags_en": [
+        "support",
+        "ammo",
+        "projectile"
+      ]
+    },
+    {
+      "name": "구타하는 고함",
+      "tier": 1,
+      "score": 6,
+      "matched_tags": [
+        "효과 범위",
+        "발동"
+      ],
+      "tags": [
+        "보조",
+        "함성",
+        "효과 범위",
+        "발동",
+        "물리",
+        "청산"
+      ],
+      "tags_en": [
+        "support",
+        "warcry",
+        "aoe",
+        "trigger",
+        "physical",
+        "payoff"
+      ]
+    },
+    {
+      "name": "도이드리의 파멸",
+      "tier": 1,
+      "score": 6,
+      "matched_tags": [
+        "효과 범위",
+        "발동"
+      ],
+      "tags": [
+        "보조",
+        "혈통",
+        "주문",
+        "효과 범위",
+        "발동",
+        "카오스",
+        "저주",
+        "위해 요소"
+      ],
+      "tags_en": [
+        "support",
+        "lineage",
+        "spell",
+        "aoe",
+        "trigger",
+        "chaos",
+        "curse",
+        "hazard"
+      ]
+    }
+  ],
+  "Fire Meta Trigger Crit": [
+    {
+      "name": "원소 방출",
+      "tier": 3,
+      "score": 17,
+      "matched_tags": [
+        "발동",
+        "화염",
+        "효과 범위",
+        "주문",
+        "청산"
+      ],
+      "tags": [
+        "보조",
+        "주문",
+        "효과 범위",
+        "발동",
+        "번개",
+        "냉기",
+        "화염",
+        "청산"
+      ],
+      "tags_en": [
+        "support",
+        "spell",
+        "aoe",
+        "trigger",
+        "lightning",
+        "cold",
+        "fire",
+        "payoff"
+      ]
+    },
+    {
+      "name": "방어구 폭발",
+      "tier": 1,
+      "score": 15,
+      "matched_tags": [
+        "발동",
+        "화염",
+        "효과 범위",
+        "청산"
+      ],
+      "tags": [
+        "보조",
+        "공격",
+        "함성",
+        "효과 범위",
+        "발동",
+        "화염",
+        "청산"
+      ],
+      "tags_en": [
+        "support",
+        "attack",
+        "warcry",
+        "aoe",
+        "trigger",
+        "fire",
+        "payoff"
+      ]
+    },
+    {
+      "name": "하욕시의 뇌전",
+      "tier": 1,
+      "score": 15,
+      "matched_tags": [
+        "발동",
+        "화염",
+        "효과 범위",
+        "주문"
+      ],
+      "tags": [
+        "보조",
+        "혈통",
+        "주문",
+        "효과 범위",
+        "발동",
+        "물리",
+        "번개",
+        "냉기",
+        "화염",
+        "카오스",
+        "저주"
+      ],
+      "tags_en": [
+        "support",
+        "lineage",
+        "spell",
+        "aoe",
+        "trigger",
+        "physical",
+        "lightning",
+        "cold",
+        "fire",
+        "chaos",
+        "curse"
+      ]
+    },
+    {
+      "name": "마나 섬광",
+      "tier": 2,
+      "score": 15,
+      "matched_tags": [
+        "발동",
+        "화염",
+        "효과 범위",
+        "주문"
+      ],
+      "tags": [
+        "보조",
+        "주문",
+        "효과 범위",
+        "발동",
+        "화염"
+      ],
+      "tags_en": [
+        "support",
+        "spell",
+        "aoe",
+        "trigger",
+        "fire"
+      ]
+    },
+    {
+      "name": "불타는 죽음",
+      "tier": 2,
+      "score": 15,
+      "matched_tags": [
+        "발동",
+        "화염",
+        "효과 범위",
+        "주문"
+      ],
+      "tags": [
+        "보조",
+        "주문",
+        "효과 범위",
+        "발동",
+        "화염"
+      ],
+      "tags_en": [
+        "support",
+        "spell",
+        "aoe",
+        "trigger",
+        "fire"
+      ]
+    },
+    {
+      "name": "촉진시키는 원소",
+      "tier": 5,
+      "score": 15,
+      "matched_tags": [
+        "발동",
+        "화염",
+        "효과 범위",
+        "주문"
+      ],
+      "tags": [
+        "보조",
+        "주문",
+        "효과 범위",
+        "발동",
+        "번개",
+        "냉기",
+        "화염"
+      ],
+      "tags_en": [
+        "support",
+        "spell",
+        "aoe",
+        "trigger",
+        "lightning",
+        "cold",
+        "fire"
+      ]
+    },
+    {
+      "name": "지바콰의 분리",
+      "tier": 1,
+      "score": 13,
+      "matched_tags": [
+        "발동",
+        "화염",
+        "효과 범위"
+      ],
+      "tags": [
+        "보조",
+        "혈통",
+        "효과 범위",
+        "발동",
+        "화염"
+      ],
+      "tags_en": [
+        "support",
+        "lineage",
+        "aoe",
+        "trigger",
+        "fire"
+      ]
+    },
+    {
+      "name": "분화구",
+      "tier": 2,
+      "score": 13,
+      "matched_tags": [
+        "발동",
+        "화염",
+        "효과 범위"
+      ],
+      "tags": [
+        "보조",
+        "공격",
+        "효과 범위",
+        "근접",
+        "발동",
+        "화염",
+        "지속시간"
+      ],
+      "tags_en": [
+        "support",
+        "attack",
+        "aoe",
+        "melee",
+        "trigger",
+        "fire",
+        "duration"
+      ]
+    },
+    {
+      "name": "불난 집 부채질",
+      "tier": 2,
+      "score": 13,
+      "matched_tags": [
+        "발동",
+        "화염",
+        "효과 범위"
+      ],
+      "tags": [
+        "보조",
+        "공격",
+        "효과 범위",
+        "발동",
+        "화염"
+      ],
+      "tags_en": [
+        "support",
+        "attack",
+        "aoe",
+        "trigger",
+        "fire"
+      ]
+    },
+    {
+      "name": "화산 분출",
+      "tier": 2,
+      "score": 13,
+      "matched_tags": [
+        "발동",
+        "화염",
+        "효과 범위"
+      ],
+      "tags": [
+        "보조",
+        "공격",
+        "효과 범위",
+        "근접",
+        "타격",
+        "투사체",
+        "발동",
+        "화염"
+      ],
+      "tags_en": [
+        "support",
+        "attack",
+        "aoe",
+        "melee",
+        "strike",
+        "projectile",
+        "trigger",
+        "fire"
+      ]
+    },
+    {
+      "name": "전자기력",
+      "tier": 3,
+      "score": 13,
+      "matched_tags": [
+        "발동",
+        "효과 범위",
+        "주문",
+        "청산"
+      ],
+      "tags": [
+        "보조",
+        "주문",
+        "효과 범위",
+        "발동",
+        "지속형",
+        "번개",
+        "청산"
+      ],
+      "tags_en": [
+        "support",
+        "spell",
+        "aoe",
+        "trigger",
+        "persistent",
+        "lightning",
+        "payoff"
+      ]
+    },
+    {
+      "name": "불난 집 부채질 II",
+      "tier": 4,
+      "score": 13,
+      "matched_tags": [
+        "발동",
+        "화염",
+        "효과 범위"
+      ],
+      "tags": [
+        "보조",
+        "공격",
+        "효과 범위",
+        "발동",
+        "화염"
+      ],
+      "tags_en": [
+        "support",
+        "attack",
+        "aoe",
+        "trigger",
+        "fire"
+      ]
+    },
+    {
+      "name": "용암 명문",
+      "tier": 4,
+      "score": 13,
+      "matched_tags": [
+        "발동",
+        "화염",
+        "효과 범위"
+      ],
+      "tags": [
+        "보조",
+        "효과 범위",
+        "발동",
+        "화염"
+      ],
+      "tags_en": [
+        "support",
+        "aoe",
+        "trigger",
+        "fire"
+      ]
+    },
+    {
+      "name": "구타하는 고함",
+      "tier": 1,
+      "score": 11,
+      "matched_tags": [
+        "발동",
+        "효과 범위",
+        "청산"
+      ],
+      "tags": [
+        "보조",
+        "함성",
+        "효과 범위",
+        "발동",
+        "물리",
+        "청산"
+      ],
+      "tags_en": [
+        "support",
+        "warcry",
+        "aoe",
+        "trigger",
+        "physical",
+        "payoff"
+      ]
+    },
+    {
+      "name": "도이드리의 파멸",
+      "tier": 1,
+      "score": 11,
+      "matched_tags": [
+        "발동",
+        "효과 범위",
+        "주문"
+      ],
+      "tags": [
+        "보조",
+        "혈통",
+        "주문",
+        "효과 범위",
+        "발동",
+        "카오스",
+        "저주",
+        "위해 요소"
+      ],
+      "tags_en": [
+        "support",
+        "lineage",
+        "spell",
+        "aoe",
+        "trigger",
+        "chaos",
+        "curse",
+        "hazard"
+      ]
+    },
+    {
+      "name": "앗지리의 부름",
+      "tier": 1,
+      "score": 11,
+      "matched_tags": [
+        "발동",
+        "효과 범위",
+        "주문"
+      ],
+      "tags": [
+        "보조",
+        "혈통",
+        "주문",
+        "효과 범위",
+        "발동"
+      ],
+      "tags_en": [
+        "support",
+        "lineage",
+        "spell",
+        "aoe",
+        "trigger"
+      ]
+    },
+    {
+      "name": "임박한 멸망",
+      "tier": 1,
+      "score": 11,
+      "matched_tags": [
+        "발동",
+        "효과 범위",
+        "주문"
+      ],
+      "tags": [
+        "보조",
+        "주문",
+        "효과 범위",
+        "발동",
+        "카오스"
+      ],
+      "tags_en": [
+        "support",
+        "spell",
+        "aoe",
+        "trigger",
+        "chaos"
+      ]
+    },
+    {
+      "name": "가속된 성장",
+      "tier": 2,
+      "score": 11,
+      "matched_tags": [
+        "발동",
+        "효과 범위",
+        "주문"
+      ],
+      "tags": [
+        "보조",
+        "주문",
+        "효과 범위",
+        "발동",
+        "식물"
+      ],
+      "tags_en": [
+        "support",
+        "spell",
+        "aoe",
+        "trigger",
+        "plant"
+      ]
+    },
+    {
+      "name": "정전기 감전",
+      "tier": 3,
+      "score": 11,
+      "matched_tags": [
+        "발동",
+        "효과 범위",
+        "주문"
+      ],
+      "tags": [
+        "보조",
+        "주문",
+        "효과 범위",
+        "발동",
+        "지속형",
+        "번개",
+        "지속시간"
+      ],
+      "tags_en": [
+        "support",
+        "spell",
+        "aoe",
+        "trigger",
+        "persistent",
+        "lightning",
+        "duration"
+      ]
+    },
+    {
+      "name": "가속된 성장 II",
+      "tier": 5,
+      "score": 11,
+      "matched_tags": [
+        "발동",
+        "효과 범위",
+        "주문"
+      ],
+      "tags": [
+        "보조",
+        "주문",
+        "효과 범위",
+        "발동",
+        "식물"
+      ],
+      "tags_en": [
+        "support",
+        "spell",
+        "aoe",
+        "trigger",
+        "plant"
+      ]
+    },
+    {
+      "name": "충전된 징표",
+      "tier": 5,
+      "score": 11,
+      "matched_tags": [
+        "발동",
+        "효과 범위",
+        "주문"
+      ],
+      "tags": [
+        "보조",
+        "주문",
+        "효과 범위",
+        "발동",
+        "징표",
+        "지속시간"
+      ],
+      "tags_en": [
+        "support",
+        "spell",
+        "aoe",
+        "trigger",
+        "mark",
+        "duration"
+      ]
+    },
+    {
+      "name": "독 포자",
+      "tier": 3,
+      "score": 10,
+      "matched_tags": [
+        "발동",
+        "효과 범위",
+        "버프"
+      ],
+      "tags": [
+        "보조",
+        "공격",
+        "버프",
+        "효과 범위",
+        "발동",
+        "물리",
+        "카오스",
+        "지속시간",
+        "식물"
+      ],
+      "tags_en": [
+        "support",
+        "attack",
+        "buff",
+        "aoe",
+        "trigger",
+        "physical",
+        "chaos",
+        "duration",
+        "plant"
+      ]
+    },
+    {
+      "name": "몽상가의 종소리",
+      "tier": 1,
+      "score": 9,
+      "matched_tags": [
+        "발동",
+        "효과 범위"
+      ],
+      "tags": [
+        "보조",
+        "혈통",
+        "공격",
+        "효과 범위",
+        "근접",
+        "발동",
+        "지속시간"
+      ],
+      "tags_en": [
+        "support",
+        "lineage",
+        "attack",
+        "aoe",
+        "melee",
+        "trigger",
+        "duration"
+      ]
+    },
+    {
+      "name": "엄습하는 오한",
+      "tier": 1,
+      "score": 9,
+      "matched_tags": [
+        "발동",
+        "효과 범위"
+      ],
+      "tags": [
+        "보조",
+        "효과 범위",
+        "발동",
+        "냉기"
+      ],
+      "tags_en": [
+        "support",
+        "aoe",
+        "trigger",
+        "cold"
+      ]
+    },
+    {
+      "name": "짓밟는 지대",
+      "tier": 1,
+      "score": 9,
+      "matched_tags": [
+        "발동",
+        "효과 범위"
+      ],
+      "tags": [
+        "보조",
+        "공격",
+        "효과 범위",
+        "발동"
+      ],
+      "tags_en": [
+        "support",
+        "attack",
+        "aoe",
+        "trigger"
+      ]
+    },
+    {
+      "name": "타호아의 보살핌",
+      "tier": 1,
+      "score": 9,
+      "matched_tags": [
+        "발동",
+        "효과 범위"
+      ],
+      "tags": [
+        "보조",
+        "혈통",
+        "토템",
+        "효과 범위",
+        "발동",
+        "물리"
+      ],
+      "tags_en": [
+        "support",
+        "lineage",
+        "totem",
+        "aoe",
+        "trigger",
+        "physical"
+      ]
+    },
+    {
+      "name": "뼈 파편",
+      "tier": 2,
+      "score": 9,
+      "matched_tags": [
+        "발동",
+        "효과 범위"
+      ],
+      "tags": [
+        "보조",
+        "효과 범위",
+        "발동",
+        "물리"
+      ],
+      "tags_en": [
+        "support",
+        "aoe",
+        "trigger",
+        "physical"
+      ]
+    },
+    {
+      "name": "얼어붙은 악의",
+      "tier": 2,
+      "score": 9,
+      "matched_tags": [
+        "발동",
+        "효과 범위"
+      ],
+      "tags": [
+        "보조",
+        "효과 범위",
+        "투사체",
+        "발동",
+        "냉기"
+      ],
+      "tags_en": [
+        "support",
+        "aoe",
+        "projectile",
+        "trigger",
+        "cold"
+      ]
+    },
+    {
+      "name": "터져 나오는 역병",
+      "tier": 2,
+      "score": 9,
+      "matched_tags": [
+        "발동",
+        "효과 범위"
+      ],
+      "tags": [
+        "보조",
+        "효과 범위",
+        "발동",
+        "물리",
+        "카오스"
+      ],
+      "tags_en": [
+        "support",
+        "aoe",
+        "trigger",
+        "physical",
+        "chaos"
+      ]
+    },
+    {
+      "name": "가시 격발",
+      "tier": 3,
+      "score": 9,
+      "matched_tags": [
+        "발동",
+        "효과 범위"
+      ],
+      "tags": [
+        "보조",
+        "공격",
+        "효과 범위",
+        "근접",
+        "발동",
+        "물리"
+      ],
+      "tags_en": [
+        "support",
+        "attack",
+        "aoe",
+        "melee",
+        "trigger",
+        "physical"
+      ]
+    }
+  ],
+  "Shapeshift Trigger Duration": [
+    {
+      "name": "몽상가의 종소리",
+      "tier": 1,
+      "score": 13,
+      "matched_tags": [
+        "발동",
+        "지속시간",
+        "근접",
+        "공격"
+      ],
+      "tags": [
+        "보조",
+        "혈통",
+        "공격",
+        "효과 범위",
+        "근접",
+        "발동",
+        "지속시간"
+      ],
+      "tags_en": [
+        "support",
+        "lineage",
+        "attack",
+        "aoe",
+        "melee",
+        "trigger",
+        "duration"
+      ]
+    },
+    {
+      "name": "분화구",
+      "tier": 2,
+      "score": 13,
+      "matched_tags": [
+        "발동",
+        "지속시간",
+        "근접",
+        "공격"
+      ],
+      "tags": [
+        "보조",
+        "공격",
+        "효과 범위",
+        "근접",
+        "발동",
+        "화염",
+        "지속시간"
+      ],
+      "tags_en": [
+        "support",
+        "attack",
+        "aoe",
+        "melee",
+        "trigger",
+        "fire",
+        "duration"
+      ]
+    },
+    {
+      "name": "독 포자",
+      "tier": 3,
+      "score": 13,
+      "matched_tags": [
+        "발동",
+        "지속시간",
+        "버프",
+        "공격"
+      ],
+      "tags": [
+        "보조",
+        "공격",
+        "버프",
+        "효과 범위",
+        "발동",
+        "물리",
+        "카오스",
+        "지속시간",
+        "식물"
+      ],
+      "tags_en": [
+        "support",
+        "attack",
+        "buff",
+        "aoe",
+        "trigger",
+        "physical",
+        "chaos",
+        "duration",
+        "plant"
+      ]
+    },
+    {
+      "name": "마름쇠",
+      "tier": 3,
+      "score": 11,
+      "matched_tags": [
+        "발동",
+        "지속시간",
+        "공격"
+      ],
+      "tags": [
+        "보조",
+        "공격",
+        "효과 범위",
+        "투사체",
+        "발동",
+        "지속시간",
+        "위해 요소"
+      ],
+      "tags_en": [
+        "support",
+        "attack",
+        "aoe",
+        "projectile",
+        "trigger",
+        "duration",
+        "hazard"
+      ]
+    },
+    {
+      "name": "바타이르의 복수",
+      "tier": 1,
+      "score": 10,
+      "matched_tags": [
+        "지속시간",
+        "냉기",
+        "공격"
+      ],
+      "tags": [
+        "보조",
+        "공격",
+        "함성",
+        "냉기",
+        "지속시간"
+      ],
+      "tags_en": [
+        "support",
+        "attack",
+        "warcry",
+        "cold",
+        "duration"
+      ]
+    },
+    {
+      "name": "얼음 쐐기 I",
+      "tier": 1,
+      "score": 10,
+      "matched_tags": [
+        "지속시간",
+        "냉기",
+        "공격"
+      ],
+      "tags": [
+        "보조",
+        "공격",
+        "함성",
+        "냉기",
+        "지속시간"
+      ],
+      "tags_en": [
+        "support",
+        "attack",
+        "warcry",
+        "cold",
+        "duration"
+      ]
+    },
+    {
+      "name": "얼음 쐐기 II",
+      "tier": 3,
+      "score": 10,
+      "matched_tags": [
+        "지속시간",
+        "냉기",
+        "공격"
+      ],
+      "tags": [
+        "보조",
+        "공격",
+        "함성",
+        "냉기",
+        "지속시간"
+      ],
+      "tags_en": [
+        "support",
+        "attack",
+        "warcry",
+        "cold",
+        "duration"
+      ]
+    },
+    {
+      "name": "달리는 돌 I",
+      "tier": 2,
+      "score": 9,
+      "matched_tags": [
+        "발동",
+        "지속시간"
+      ],
+      "tags": [
+        "보조",
+        "소환수",
+        "발동",
+        "물리",
+        "지속시간"
+      ],
+      "tags_en": [
+        "support",
+        "minion",
+        "trigger",
+        "physical",
+        "duration"
+      ]
+    },
+    {
+      "name": "살아 있는 번개",
+      "tier": 2,
+      "score": 9,
+      "matched_tags": [
+        "발동",
+        "지속시간"
+      ],
+      "tags": [
+        "보조",
+        "소환수",
+        "발동",
+        "번개",
+        "지속시간"
+      ],
+      "tags_en": [
+        "support",
+        "minion",
+        "trigger",
+        "lightning",
+        "duration"
+      ]
+    },
+    {
+      "name": "요철 지대 I",
+      "tier": 2,
+      "score": 9,
+      "matched_tags": [
+        "지속시간",
+        "근접",
+        "공격"
+      ],
+      "tags": [
+        "보조",
+        "공격",
+        "효과 범위",
+        "근접",
+        "강타",
+        "지속시간"
+      ],
+      "tags_en": [
+        "support",
+        "attack",
+        "aoe",
+        "melee",
+        "slam",
+        "duration"
+      ]
+    },
+    {
+      "name": "화산 분출",
+      "tier": 2,
+      "score": 9,
+      "matched_tags": [
+        "발동",
+        "근접",
+        "공격"
+      ],
+      "tags": [
+        "보조",
+        "공격",
+        "효과 범위",
+        "근접",
+        "타격",
+        "투사체",
+        "발동",
+        "화염"
+      ],
+      "tags_en": [
+        "support",
+        "attack",
+        "aoe",
+        "melee",
+        "strike",
+        "projectile",
+        "trigger",
+        "fire"
+      ]
+    },
+    {
+      "name": "가시 격발",
+      "tier": 3,
+      "score": 9,
+      "matched_tags": [
+        "발동",
+        "근접",
+        "공격"
+      ],
+      "tags": [
+        "보조",
+        "공격",
+        "효과 범위",
+        "근접",
+        "발동",
+        "물리"
+      ],
+      "tags_en": [
+        "support",
+        "attack",
+        "aoe",
+        "melee",
+        "trigger",
+        "physical"
+      ]
+    },
+    {
+      "name": "뜯기",
+      "tier": 3,
+      "score": 9,
+      "matched_tags": [
+        "지속시간",
+        "근접",
+        "공격"
+      ],
+      "tags": [
+        "보조",
+        "공격",
+        "근접",
+        "물리",
+        "지속시간",
+        "잔류물"
+      ],
+      "tags_en": [
+        "support",
+        "attack",
+        "melee",
+        "physical",
+        "duration",
+        "remnant"
+      ]
+    },
+    {
+      "name": "정전기 감전",
+      "tier": 3,
+      "score": 9,
+      "matched_tags": [
+        "발동",
+        "지속시간"
+      ],
+      "tags": [
+        "보조",
+        "주문",
+        "효과 범위",
+        "발동",
+        "지속형",
+        "번개",
+        "지속시간"
+      ],
+      "tags_en": [
+        "support",
+        "spell",
+        "aoe",
+        "trigger",
+        "persistent",
+        "lightning",
+        "duration"
+      ]
+    },
+    {
+      "name": "달리는 돌 II",
+      "tier": 4,
+      "score": 9,
+      "matched_tags": [
+        "발동",
+        "지속시간"
+      ],
+      "tags": [
+        "보조",
+        "소환수",
+        "발동",
+        "물리",
+        "지속시간"
+      ],
+      "tags_en": [
+        "support",
+        "minion",
+        "trigger",
+        "physical",
+        "duration"
+      ]
+    },
+    {
+      "name": "살아 있는 번개 II",
+      "tier": 4,
+      "score": 9,
+      "matched_tags": [
+        "발동",
+        "지속시간"
+      ],
+      "tags": [
+        "보조",
+        "소환수",
+        "발동",
+        "번개",
+        "지속시간"
+      ],
+      "tags_en": [
+        "support",
+        "minion",
+        "trigger",
+        "lightning",
+        "duration"
+      ]
+    },
+    {
+      "name": "가시나무 강타",
+      "tier": 5,
+      "score": 9,
+      "matched_tags": [
+        "발동",
+        "근접",
+        "공격"
+      ],
+      "tags": [
+        "보조",
+        "공격",
+        "효과 범위",
+        "근접",
+        "강타",
+        "발동",
+        "물리",
+        "위해 요소",
+        "식물"
+      ],
+      "tags_en": [
+        "support",
+        "attack",
+        "aoe",
+        "melee",
+        "slam",
+        "trigger",
+        "physical",
+        "hazard",
+        "plant"
+      ]
+    },
+    {
+      "name": "요철 지대 II",
+      "tier": 5,
+      "score": 9,
+      "matched_tags": [
+        "지속시간",
+        "근접",
+        "공격"
+      ],
+      "tags": [
+        "보조",
+        "공격",
+        "효과 범위",
+        "근접",
+        "강타",
+        "지속시간"
+      ],
+      "tags_en": [
+        "support",
+        "attack",
+        "aoe",
+        "melee",
+        "slam",
+        "duration"
+      ]
+    },
+    {
+      "name": "충전된 징표",
+      "tier": 5,
+      "score": 9,
+      "matched_tags": [
+        "발동",
+        "지속시간"
+      ],
+      "tags": [
+        "보조",
+        "주문",
+        "효과 범위",
+        "발동",
+        "징표",
+        "지속시간"
+      ],
+      "tags_en": [
+        "support",
+        "spell",
+        "aoe",
+        "trigger",
+        "mark",
+        "duration"
+      ]
+    },
+    {
+      "name": "엄습하는 오한",
+      "tier": 1,
+      "score": 8,
+      "matched_tags": [
+        "발동",
+        "냉기"
+      ],
+      "tags": [
+        "보조",
+        "효과 범위",
+        "발동",
+        "냉기"
+      ],
+      "tags_en": [
+        "support",
+        "aoe",
+        "trigger",
+        "cold"
+      ]
+    },
+    {
+      "name": "하욕시의 뇌전",
+      "tier": 1,
+      "score": 8,
+      "matched_tags": [
+        "발동",
+        "냉기"
+      ],
+      "tags": [
+        "보조",
+        "혈통",
+        "주문",
+        "효과 범위",
+        "발동",
+        "물리",
+        "번개",
+        "냉기",
+        "화염",
+        "카오스",
+        "저주"
+      ],
+      "tags_en": [
+        "support",
+        "lineage",
+        "spell",
+        "aoe",
+        "trigger",
+        "physical",
+        "lightning",
+        "cold",
+        "fire",
+        "chaos",
+        "curse"
+      ]
+    },
+    {
+      "name": "헬브림의 가죽",
+      "tier": 1,
+      "score": 8,
+      "matched_tags": [
+        "형태 변환",
+        "버프"
+      ],
+      "tags": [
+        "보조",
+        "혈통",
+        "형태 변환",
+        "버프"
+      ],
+      "tags_en": [
+        "support",
+        "lineage",
+        "shapeshift",
+        "buff"
+      ]
+    },
+    {
+      "name": "얼어붙은 악의",
+      "tier": 2,
+      "score": 8,
+      "matched_tags": [
+        "발동",
+        "냉기"
+      ],
+      "tags": [
+        "보조",
+        "효과 범위",
+        "투사체",
+        "발동",
+        "냉기"
+      ],
+      "tags_en": [
+        "support",
+        "aoe",
+        "projectile",
+        "trigger",
+        "cold"
+      ]
+    },
+    {
+      "name": "원소 방출",
+      "tier": 3,
+      "score": 8,
+      "matched_tags": [
+        "발동",
+        "냉기"
+      ],
+      "tags": [
+        "보조",
+        "주문",
+        "효과 범위",
+        "발동",
+        "번개",
+        "냉기",
+        "화염",
+        "청산"
+      ],
+      "tags_en": [
+        "support",
+        "spell",
+        "aoe",
+        "trigger",
+        "lightning",
+        "cold",
+        "fire",
+        "payoff"
+      ]
+    },
+    {
+      "name": "촉진시키는 원소",
+      "tier": 5,
+      "score": 8,
+      "matched_tags": [
+        "발동",
+        "냉기"
+      ],
+      "tags": [
+        "보조",
+        "주문",
+        "효과 범위",
+        "발동",
+        "번개",
+        "냉기",
+        "화염"
+      ],
+      "tags_en": [
+        "support",
+        "spell",
+        "aoe",
+        "trigger",
+        "lightning",
+        "cold",
+        "fire"
+      ]
+    },
+    {
+      "name": "방어구 폭발",
+      "tier": 1,
+      "score": 7,
+      "matched_tags": [
+        "발동",
+        "공격"
+      ],
+      "tags": [
+        "보조",
+        "공격",
+        "함성",
+        "효과 범위",
+        "발동",
+        "화염",
+        "청산"
+      ],
+      "tags_en": [
+        "support",
+        "attack",
+        "warcry",
+        "aoe",
+        "trigger",
+        "fire",
+        "payoff"
+      ]
+    },
+    {
+      "name": "살인의 전율",
+      "tier": 1,
+      "score": 7,
+      "matched_tags": [
+        "지속시간",
+        "공격"
+      ],
+      "tags": [
+        "보조",
+        "공격",
+        "번개",
+        "지속시간"
+      ],
+      "tags_en": [
+        "support",
+        "attack",
+        "lightning",
+        "duration"
+      ]
+    },
+    {
+      "name": "자극",
+      "tier": 1,
+      "score": 7,
+      "matched_tags": [
+        "지속시간",
+        "공격"
+      ],
+      "tags": [
+        "보조",
+        "공격",
+        "번개",
+        "지속시간"
+      ],
+      "tags_en": [
+        "support",
+        "attack",
+        "lightning",
+        "duration"
+      ]
+    },
+    {
+      "name": "짓밟는 지대",
+      "tier": 1,
+      "score": 7,
+      "matched_tags": [
+        "발동",
+        "공격"
+      ],
+      "tags": [
+        "보조",
+        "공격",
+        "효과 범위",
+        "발동"
+      ],
+      "tags_en": [
+        "support",
+        "attack",
+        "aoe",
+        "trigger"
+      ]
+    },
+    {
+      "name": "불난 집 부채질",
+      "tier": 2,
+      "score": 7,
+      "matched_tags": [
+        "발동",
+        "공격"
+      ],
+      "tags": [
+        "보조",
+        "공격",
+        "효과 범위",
+        "발동",
+        "화염"
+      ],
+      "tags_en": [
+        "support",
+        "attack",
+        "aoe",
+        "trigger",
+        "fire"
+      ]
+    }
+  ]
+}

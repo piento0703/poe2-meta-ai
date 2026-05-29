@@ -1,0 +1,432 @@
+{
+  "aoe__attack": {
+    "source": "aoe",
+    "target": "attack",
+    "weight": 87
+  },
+  "aoe__duration": {
+    "source": "aoe",
+    "target": "duration",
+    "weight": 40
+  },
+  "aoe__meta_energy": {
+    "source": "aoe",
+    "target": "meta_energy",
+    "weight": 4
+  },
+  "aoe__minion": {
+    "source": "aoe",
+    "target": "minion",
+    "weight": 1
+  },
+  "aoe__shapeshift": {
+    "source": "aoe",
+    "target": "shapeshift",
+    "weight": 20
+  },
+  "aoe__trigger": {
+    "source": "aoe",
+    "target": "trigger",
+    "weight": 13
+  },
+  "attack__duration": {
+    "source": "attack",
+    "target": "duration",
+    "weight": 22
+  },
+  "attack__meta_energy": {
+    "source": "attack",
+    "target": "meta_energy",
+    "weight": 2
+  },
+  "attack__minion": {
+    "source": "attack",
+    "target": "minion",
+    "weight": 1
+  },
+  "attack__shapeshift": {
+    "source": "attack",
+    "target": "shapeshift",
+    "weight": 18
+  },
+  "attack__trigger": {
+    "source": "attack",
+    "target": "trigger",
+    "weight": 9
+  },
+  "duration__meta_energy": {
+    "source": "duration",
+    "target": "meta_energy",
+    "weight": 4
+  },
+  "duration__minion": {
+    "source": "duration",
+    "target": "minion",
+    "weight": 3
+  },
+  "duration__shapeshift": {
+    "source": "duration",
+    "target": "shapeshift",
+    "weight": 7
+  },
+  "duration__trigger": {
+    "source": "duration",
+    "target": "trigger",
+    "weight": 9
+  },
+  "meta_energy__minion": {
+    "source": "meta_energy",
+    "target": "minion",
+    "weight": 1
+  },
+  "meta_energy__shapeshift": {
+    "source": "meta_energy",
+    "target": "shapeshift",
+    "weight": 2
+  },
+  "meta_energy__trigger": {
+    "source": "meta_energy",
+    "target": "trigger",
+    "weight": 8
+  },
+  "minion__shapeshift": {
+    "source": "minion",
+    "target": "shapeshift",
+    "weight": 2
+  },
+  "minion__trigger": {
+    "source": "minion",
+    "target": "trigger",
+    "weight": 2
+  },
+  "shapeshift__trigger": {
+    "source": "shapeshift",
+    "target": "trigger",
+    "weight": 4
+  },
+  "aoe__consume_charge": {
+    "source": "aoe",
+    "target": "consume_charge",
+    "weight": 1
+  },
+  "aoe__lightning": {
+    "source": "aoe",
+    "target": "lightning",
+    "weight": 16
+  },
+  "aoe__spell": {
+    "source": "aoe",
+    "target": "spell",
+    "weight": 15
+  },
+  "attack__consume_charge": {
+    "source": "attack",
+    "target": "consume_charge",
+    "weight": 1
+  },
+  "attack__lightning": {
+    "source": "attack",
+    "target": "lightning",
+    "weight": 13
+  },
+  "attack__spell": {
+    "source": "attack",
+    "target": "spell",
+    "weight": 1
+  },
+  "consume_charge__duration": {
+    "source": "consume_charge",
+    "target": "duration",
+    "weight": 1
+  },
+  "consume_charge__lightning": {
+    "source": "consume_charge",
+    "target": "lightning",
+    "weight": 1
+  },
+  "consume_charge__spell": {
+    "source": "consume_charge",
+    "target": "spell",
+    "weight": 1
+  },
+  "duration__lightning": {
+    "source": "duration",
+    "target": "lightning",
+    "weight": 9
+  },
+  "duration__spell": {
+    "source": "duration",
+    "target": "spell",
+    "weight": 16
+  },
+  "lightning__spell": {
+    "source": "lightning",
+    "target": "spell",
+    "weight": 6
+  },
+  "cold__fire": {
+    "source": "cold",
+    "target": "fire",
+    "weight": 10
+  },
+  "cold__lightning": {
+    "source": "cold",
+    "target": "lightning",
+    "weight": 9
+  },
+  "cold__meta_energy": {
+    "source": "cold",
+    "target": "meta_energy",
+    "weight": 1
+  },
+  "cold__trigger": {
+    "source": "cold",
+    "target": "trigger",
+    "weight": 9
+  },
+  "fire__lightning": {
+    "source": "fire",
+    "target": "lightning",
+    "weight": 9
+  },
+  "fire__meta_energy": {
+    "source": "fire",
+    "target": "meta_energy",
+    "weight": 2
+  },
+  "fire__trigger": {
+    "source": "fire",
+    "target": "trigger",
+    "weight": 10
+  },
+  "lightning__meta_energy": {
+    "source": "lightning",
+    "target": "meta_energy",
+    "weight": 1
+  },
+  "lightning__trigger": {
+    "source": "lightning",
+    "target": "trigger",
+    "weight": 5
+  },
+  "fire__spell": {
+    "source": "fire",
+    "target": "spell",
+    "weight": 7
+  },
+  "meta_energy__spell": {
+    "source": "meta_energy",
+    "target": "spell",
+    "weight": 2
+  },
+  "spell__trigger": {
+    "source": "spell",
+    "target": "trigger",
+    "weight": 5
+  },
+  "aoe__cold": {
+    "source": "aoe",
+    "target": "cold",
+    "weight": 23
+  },
+  "aoe__fire": {
+    "source": "aoe",
+    "target": "fire",
+    "weight": 22
+  },
+  "attack__cold": {
+    "source": "attack",
+    "target": "cold",
+    "weight": 17
+  },
+  "attack__fire": {
+    "source": "attack",
+    "target": "fire",
+    "weight": 15
+  },
+  "cold__duration": {
+    "source": "cold",
+    "target": "duration",
+    "weight": 10
+  },
+  "cold__spell": {
+    "source": "cold",
+    "target": "spell",
+    "weight": 5
+  },
+  "duration__fire": {
+    "source": "duration",
+    "target": "fire",
+    "weight": 12
+  },
+  "aoe__chaos": {
+    "source": "aoe",
+    "target": "chaos",
+    "weight": 3
+  },
+  "attack__chaos": {
+    "source": "attack",
+    "target": "chaos",
+    "weight": 2
+  },
+  "chaos__meta_energy": {
+    "source": "chaos",
+    "target": "meta_energy",
+    "weight": 1
+  },
+  "aoe__projectile": {
+    "source": "aoe",
+    "target": "projectile",
+    "weight": 35
+  },
+  "attack__projectile": {
+    "source": "attack",
+    "target": "projectile",
+    "weight": 36
+  },
+  "chaos__duration": {
+    "source": "chaos",
+    "target": "duration",
+    "weight": 3
+  },
+  "chaos__fire": {
+    "source": "chaos",
+    "target": "fire",
+    "weight": 2
+  },
+  "chaos__projectile": {
+    "source": "chaos",
+    "target": "projectile",
+    "weight": 1
+  },
+  "duration__projectile": {
+    "source": "duration",
+    "target": "projectile",
+    "weight": 11
+  },
+  "fire__projectile": {
+    "source": "fire",
+    "target": "projectile",
+    "weight": 14
+  },
+  "lightning__projectile": {
+    "source": "lightning",
+    "target": "projectile",
+    "weight": 8
+  },
+  "cold__shapeshift": {
+    "source": "cold",
+    "target": "shapeshift",
+    "weight": 4
+  },
+  "cold__projectile": {
+    "source": "cold",
+    "target": "projectile",
+    "weight": 7
+  },
+  "projectile__spell": {
+    "source": "projectile",
+    "target": "spell",
+    "weight": 2
+  },
+  "projectile__trigger": {
+    "source": "projectile",
+    "target": "trigger",
+    "weight": 2
+  },
+  "fire__shapeshift": {
+    "source": "fire",
+    "target": "shapeshift",
+    "weight": 3
+  },
+  "projectile__shapeshift": {
+    "source": "projectile",
+    "target": "shapeshift",
+    "weight": 3
+  },
+  "cold__physical": {
+    "source": "cold",
+    "target": "physical",
+    "weight": 1
+  },
+  "duration__physical": {
+    "source": "duration",
+    "target": "physical",
+    "weight": 12
+  },
+  "fire__physical": {
+    "source": "fire",
+    "target": "physical",
+    "weight": 1
+  },
+  "lightning__physical": {
+    "source": "lightning",
+    "target": "physical",
+    "weight": 1
+  },
+  "aoe__physical": {
+    "source": "aoe",
+    "target": "physical",
+    "weight": 14
+  },
+  "attack__physical": {
+    "source": "attack",
+    "target": "physical",
+    "weight": 10
+  },
+  "physical__projectile": {
+    "source": "physical",
+    "target": "projectile",
+    "weight": 5
+  },
+  "chaos__spell": {
+    "source": "chaos",
+    "target": "spell",
+    "weight": 1
+  },
+  "chaos__trigger": {
+    "source": "chaos",
+    "target": "trigger",
+    "weight": 1
+  },
+  "physical__spell": {
+    "source": "physical",
+    "target": "spell",
+    "weight": 5
+  },
+  "duration__reservation": {
+    "source": "duration",
+    "target": "reservation",
+    "weight": 1
+  },
+  "minion__reservation": {
+    "source": "minion",
+    "target": "reservation",
+    "weight": 1
+  },
+  "reservation__trigger": {
+    "source": "reservation",
+    "target": "trigger",
+    "weight": 1
+  },
+  "minion__physical": {
+    "source": "minion",
+    "target": "physical",
+    "weight": 2
+  },
+  "physical__shapeshift": {
+    "source": "physical",
+    "target": "shapeshift",
+    "weight": 1
+  },
+  "cold__minion": {
+    "source": "cold",
+    "target": "minion",
+    "weight": 1
+  },
+  "fire__minion": {
+    "source": "fire",
+    "target": "minion",
+    "weight": 3
+  }
+}
