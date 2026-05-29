@@ -216,3 +216,6 @@ __marimo__/
 
 # Streamlit
 .streamlit/secrets.toml
+
+# Generated passive progression output (can be large)
+data/meta/passive_progression_plans.json
