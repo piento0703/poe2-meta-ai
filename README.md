@@ -146,3 +146,45 @@ DPS 40% + interaction 20% + legality 20% + survivability 20%
 ```
 
 점수가 누락된 경우 해당 항목은 제외하고 남은 가중치만 안전하게 정규화합니다.
+
+## Leveling Planner MVP
+
+레벨링 단계는 최종 랭킹 상위 빌드에 대해 1~endgame 구간별 가이드 초안을 생성합니다.
+정확한 스킬 unlock level, quest reward, passive path, gear progression 데이터가 없는 경우 가짜 수치를 만들지 않고 `missing_data` / `TODO`로 표시합니다.
+
+```bash
+python scripts/generate_leveling_plans.py
+```
+
+입력:
+
+```text
+data/meta/final_ranked_builds.json
+data/skills/skills.json
+data/supports/supports.json
+data/passive/data.json
+```
+
+출력:
+
+```text
+data/meta/leveling_plans.json
+reports/leveling_guides.md
+```
+
+생성 레벨 구간:
+
+- `LV1~12`
+- `LV12~28`
+- `LV28~45`
+- `LV45~65`
+- `LV65+`
+
+포함 항목:
+
+- 추천 leveling skill / transition skill
+- stage별 support gems
+- stage별 passive priority
+- gear checkpoint
+- final build online 시점
+- missing data / TODO
