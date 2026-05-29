@@ -29,3 +29,37 @@ reports/passive_progression.md
 - passive node 이름/스탯 키워드 기반 notable/keystone 후보
 - transition timing
 - exact route/pathing이 없는 영역의 missing data / TODO
+
+## Build Package Engine MVP
+
+Build Package 단계는 최종 랭킹 빌드를 실제 플레이 가능한 패키지 형태로 조립하는 MVP입니다. 정확한 class/ascendancy, gem unlock level, support legality, weapon restriction 데이터가 없으면 가짜 확정값을 만들지 않고 TODO/missing data로 표시합니다.
+
+```bash
+python scripts/generate_build_packages.py
+```
+
+입력:
+
+```text
+data/meta/final_ranked_builds.json
+data/meta/leveling_plans.json
+data/meta/passive_progression_plans.json
+data/skills/skills.json
+data/supports/supports.json
+```
+
+출력:
+
+```text
+data/meta/build_packages.json
+reports/build_packages.md
+```
+
+포함 항목:
+
+- main / clear / boss / movement / aura / curse / utility / trigger / defensive setup
+- recommended support links
+- leveling transition setup / endgame setup
+- recommended class 및 ascendancy 후보 profile
+- stage별 gear / weapon priorities
+- campaign speed, survivability, single target vs mapping notes

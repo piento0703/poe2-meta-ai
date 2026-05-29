@@ -219,3 +219,6 @@ __marimo__/
 
 # Generated passive progression output (can be large)
 data/meta/passive_progression_plans.json
+
+# Generated build package output (can be large)
+data/meta/build_packages.json
