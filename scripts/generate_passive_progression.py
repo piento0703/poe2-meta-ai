@@ -146,6 +146,10 @@ def write_text(path: Path, text: str) -> None:
     path.write_text(text, encoding="utf-8")
 
 
+def missing_input_paths() -> list[Path]:
+    return [path for path in [FINAL_BUILDS_PATH, LEVELING_PLANS_PATH, PASSIVE_DATA_PATH] if not path.exists()]
+
+
 def text_blob(node: dict) -> str:
     parts = [str(node.get("name", ""))]
     parts.extend(str(stat) for stat in node.get("stats", []) if stat)
@@ -370,6 +374,7 @@ def render_candidate_lines(candidates: list[dict]) -> list[str]:
 
 
 def render_report(results: list[dict]) -> str:
+    missing_inputs = missing_input_paths()
     lines = [
         "# Passive Progression MVP",
         "",
@@ -390,9 +395,22 @@ def render_report(results: list[dict]) -> str:
         "- notable/keystone 후보는 passive node 이름/스탯 키워드 매칭 기반입니다.",
         "- 정확한 unlock timing, class start, ascendancy routing은 TODO입니다.",
         "",
-        f"## 요약: {len(results)}개 빌드 분석",
-        "",
     ]
+
+    if missing_inputs:
+        lines.extend(
+            [
+                "## Missing input / TODO",
+                "",
+                "아래 입력 파일이 없어 빌드별 패시브 진행 후보를 생성하지 못했습니다.",
+                "필요한 상위 파이프라인 산출물을 생성한 뒤 다시 실행하세요.",
+                "",
+            ]
+        )
+        lines.extend(f"- `{path.relative_to(ROOT)}`" for path in missing_inputs)
+        lines.append("")
+
+    lines.extend([f"## 요약: {len(results)}개 빌드 분석", ""])
 
     for result in results[:REPORT_BUILD_LIMIT]:
         lines.extend(
